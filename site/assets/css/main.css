@@ -76,3 +76,26 @@ dialog { border: 0; background: #fff; color: #111; }
   .mobile-menu a { padding: 15px 0; }
 }
 @media (max-width: 600px) { .lightbox { padding: 30px 12px; } }
+
+/* Breathe: preserve its gallery crops and measured responsive space. */
+.page-breathe .project-description a { text-decoration: underline; }
+.page-breathe .project-image img { aspect-ratio: 1450/1088; }
+.page-breathe .project-image:nth-child(3) img,
+.page-breathe .project-image:nth-child(6) img,
+.page-breathe .project-image:nth-child(8) img { aspect-ratio: 1450/1087; }
+.page-breathe .project-image:nth-child(5) img { aspect-ratio: 1450/1101; }
+@media (max-width: 1000px) {
+  .page-breathe .project { min-height: 4444.055px; }
+  .page-breathe .project-copy { min-height: 326.055px; }
+  .page-breathe .project-gallery { min-height: 4118px; padding-right: 139.015625px; }
+}
+@media (max-width: 750px) {
+  .page-breathe .project { min-height: 2875.672px; }
+  .page-breathe .project-copy { min-height: 420.672px; }
+  .page-breathe .project-gallery { min-height: 2455px; padding-right: 20px; }
+  .page-breathe .project-image img,
+  .page-breathe .project-image:nth-child(3) img,
+  .page-breathe .project-image:nth-child(6) img,
+  .page-breathe .project-image:nth-child(8) img { aspect-ratio: 320/240; }
+  .page-breathe .project-image:nth-child(5) img { aspect-ratio: 320/243; }
+}
