@@ -1,0 +1,2688 @@
+[
+  {
+    "source": "https://static.wixstatic.com/media/430132_9fc12db46ea047b0ad64d344f96be14b%7Emv2.png",
+    "local": "/assets/images/shared/73040134beafc359bbd9.png",
+    "bytes": 15805,
+    "original_local": "/assets/73040134beafc359bbd9.png",
+    "pages": [
+      "/",
+      "/01001001-00100000-01000100-01001111",
+      "/ads-named-desire",
+      "/aesthetics-under-the-microscope",
+      "/aphasia-describe-the-city-you-live-in",
+      "/artist-statement",
+      "/breathe",
+      "/dear-water",
+      "/film-pd-art-direction",
+      "/fullscreen-page",
+      "/hydrogen-balloon",
+      "/info",
+      "/maslows-hierarchy-of-needs",
+      "/mirage",
+      "/museum-guard-tutorial",
+      "/oblivio",
+      "/on-the-avant-garde-responses-and-how-an-artwork-can-stand-out",
+      "/on-the-distinctions-between-ai-works-and-art-works",
+      "/peace-and-peace",
+      "/pointillism",
+      "/projects",
+      "/random-thoughts",
+      "/song-of-a-lonely-bird",
+      "/song-of-a-lonely-bird-a-re-creation",
+      "/texts",
+      "/the-clock",
+      "/the-ninth-marriage"
+    ],
+    "project": "shared",
+    "font_families": [],
+    "content_type": "image/png",
+    "sha256": "777118a14b87e2ed38e92c28d220d9c081671f542b237a633b9f81f87044e5c4"
+  },
+  {
+    "source": "https://static.parastorage.com/fonts/v2/af36905f-3c92-4ef9-b0c1-f91432f16ac1/v1/avenir-lt-w05_35-light.woff2",
+    "local": "/assets/fonts/050d6b3d5e9a4d99c018.woff2",
+    "bytes": 24560,
+    "original_local": "/assets/050d6b3d5e9a4d99c018.woff2",
+    "pages": [
+      "/",
+      "/01001001-00100000-01000100-01001111",
+      "/ads-named-desire",
+      "/aesthetics-under-the-microscope",
+      "/aphasia-describe-the-city-you-live-in",
+      "/artist-statement",
+      "/breathe",
+      "/dear-water",
+      "/film-pd-art-direction",
+      "/fullscreen-page",
+      "/hydrogen-balloon",
+      "/info",
+      "/maslows-hierarchy-of-needs",
+      "/mirage",
+      "/museum-guard-tutorial",
+      "/oblivio",
+      "/on-the-avant-garde-responses-and-how-an-artwork-can-stand-out",
+      "/on-the-distinctions-between-ai-works-and-art-works",
+      "/peace-and-peace",
+      "/pointillism",
+      "/projects",
+      "/random-thoughts",
+      "/song-of-a-lonely-bird",
+      "/song-of-a-lonely-bird-a-re-creation",
+      "/texts",
+      "/the-clock",
+      "/the-ninth-marriage"
+    ],
+    "project": "shared",
+    "font_families": [
+      "avenir-lt-w01_35-light1475496"
+    ],
+    "content_type": "font/woff2",
+    "sha256": "8f0df435bfdc31c4ae406019c9d872754028b5ecb2125dc9322890f42af1a308"
+  },
+  {
+    "source": "https://static.parastorage.com/fonts/v2/af36905f-3c92-4ef9-b0c1-f91432f16ac1/v1/avenir-lt-w01_35-light1475496.woff2",
+    "local": "/assets/fonts/5582a9e94d609daf29cc.woff2",
+    "bytes": 17216,
+    "original_local": "/assets/5582a9e94d609daf29cc.woff2",
+    "pages": [
+      "/",
+      "/01001001-00100000-01000100-01001111",
+      "/ads-named-desire",
+      "/aesthetics-under-the-microscope",
+      "/aphasia-describe-the-city-you-live-in",
+      "/artist-statement",
+      "/breathe",
+      "/dear-water",
+      "/film-pd-art-direction",
+      "/fullscreen-page",
+      "/hydrogen-balloon",
+      "/info",
+      "/maslows-hierarchy-of-needs",
+      "/mirage",
+      "/museum-guard-tutorial",
+      "/oblivio",
+      "/on-the-avant-garde-responses-and-how-an-artwork-can-stand-out",
+      "/on-the-distinctions-between-ai-works-and-art-works",
+      "/peace-and-peace",
+      "/pointillism",
+      "/projects",
+      "/random-thoughts",
+      "/song-of-a-lonely-bird",
+      "/song-of-a-lonely-bird-a-re-creation",
+      "/texts",
+      "/the-clock",
+      "/the-ninth-marriage"
+    ],
+    "project": "shared",
+    "font_families": [
+      "avenir-lt-w01_35-light1475496"
+    ],
+    "content_type": "font/woff2",
+    "sha256": "0ddce0e617794fd30b60e5c829fe12b9d7eeba14e561e7d89da5fcaf2fe900c3"
+  },
+  {
+    "source": "https://static.parastorage.com/fonts/v2/eca8b0cd-45d8-43cf-aee7-ca462bc5497c/v1/din-next-w10-light.woff2",
+    "local": "/assets/fonts/9252183be1d488af8243.woff2",
+    "bytes": 15504,
+    "original_local": "/assets/9252183be1d488af8243.woff2",
+    "pages": [
+      "/",
+      "/01001001-00100000-01000100-01001111",
+      "/ads-named-desire",
+      "/aesthetics-under-the-microscope",
+      "/aphasia-describe-the-city-you-live-in",
+      "/artist-statement",
+      "/breathe",
+      "/dear-water",
+      "/film-pd-art-direction",
+      "/fullscreen-page",
+      "/hydrogen-balloon",
+      "/info",
+      "/maslows-hierarchy-of-needs",
+      "/mirage",
+      "/museum-guard-tutorial",
+      "/oblivio",
+      "/on-the-avant-garde-responses-and-how-an-artwork-can-stand-out",
+      "/on-the-distinctions-between-ai-works-and-art-works",
+      "/peace-and-peace",
+      "/pointillism",
+      "/projects",
+      "/random-thoughts",
+      "/song-of-a-lonely-bird",
+      "/song-of-a-lonely-bird-a-re-creation",
+      "/texts",
+      "/the-clock",
+      "/the-ninth-marriage"
+    ],
+    "project": "shared",
+    "font_families": [
+      "din-next-w01-light"
+    ],
+    "content_type": "font/woff2",
+    "sha256": "3bd3fee65e14af4c8c1bb0d129fab577a907fbc5086e041fdd05199c1a5f4d23"
+  },
+  {
+    "source": "https://static.parastorage.com/fonts/v2/eca8b0cd-45d8-43cf-aee7-ca462bc5497c/v1/din-next-w02-light.woff2",
+    "local": "/assets/fonts/7001cafef9b9ce627a98.woff2",
+    "bytes": 37024,
+    "original_local": "/assets/7001cafef9b9ce627a98.woff2",
+    "pages": [
+      "/",
+      "/01001001-00100000-01000100-01001111",
+      "/ads-named-desire",
+      "/aesthetics-under-the-microscope",
+      "/aphasia-describe-the-city-you-live-in",
+      "/artist-statement",
+      "/breathe",
+      "/dear-water",
+      "/film-pd-art-direction",
+      "/fullscreen-page",
+      "/hydrogen-balloon",
+      "/info",
+      "/maslows-hierarchy-of-needs",
+      "/mirage",
+      "/museum-guard-tutorial",
+      "/oblivio",
+      "/on-the-avant-garde-responses-and-how-an-artwork-can-stand-out",
+      "/on-the-distinctions-between-ai-works-and-art-works",
+      "/peace-and-peace",
+      "/pointillism",
+      "/projects",
+      "/random-thoughts",
+      "/song-of-a-lonely-bird",
+      "/song-of-a-lonely-bird-a-re-creation",
+      "/texts",
+      "/the-clock",
+      "/the-ninth-marriage"
+    ],
+    "project": "shared",
+    "font_families": [
+      "din-next-w01-light"
+    ],
+    "content_type": "font/woff2",
+    "sha256": "ebfb2353b529b5a4ff2920ea70d2ebc5ffd06402c1eb76f9fe2f055d9f679235"
+  },
+  {
+    "source": "https://static.parastorage.com/fonts/v2/eca8b0cd-45d8-43cf-aee7-ca462bc5497c/v1/din-next-w01-light.woff2",
+    "local": "/assets/fonts/328d7eb6d22b62994beb.woff2",
+    "bytes": 20988,
+    "original_local": "/assets/328d7eb6d22b62994beb.woff2",
+    "pages": [
+      "/",
+      "/01001001-00100000-01000100-01001111",
+      "/ads-named-desire",
+      "/aesthetics-under-the-microscope",
+      "/aphasia-describe-the-city-you-live-in",
+      "/artist-statement",
+      "/breathe",
+      "/dear-water",
+      "/film-pd-art-direction",
+      "/fullscreen-page",
+      "/hydrogen-balloon",
+      "/info",
+      "/maslows-hierarchy-of-needs",
+      "/mirage",
+      "/museum-guard-tutorial",
+      "/oblivio",
+      "/on-the-avant-garde-responses-and-how-an-artwork-can-stand-out",
+      "/on-the-distinctions-between-ai-works-and-art-works",
+      "/peace-and-peace",
+      "/pointillism",
+      "/projects",
+      "/random-thoughts",
+      "/song-of-a-lonely-bird",
+      "/song-of-a-lonely-bird-a-re-creation",
+      "/texts",
+      "/the-clock",
+      "/the-ninth-marriage"
+    ],
+    "project": "shared",
+    "font_families": [
+      "din-next-w01-light"
+    ],
+    "content_type": "font/woff2",
+    "sha256": "6156303f614ae366b8b64bcd9d5bae47e24fee316244d6dcd3e85f02d8bdfe7f"
+  },
+  {
+    "source": "https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/poppins/v21/pxiDyp8kv8JHgFVrJJLmy15VGdeOYktMqlap.woff2",
+    "local": "/assets/fonts/a3df2fb40c6be271b315.woff2",
+    "bytes": 5824,
+    "original_local": "/assets/a3df2fb40c6be271b315.woff2",
+    "pages": [
+      "/",
+      "/01001001-00100000-01000100-01001111",
+      "/ads-named-desire",
+      "/aesthetics-under-the-microscope",
+      "/aphasia-describe-the-city-you-live-in",
+      "/artist-statement",
+      "/breathe",
+      "/dear-water",
+      "/film-pd-art-direction",
+      "/fullscreen-page",
+      "/hydrogen-balloon",
+      "/info",
+      "/maslows-hierarchy-of-needs",
+      "/mirage",
+      "/museum-guard-tutorial",
+      "/oblivio",
+      "/on-the-avant-garde-responses-and-how-an-artwork-can-stand-out",
+      "/on-the-distinctions-between-ai-works-and-art-works",
+      "/peace-and-peace",
+      "/pointillism",
+      "/projects",
+      "/random-thoughts",
+      "/song-of-a-lonely-bird",
+      "/song-of-a-lonely-bird-a-re-creation",
+      "/texts",
+      "/the-clock",
+      "/the-ninth-marriage"
+    ],
+    "project": "shared",
+    "font_families": [
+      "poppins"
+    ],
+    "content_type": "font/woff2",
+    "sha256": "36b9a194bedbaa4f6d47a076423812a8746f135f779badb89e5bca8a973e8bdf"
+  },
+  {
+    "source": "https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/poppins/v21/pxiGyp8kv8JHgFVrJJLufntAOvWDSHFF.woff2",
+    "local": "/assets/fonts/b6165ef682446d7f62c2.woff2",
+    "bytes": 5900,
+    "original_local": "/assets/b6165ef682446d7f62c2.woff2",
+    "pages": [
+      "/",
+      "/01001001-00100000-01000100-01001111",
+      "/ads-named-desire",
+      "/aesthetics-under-the-microscope",
+      "/aphasia-describe-the-city-you-live-in",
+      "/artist-statement",
+      "/breathe",
+      "/dear-water",
+      "/film-pd-art-direction",
+      "/fullscreen-page",
+      "/hydrogen-balloon",
+      "/info",
+      "/maslows-hierarchy-of-needs",
+      "/mirage",
+      "/museum-guard-tutorial",
+      "/oblivio",
+      "/on-the-avant-garde-responses-and-how-an-artwork-can-stand-out",
+      "/on-the-distinctions-between-ai-works-and-art-works",
+      "/peace-and-peace",
+      "/pointillism",
+      "/projects",
+      "/random-thoughts",
+      "/song-of-a-lonely-bird",
+      "/song-of-a-lonely-bird-a-re-creation",
+      "/texts",
+      "/the-clock",
+      "/the-ninth-marriage"
+    ],
+    "project": "shared",
+    "font_families": [
+      "poppins"
+    ],
+    "content_type": "font/woff2",
+    "sha256": "a083458639fb169475f8f2e943a0ba93a0e51a46c79786a128bf9c6b1d36cd96"
+  },
+  {
+    "source": "https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/poppins/v21/pxiEyp8kv8JHgFVrJJnecnFHGPezSQ.woff2",
+    "local": "/assets/fonts/46ddeb66edf625fa4f1d.woff2",
+    "bytes": 5532,
+    "original_local": "/assets/46ddeb66edf625fa4f1d.woff2",
+    "pages": [
+      "/",
+      "/01001001-00100000-01000100-01001111",
+      "/ads-named-desire",
+      "/aesthetics-under-the-microscope",
+      "/aphasia-describe-the-city-you-live-in",
+      "/artist-statement",
+      "/breathe",
+      "/dear-water",
+      "/film-pd-art-direction",
+      "/fullscreen-page",
+      "/hydrogen-balloon",
+      "/info",
+      "/maslows-hierarchy-of-needs",
+      "/mirage",
+      "/museum-guard-tutorial",
+      "/oblivio",
+      "/on-the-avant-garde-responses-and-how-an-artwork-can-stand-out",
+      "/on-the-distinctions-between-ai-works-and-art-works",
+      "/peace-and-peace",
+      "/pointillism",
+      "/projects",
+      "/random-thoughts",
+      "/song-of-a-lonely-bird",
+      "/song-of-a-lonely-bird-a-re-creation",
+      "/texts",
+      "/the-clock",
+      "/the-ninth-marriage"
+    ],
+    "project": "shared",
+    "font_families": [
+      "poppins"
+    ],
+    "content_type": "font/woff2",
+    "sha256": "ae72a2e827d27f81fd78a0c40dc93fd4c2b85fde419e308f1b387aaa208dad22"
+  },
+  {
+    "source": "https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/poppins/v21/pxiByp8kv8JHgFVrLCz7Z1JlFd2JQEl8qw.woff2",
+    "local": "/assets/fonts/2fca2a872bd9a9a23e17.woff2",
+    "bytes": 5388,
+    "original_local": "/assets/2fca2a872bd9a9a23e17.woff2",
+    "pages": [
+      "/",
+      "/01001001-00100000-01000100-01001111",
+      "/ads-named-desire",
+      "/aesthetics-under-the-microscope",
+      "/aphasia-describe-the-city-you-live-in",
+      "/artist-statement",
+      "/breathe",
+      "/dear-water",
+      "/film-pd-art-direction",
+      "/fullscreen-page",
+      "/hydrogen-balloon",
+      "/info",
+      "/maslows-hierarchy-of-needs",
+      "/mirage",
+      "/museum-guard-tutorial",
+      "/oblivio",
+      "/on-the-avant-garde-responses-and-how-an-artwork-can-stand-out",
+      "/on-the-distinctions-between-ai-works-and-art-works",
+      "/peace-and-peace",
+      "/pointillism",
+      "/projects",
+      "/random-thoughts",
+      "/song-of-a-lonely-bird",
+      "/song-of-a-lonely-bird-a-re-creation",
+      "/texts",
+      "/the-clock",
+      "/the-ninth-marriage"
+    ],
+    "project": "shared",
+    "font_families": [
+      "poppins"
+    ],
+    "content_type": "font/woff2",
+    "sha256": "44f348aca6a78096d424a5130c3ec1d946529d27011db274e49153f9d750d163"
+  },
+  {
+    "source": "https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/poppins/v21/pxiDyp8kv8JHgFVrJJLmy15VF9eOYktMqg.woff2",
+    "local": "/assets/fonts/f48c4f4ca5cb876c7554.woff2",
+    "bytes": 8628,
+    "original_local": "/assets/f48c4f4ca5cb876c7554.woff2",
+    "pages": [
+      "/",
+      "/01001001-00100000-01000100-01001111",
+      "/ads-named-desire",
+      "/aesthetics-under-the-microscope",
+      "/aphasia-describe-the-city-you-live-in",
+      "/artist-statement",
+      "/breathe",
+      "/dear-water",
+      "/film-pd-art-direction",
+      "/fullscreen-page",
+      "/hydrogen-balloon",
+      "/info",
+      "/maslows-hierarchy-of-needs",
+      "/mirage",
+      "/museum-guard-tutorial",
+      "/oblivio",
+      "/on-the-avant-garde-responses-and-how-an-artwork-can-stand-out",
+      "/on-the-distinctions-between-ai-works-and-art-works",
+      "/peace-and-peace",
+      "/pointillism",
+      "/projects",
+      "/random-thoughts",
+      "/song-of-a-lonely-bird",
+      "/song-of-a-lonely-bird-a-re-creation",
+      "/texts",
+      "/the-clock",
+      "/the-ninth-marriage"
+    ],
+    "project": "shared",
+    "font_families": [
+      "poppins"
+    ],
+    "content_type": "font/woff2",
+    "sha256": "54c799453c6f2cc895ca6b433513a87b131ad842d744bd298b1b13a7d1b86705"
+  },
+  {
+    "source": "https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/poppins/v21/pxiGyp8kv8JHgFVrJJLucHtAOvWDSA.woff2",
+    "local": "/assets/fonts/2c9d6bb3baf447c70822.woff2",
+    "bytes": 8676,
+    "original_local": "/assets/2c9d6bb3baf447c70822.woff2",
+    "pages": [
+      "/",
+      "/01001001-00100000-01000100-01001111",
+      "/ads-named-desire",
+      "/aesthetics-under-the-microscope",
+      "/aphasia-describe-the-city-you-live-in",
+      "/artist-statement",
+      "/breathe",
+      "/dear-water",
+      "/film-pd-art-direction",
+      "/fullscreen-page",
+      "/hydrogen-balloon",
+      "/info",
+      "/maslows-hierarchy-of-needs",
+      "/mirage",
+      "/museum-guard-tutorial",
+      "/oblivio",
+      "/on-the-avant-garde-responses-and-how-an-artwork-can-stand-out",
+      "/on-the-distinctions-between-ai-works-and-art-works",
+      "/peace-and-peace",
+      "/pointillism",
+      "/projects",
+      "/random-thoughts",
+      "/song-of-a-lonely-bird",
+      "/song-of-a-lonely-bird-a-re-creation",
+      "/texts",
+      "/the-clock",
+      "/the-ninth-marriage"
+    ],
+    "project": "shared",
+    "font_families": [
+      "poppins"
+    ],
+    "content_type": "font/woff2",
+    "sha256": "4eaac5c96bd47f9fd1f09c91f0b27b5a93346ed7e94de849c835f2116cea3e1d"
+  },
+  {
+    "source": "https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/poppins/v21/pxiEyp8kv8JHgFVrJJfecnFHGPc.woff2",
+    "local": "/assets/fonts/80bd3fa1b0177a6c46d4.woff2",
+    "bytes": 7900,
+    "original_local": "/assets/80bd3fa1b0177a6c46d4.woff2",
+    "pages": [
+      "/",
+      "/01001001-00100000-01000100-01001111",
+      "/ads-named-desire",
+      "/aesthetics-under-the-microscope",
+      "/aphasia-describe-the-city-you-live-in",
+      "/artist-statement",
+      "/breathe",
+      "/dear-water",
+      "/film-pd-art-direction",
+      "/fullscreen-page",
+      "/hydrogen-balloon",
+      "/info",
+      "/maslows-hierarchy-of-needs",
+      "/mirage",
+      "/museum-guard-tutorial",
+      "/oblivio",
+      "/on-the-avant-garde-responses-and-how-an-artwork-can-stand-out",
+      "/on-the-distinctions-between-ai-works-and-art-works",
+      "/peace-and-peace",
+      "/pointillism",
+      "/projects",
+      "/random-thoughts",
+      "/song-of-a-lonely-bird",
+      "/song-of-a-lonely-bird-a-re-creation",
+      "/texts",
+      "/the-clock",
+      "/the-ninth-marriage"
+    ],
+    "project": "shared",
+    "font_families": [
+      "poppins"
+    ],
+    "content_type": "font/woff2",
+    "sha256": "3dc5d0c52428fe1696264907a1054ebbaac07f8cbe45832c105f819c2ae397c0"
+  },
+  {
+    "source": "https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/poppins/v21/pxiByp8kv8JHgFVrLCz7Z1xlFd2JQEk.woff2",
+    "local": "/assets/fonts/48dfb838aaeb6cf2a5e4.woff2",
+    "bytes": 7848,
+    "original_local": "/assets/48dfb838aaeb6cf2a5e4.woff2",
+    "pages": [
+      "/",
+      "/01001001-00100000-01000100-01001111",
+      "/ads-named-desire",
+      "/aesthetics-under-the-microscope",
+      "/aphasia-describe-the-city-you-live-in",
+      "/artist-statement",
+      "/breathe",
+      "/dear-water",
+      "/film-pd-art-direction",
+      "/fullscreen-page",
+      "/hydrogen-balloon",
+      "/info",
+      "/maslows-hierarchy-of-needs",
+      "/mirage",
+      "/museum-guard-tutorial",
+      "/oblivio",
+      "/on-the-avant-garde-responses-and-how-an-artwork-can-stand-out",
+      "/on-the-distinctions-between-ai-works-and-art-works",
+      "/peace-and-peace",
+      "/pointillism",
+      "/projects",
+      "/random-thoughts",
+      "/song-of-a-lonely-bird",
+      "/song-of-a-lonely-bird-a-re-creation",
+      "/texts",
+      "/the-clock",
+      "/the-ninth-marriage"
+    ],
+    "project": "shared",
+    "font_families": [
+      "poppins"
+    ],
+    "content_type": "font/woff2",
+    "sha256": "197a3cbd7290c242c5c765268cdd69a9a39867fdc80cd13071f243a81c56fb76"
+  },
+  {
+    "source": "https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/poppins/v5/aDjpMND83pDErGXlVEr-Sfk_vArhqVIZ0nv9q090hN8.woff2",
+    "local": "/assets/fonts/535c8061da3d2052ad68.woff2",
+    "bytes": 10504,
+    "original_local": "/assets/535c8061da3d2052ad68.woff2",
+    "pages": [
+      "/",
+      "/01001001-00100000-01000100-01001111",
+      "/ads-named-desire",
+      "/aesthetics-under-the-microscope",
+      "/aphasia-describe-the-city-you-live-in",
+      "/artist-statement",
+      "/breathe",
+      "/dear-water",
+      "/film-pd-art-direction",
+      "/fullscreen-page",
+      "/hydrogen-balloon",
+      "/info",
+      "/maslows-hierarchy-of-needs",
+      "/mirage",
+      "/museum-guard-tutorial",
+      "/oblivio",
+      "/on-the-avant-garde-responses-and-how-an-artwork-can-stand-out",
+      "/on-the-distinctions-between-ai-works-and-art-works",
+      "/peace-and-peace",
+      "/pointillism",
+      "/projects",
+      "/random-thoughts",
+      "/song-of-a-lonely-bird",
+      "/song-of-a-lonely-bird-a-re-creation",
+      "/texts",
+      "/the-clock",
+      "/the-ninth-marriage"
+    ],
+    "project": "shared",
+    "font_families": [
+      "poppins-semibold"
+    ],
+    "content_type": "font/woff2",
+    "sha256": "f5decc210dbe7320771b5ddf86e95be8c6d74d09ac53ab756d4bebcca49c5d3f"
+  },
+  {
+    "source": "https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/poppins/v5/c4FPK8_hIFKoX59qcGwdChUOjZSKWg4xBWp_C_qQx0o.woff2",
+    "local": "/assets/fonts/e620ca959615875c1586.woff2",
+    "bytes": 12176,
+    "original_local": "/assets/e620ca959615875c1586.woff2",
+    "pages": [
+      "/",
+      "/01001001-00100000-01000100-01001111",
+      "/ads-named-desire",
+      "/aesthetics-under-the-microscope",
+      "/aphasia-describe-the-city-you-live-in",
+      "/artist-statement",
+      "/breathe",
+      "/dear-water",
+      "/film-pd-art-direction",
+      "/fullscreen-page",
+      "/hydrogen-balloon",
+      "/info",
+      "/maslows-hierarchy-of-needs",
+      "/mirage",
+      "/museum-guard-tutorial",
+      "/oblivio",
+      "/on-the-avant-garde-responses-and-how-an-artwork-can-stand-out",
+      "/on-the-distinctions-between-ai-works-and-art-works",
+      "/peace-and-peace",
+      "/pointillism",
+      "/projects",
+      "/random-thoughts",
+      "/song-of-a-lonely-bird",
+      "/song-of-a-lonely-bird-a-re-creation",
+      "/texts",
+      "/the-clock",
+      "/the-ninth-marriage"
+    ],
+    "project": "shared",
+    "font_families": [
+      "poppins-semibold"
+    ],
+    "content_type": "font/woff2",
+    "sha256": "5a74628f4bac2e86b98dd2da6d09aa84271894a68d3fbdf2f8569da5278e273a"
+  },
+  {
+    "source": "https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/poppins/v5/RbebACOccNN-5ixkDIVLjRUOjZSKWg4xBWp_C_qQx0o.woff2",
+    "local": "/assets/fonts/af999a22a5c607ef8081.woff2",
+    "bytes": 12256,
+    "original_local": "/assets/af999a22a5c607ef8081.woff2",
+    "pages": [
+      "/",
+      "/01001001-00100000-01000100-01001111",
+      "/ads-named-desire",
+      "/aesthetics-under-the-microscope",
+      "/aphasia-describe-the-city-you-live-in",
+      "/artist-statement",
+      "/breathe",
+      "/dear-water",
+      "/film-pd-art-direction",
+      "/fullscreen-page",
+      "/hydrogen-balloon",
+      "/info",
+      "/maslows-hierarchy-of-needs",
+      "/mirage",
+      "/museum-guard-tutorial",
+      "/oblivio",
+      "/on-the-avant-garde-responses-and-how-an-artwork-can-stand-out",
+      "/on-the-distinctions-between-ai-works-and-art-works",
+      "/peace-and-peace",
+      "/pointillism",
+      "/projects",
+      "/random-thoughts",
+      "/song-of-a-lonely-bird",
+      "/song-of-a-lonely-bird-a-re-creation",
+      "/texts",
+      "/the-clock",
+      "/the-ninth-marriage"
+    ],
+    "project": "shared",
+    "font_families": [
+      "poppins-semibold"
+    ],
+    "content_type": "font/woff2",
+    "sha256": "7554797917550379f4d842a5ab0280261035c880d7233264bf5d4e4ecbcac54e"
+  },
+  {
+    "source": "https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/poppins/v5/9VWMTeb5jtXkNoTv949Npfk_vArhqVIZ0nv9q090hN8.woff2",
+    "local": "/assets/fonts/f27324544bae49d76209.woff2",
+    "bytes": 10400,
+    "original_local": "/assets/f27324544bae49d76209.woff2",
+    "pages": [
+      "/",
+      "/01001001-00100000-01000100-01001111",
+      "/ads-named-desire",
+      "/aesthetics-under-the-microscope",
+      "/aphasia-describe-the-city-you-live-in",
+      "/artist-statement",
+      "/breathe",
+      "/dear-water",
+      "/film-pd-art-direction",
+      "/fullscreen-page",
+      "/hydrogen-balloon",
+      "/info",
+      "/maslows-hierarchy-of-needs",
+      "/mirage",
+      "/museum-guard-tutorial",
+      "/oblivio",
+      "/on-the-avant-garde-responses-and-how-an-artwork-can-stand-out",
+      "/on-the-distinctions-between-ai-works-and-art-works",
+      "/peace-and-peace",
+      "/pointillism",
+      "/projects",
+      "/random-thoughts",
+      "/song-of-a-lonely-bird",
+      "/song-of-a-lonely-bird-a-re-creation",
+      "/texts",
+      "/the-clock",
+      "/the-ninth-marriage"
+    ],
+    "project": "shared",
+    "font_families": [
+      "poppins-semibold"
+    ],
+    "content_type": "font/woff2",
+    "sha256": "5654b0e267ff835ebdb0b8f09e24b7a393bd0818b68d475e1729c3dd59af4f67"
+  },
+  {
+    "source": "https://static.parastorage.com/fonts/v2/74290729-59ae-4129-87d0-2eec3974dce1/v1/avenir-lt-w05_85-heavy.woff2",
+    "local": "/assets/fonts/7895fc9f4725ea8fd43f.woff2",
+    "bytes": 26744,
+    "original_local": "/assets/7895fc9f4725ea8fd43f.woff2",
+    "pages": [
+      "/",
+      "/01001001-00100000-01000100-01001111",
+      "/ads-named-desire",
+      "/aesthetics-under-the-microscope",
+      "/aphasia-describe-the-city-you-live-in",
+      "/artist-statement",
+      "/breathe",
+      "/dear-water",
+      "/film-pd-art-direction",
+      "/hydrogen-balloon",
+      "/info",
+      "/maslows-hierarchy-of-needs",
+      "/mirage",
+      "/museum-guard-tutorial",
+      "/oblivio",
+      "/on-the-avant-garde-responses-and-how-an-artwork-can-stand-out",
+      "/on-the-distinctions-between-ai-works-and-art-works",
+      "/peace-and-peace",
+      "/pointillism",
+      "/projects",
+      "/random-thoughts",
+      "/song-of-a-lonely-bird",
+      "/song-of-a-lonely-bird-a-re-creation",
+      "/texts",
+      "/the-clock",
+      "/the-ninth-marriage"
+    ],
+    "project": "shared",
+    "font_families": [
+      "avenir-lt-w01_85-heavy1475544"
+    ],
+    "content_type": "font/woff2",
+    "sha256": "60a711365e42e9442527a5a8d08ab37ad5da6144eb67cb13de8baaf5ba7e1f9e"
+  },
+  {
+    "source": "https://static.parastorage.com/fonts/v2/74290729-59ae-4129-87d0-2eec3974dce1/v1/avenir-lt-w01_85-heavy1475544.woff2",
+    "local": "/assets/fonts/5b2e517c96843c61f148.woff2",
+    "bytes": 17176,
+    "original_local": "/assets/5b2e517c96843c61f148.woff2",
+    "pages": [
+      "/",
+      "/01001001-00100000-01000100-01001111",
+      "/ads-named-desire",
+      "/aesthetics-under-the-microscope",
+      "/aphasia-describe-the-city-you-live-in",
+      "/artist-statement",
+      "/breathe",
+      "/dear-water",
+      "/film-pd-art-direction",
+      "/hydrogen-balloon",
+      "/info",
+      "/maslows-hierarchy-of-needs",
+      "/mirage",
+      "/museum-guard-tutorial",
+      "/oblivio",
+      "/on-the-avant-garde-responses-and-how-an-artwork-can-stand-out",
+      "/on-the-distinctions-between-ai-works-and-art-works",
+      "/peace-and-peace",
+      "/pointillism",
+      "/projects",
+      "/random-thoughts",
+      "/song-of-a-lonely-bird",
+      "/song-of-a-lonely-bird-a-re-creation",
+      "/texts",
+      "/the-clock",
+      "/the-ninth-marriage"
+    ],
+    "project": "shared",
+    "font_families": [
+      "avenir-lt-w01_85-heavy1475544"
+    ],
+    "content_type": "font/woff2",
+    "sha256": "9c9224b0743c9ae4c456fdb5a45303c1110253b1a88f6d143cedf2b4acb9032e"
+  },
+  {
+    "source": "https://static.parastorage.com/fonts/v2/2f12de04-5ca4-4ada-9e66-a958673b12b5/v1/helvetica-lt-w10-bold.woff2",
+    "local": "/assets/fonts/4fd1215436dc32f740ac.woff2",
+    "bytes": 23396,
+    "original_local": "/assets/4fd1215436dc32f740ac.woff2",
+    "pages": [
+      "/ads-named-desire",
+      "/aesthetics-under-the-microscope",
+      "/aphasia-describe-the-city-you-live-in",
+      "/breathe",
+      "/dear-water",
+      "/hydrogen-balloon",
+      "/maslows-hierarchy-of-needs",
+      "/mirage",
+      "/museum-guard-tutorial",
+      "/oblivio",
+      "/song-of-a-lonely-bird",
+      "/the-clock",
+      "/the-ninth-marriage"
+    ],
+    "project": "shared",
+    "font_families": [
+      "helvetica-w01-bold"
+    ],
+    "content_type": "font/woff2",
+    "sha256": "a6305695d13a88b1cadf73234625cbc31445e28d9e6e390544cedd2365030341"
+  },
+  {
+    "source": "https://static.parastorage.com/fonts/v2/2f12de04-5ca4-4ada-9e66-a958673b12b5/v1/helvetica-w02-bold.woff2",
+    "local": "/assets/fonts/7fe933283ba25bf8cab7.woff2",
+    "bytes": 35596,
+    "original_local": "/assets/7fe933283ba25bf8cab7.woff2",
+    "pages": [
+      "/ads-named-desire",
+      "/aesthetics-under-the-microscope",
+      "/aphasia-describe-the-city-you-live-in",
+      "/breathe",
+      "/dear-water",
+      "/hydrogen-balloon",
+      "/maslows-hierarchy-of-needs",
+      "/mirage",
+      "/museum-guard-tutorial",
+      "/oblivio",
+      "/song-of-a-lonely-bird",
+      "/the-clock",
+      "/the-ninth-marriage"
+    ],
+    "project": "shared",
+    "font_families": [
+      "helvetica-w01-bold"
+    ],
+    "content_type": "font/woff2",
+    "sha256": "c74f9e1c7455e9acb2463ac23e80f8109f296e0d512d0e57b4e2bf080c3a25f5"
+  },
+  {
+    "source": "https://static.parastorage.com/fonts/v2/2f12de04-5ca4-4ada-9e66-a958673b12b5/v1/helvetica-w01-bold.woff2",
+    "local": "/assets/fonts/4459fda0f363dd7c45f9.woff2",
+    "bytes": 28648,
+    "original_local": "/assets/4459fda0f363dd7c45f9.woff2",
+    "pages": [
+      "/ads-named-desire",
+      "/aesthetics-under-the-microscope",
+      "/aphasia-describe-the-city-you-live-in",
+      "/breathe",
+      "/dear-water",
+      "/hydrogen-balloon",
+      "/maslows-hierarchy-of-needs",
+      "/mirage",
+      "/museum-guard-tutorial",
+      "/oblivio",
+      "/song-of-a-lonely-bird",
+      "/the-clock",
+      "/the-ninth-marriage"
+    ],
+    "project": "shared",
+    "font_families": [
+      "helvetica-w01-bold"
+    ],
+    "content_type": "font/woff2",
+    "sha256": "22c148080695837bcba284e8069146bd93e94aaa8e8ec4cbe43e0cfe8224527e"
+  },
+  {
+    "source": "https://static.parastorage.com/fonts/v2/8eac109b-0fa9-42bf-a305-43e471e23779/v1/helvetica-w02-light.woff2",
+    "local": "/assets/fonts/02558e81e565fbe1e699.woff2",
+    "bytes": 22492,
+    "original_local": "/assets/02558e81e565fbe1e699.woff2",
+    "pages": [
+      "/",
+      "/01001001-00100000-01000100-01001111",
+      "/ads-named-desire",
+      "/aesthetics-under-the-microscope",
+      "/aphasia-describe-the-city-you-live-in",
+      "/artist-statement",
+      "/breathe",
+      "/dear-water",
+      "/film-pd-art-direction",
+      "/hydrogen-balloon",
+      "/info",
+      "/maslows-hierarchy-of-needs",
+      "/mirage",
+      "/museum-guard-tutorial",
+      "/oblivio",
+      "/on-the-avant-garde-responses-and-how-an-artwork-can-stand-out",
+      "/on-the-distinctions-between-ai-works-and-art-works",
+      "/peace-and-peace",
+      "/pointillism",
+      "/projects",
+      "/random-thoughts",
+      "/song-of-a-lonely-bird",
+      "/song-of-a-lonely-bird-a-re-creation",
+      "/texts",
+      "/the-clock",
+      "/the-ninth-marriage"
+    ],
+    "project": "shared",
+    "font_families": [
+      "helvetica-w01-light"
+    ],
+    "content_type": "font/woff2",
+    "sha256": "2be90a76ac71b5abf5eb25f5a2feb93819852f99957e5b121df8ecad0190a5a5"
+  },
+  {
+    "source": "https://static.parastorage.com/fonts/v2/8eac109b-0fa9-42bf-a305-43e471e23779/v1/helvetica-w01-light.woff2",
+    "local": "/assets/fonts/7972bb30901c2b9a476a.woff2",
+    "bytes": 17348,
+    "original_local": "/assets/7972bb30901c2b9a476a.woff2",
+    "pages": [
+      "/",
+      "/01001001-00100000-01000100-01001111",
+      "/ads-named-desire",
+      "/aesthetics-under-the-microscope",
+      "/aphasia-describe-the-city-you-live-in",
+      "/artist-statement",
+      "/breathe",
+      "/dear-water",
+      "/film-pd-art-direction",
+      "/hydrogen-balloon",
+      "/info",
+      "/maslows-hierarchy-of-needs",
+      "/mirage",
+      "/museum-guard-tutorial",
+      "/oblivio",
+      "/on-the-avant-garde-responses-and-how-an-artwork-can-stand-out",
+      "/on-the-distinctions-between-ai-works-and-art-works",
+      "/peace-and-peace",
+      "/pointillism",
+      "/projects",
+      "/random-thoughts",
+      "/song-of-a-lonely-bird",
+      "/song-of-a-lonely-bird-a-re-creation",
+      "/texts",
+      "/the-clock",
+      "/the-ninth-marriage"
+    ],
+    "project": "shared",
+    "font_families": [
+      "helvetica-w01-light"
+    ],
+    "content_type": "font/woff2",
+    "sha256": "f0e5c2783ecd83f6495064730d26fefd8eba34f24c550210a7452961a3117dc7"
+  },
+  {
+    "source": "https://static.parastorage.com/fonts/v2/2af1bf48-e783-4da8-9fa0-599dde29f2d5/v1/helvetica-lt-w10-roman.woff2",
+    "local": "/assets/fonts/3bf4f8385bc1f59db145.woff2",
+    "bytes": 24252,
+    "original_local": "/assets/3bf4f8385bc1f59db145.woff2",
+    "pages": [
+      "/aphasia-describe-the-city-you-live-in",
+      "/hydrogen-balloon",
+      "/museum-guard-tutorial",
+      "/oblivio",
+      "/the-ninth-marriage"
+    ],
+    "project": "shared",
+    "font_families": [
+      "helvetica-w01-roman"
+    ],
+    "content_type": "font/woff2",
+    "sha256": "820c74a4b2ebb9eee9eda0560fc94e3d9ff8520b36e47d99269d89a6288603f6"
+  },
+  {
+    "source": "https://static.parastorage.com/fonts/v2/2af1bf48-e783-4da8-9fa0-599dde29f2d5/v1/helvetica-w02-roman.woff2",
+    "local": "/assets/fonts/dc8f7d0e95109dc65245.woff2",
+    "bytes": 41956,
+    "original_local": "/assets/dc8f7d0e95109dc65245.woff2",
+    "pages": [
+      "/aphasia-describe-the-city-you-live-in",
+      "/hydrogen-balloon",
+      "/museum-guard-tutorial",
+      "/oblivio",
+      "/the-ninth-marriage"
+    ],
+    "project": "shared",
+    "font_families": [
+      "helvetica-w01-roman"
+    ],
+    "content_type": "font/woff2",
+    "sha256": "4fb3ec1c70340c02b0d1cc37ccab3be7c23cb5fb1d2124619b91ef65e515573f"
+  },
+  {
+    "source": "https://static.parastorage.com/fonts/v2/2af1bf48-e783-4da8-9fa0-599dde29f2d5/v1/helvetica-w01-roman.woff2",
+    "local": "/assets/fonts/00915920e370420b6f07.woff2",
+    "bytes": 36712,
+    "original_local": "/assets/00915920e370420b6f07.woff2",
+    "pages": [
+      "/aphasia-describe-the-city-you-live-in",
+      "/hydrogen-balloon",
+      "/museum-guard-tutorial",
+      "/oblivio",
+      "/the-ninth-marriage"
+    ],
+    "project": "shared",
+    "font_families": [
+      "helvetica-w01-roman"
+    ],
+    "content_type": "font/woff2",
+    "sha256": "fcdfd6f1841b7b145fc382858a45c8342ab62abb0766db43431ab2de54253e97"
+  },
+  {
+    "source": "https://static.parastorage.com/fonts/v2/c24fcada-6239-48bc-8b88-9288338191c9/v1/proxima-n-w05-reg.woff2",
+    "local": "/assets/fonts/3a94f23599ecc7df4bb0.woff2",
+    "bytes": 82024,
+    "original_local": "/assets/3a94f23599ecc7df4bb0.woff2",
+    "pages": [
+      "/01001001-00100000-01000100-01001111",
+      "/aphasia-describe-the-city-you-live-in",
+      "/dear-water",
+      "/hydrogen-balloon",
+      "/museum-guard-tutorial",
+      "/oblivio",
+      "/pointillism",
+      "/song-of-a-lonely-bird-a-re-creation",
+      "/the-clock",
+      "/the-ninth-marriage"
+    ],
+    "project": "shared",
+    "font_families": [
+      "proxima-n-w01-reg"
+    ],
+    "content_type": "font/woff2",
+    "sha256": "5185daf236a2f25ecc182bbe3dee5a66f42d8ed6a4d4e065cc0feec9a6ace90d"
+  },
+  {
+    "source": "https://static.parastorage.com/fonts/v2/c24fcada-6239-48bc-8b88-9288338191c9/v1/proxima-n-w01-reg.woff2",
+    "local": "/assets/fonts/99fba282244ecb8b5de6.woff2",
+    "bytes": 23088,
+    "original_local": "/assets/99fba282244ecb8b5de6.woff2",
+    "pages": [
+      "/01001001-00100000-01000100-01001111",
+      "/aphasia-describe-the-city-you-live-in",
+      "/dear-water",
+      "/hydrogen-balloon",
+      "/museum-guard-tutorial",
+      "/oblivio",
+      "/pointillism",
+      "/song-of-a-lonely-bird-a-re-creation",
+      "/the-clock",
+      "/the-ninth-marriage"
+    ],
+    "project": "shared",
+    "font_families": [
+      "proxima-n-w01-reg"
+    ],
+    "content_type": "font/woff2",
+    "sha256": "5571fff42dc7e301a496d7affcc5305688037d897a6a4cbad6a3de042e384717"
+  },
+  {
+    "source": "https://static.wixstatic.com/media/430132_7903eeab8b93452f870aeeddfbb8c99c~mv2.jpg",
+    "local": "/assets/images/hydrogen-balloon/087b9daa957a1062fab5.jpg",
+    "bytes": 1176815,
+    "original_local": "/assets/087b9daa957a1062fab5.jpg",
+    "pages": [
+      "/hydrogen-balloon"
+    ],
+    "project": "hydrogen-balloon",
+    "font_families": [],
+    "content_type": "image/jpeg",
+    "sha256": "0276ac0ac4cdcc6edcbe266791a4e45f718b77185138325c803ca06ddc3a7702"
+  },
+  {
+    "source": "https://static.wixstatic.com/media/430132_bad48a0fb4a54a518cbf2d33923b65e8~mv2.jpg",
+    "local": "/assets/images/hydrogen-balloon/75564d635486d8cd304e.jpg",
+    "bytes": 2043392,
+    "original_local": "/assets/75564d635486d8cd304e.jpg",
+    "pages": [
+      "/hydrogen-balloon"
+    ],
+    "project": "hydrogen-balloon",
+    "font_families": [],
+    "content_type": "image/jpeg",
+    "sha256": "34048b6bd405715e89dab497a557ff9743e047f28dc8a44ea969cb5123234155"
+  },
+  {
+    "source": "https://static.wixstatic.com/media/430132_f5ed0b9631b54539929350acd98b5c1d~mv2.jpg",
+    "local": "/assets/images/hydrogen-balloon/0ff8a37c3960531b5c04.jpg",
+    "bytes": 694980,
+    "original_local": "/assets/0ff8a37c3960531b5c04.jpg",
+    "pages": [
+      "/hydrogen-balloon"
+    ],
+    "project": "hydrogen-balloon",
+    "font_families": [],
+    "content_type": "image/jpeg",
+    "sha256": "3ff3c0aa7c779e10b71301d6ecd8b617f1d998e802f3480ca35e0c9febd7fb38"
+  },
+  {
+    "source": "https://static.wixstatic.com/media/430132_a6d33a5b05774ff1af6bb23f463c634f~mv2.jpg",
+    "local": "/assets/images/hydrogen-balloon/13c36a162d3f588567be.jpg",
+    "bytes": 841244,
+    "original_local": "/assets/13c36a162d3f588567be.jpg",
+    "pages": [
+      "/hydrogen-balloon"
+    ],
+    "project": "hydrogen-balloon",
+    "font_families": [],
+    "content_type": "image/jpeg",
+    "sha256": "643f33f4a00e72ff2f3e24b4de9a95693b1470adad2686da2f33ef97d24cff1a"
+  },
+  {
+    "source": "https://static.wixstatic.com/media/430132_8536f8e8e2814a089663347e7f2ce761~mv2.jpg",
+    "local": "/assets/images/hydrogen-balloon/100e367d66b36c4a0b58.jpg",
+    "bytes": 1665966,
+    "original_local": "/assets/100e367d66b36c4a0b58.jpg",
+    "pages": [
+      "/hydrogen-balloon"
+    ],
+    "project": "hydrogen-balloon",
+    "font_families": [],
+    "content_type": "image/jpeg",
+    "sha256": "774eb46757d9217834f6fb1694a691290e4a3a88250a18d23c848a072a7b3c85"
+  },
+  {
+    "source": "https://static.wixstatic.com/media/430132_036d9b4ee57848e4a94884cc0aec8dde~mv2.jpg",
+    "local": "/assets/images/hydrogen-balloon/226cdc6ac0c003b8d162.jpg",
+    "bytes": 1177195,
+    "original_local": "/assets/226cdc6ac0c003b8d162.jpg",
+    "pages": [
+      "/hydrogen-balloon"
+    ],
+    "project": "hydrogen-balloon",
+    "font_families": [],
+    "content_type": "image/jpeg",
+    "sha256": "e2327224f4913cf5a3f3fb43fd3234b00d4605cadbddb256c35e87af1dfbb8dd"
+  },
+  {
+    "source": "https://static.wixstatic.com/media/430132_9d0cbe4f28394cc19f1e532ff498a88e~mv2.jpg",
+    "local": "/assets/images/hydrogen-balloon/990c30c7085b7d80fdb2.jpg",
+    "bytes": 1884567,
+    "original_local": "/assets/990c30c7085b7d80fdb2.jpg",
+    "pages": [
+      "/hydrogen-balloon"
+    ],
+    "project": "hydrogen-balloon",
+    "font_families": [],
+    "content_type": "image/jpeg",
+    "sha256": "6fc3ea07a888990978ef232e467bb4aaef556b35de010cc5b11666e375f0ffee"
+  },
+  {
+    "source": "https://static.wixstatic.com/media/430132_61431e4a4a6a432f96ba28ba3941c371~mv2.jpg",
+    "local": "/assets/images/hydrogen-balloon/0041822fc9c5ea703fce.jpg",
+    "bytes": 2577407,
+    "original_local": "/assets/0041822fc9c5ea703fce.jpg",
+    "pages": [
+      "/hydrogen-balloon"
+    ],
+    "project": "hydrogen-balloon",
+    "font_families": [],
+    "content_type": "image/jpeg",
+    "sha256": "63560d2962399545d16550f4873ac01c4b6c007d90649fd017979f4596b0124e"
+  },
+  {
+    "source": "https://static.wixstatic.com/media/01c3aff52f2a4dffa526d7a9843d46ea.png",
+    "local": "/assets/images/shared/de9f4818d5f6365368fa.png",
+    "bytes": 21665,
+    "original_local": "/assets/de9f4818d5f6365368fa.png",
+    "pages": [
+      "/",
+      "/01001001-00100000-01000100-01001111",
+      "/ads-named-desire",
+      "/aesthetics-under-the-microscope",
+      "/aphasia-describe-the-city-you-live-in",
+      "/artist-statement",
+      "/breathe",
+      "/dear-water",
+      "/film-pd-art-direction",
+      "/hydrogen-balloon",
+      "/info",
+      "/maslows-hierarchy-of-needs",
+      "/mirage",
+      "/museum-guard-tutorial",
+      "/oblivio",
+      "/on-the-avant-garde-responses-and-how-an-artwork-can-stand-out",
+      "/on-the-distinctions-between-ai-works-and-art-works",
+      "/peace-and-peace",
+      "/pointillism",
+      "/projects",
+      "/random-thoughts",
+      "/song-of-a-lonely-bird",
+      "/song-of-a-lonely-bird-a-re-creation",
+      "/texts",
+      "/the-clock",
+      "/the-ninth-marriage"
+    ],
+    "project": "shared",
+    "font_families": [],
+    "content_type": "image/png",
+    "sha256": "a77d9274fc196cca0035dd2be4eca8b59577846eeedaf1571bb35a354845ebcd"
+  },
+  {
+    "source": "https://static.wixstatic.com/media/430132_6624426342b34c20884322b6b79c37de~mv2.jpeg",
+    "local": "/assets/images/texts/bad49e8c3cafbecdbb4e.jpeg",
+    "bytes": 183362,
+    "original_local": "/assets/bad49e8c3cafbecdbb4e.jpeg",
+    "pages": [
+      "/texts"
+    ],
+    "project": "texts",
+    "font_families": [],
+    "content_type": "image/jpeg",
+    "sha256": "ea280ef8cfdb880cf9f4258c3cf86e7b6f2d5dd20581a5b159015fa376235851"
+  },
+  {
+    "source": "https://static.wixstatic.com/media/430132_962d8b9b5b5f4a95b1340575dce0e15b~mv2.webp",
+    "local": "/assets/images/texts/1d2cd711490b121986f1.webp",
+    "bytes": 198344,
+    "original_local": "/assets/1d2cd711490b121986f1.webp",
+    "pages": [
+      "/texts"
+    ],
+    "project": "texts",
+    "font_families": [],
+    "content_type": "image/webp",
+    "sha256": "6381e5c669400a70658f2e9d5223a880b79e858bdb6775b62715da175396323e"
+  },
+  {
+    "source": "https://static.wixstatic.com/media/430132_ab8a02cefeb54439921e1bef4df89e43~mv2.jpg",
+    "local": "/assets/images/shared/b62d0a62ed1c37ffe995.jpg",
+    "bytes": 26669,
+    "original_local": "/assets/b62d0a62ed1c37ffe995.jpg",
+    "pages": [
+      "/",
+      "/projects",
+      "/texts"
+    ],
+    "project": "shared",
+    "font_families": [],
+    "content_type": "image/jpeg",
+    "sha256": "c0bf7427b3cc7cf0c885b75f2335384ff7d4ca123458eb5f701229f82f49af06"
+  },
+  {
+    "source": "https://static.wixstatic.com/media/430132_01da8fdd469048459bc26a0f3400923d~mv2.jpg",
+    "local": "/assets/images/shared/9c1d6fe31e6ac265fa1e.jpg",
+    "bytes": 1215247,
+    "original_local": "/assets/9c1d6fe31e6ac265fa1e.jpg",
+    "pages": [
+      "/",
+      "/dear-water",
+      "/projects"
+    ],
+    "project": "shared",
+    "font_families": [],
+    "content_type": "image/jpeg",
+    "sha256": "b3e70f74cb6c091a8a3f32f73f8ed701deb006741352eb31479a687235432b07"
+  },
+  {
+    "source": "https://static.wixstatic.com/media/430132_a8f7dd3ebb3847f4846c7accf3bbfcf7~mv2.jpg",
+    "local": "/assets/images/dear-water/ebb96eef2c874d8b63da.jpg",
+    "bytes": 1506708,
+    "original_local": "/assets/ebb96eef2c874d8b63da.jpg",
+    "pages": [
+      "/dear-water"
+    ],
+    "project": "dear-water",
+    "font_families": [],
+    "content_type": "image/jpeg",
+    "sha256": "586ad999ad725117cd51a8b44a226d8407a0a00ff434e0ca2a4351d4a51dcdb1"
+  },
+  {
+    "source": "https://static.wixstatic.com/media/430132_76d9f10988c6427c8c503c62bf9492a7~mv2.jpg",
+    "local": "/assets/images/dear-water/d057a187ef66fdbf2938.jpg",
+    "bytes": 1680471,
+    "original_local": "/assets/d057a187ef66fdbf2938.jpg",
+    "pages": [
+      "/dear-water"
+    ],
+    "project": "dear-water",
+    "font_families": [],
+    "content_type": "image/jpeg",
+    "sha256": "06b6af2695703f28b91269df167b56701adeda43a545ec067b466d07a3349a3f"
+  },
+  {
+    "source": "https://static.wixstatic.com/media/430132_4022c0936e0549cb8845f17a845fd2ac~mv2.jpg",
+    "local": "/assets/images/dear-water/ec315522642ba0fe6651.jpg",
+    "bytes": 951429,
+    "original_local": "/assets/ec315522642ba0fe6651.jpg",
+    "pages": [
+      "/dear-water"
+    ],
+    "project": "dear-water",
+    "font_families": [],
+    "content_type": "image/jpeg",
+    "sha256": "aea81400f2d0f22347f2f3605ab2090e0c10928c67965dd54e192bf9496fe1f6"
+  },
+  {
+    "source": "https://static.wixstatic.com/media/430132_4cc4c01f9a1f42f59c5edf005d237e16~mv2.png",
+    "local": "/assets/images/shared/c867c4bd403bf5b46f55.png",
+    "bytes": 6175792,
+    "original_local": "/assets/c867c4bd403bf5b46f55.png",
+    "pages": [
+      "/",
+      "/breathe",
+      "/projects"
+    ],
+    "project": "shared",
+    "font_families": [],
+    "content_type": "image/png",
+    "sha256": "d07e3d11cd6e044057f9756b6a04d3457da31991e7ab4eec361007d71997b24d"
+  },
+  {
+    "source": "https://static.wixstatic.com/media/430132_fb9914717de642cbb089318813ddb304~mv2.jpg",
+    "local": "/assets/images/shared/89df87b99bf8e136eecf.jpg",
+    "bytes": 571290,
+    "original_local": "/assets/89df87b99bf8e136eecf.jpg",
+    "pages": [
+      "/",
+      "/projects"
+    ],
+    "project": "shared",
+    "font_families": [],
+    "content_type": "image/jpeg",
+    "sha256": "20056a181078b891f7054c5a4f68a021f8101c0f9cc03cf48034b419d1998fb0"
+  },
+  {
+    "source": "https://static.wixstatic.com/media/430132_638fc7b6d382449eb3ce1ea4cd80f205~mv2.jpg",
+    "local": "/assets/images/shared/e6ecf1de86f9dea99768.jpg",
+    "bytes": 1289512,
+    "original_local": "/assets/e6ecf1de86f9dea99768.jpg",
+    "pages": [
+      "/",
+      "/projects"
+    ],
+    "project": "shared",
+    "font_families": [],
+    "content_type": "image/jpeg",
+    "sha256": "54b503ffe8eb4bfcaad6ba0a13c14df7f626ad25f2a4b22aba9b9ab767da7f16"
+  },
+  {
+    "source": "https://static.wixstatic.com/media/430132_33604598e39a412d98972e7ed592d258~mv2.jpeg",
+    "local": "/assets/images/shared/8568143f43845ad8d191.jpeg",
+    "bytes": 346946,
+    "original_local": "/assets/8568143f43845ad8d191.jpeg",
+    "pages": [
+      "/",
+      "/projects"
+    ],
+    "project": "shared",
+    "font_families": [],
+    "content_type": "image/jpeg",
+    "sha256": "e5aa8a9c89c58ea8ce05aa9b3e308864f94db5d4f76f59a6fdcce203faa6b51c"
+  },
+  {
+    "source": "https://static.wixstatic.com/media/430132_b37ad65c1af646afac072435a7d52311~mv2.jpg",
+    "local": "/assets/images/shared/28a8952bce3c17b1a655.jpg",
+    "bytes": 53172,
+    "original_local": "/assets/28a8952bce3c17b1a655.jpg",
+    "pages": [
+      "/",
+      "/projects"
+    ],
+    "project": "shared",
+    "font_families": [],
+    "content_type": "image/jpeg",
+    "sha256": "020d15d9a2746bb0c7c0288ca294ce8fc5c4ffe2f3716b7f29ace8e6ac21812c"
+  },
+  {
+    "source": "https://static.wixstatic.com/media/430132_19d4340bf2e0402f8bbf39f033237631~mv2.jpg",
+    "local": "/assets/images/shared/93734412605dbdca604e.jpg",
+    "bytes": 175742,
+    "original_local": "/assets/93734412605dbdca604e.jpg",
+    "pages": [
+      "/",
+      "/projects"
+    ],
+    "project": "shared",
+    "font_families": [],
+    "content_type": "image/jpeg",
+    "sha256": "c569e2dd4a104b8e869c4b4d58ca65e50fc3a547c03e62aa57c72a0b9292624a"
+  },
+  {
+    "source": "https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/barlow/v12/7cHsv4kjgoGqM7E_CfOA5WohvToJdLm8BvE.woff2",
+    "local": "/assets/fonts/14f11a9f7dea1acccf1b.woff2",
+    "bytes": 4168,
+    "original_local": "/assets/14f11a9f7dea1acccf1b.woff2",
+    "pages": [
+      "/artist-statement"
+    ],
+    "project": "artist-statement",
+    "font_families": [
+      "barlow"
+    ],
+    "content_type": "font/woff2",
+    "sha256": "1234fe69b3e5119fec7d75829c67889ca439e8d64dbbb94953fee06328b8884d"
+  },
+  {
+    "source": "https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/barlow/v12/7cHrv4kjgoGqM7E_Cfs0wH8DnzcjTrA.woff2",
+    "local": "/assets/fonts/417b2774430e2357d828.woff2",
+    "bytes": 4108,
+    "original_local": "/assets/417b2774430e2357d828.woff2",
+    "pages": [
+      "/artist-statement"
+    ],
+    "project": "artist-statement",
+    "font_families": [
+      "barlow"
+    ],
+    "content_type": "font/woff2",
+    "sha256": "00c00c122e6d9a316de2d0aef749347e1b92b7c978253146f667afee329871fa"
+  },
+  {
+    "source": "https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/barlow/v12/7cHqv4kjgoGqM7E3t-4s6Fostz0rdom9.woff2",
+    "local": "/assets/fonts/1ef75a7989e0293f381e.woff2",
+    "bytes": 4004,
+    "original_local": "/assets/1ef75a7989e0293f381e.woff2",
+    "pages": [
+      "/artist-statement"
+    ],
+    "project": "artist-statement",
+    "font_families": [
+      "barlow"
+    ],
+    "content_type": "font/woff2",
+    "sha256": "50d83822f9ac181209a5e755b0c055da97d64c2e5532bb400988b206281ab208"
+  },
+  {
+    "source": "https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/barlow/v12/7cHpv4kjgoGqM7E_A8s5ynghnQci.woff2",
+    "local": "/assets/fonts/e9cf26ffe1abd73e80ff.woff2",
+    "bytes": 3904,
+    "original_local": "/assets/e9cf26ffe1abd73e80ff.woff2",
+    "pages": [
+      "/artist-statement"
+    ],
+    "project": "artist-statement",
+    "font_families": [
+      "barlow"
+    ],
+    "content_type": "font/woff2",
+    "sha256": "84f2a05cd80e89dcd733a97b77f352be100ac0d17815482ce229afbd357ba5fe"
+  },
+  {
+    "source": "https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/barlow/v12/7cHsv4kjgoGqM7E_CfOA5WogvToJdLm8BvE.woff2",
+    "local": "/assets/fonts/180f514cb2612eb5dadf.woff2",
+    "bytes": 9512,
+    "original_local": "/assets/180f514cb2612eb5dadf.woff2",
+    "pages": [
+      "/artist-statement"
+    ],
+    "project": "artist-statement",
+    "font_families": [
+      "barlow"
+    ],
+    "content_type": "font/woff2",
+    "sha256": "56856a3adcaba62af93a726fa54756fd78a56f1b6a2a672f7b9e7606b37ddb31"
+  },
+  {
+    "source": "https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/barlow/v12/7cHrv4kjgoGqM7E_Cfs1wH8DnzcjTrA.woff2",
+    "local": "/assets/fonts/5dace36dc35c905c9e1f.woff2",
+    "bytes": 9488,
+    "original_local": "/assets/5dace36dc35c905c9e1f.woff2",
+    "pages": [
+      "/artist-statement"
+    ],
+    "project": "artist-statement",
+    "font_families": [
+      "barlow"
+    ],
+    "content_type": "font/woff2",
+    "sha256": "8971d546d80b4baa74975fc3714903bcc800987e13c487bed0c872b779f276a7"
+  },
+  {
+    "source": "https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/barlow/v12/7cHqv4kjgoGqM7E3t-4s6Vostz0rdom9.woff2",
+    "local": "/assets/fonts/2e7b8b2962b57173d737.woff2",
+    "bytes": 8872,
+    "original_local": "/assets/2e7b8b2962b57173d737.woff2",
+    "pages": [
+      "/artist-statement"
+    ],
+    "project": "artist-statement",
+    "font_families": [
+      "barlow"
+    ],
+    "content_type": "font/woff2",
+    "sha256": "ca1544de9ac527c5a0d87547198c9bac69dbea17a48c569ab71609ecfb9727c9"
+  },
+  {
+    "source": "https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/barlow/v12/7cHpv4kjgoGqM7E_Ass5ynghnQci.woff2",
+    "local": "/assets/fonts/3b65a5ce1aca8f84a75b.woff2",
+    "bytes": 8680,
+    "original_local": "/assets/3b65a5ce1aca8f84a75b.woff2",
+    "pages": [
+      "/artist-statement"
+    ],
+    "project": "artist-statement",
+    "font_families": [
+      "barlow"
+    ],
+    "content_type": "font/woff2",
+    "sha256": "9dbec428d41b8778d42e265394be2ceeb8f240265aa5c82d85f1660126331d1b"
+  },
+  {
+    "source": "https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/barlow/v12/7cHsv4kjgoGqM7E_CfOA5WouvToJdLm8.woff2",
+    "local": "/assets/fonts/6ae607e43a2fa098d7a2.woff2",
+    "bytes": 16444,
+    "original_local": "/assets/6ae607e43a2fa098d7a2.woff2",
+    "pages": [
+      "/artist-statement"
+    ],
+    "project": "artist-statement",
+    "font_families": [
+      "barlow"
+    ],
+    "content_type": "font/woff2",
+    "sha256": "8f992a5b60ef51fb7106e08e693251ab7d00f693f131485f9764d79af37ee3eb"
+  },
+  {
+    "source": "https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/barlow/v12/7cHrv4kjgoGqM7E_Cfs7wH8Dnzcj.woff2",
+    "local": "/assets/fonts/8664b122f38cddf7ebe7.woff2",
+    "bytes": 16636,
+    "original_local": "/assets/8664b122f38cddf7ebe7.woff2",
+    "pages": [
+      "/artist-statement"
+    ],
+    "project": "artist-statement",
+    "font_families": [
+      "barlow"
+    ],
+    "content_type": "font/woff2",
+    "sha256": "77e9a150799a0f9f011af773faf513cd632c3f325ccddfd6c69c1478c924d217"
+  },
+  {
+    "source": "https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/barlow/v12/7cHqv4kjgoGqM7E3t-4s51ostz0rdg.woff2",
+    "local": "/assets/fonts/6ea004fe8b3493b10cd2.woff2",
+    "bytes": 14784,
+    "original_local": "/assets/6ea004fe8b3493b10cd2.woff2",
+    "pages": [
+      "/artist-statement"
+    ],
+    "project": "artist-statement",
+    "font_families": [
+      "barlow"
+    ],
+    "content_type": "font/woff2",
+    "sha256": "cb474dc9b3e75c8ec335bab847cb29ec7e89da057ad068abdb99da4585366c8c"
+  },
+  {
+    "source": "https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/barlow/v12/7cHpv4kjgoGqM7E_DMs5ynghnQ.woff2",
+    "local": "/assets/fonts/78891389d8a13ce9cfbf.woff2",
+    "bytes": 14736,
+    "original_local": "/assets/78891389d8a13ce9cfbf.woff2",
+    "pages": [
+      "/artist-statement"
+    ],
+    "project": "artist-statement",
+    "font_families": [
+      "barlow"
+    ],
+    "content_type": "font/woff2",
+    "sha256": "60cdff1621cd9803c61b2c7d010adcb8094f41fcab2da420f99dead9c097395f"
+  },
+  {
+    "source": "https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/barlow/v1/51v0xj5VPw1cLYHNhfd8NFtXRa8TVwTICgirnJhmVJw.woff2",
+    "local": "/assets/fonts/02784fdab3c1d0e78475.woff2",
+    "bytes": 23456,
+    "original_local": "/assets/02784fdab3c1d0e78475.woff2",
+    "pages": [
+      "/artist-statement"
+    ],
+    "project": "artist-statement",
+    "font_families": [
+      "barlow-extralight"
+    ],
+    "content_type": "font/woff2",
+    "sha256": "891868103f6fa64d35447ff2c2089f5efcd8b3157ea459156c3046ff30e705ce"
+  },
+  {
+    "source": "https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/barlow/v1/2woyxyDnPU0v4IiqYU9D1g.woff2",
+    "local": "/assets/fonts/b1121bbc4182c47f7ac4.woff2",
+    "bytes": 24044,
+    "original_local": "/assets/b1121bbc4182c47f7ac4.woff2",
+    "pages": [
+      "/artist-statement"
+    ],
+    "project": "artist-statement",
+    "font_families": [
+      "barlow-extralight"
+    ],
+    "content_type": "font/woff2",
+    "sha256": "d54c566b1bdc0094ba5b9881faa7313c7ec77ddc2999fad700838b1759ce3d3c"
+  },
+  {
+    "source": "https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/barlow/v1/cdbGxfKO8gdkBd5U5TuXqPesZW2xOQ-xsNqO47m55DA.woff2",
+    "local": "/assets/fonts/a3032db73efb4e1701b0.woff2",
+    "bytes": 25972,
+    "original_local": "/assets/a3032db73efb4e1701b0.woff2",
+    "pages": [
+      "/artist-statement"
+    ],
+    "project": "artist-statement",
+    "font_families": [
+      "barlow-extralight"
+    ],
+    "content_type": "font/woff2",
+    "sha256": "7dd7aabbdd45c0702b887d2f52759298a530117f66dbfd4f7a0cfaa97aecab6b"
+  },
+  {
+    "source": "https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/barlow/v1/14AxwKgJhKIO-YYUP_KtZag5eI2G47JWe0-AuFtD150.woff2",
+    "local": "/assets/fonts/d3659e3c22b45c2bef89.woff2",
+    "bytes": 25876,
+    "original_local": "/assets/d3659e3c22b45c2bef89.woff2",
+    "pages": [
+      "/artist-statement"
+    ],
+    "project": "artist-statement",
+    "font_families": [
+      "barlow-extralight"
+    ],
+    "content_type": "font/woff2",
+    "sha256": "063e08f1de9ad0f30b9d4b4a25f1e21a77c805f1fbd020fa3b7bbfaffb03a83c"
+  },
+  {
+    "source": "https://static.wixstatic.com/media/430132_25dee1dc8725434494bca8a4309870d2~mv2.jpg",
+    "local": "/assets/images/shared/6f04c697ac832136cdb3.jpg",
+    "bytes": 1018230,
+    "original_local": "/assets/6f04c697ac832136cdb3.jpg",
+    "pages": [
+      "/film-pd-art-direction",
+      "/the-ninth-marriage"
+    ],
+    "project": "shared",
+    "font_families": [],
+    "content_type": "image/jpeg",
+    "sha256": "3e5bd04561d67c5a9b357b4612345d389481439c56a9ed70f654d6d88e990699"
+  },
+  {
+    "source": "https://static.wixstatic.com/media/430132_ca49b57537cd45c587a18ee834ee8fcf~mv2.jpg",
+    "local": "/assets/images/the-ninth-marriage/e9197036f2c30b67641e.jpg",
+    "bytes": 1169242,
+    "original_local": "/assets/e9197036f2c30b67641e.jpg",
+    "pages": [
+      "/the-ninth-marriage"
+    ],
+    "project": "the-ninth-marriage",
+    "font_families": [],
+    "content_type": "image/jpeg",
+    "sha256": "a174d1c8b68b8389203788e99c95cec3b54f9176c98e5e0c8d7a9a7c1e298238"
+  },
+  {
+    "source": "https://static.wixstatic.com/media/430132_384dafec9bb148fb93e1443be7e58518~mv2.jpg",
+    "local": "/assets/images/the-ninth-marriage/40bedf483dc8e89ad15a.jpg",
+    "bytes": 1266176,
+    "original_local": "/assets/40bedf483dc8e89ad15a.jpg",
+    "pages": [
+      "/the-ninth-marriage"
+    ],
+    "project": "the-ninth-marriage",
+    "font_families": [],
+    "content_type": "image/jpeg",
+    "sha256": "3464086be1d633f6339ca0a8dae11220e64f7e57faecee4f5fbb4d4e625d6274"
+  },
+  {
+    "source": "https://static.wixstatic.com/media/430132_a93162aec0d44261bc6822de385a8ece~mv2.jpg",
+    "local": "/assets/images/the-ninth-marriage/268eed8f6d2918832ec2.jpg",
+    "bytes": 849084,
+    "original_local": "/assets/268eed8f6d2918832ec2.jpg",
+    "pages": [
+      "/the-ninth-marriage"
+    ],
+    "project": "the-ninth-marriage",
+    "font_families": [],
+    "content_type": "image/jpeg",
+    "sha256": "b5e516bf305a2ea4c27a76dbf214bbdeebfc134cd04b5102c87231b51baa8257"
+  },
+  {
+    "source": "https://static.wixstatic.com/media/430132_ceadddb245f144b487ba3de7ff1bce96~mv2.jpg",
+    "local": "/assets/images/the-ninth-marriage/008da4832ec1e71cb17f.jpg",
+    "bytes": 2252670,
+    "original_local": "/assets/008da4832ec1e71cb17f.jpg",
+    "pages": [
+      "/the-ninth-marriage"
+    ],
+    "project": "the-ninth-marriage",
+    "font_families": [],
+    "content_type": "image/jpeg",
+    "sha256": "09d77da276798b0199343fc3282704d1c97fab3cd978bc0890dbd0014e40e115"
+  },
+  {
+    "source": "https://static.wixstatic.com/media/430132_b1b60f4e14a54bbcbc820b7bb2d7ba18~mv2.jpg",
+    "local": "/assets/images/the-ninth-marriage/a39db22aaef2559f10f2.jpg",
+    "bytes": 3136806,
+    "original_local": "/assets/a39db22aaef2559f10f2.jpg",
+    "pages": [
+      "/the-ninth-marriage"
+    ],
+    "project": "the-ninth-marriage",
+    "font_families": [],
+    "content_type": "image/jpeg",
+    "sha256": "e8bc461f79f685d5576634dbae81ed736b2932b362f2fd36821ea6084074a1b6"
+  },
+  {
+    "source": "https://static.wixstatic.com/media/430132_12df59f36fbd495ba909aad915dfc257~mv2.jpg",
+    "local": "/assets/images/the-ninth-marriage/630cd93b2129caeae042.jpg",
+    "bytes": 2668405,
+    "original_local": "/assets/630cd93b2129caeae042.jpg",
+    "pages": [
+      "/the-ninth-marriage"
+    ],
+    "project": "the-ninth-marriage",
+    "font_families": [],
+    "content_type": "image/jpeg",
+    "sha256": "a87cf80fcb2d89c57dad066f53febb6d951fe58a56a53f3582e93a1bc78260f7"
+  },
+  {
+    "source": "https://static.wixstatic.com/media/430132_9771dc8e642f4a20b6f2d594d7bff219~mv2.jpg",
+    "local": "/assets/images/the-ninth-marriage/1215e119530f381a1dd7.jpg",
+    "bytes": 2711240,
+    "original_local": "/assets/1215e119530f381a1dd7.jpg",
+    "pages": [
+      "/the-ninth-marriage"
+    ],
+    "project": "the-ninth-marriage",
+    "font_families": [],
+    "content_type": "image/jpeg",
+    "sha256": "37ee473f31063b1effdfbe9ea5f4b4ec91b06ec11f1d8f0f91058ab2b07313cb"
+  },
+  {
+    "source": "https://www.jiaqiliu.com/_files/ugd/430132_0c8c96a57057435298d6d9eba814c136.pdf",
+    "local": "/assets/documents/2f5108b85fd4d2cf81ed.pdf",
+    "bytes": 134332,
+    "original_local": "/assets/2f5108b85fd4d2cf81ed.pdf",
+    "pages": [
+      "/info"
+    ],
+    "project": "shared",
+    "font_families": [],
+    "content_type": "application/pdf",
+    "sha256": "13d26da892fb29ceb563cb43d664b1178276a9730705ed614ece010a47297bbf"
+  },
+  {
+    "source": "https://static.wixstatic.com/media/430132_dbd62c6e71f6441d8adb3c0a635494c5~mv2.jpg",
+    "local": "/assets/images/film-pd-art-direction/f0627d1d94a189aaed51.jpg",
+    "bytes": 907253,
+    "original_local": "/assets/f0627d1d94a189aaed51.jpg",
+    "pages": [
+      "/film-pd-art-direction"
+    ],
+    "project": "film-pd-art-direction",
+    "font_families": [],
+    "content_type": "image/jpeg",
+    "sha256": "e98e2017d2e540fb20f20ffaa6c8ef5a86f2e7f9a61b5e9555438b7de13d3bcc"
+  },
+  {
+    "source": "https://static.wixstatic.com/media/430132_1ddc782eb35a469c9e6e7d19a47d781e~mv2.png",
+    "local": "/assets/images/shared/89b48a4a4a1285ba2a8f.png",
+    "bytes": 11188681,
+    "original_local": "/assets/89b48a4a4a1285ba2a8f.png",
+    "pages": [
+      "/aphasia-describe-the-city-you-live-in",
+      "/film-pd-art-direction"
+    ],
+    "project": "shared",
+    "font_families": [],
+    "content_type": "image/png",
+    "sha256": "2c6135c526fb4aef9f9c455193355ce66a92322154df6cf6aa381b23308c4d55"
+  },
+  {
+    "source": "https://static.wixstatic.com/media/430132_b780149806464f1eba42de17fc87103c~mv2.jpg",
+    "local": "/assets/images/film-pd-art-direction/b453e7a0b3ba70833128.jpg",
+    "bytes": 1184273,
+    "original_local": "/assets/b453e7a0b3ba70833128.jpg",
+    "pages": [
+      "/film-pd-art-direction"
+    ],
+    "project": "film-pd-art-direction",
+    "font_families": [],
+    "content_type": "image/jpeg",
+    "sha256": "13b802ee715a1742f5193b58c011f8c3e4b5e430966e96bcd4f8f267271b7339"
+  },
+  {
+    "source": "https://static.wixstatic.com/media/430132_5dca328b76af47d89fe2c566ceb8e564~mv2.jpg",
+    "local": "/assets/images/film-pd-art-direction/819c9feb5df13850edf1.jpg",
+    "bytes": 308330,
+    "original_local": "/assets/819c9feb5df13850edf1.jpg",
+    "pages": [
+      "/film-pd-art-direction"
+    ],
+    "project": "film-pd-art-direction",
+    "font_families": [],
+    "content_type": "image/jpeg",
+    "sha256": "e295dfb84bca793c390be24d2bd2c34d0620768f1b592c2923739ec1158b9ebe"
+  },
+  {
+    "source": "https://static.wixstatic.com/media/430132_4fa41151c5fb4eb0b1768af45edd9622~mv2.jpg",
+    "local": "/assets/images/random-thoughts/2c58556e97ca870816fd.jpg",
+    "bytes": 2405390,
+    "original_local": "/assets/2c58556e97ca870816fd.jpg",
+    "pages": [
+      "/random-thoughts"
+    ],
+    "project": "random-thoughts",
+    "font_families": [],
+    "content_type": "image/jpeg",
+    "sha256": "b7b22db348d49e6d6c1163cfa775e67ac63feda95426619a267d9cb9aed3d57a"
+  },
+  {
+    "source": "https://static.wixstatic.com/media/430132_fdcda2e08f5f4cc2ba5ead50dca05049~mv2.jpg",
+    "local": "/assets/images/random-thoughts/3c6c55683f5b0c2f2116.jpg",
+    "bytes": 977081,
+    "original_local": "/assets/3c6c55683f5b0c2f2116.jpg",
+    "pages": [
+      "/random-thoughts"
+    ],
+    "project": "random-thoughts",
+    "font_families": [],
+    "content_type": "image/jpeg",
+    "sha256": "8739c4aec7a5d77549d1bcd6e79b15da99ac205c94eb6ca4fea91f30ddbeb126"
+  },
+  {
+    "source": "https://static.wixstatic.com/media/430132_73a33b8fa310432a89655c13ce75da3b~mv2.jpg",
+    "local": "/assets/images/random-thoughts/0be6dfb8fd2f2d2b8f74.jpg",
+    "bytes": 994317,
+    "original_local": "/assets/0be6dfb8fd2f2d2b8f74.jpg",
+    "pages": [
+      "/random-thoughts"
+    ],
+    "project": "random-thoughts",
+    "font_families": [],
+    "content_type": "image/jpeg",
+    "sha256": "a1b46a69d482450faa408687c124b05643d15e6b9558d109d11f47a94cae5b3a"
+  },
+  {
+    "source": "https://static.wixstatic.com/media/430132_3c34301425214c92810f74c2339895dd~mv2.jpg",
+    "local": "/assets/images/random-thoughts/27166c9600650036f20f.jpg",
+    "bytes": 863687,
+    "original_local": "/assets/27166c9600650036f20f.jpg",
+    "pages": [
+      "/random-thoughts"
+    ],
+    "project": "random-thoughts",
+    "font_families": [],
+    "content_type": "image/jpeg",
+    "sha256": "0e5543b986aa97d51342a817843083a7cdfafb0cfbf95de3e20e281c625a673f"
+  },
+  {
+    "source": "https://static.wixstatic.com/media/430132_417571e77e674d0f963d43350bddfc4e~mv2.jpg",
+    "local": "/assets/images/museum-guard-tutorial/2c90f0a75e3240804bfb.jpg",
+    "bytes": 825976,
+    "original_local": "/assets/2c90f0a75e3240804bfb.jpg",
+    "pages": [
+      "/museum-guard-tutorial"
+    ],
+    "project": "museum-guard-tutorial",
+    "font_families": [],
+    "content_type": "image/jpeg",
+    "sha256": "dd4846087e4cfeae913bc2d83b70c2f09c2b450b9999810683e9797f9c2b79eb"
+  },
+  {
+    "source": "https://static.wixstatic.com/media/430132_ca40930b66d6445c978631d63467aa09~mv2.jpg",
+    "local": "/assets/images/museum-guard-tutorial/a1f360fdbf692f37cd76.jpg",
+    "bytes": 645862,
+    "original_local": "/assets/a1f360fdbf692f37cd76.jpg",
+    "pages": [
+      "/museum-guard-tutorial"
+    ],
+    "project": "museum-guard-tutorial",
+    "font_families": [],
+    "content_type": "image/jpeg",
+    "sha256": "4fb8407cdb49da5926dc7fd25ddcc30c971b80e8c8d49c5e1e9a0973a1e97188"
+  },
+  {
+    "source": "https://static.wixstatic.com/media/430132_9415e8c6eab84f6c88fe9e9eb2f3a24b~mv2.jpg",
+    "local": "/assets/images/museum-guard-tutorial/6db1be29c7affdd0ca9d.jpg",
+    "bytes": 670011,
+    "original_local": "/assets/6db1be29c7affdd0ca9d.jpg",
+    "pages": [
+      "/museum-guard-tutorial"
+    ],
+    "project": "museum-guard-tutorial",
+    "font_families": [],
+    "content_type": "image/jpeg",
+    "sha256": "e9f2fee4482f30df74d98e9dc8dd6ad86736afeae9d9613d87d29e2acbe7db48"
+  },
+  {
+    "source": "https://static.wixstatic.com/media/430132_e27183415a2e40c99aaf8ead659468f7~mv2.jpg",
+    "local": "/assets/images/museum-guard-tutorial/65a108d153e7d1b42b03.jpg",
+    "bytes": 963137,
+    "original_local": "/assets/65a108d153e7d1b42b03.jpg",
+    "pages": [
+      "/museum-guard-tutorial"
+    ],
+    "project": "museum-guard-tutorial",
+    "font_families": [],
+    "content_type": "image/jpeg",
+    "sha256": "73a5471eba0c808d638b9b77c3eb8bb6a8837d3dfb374c382350533853faadc8"
+  },
+  {
+    "source": "https://static.wixstatic.com/media/430132_137ecbb57508452a95d01beecdd98087~mv2.png",
+    "local": "/assets/images/museum-guard-tutorial/e1027a15a4e1bd72e556.png",
+    "bytes": 4621598,
+    "original_local": "/assets/e1027a15a4e1bd72e556.png",
+    "pages": [
+      "/museum-guard-tutorial"
+    ],
+    "project": "museum-guard-tutorial",
+    "font_families": [],
+    "content_type": "image/png",
+    "sha256": "c5611dd744b480bd3c0c1f5bfa2dab62fc54eb15e3d3d949a322ada44629c6fa"
+  },
+  {
+    "source": "https://static.wixstatic.com/media/430132_e756267f0b494edda05977d2df793ec4~mv2.jpg",
+    "local": "/assets/images/museum-guard-tutorial/35d0a1fc96850fc3662b.jpg",
+    "bytes": 1492790,
+    "original_local": "/assets/35d0a1fc96850fc3662b.jpg",
+    "pages": [
+      "/museum-guard-tutorial"
+    ],
+    "project": "museum-guard-tutorial",
+    "font_families": [],
+    "content_type": "image/jpeg",
+    "sha256": "3b64bda3993a914038810e2aebac4a275fc23d5ce9fde546b911dcdac0fd3f3b"
+  },
+  {
+    "source": "https://static.wixstatic.com/media/430132_6113b87a66574395a8cab77653e55c9e~mv2.jpg",
+    "local": "/assets/images/museum-guard-tutorial/589fb3531b3ba9a70289.jpg",
+    "bytes": 624101,
+    "original_local": "/assets/589fb3531b3ba9a70289.jpg",
+    "pages": [
+      "/museum-guard-tutorial"
+    ],
+    "project": "museum-guard-tutorial",
+    "font_families": [],
+    "content_type": "image/jpeg",
+    "sha256": "688caf2d13ead6beb4cabc4d92584f934ef2f99749a3e49307c942a706b85a98"
+  },
+  {
+    "source": "https://static.wixstatic.com/media/430132_80ad746b8ea14dc2b30cdca972da47b2~mv2.jpg",
+    "local": "/assets/images/museum-guard-tutorial/a072c03071816cbe9e73.jpg",
+    "bytes": 867887,
+    "original_local": "/assets/a072c03071816cbe9e73.jpg",
+    "pages": [
+      "/museum-guard-tutorial"
+    ],
+    "project": "museum-guard-tutorial",
+    "font_families": [],
+    "content_type": "image/jpeg",
+    "sha256": "812406783be9c2e018136eab1f2e0635a36ab4e35e7646f89212f42d996051c1"
+  },
+  {
+    "source": "https://static.wixstatic.com/media/430132_1f49a51765434f679e686a24745929dd~mv2.jpg",
+    "local": "/assets/images/oblivio/9e765d6ef638bc57a35f.jpg",
+    "bytes": 525273,
+    "original_local": "/assets/9e765d6ef638bc57a35f.jpg",
+    "pages": [
+      "/oblivio"
+    ],
+    "project": "oblivio",
+    "font_families": [],
+    "content_type": "image/jpeg",
+    "sha256": "ceccb1dc4c18f1dbaf7b33eccecb94562334809aea2b289ca87bb1236078b730"
+  },
+  {
+    "source": "https://static.wixstatic.com/media/430132_720e5276224e4257a3d9cbb093259142~mv2.jpg",
+    "local": "/assets/images/oblivio/e23e1c21f154dd0e2e6a.jpg",
+    "bytes": 319399,
+    "original_local": "/assets/e23e1c21f154dd0e2e6a.jpg",
+    "pages": [
+      "/oblivio"
+    ],
+    "project": "oblivio",
+    "font_families": [],
+    "content_type": "image/jpeg",
+    "sha256": "613c2b496885087cf514b3f9615257229769f2b5d5d40be730379e892ca47fbb"
+  },
+  {
+    "source": "https://static.wixstatic.com/media/430132_157e00faf0054f468569818c3cf640be~mv2.jpg",
+    "local": "/assets/images/oblivio/e79490e40efbe8c97913.jpg",
+    "bytes": 509830,
+    "original_local": "/assets/e79490e40efbe8c97913.jpg",
+    "pages": [
+      "/oblivio"
+    ],
+    "project": "oblivio",
+    "font_families": [],
+    "content_type": "image/jpeg",
+    "sha256": "c946a5f1f008fa35804cce8f40c18333dadd11195c9f45c5bd09cf550fccf85b"
+  },
+  {
+    "source": "https://static.wixstatic.com/media/430132_556a35b421c04764ab60fe5c29d32363~mv2.jpg",
+    "local": "/assets/images/oblivio/a1141dc19ca651ff74f7.jpg",
+    "bytes": 266000,
+    "original_local": "/assets/a1141dc19ca651ff74f7.jpg",
+    "pages": [
+      "/oblivio"
+    ],
+    "project": "oblivio",
+    "font_families": [],
+    "content_type": "image/jpeg",
+    "sha256": "4fddb62ab4513b1e901085a048f28a69eea05d7349824bfe52b88242062d276d"
+  },
+  {
+    "source": "https://static.wixstatic.com/media/430132_e112b79e104849d298bc12396ff476f3~mv2.jpg",
+    "local": "/assets/images/oblivio/5408c04ce12aab00505b.jpg",
+    "bytes": 391080,
+    "original_local": "/assets/5408c04ce12aab00505b.jpg",
+    "pages": [
+      "/oblivio"
+    ],
+    "project": "oblivio",
+    "font_families": [],
+    "content_type": "image/jpeg",
+    "sha256": "df29b930c121b45d540c44cfce0631743820ffe6d6c29af2557e08634ef0db7c"
+  },
+  {
+    "source": "https://static.wixstatic.com/media/430132_884fcba0dee6415887fcdd8546c10263~mv2.jpg",
+    "local": "/assets/images/oblivio/da4014c4eb76f8f48281.jpg",
+    "bytes": 294294,
+    "original_local": "/assets/da4014c4eb76f8f48281.jpg",
+    "pages": [
+      "/oblivio"
+    ],
+    "project": "oblivio",
+    "font_families": [],
+    "content_type": "image/jpeg",
+    "sha256": "2d3e8cd8d610fb1fd47e59675514b38f828ff6d9eb613c4ab7c872c06c90b5e6"
+  },
+  {
+    "source": "https://static.wixstatic.com/media/430132_3d41db97c7d54a8f86ec6eb22bbe54f4~mv2.jpg",
+    "local": "/assets/images/oblivio/2c2f3dff3dc1e9a04e3a.jpg",
+    "bytes": 512637,
+    "original_local": "/assets/2c2f3dff3dc1e9a04e3a.jpg",
+    "pages": [
+      "/oblivio"
+    ],
+    "project": "oblivio",
+    "font_families": [],
+    "content_type": "image/jpeg",
+    "sha256": "a6d30a749332ff6e4524756d7ee50b709b779a539f379010b27601b99de59b0d"
+  },
+  {
+    "source": "https://static.wixstatic.com/media/430132_04d9e70b9ebf4fba9cead53da07ed8e0~mv2.jpg",
+    "local": "/assets/images/oblivio/b96822294779020bd862.jpg",
+    "bytes": 442848,
+    "original_local": "/assets/b96822294779020bd862.jpg",
+    "pages": [
+      "/oblivio"
+    ],
+    "project": "oblivio",
+    "font_families": [],
+    "content_type": "image/jpeg",
+    "sha256": "b0a2f25a3cc7951d30db62fa1cce8648594cc2ac20e2523eb131e6d9650a90c3"
+  },
+  {
+    "source": "https://static.wixstatic.com/media/430132_a3ca35efcf8b48e4b583f9b04b9b4d0b~mv2.jpg",
+    "local": "/assets/images/maslows-hierarchy-of-needs/d3244c47c50afc392ffd.jpg",
+    "bytes": 4683057,
+    "original_local": "/assets/d3244c47c50afc392ffd.jpg",
+    "pages": [
+      "/maslows-hierarchy-of-needs"
+    ],
+    "project": "maslows-hierarchy-of-needs",
+    "font_families": [],
+    "content_type": "image/jpeg",
+    "sha256": "9aa8f8bdb12584d7c7301528f08a4a49ddd5c43a9178c613c9b8c0b63b67a9fe"
+  },
+  {
+    "source": "https://static.wixstatic.com/media/430132_c0cd95d2cb3f429a95a5d2f915bd5099~mv2.jpg",
+    "local": "/assets/images/maslows-hierarchy-of-needs/b4f375f21e6b40c9169e.jpg",
+    "bytes": 5042491,
+    "original_local": "/assets/b4f375f21e6b40c9169e.jpg",
+    "pages": [
+      "/maslows-hierarchy-of-needs"
+    ],
+    "project": "maslows-hierarchy-of-needs",
+    "font_families": [],
+    "content_type": "image/jpeg",
+    "sha256": "c85a73762b118871e687d128f7fb04da7d5879676dbc282fbe164d8331175f86"
+  },
+  {
+    "source": "https://static.wixstatic.com/media/430132_bf0a98960e5c4097aa08314000a73a76~mv2.jpg",
+    "local": "/assets/images/maslows-hierarchy-of-needs/012bf89999a62b52f730.jpg",
+    "bytes": 1459966,
+    "original_local": "/assets/012bf89999a62b52f730.jpg",
+    "pages": [
+      "/maslows-hierarchy-of-needs"
+    ],
+    "project": "maslows-hierarchy-of-needs",
+    "font_families": [],
+    "content_type": "image/jpeg",
+    "sha256": "b7fd18d3c79688447df227b7c08e68ba0a84afeba8dcb9c3e86d69a49670eb9f"
+  },
+  {
+    "source": "https://static.wixstatic.com/media/430132_bc51e146e423479b80562ed0c2816795~mv2.jpg",
+    "local": "/assets/images/maslows-hierarchy-of-needs/bc967a7dcd613f243e95.jpg",
+    "bytes": 4850296,
+    "original_local": "/assets/bc967a7dcd613f243e95.jpg",
+    "pages": [
+      "/maslows-hierarchy-of-needs"
+    ],
+    "project": "maslows-hierarchy-of-needs",
+    "font_families": [],
+    "content_type": "image/jpeg",
+    "sha256": "1b9ddb2e444fecc3f06ac0102fc92b3b86b657248eb5a37118a398b1f2e85293"
+  },
+  {
+    "source": "https://static.wixstatic.com/media/430132_736d9b8e992e460bac022572abc6a0f7~mv2.jpg",
+    "local": "/assets/images/maslows-hierarchy-of-needs/b6c93b430c1be7276779.jpg",
+    "bytes": 1512749,
+    "original_local": "/assets/b6c93b430c1be7276779.jpg",
+    "pages": [
+      "/maslows-hierarchy-of-needs"
+    ],
+    "project": "maslows-hierarchy-of-needs",
+    "font_families": [],
+    "content_type": "image/jpeg",
+    "sha256": "3d5193d494b14ec0d9653caea2759c9ebd99a52795bbfd1d79a52cd8329cb124"
+  },
+  {
+    "source": "https://static.wixstatic.com/media/430132_cd732ef5d2ff45d7aabdfbd137ecc6f9~mv2.jpg",
+    "local": "/assets/images/maslows-hierarchy-of-needs/fa312bc336cf9adafe34.jpg",
+    "bytes": 4867386,
+    "original_local": "/assets/fa312bc336cf9adafe34.jpg",
+    "pages": [
+      "/maslows-hierarchy-of-needs"
+    ],
+    "project": "maslows-hierarchy-of-needs",
+    "font_families": [],
+    "content_type": "image/jpeg",
+    "sha256": "50d0a216c2d095fd02f07108e18100ccc001bb8aaa679f3a0e31daec6f227d25"
+  },
+  {
+    "source": "https://static.wixstatic.com/media/430132_2c6d65cecd304be9a134b4b2ccd651c8~mv2.gif",
+    "local": "/assets/images/aesthetics-under-the-microscope/bd9c9bcea6415a6aa4ac.gif",
+    "bytes": 8732440,
+    "original_local": "/assets/bd9c9bcea6415a6aa4ac.gif",
+    "pages": [
+      "/aesthetics-under-the-microscope"
+    ],
+    "project": "aesthetics-under-the-microscope",
+    "font_families": [],
+    "content_type": "image/gif",
+    "sha256": "005cc0a93331cf32ae317831ac660de716a8d1125fb2d16e46149ddae9dfb63b"
+  },
+  {
+    "source": "https://static.wixstatic.com/media/430132_bf58de5bc9e24341b83925734e8983d0~mv2.gif",
+    "local": "/assets/images/aesthetics-under-the-microscope/d091ef8c45cb7ecc151c.gif",
+    "bytes": 6571773,
+    "original_local": "/assets/d091ef8c45cb7ecc151c.gif",
+    "pages": [
+      "/aesthetics-under-the-microscope"
+    ],
+    "project": "aesthetics-under-the-microscope",
+    "font_families": [],
+    "content_type": "image/gif",
+    "sha256": "3ca5da141f509f2719c5252c77d4c739de780279e6449de0196ea0959ebe5d27"
+  },
+  {
+    "source": "https://static.wixstatic.com/media/430132_aca376c693594d638d9944dd50b72432~mv2.gif",
+    "local": "/assets/images/aesthetics-under-the-microscope/4b431d634b6a5ccfe700.gif",
+    "bytes": 7249941,
+    "original_local": "/assets/4b431d634b6a5ccfe700.gif",
+    "pages": [
+      "/aesthetics-under-the-microscope"
+    ],
+    "project": "aesthetics-under-the-microscope",
+    "font_families": [],
+    "content_type": "image/gif",
+    "sha256": "062715f65f9ae795653d238758e44b0f441acafe37f2850b6db439ad9061dbb8"
+  },
+  {
+    "source": "https://static.wixstatic.com/media/430132_0f3e5a0f3e0641df84d507d8a16f1ecc~mv2.gif",
+    "local": "/assets/images/aesthetics-under-the-microscope/f68da7af8eab1d394814.gif",
+    "bytes": 14310280,
+    "original_local": "/assets/f68da7af8eab1d394814.gif",
+    "pages": [
+      "/aesthetics-under-the-microscope"
+    ],
+    "project": "aesthetics-under-the-microscope",
+    "font_families": [],
+    "content_type": "image/gif",
+    "sha256": "220668358d3e5f4fae2a49c8c46318b9b6218ede786db6c362651bf14c6189e3"
+  },
+  {
+    "source": "https://static.wixstatic.com/media/430132_53c871f7371e415eaeb7752f527d955d~mv2.gif",
+    "local": "/assets/images/aesthetics-under-the-microscope/eff8b7461d3259bbbe62.gif",
+    "bytes": 14090571,
+    "original_local": "/assets/eff8b7461d3259bbbe62.gif",
+    "pages": [
+      "/aesthetics-under-the-microscope"
+    ],
+    "project": "aesthetics-under-the-microscope",
+    "font_families": [],
+    "content_type": "image/gif",
+    "sha256": "42104e4c2d668e698b65cd3ff16112292016d4537ba4577120dfc3e074d963a9"
+  },
+  {
+    "source": "https://static.wixstatic.com/media/430132_59d3f8f575694d5baa8529e07d1bb694~mv2.gif",
+    "local": "/assets/images/aesthetics-under-the-microscope/c0fb3d1fa9f1550c6ceb.gif",
+    "bytes": 13488855,
+    "original_local": "/assets/c0fb3d1fa9f1550c6ceb.gif",
+    "pages": [
+      "/aesthetics-under-the-microscope"
+    ],
+    "project": "aesthetics-under-the-microscope",
+    "font_families": [],
+    "content_type": "image/gif",
+    "sha256": "a86f78acbaa8a4804e83df26f3bbe6d5de6e75d9383164458502442541c35428"
+  },
+  {
+    "source": "https://static.wixstatic.com/media/430132_87d43ebaca4844b89fbc8b4009bcd844~mv2.gif",
+    "local": "/assets/images/aesthetics-under-the-microscope/cd719825f4e6bc125a61.gif",
+    "bytes": 6995402,
+    "original_local": "/assets/cd719825f4e6bc125a61.gif",
+    "pages": [
+      "/aesthetics-under-the-microscope"
+    ],
+    "project": "aesthetics-under-the-microscope",
+    "font_families": [],
+    "content_type": "image/gif",
+    "sha256": "6da7b985c47adabb3bc149829271a31e8501b2fa6e846a980a0f3c501f5003c0"
+  },
+  {
+    "source": "https://static.wixstatic.com/media/430132_56481862e1dd4bbfbb1590c83a9341d0~mv2.gif",
+    "local": "/assets/images/aesthetics-under-the-microscope/5563ede9ce8a69ad27b2.gif",
+    "bytes": 9088603,
+    "original_local": "/assets/5563ede9ce8a69ad27b2.gif",
+    "pages": [
+      "/aesthetics-under-the-microscope"
+    ],
+    "project": "aesthetics-under-the-microscope",
+    "font_families": [],
+    "content_type": "image/gif",
+    "sha256": "f7a9f3179cca026be3b5d43c524e71e4356451593854dce92f72255582a376e2"
+  },
+  {
+    "source": "https://static.wixstatic.com/media/430132_f8f79584340e4cd0bc814b85c1865228~mv2.gif",
+    "local": "/assets/images/aesthetics-under-the-microscope/98bbe893583cc5ccf3e1.gif",
+    "bytes": 6681771,
+    "original_local": "/assets/98bbe893583cc5ccf3e1.gif",
+    "pages": [
+      "/aesthetics-under-the-microscope"
+    ],
+    "project": "aesthetics-under-the-microscope",
+    "font_families": [],
+    "content_type": "image/gif",
+    "sha256": "a40aa49916145cb41533244f2cb3fd6fd5627a211981adc597d6ea3a6d31026d"
+  },
+  {
+    "source": "https://static.wixstatic.com/media/430132_3170bf4a131a4b86a7ba46717db586ae~mv2.jpg",
+    "local": "/assets/images/ads-named-desire/c2d3e132e42e8d97495a.jpg",
+    "bytes": 395355,
+    "original_local": "/assets/c2d3e132e42e8d97495a.jpg",
+    "pages": [
+      "/ads-named-desire"
+    ],
+    "project": "ads-named-desire",
+    "font_families": [],
+    "content_type": "image/jpeg",
+    "sha256": "5e639a33dd0e7d97e07696f737d81a21d9fd9d2ef59975b5d38660a8479d5a46"
+  },
+  {
+    "source": "https://static.wixstatic.com/media/430132_dee7249870cb470992e5f06807cc8209~mv2.jpg",
+    "local": "/assets/images/ads-named-desire/6cbd27c783d7945cfb86.jpg",
+    "bytes": 97681,
+    "original_local": "/assets/6cbd27c783d7945cfb86.jpg",
+    "pages": [
+      "/ads-named-desire"
+    ],
+    "project": "ads-named-desire",
+    "font_families": [],
+    "content_type": "image/jpeg",
+    "sha256": "86586c9819cc9b2fdce83c1f2b011d053e294ed81e11ec122db28cb97e1be5dd"
+  },
+  {
+    "source": "https://static.wixstatic.com/media/430132_bc414d822f994f76b743dbb1bfa0a258~mv2.jpg",
+    "local": "/assets/images/ads-named-desire/6e7fc8eb5b7ff746c234.jpg",
+    "bytes": 288987,
+    "original_local": "/assets/6e7fc8eb5b7ff746c234.jpg",
+    "pages": [
+      "/ads-named-desire"
+    ],
+    "project": "ads-named-desire",
+    "font_families": [],
+    "content_type": "image/jpeg",
+    "sha256": "85ab40b2ba94d2330c674866080b9152f3921d8e261c572eb7c2b2396a182436"
+  },
+  {
+    "source": "https://static.wixstatic.com/media/430132_602a359f4242464a905b52f07956a9f2~mv2.jpg",
+    "local": "/assets/images/ads-named-desire/0fc26f7e600b36c381d9.jpg",
+    "bytes": 303785,
+    "original_local": "/assets/0fc26f7e600b36c381d9.jpg",
+    "pages": [
+      "/ads-named-desire"
+    ],
+    "project": "ads-named-desire",
+    "font_families": [],
+    "content_type": "image/jpeg",
+    "sha256": "8a4e48298905cc106665588c33d3271bca72c41efc0183d83cf276c3e1c3a4a5"
+  },
+  {
+    "source": "https://static.wixstatic.com/media/430132_d8e906299ed24cff9e9bdf4a57370a12~mv2.jpg",
+    "local": "/assets/images/the-clock/c5180db0d5e58ce93e7c.jpg",
+    "bytes": 300612,
+    "original_local": "/assets/c5180db0d5e58ce93e7c.jpg",
+    "pages": [
+      "/the-clock"
+    ],
+    "project": "the-clock",
+    "font_families": [],
+    "content_type": "image/jpeg",
+    "sha256": "f716b9b0a845a59fc90b950d4851950ebfd1a7e6da48f1bdec6cbce72d32b2cf"
+  },
+  {
+    "source": "https://static.wixstatic.com/media/430132_76bf086befac4f2fb08c4f37731c0da5~mv2.jpg",
+    "local": "/assets/images/the-clock/1286ce5da73096256480.jpg",
+    "bytes": 3432998,
+    "original_local": "/assets/1286ce5da73096256480.jpg",
+    "pages": [
+      "/the-clock"
+    ],
+    "project": "the-clock",
+    "font_families": [],
+    "content_type": "image/jpeg",
+    "sha256": "938b1c5a8eb52ed7dddcf20d21f6234fb66bec6ad94220b55422d51aed5e9164"
+  },
+  {
+    "source": "https://static.wixstatic.com/media/430132_d3e8153f3e294ee684932cb24e3dc625~mv2.jpg",
+    "local": "/assets/images/the-clock/7c40bbb2511768001105.jpg",
+    "bytes": 1609299,
+    "original_local": "/assets/7c40bbb2511768001105.jpg",
+    "pages": [
+      "/the-clock"
+    ],
+    "project": "the-clock",
+    "font_families": [],
+    "content_type": "image/jpeg",
+    "sha256": "e3ad9a03e9c43d0dfca1935cf98aac3fb90bdce2b332c6e2e2e2c2e91892bbb1"
+  },
+  {
+    "source": "https://static.wixstatic.com/media/430132_af184840c5d641ceaaeee60e0b32ff59~mv2.png",
+    "local": "/assets/images/aphasia-describe-the-city-you-live-in/e94c225973b86e9a94c1.png",
+    "bytes": 15649343,
+    "original_local": "/assets/e94c225973b86e9a94c1.png",
+    "pages": [
+      "/aphasia-describe-the-city-you-live-in"
+    ],
+    "project": "aphasia-describe-the-city-you-live-in",
+    "font_families": [],
+    "content_type": "image/png",
+    "sha256": "276dce595b790b97b8aecf53a0f14b2cfe704e3758302f769264eefffa7a31fe"
+  },
+  {
+    "source": "https://static.wixstatic.com/media/430132_f50c887a1b61415980908b281c757141~mv2.png",
+    "local": "/assets/images/aphasia-describe-the-city-you-live-in/23e20427d35da8329145.png",
+    "bytes": 7549708,
+    "original_local": "/assets/23e20427d35da8329145.png",
+    "pages": [
+      "/aphasia-describe-the-city-you-live-in"
+    ],
+    "project": "aphasia-describe-the-city-you-live-in",
+    "font_families": [],
+    "content_type": "image/png",
+    "sha256": "fd2540987d9a72c1f2a660f2c9e5290369996035b68346dcf2b82b2f10f89da9"
+  },
+  {
+    "source": "https://static.wixstatic.com/media/430132_93265807dcd441e5989dd266f41d94ef~mv2.png",
+    "local": "/assets/images/aphasia-describe-the-city-you-live-in/b0efc095ca14fa5ca9ed.png",
+    "bytes": 9507684,
+    "original_local": "/assets/b0efc095ca14fa5ca9ed.png",
+    "pages": [
+      "/aphasia-describe-the-city-you-live-in"
+    ],
+    "project": "aphasia-describe-the-city-you-live-in",
+    "font_families": [],
+    "content_type": "image/png",
+    "sha256": "bc272e7c5f7a6592e21e071db71296f46a418b7d05ec61cf5124efd6c1e8b0d4"
+  },
+  {
+    "source": "https://static.wixstatic.com/media/430132_6306650b81c24a0e8708b670ddbad966~mv2.png",
+    "local": "/assets/images/aphasia-describe-the-city-you-live-in/9af5b9c8ff71fd9746f9.png",
+    "bytes": 12218415,
+    "original_local": "/assets/9af5b9c8ff71fd9746f9.png",
+    "pages": [
+      "/aphasia-describe-the-city-you-live-in"
+    ],
+    "project": "aphasia-describe-the-city-you-live-in",
+    "font_families": [],
+    "content_type": "image/png",
+    "sha256": "3fc5e4e624b5b56250401cc596e1c145d7894a8b90fa06e9824023c7bced0f6d"
+  },
+  {
+    "source": "https://static.wixstatic.com/media/430132_b837645544a44c14868b343305d664c9~mv2.png",
+    "local": "/assets/images/aphasia-describe-the-city-you-live-in/94e04b1cd77f96d4f0bd.png",
+    "bytes": 8279199,
+    "original_local": "/assets/94e04b1cd77f96d4f0bd.png",
+    "pages": [
+      "/aphasia-describe-the-city-you-live-in"
+    ],
+    "project": "aphasia-describe-the-city-you-live-in",
+    "font_families": [],
+    "content_type": "image/png",
+    "sha256": "d4e497d7f0b4ac6c77e111fa1f8d99e305c42cffd8741c5b9d9854bfbd8e3acf"
+  },
+  {
+    "source": "https://static.wixstatic.com/media/430132_fba8194552d044138e4d04f5335e389a~mv2.png",
+    "local": "/assets/images/aphasia-describe-the-city-you-live-in/c1a85d27a6b8051b7584.png",
+    "bytes": 9865246,
+    "original_local": "/assets/c1a85d27a6b8051b7584.png",
+    "pages": [
+      "/aphasia-describe-the-city-you-live-in"
+    ],
+    "project": "aphasia-describe-the-city-you-live-in",
+    "font_families": [],
+    "content_type": "image/png",
+    "sha256": "d5b06f20b6fe3798e2b17c1d28eb75f530acdf286d6cec7568c985162524618f"
+  },
+  {
+    "source": "https://static.wixstatic.com/media/430132_f4c01c37187e4082bbddf7a5fd85a724~mv2.png",
+    "local": "/assets/images/aphasia-describe-the-city-you-live-in/1c962b3e0c71a164de2e.png",
+    "bytes": 12683803,
+    "original_local": "/assets/1c962b3e0c71a164de2e.png",
+    "pages": [
+      "/aphasia-describe-the-city-you-live-in"
+    ],
+    "project": "aphasia-describe-the-city-you-live-in",
+    "font_families": [],
+    "content_type": "image/png",
+    "sha256": "218f9231bee9ba3d923fb76acc3abb623cbaccff12df0a14221a1b30dbbf85f1"
+  },
+  {
+    "source": "https://static.wixstatic.com/media/430132_de94d50f5b5e47e4bb9f53434b6957e5~mv2.jpg",
+    "local": "/assets/images/song-of-a-lonely-bird/9af0cab7dbaeff40f55b.jpg",
+    "bytes": 765707,
+    "original_local": "/assets/9af0cab7dbaeff40f55b.jpg",
+    "pages": [
+      "/song-of-a-lonely-bird"
+    ],
+    "project": "song-of-a-lonely-bird",
+    "font_families": [],
+    "content_type": "image/jpeg",
+    "sha256": "e016681e6642b2ae3c8cee7cbea891a63e420c7b910095b1c2d9dd8b56247dde"
+  },
+  {
+    "source": "https://static.wixstatic.com/media/430132_23252e1e8f8444afaadbb0d458d871cb~mv2.jpg",
+    "local": "/assets/images/song-of-a-lonely-bird/8d2aade1dc756c5557dd.jpg",
+    "bytes": 640987,
+    "original_local": "/assets/8d2aade1dc756c5557dd.jpg",
+    "pages": [
+      "/song-of-a-lonely-bird"
+    ],
+    "project": "song-of-a-lonely-bird",
+    "font_families": [],
+    "content_type": "image/jpeg",
+    "sha256": "fd550fc4bb9ab9157d8d54b04e26f58946819b5971911eb4bf2cd0df8d277aed"
+  },
+  {
+    "source": "https://static.wixstatic.com/media/430132_6ac1e5241c32400e8f5b75567094b919~mv2.jpg",
+    "local": "/assets/images/song-of-a-lonely-bird/f4b5a4a8896c4101a947.jpg",
+    "bytes": 350609,
+    "original_local": "/assets/f4b5a4a8896c4101a947.jpg",
+    "pages": [
+      "/song-of-a-lonely-bird"
+    ],
+    "project": "song-of-a-lonely-bird",
+    "font_families": [],
+    "content_type": "image/jpeg",
+    "sha256": "f79a8faa4dad1db4a82a397a775f125426281e96df452ddd0c095bdebb512879"
+  },
+  {
+    "source": "https://static.wixstatic.com/media/430132_5da842dacbf14bbb9b59bdb971999168~mv2.jpg",
+    "local": "/assets/images/song-of-a-lonely-bird/e0acc10846c7eeb3981e.jpg",
+    "bytes": 650218,
+    "original_local": "/assets/e0acc10846c7eeb3981e.jpg",
+    "pages": [
+      "/song-of-a-lonely-bird"
+    ],
+    "project": "song-of-a-lonely-bird",
+    "font_families": [],
+    "content_type": "image/jpeg",
+    "sha256": "fa26e8f7cb649730fe4b878f8263f8db7f5aaad4361eeb920039c17ce2bc4e61"
+  },
+  {
+    "source": "https://static.wixstatic.com/media/430132_bcb92ad136a14eed8ab23bca773a90c5~mv2.jpg",
+    "local": "/assets/images/song-of-a-lonely-bird/bbceab7b4aa9d71f53fd.jpg",
+    "bytes": 635903,
+    "original_local": "/assets/bbceab7b4aa9d71f53fd.jpg",
+    "pages": [
+      "/song-of-a-lonely-bird"
+    ],
+    "project": "song-of-a-lonely-bird",
+    "font_families": [],
+    "content_type": "image/jpeg",
+    "sha256": "5d99579c47ffeadbc75b78bdbf9fce41340a498b89b2b63e40dfc351811ec566"
+  },
+  {
+    "source": "https://static.wixstatic.com/media/430132_4db93b61d94e449f8024da5280d4fb48~mv2.jpg",
+    "local": "/assets/images/song-of-a-lonely-bird/4a530e07e864c7cc5ef7.jpg",
+    "bytes": 489003,
+    "original_local": "/assets/4a530e07e864c7cc5ef7.jpg",
+    "pages": [
+      "/song-of-a-lonely-bird"
+    ],
+    "project": "song-of-a-lonely-bird",
+    "font_families": [],
+    "content_type": "image/jpeg",
+    "sha256": "ca93ad627f1fe1a9b8c7a2c747899c26d1705cda438be85295c0ca04fbd894e2"
+  },
+  {
+    "source": "https://static.wixstatic.com/media/430132_50b4398260734e2287bdbdba0ca6998f~mv2.jpg",
+    "local": "/assets/images/song-of-a-lonely-bird/2f12cfde9f45210cd328.jpg",
+    "bytes": 739479,
+    "original_local": "/assets/2f12cfde9f45210cd328.jpg",
+    "pages": [
+      "/song-of-a-lonely-bird"
+    ],
+    "project": "song-of-a-lonely-bird",
+    "font_families": [],
+    "content_type": "image/jpeg",
+    "sha256": "8fcb81174310a9f6ca9d0bbe7daafc4538b6f8e8342b531eb325bde029775f82"
+  },
+  {
+    "source": "https://static.wixstatic.com/media/430132_69414a5e27094252ad630291e5ceeca0~mv2.jpg",
+    "local": "/assets/images/mirage/36eb10373763741661b4.jpg",
+    "bytes": 597663,
+    "original_local": "/assets/36eb10373763741661b4.jpg",
+    "pages": [
+      "/mirage"
+    ],
+    "project": "mirage",
+    "font_families": [],
+    "content_type": "image/jpeg",
+    "sha256": "bdb30158c6711c958dcd81d653b99044d60c0bf40980ae111a51e5febb52ddef"
+  },
+  {
+    "source": "https://static.wixstatic.com/media/430132_5d2a1533ede74cafa11c8997f85021f4~mv2.jpg",
+    "local": "/assets/images/mirage/ac552403e9a9d3c0d1aa.jpg",
+    "bytes": 6386463,
+    "original_local": "/assets/ac552403e9a9d3c0d1aa.jpg",
+    "pages": [
+      "/mirage"
+    ],
+    "project": "mirage",
+    "font_families": [],
+    "content_type": "image/jpeg",
+    "sha256": "cb52938ac11dd047b4cedcc9d726f7fb04cc891416a824a8e21dd83f95b52f5a"
+  },
+  {
+    "source": "https://static.wixstatic.com/media/430132_90113fb6a103493abd0af492d74842de~mv2.jpg",
+    "local": "/assets/images/mirage/dbe0b4f6a98c16580db3.jpg",
+    "bytes": 356696,
+    "original_local": "/assets/dbe0b4f6a98c16580db3.jpg",
+    "pages": [
+      "/mirage"
+    ],
+    "project": "mirage",
+    "font_families": [],
+    "content_type": "image/jpeg",
+    "sha256": "389e56842dd3ca9b1c2195e491e1f2dec02437e51b443b528bd516021f925ab1"
+  },
+  {
+    "source": "https://static.wixstatic.com/media/430132_cb1b3ed736154cbbbf48710840beec67~mv2.jpg",
+    "local": "/assets/images/breathe/a5526405011fc410dbf0.jpg",
+    "bytes": 4052085,
+    "original_local": "/assets/a5526405011fc410dbf0.jpg",
+    "pages": [
+      "/breathe"
+    ],
+    "project": "breathe",
+    "font_families": [],
+    "content_type": "image/jpeg",
+    "sha256": "892fce3a0cd03069fab4ba9e2e7012e7d95d3f058503d62f23d7fd03ab15518b"
+  },
+  {
+    "source": "https://static.wixstatic.com/media/430132_88b32249afa04cc684e171a955f9b773~mv2.jpg",
+    "local": "/assets/images/breathe/0188b6aeb28460146c80.jpg",
+    "bytes": 744423,
+    "original_local": "/assets/0188b6aeb28460146c80.jpg",
+    "pages": [
+      "/breathe"
+    ],
+    "project": "breathe",
+    "font_families": [],
+    "content_type": "image/jpeg",
+    "sha256": "bdd72bdca771e247c2872abfb706b11e789049941820bdc5301074c8d0a4cbae"
+  },
+  {
+    "source": "https://static.wixstatic.com/media/430132_87fe150cb96e43e2b0da8061892e74ff~mv2.jpg",
+    "local": "/assets/images/breathe/236f5ecc885ae42448eb.jpg",
+    "bytes": 2438309,
+    "original_local": "/assets/236f5ecc885ae42448eb.jpg",
+    "pages": [
+      "/breathe"
+    ],
+    "project": "breathe",
+    "font_families": [],
+    "content_type": "image/jpeg",
+    "sha256": "0df73db02e93395445983b05ae0089ff54c0e7b1531945aaadff0debd825db7f"
+  },
+  {
+    "source": "https://static.wixstatic.com/media/430132_f640b87809ee4211b0289660d20e79c2~mv2.jpg",
+    "local": "/assets/images/breathe/000687d985398037be79.jpg",
+    "bytes": 1159177,
+    "original_local": "/assets/000687d985398037be79.jpg",
+    "pages": [
+      "/breathe"
+    ],
+    "project": "breathe",
+    "font_families": [],
+    "content_type": "image/jpeg",
+    "sha256": "459cedb9e1fb4d3a44bd8d4066c7b2f62150abb70db36d3b245a971a159318c1"
+  },
+  {
+    "source": "https://static.wixstatic.com/media/430132_49db42908ccb4bdf8fc85f810e018a69~mv2.jpg",
+    "local": "/assets/images/breathe/2e75d956dce119208e35.jpg",
+    "bytes": 3389555,
+    "original_local": "/assets/2e75d956dce119208e35.jpg",
+    "pages": [
+      "/breathe"
+    ],
+    "project": "breathe",
+    "font_families": [],
+    "content_type": "image/jpeg",
+    "sha256": "42b5aa15bc2e208b2f0cbd4f180907dfc2ccf9b568a20849716f6f3b6062d08e"
+  },
+  {
+    "source": "https://static.wixstatic.com/media/430132_d44ff16549d240b98402961e0bb1a82e~mv2.jpg",
+    "local": "/assets/images/breathe/cd84c2d9b621410c22e0.jpg",
+    "bytes": 1677498,
+    "original_local": "/assets/cd84c2d9b621410c22e0.jpg",
+    "pages": [
+      "/breathe"
+    ],
+    "project": "breathe",
+    "font_families": [],
+    "content_type": "image/jpeg",
+    "sha256": "ea188e37b8227849377522802e46012539c8732e225529780211db55ed0bc3f0"
+  },
+  {
+    "source": "https://static.wixstatic.com/media/430132_1e0938d5486d4f88ada9558794bd6c19~mv2.png",
+    "local": "/assets/images/breathe/e5fbc371f7f05fd072e1.png",
+    "bytes": 29852498,
+    "original_local": "/assets/e5fbc371f7f05fd072e1.png",
+    "pages": [
+      "/breathe"
+    ],
+    "project": "breathe",
+    "font_families": [],
+    "content_type": "image/png",
+    "sha256": "eea6514dd8504d533dfa9ac34fc77a9138caad8b47295b8bba4780c445e67c09"
+  },
+  {
+    "source": "https://static.wixstatic.com/media/430132_097944e334dc4776bb6365e377486264~mv2.jpg",
+    "local": "/assets/images/breathe/1d52e9398cec444f5107.jpg",
+    "bytes": 68969,
+    "original_local": "/assets/1d52e9398cec444f5107.jpg",
+    "pages": [
+      "/breathe"
+    ],
+    "project": "breathe",
+    "font_families": [],
+    "content_type": "image/jpeg",
+    "sha256": "f2035f27448ebf42a00dec409f1b51f21c40277ef3acf29bebea33287b45e1a2"
+  }
+]

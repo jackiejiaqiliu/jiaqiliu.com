@@ -1,0 +1,1893 @@
+{
+  "siteFeaturesConfigs": {
+    "accessibilityBrowserZoom": {
+      "isBuilder": false,
+      "isStudio": true
+    },
+    "appMonitoring": {
+      "appsWithMonitoring": [
+        {
+          "appId": "e593b0bd-b783-45b8-97c2-873d42aacaf4",
+          "isWixTPA": true,
+          "monitoringComponent": {
+            "monitoring": {
+              "type": "PANORAMA",
+              "panoramaOptions": {
+                "project": {
+                  "groupId": "com.wixpress.enterprise",
+                  "artifactId": "cms-compliance-dashboard-extensions",
+                  "fingerprint": "fb913d07fb59da98a926b87b601559c4583d26e52971900b1a808f84"
+                }
+              }
+            }
+          },
+          "panoramaConfigByArtifactId": {
+            "cms-compliance-dashboard-extensions": {
+              "type": "PANORAMA",
+              "panoramaOptions": {
+                "project": {
+                  "groupId": "com.wixpress.enterprise",
+                  "artifactId": "cms-compliance-dashboard-extensions",
+                  "fingerprint": "fb913d07fb59da98a926b87b601559c4583d26e52971900b1a808f84"
+                }
+              }
+            }
+          },
+          "externalIdByComponentId": {}
+        }
+      ]
+    },
+    "assetsLoader": {
+      "isStylableComponentInStructure": false,
+      "hasBuilderComponents": false
+    },
+    "businessLoggerService": {},
+    "businessLogger": {
+      "isBuilderComponentModel": false
+    },
+    "componentsRegistry": {
+      "librariesTopology": [
+        {
+          "artifactId": "editor-elements",
+          "namespace": "wixui",
+          "url": "https://static.parastorage.com/services/editor-elements/1.15505.0"
+        },
+        {
+          "artifactId": "editor-elements",
+          "namespace": "dsgnsys",
+          "url": "https://static.parastorage.com/services/editor-elements/1.15505.0"
+        }
+      ]
+    },
+    "consentPolicy": {
+      "isWixSite": false,
+      "isBuilderComponentModel": false
+    },
+    "cyclicTabbing": {
+      "isBuilderComponentModel": false
+    },
+    "dataWixCodeSdk": {
+      "gridAppId": "ed08b42d-c318-4c02-bde5-04e16d39064b",
+      "environment": "LIVE",
+      "cloudDataUrlWithExternalBase": "https://www.jiaqiliu.com/_api/cloud-data"
+    },
+    "editorWixCodeSdk": {
+      "isBuilderComponentModel": false
+    },
+    "elementorySupportWixCodeSdk": {
+      "baseUrl": "https://www.jiaqiliu.com/_api/wix-code-public-dispatcher-ng/siteview",
+      "relativePath": "//_api/wix-code-public-dispatcher-ng/siteview",
+      "gridAppId": "ed08b42d-c318-4c02-bde5-04e16d39064b",
+      "viewMode": "site",
+      "siteRevision": 1692
+    },
+    "environmentWixCodeSdk": {},
+    "environment": {
+      "editorType": "",
+      "domain": "jiaqiliu.com",
+      "previewMode": false,
+      "isBuilderComponentModel": false
+    },
+    "fedopsWixCodeSdk": {
+      "isWixSite": false,
+      "shouldReportFedops": false
+    },
+    "locationWixCodeSdk": {
+      "routersConfigMap": {},
+      "urlMappings": null
+    },
+    "mpaNavigation": {
+      "forceMpaNavigation": false,
+      "isRunningInDifferentSiteContext": false
+    },
+    "ooiTpaSharedConfig": {
+      "imageSpriteUrl": "https://static.parastorage.com/services/santa-resources/resources/viewer/editorUI/fonts.v19.png",
+      "wixStaticFontsLinks": [
+        "https://static.parastorage.com/services/fonts-data/dist/fonts.hz267ac7fkkfb3a18o8z.css",
+        "https://static.parastorage.com/services/fonts-data/dist/wixMadefor.j95mkaziqjnrn77aekr8.css",
+        "https://static.parastorage.com/services/fonts-data/dist/google.i6q038anl30o3b4lfbu6.css"
+      ]
+    },
+    "ooi": {
+      "ooiComponentsData": {
+        "142bb34d-3439-576a-7118-683e690a1e0d": {
+          "sentryDsn": "https://8eb368c655b84e029ed79ad7a5c1718e@sentry.wixpress.com/3427",
+          "componentUrl": "https://static.parastorage.com/services/pro-gallery-tpa/1.1531.0/WixProGalleryViewerWidget.bundle.min.js",
+          "widgetId": "142bb34d-3439-576a-7118-683e690a1e0d",
+          "noCssComponentUrl": "",
+          "isLoadable": true,
+          "isServerBundled": false,
+          "loadStaticCssWithLink": false,
+          "isModuleFederated": false
+        }
+      },
+      "viewMode": "Site",
+      "formFactor": "Desktop",
+      "blogMobileComponentUrl": "undefinedfeed-page-mobile-viewer.bundle.min.js",
+      "userDomainMedia": {
+        "baseUrl": "",
+        "prefixes": []
+      }
+    },
+    "pagesService": {
+      "pages": {},
+      "currentPageId": "",
+      "mainPageId": "k3lv9"
+    },
+    "renderer": {
+      "disabledComponents": {},
+      "isBuilderComponentModel": false
+    },
+    "reporter": {
+      "userId": "43013204-000d-4f73-9cc1-4a517b553cb9",
+      "metaSiteId": "875b1af8-5901-4e86-85cf-992ed48034ee",
+      "isPremium": true,
+      "isFBServerEventsAppProvisioned": false,
+      "dynamicPagesIds": []
+    },
+    "router": {
+      "baseUrl": "https://www.jiaqiliu.com",
+      "mainPageId": "k3lv9",
+      "pagesMap": {
+        "pnmxa": {
+          "pageId": "pnmxa",
+          "title": "Peace and Peace",
+          "pageUriSEO": "peace-and-peace",
+          "pageJsonFileName": "430132_34f0cb4cde4ec39ac9915e79a7a5c14b_1692"
+        },
+        "k3lv9": {
+          "pageId": "k3lv9",
+          "title": "Projects",
+          "pageUriSEO": "projects",
+          "pageJsonFileName": "430132_0295271a78dee9ebfe77c36b8efc3ab6_1692"
+        },
+        "ww4gh": {
+          "pageId": "ww4gh",
+          "title": "The Ninth Marriage",
+          "pageUriSEO": "the-ninth-marriage",
+          "pageJsonFileName": "430132_a3221c66ecd0018158117db8830e1564_1692"
+        },
+        "otvmv": {
+          "pageId": "otvmv",
+          "title": "Oblivio",
+          "pageUriSEO": "oblivio",
+          "pageJsonFileName": "430132_6e8aa9f7194b0b764709ef2b2649b6b7_1692"
+        },
+        "ms22a": {
+          "pageId": "ms22a",
+          "title": "Info",
+          "pageUriSEO": "info",
+          "pageJsonFileName": "430132_1991c9fea074320f3d142ec56a7a7d8d_1692"
+        },
+        "sa2la": {
+          "pageId": "sa2la",
+          "title": "On the Avant-Garde",
+          "pageUriSEO": "on-the-avant-garde-responses-and-how-an-artwork-can-stand-out",
+          "pageJsonFileName": "430132_d680b7414e02c6df7ac1f70d4f536889_1692"
+        },
+        "ma2pf": {
+          "pageId": "ma2pf",
+          "title": "Pointillism",
+          "pageUriSEO": "pointillism",
+          "pageJsonFileName": "430132_bacb418134625e3bbf72c6a85db4cc11_1692"
+        },
+        "sbudu": {
+          "pageId": "sbudu",
+          "title": "Hydrogen Balloon",
+          "pageUriSEO": "hydrogen-balloon",
+          "pageJsonFileName": "430132_bd29722509407a8b3d425bfa748e846b_1692"
+        },
+        "ris5e": {
+          "pageId": "ris5e",
+          "title": "Maslow's Hierarchy of Needs",
+          "pageUriSEO": "maslows-hierarchy-of-needs",
+          "pageJsonFileName": "430132_21ed7583783ae009862ad9a85ac7fee4_1692"
+        },
+        "m1tpo": {
+          "pageId": "m1tpo",
+          "title": "Texts",
+          "pageUriSEO": "texts",
+          "pageJsonFileName": "430132_6469ab0d6e7f639c22d9bf687de83f53_1692"
+        },
+        "dd72u": {
+          "pageId": "dd72u",
+          "title": "ApHasiA: Describe the City You Live in",
+          "pageUriSEO": "aphasia-describe-the-city-you-live-in",
+          "pageJsonFileName": "430132_c2b0bd1fd89c0afacdc945a098a41253_1692"
+        },
+        "ribtt": {
+          "pageId": "ribtt",
+          "title": "Song of a Lonely Bird",
+          "pageUriSEO": "song-of-a-lonely-bird",
+          "pageJsonFileName": "430132_53198f7eeb4edfbc443f98b6c3982cfc_1692"
+        },
+        "znrpg": {
+          "pageId": "znrpg",
+          "title": "Film Production Design & Art Direction",
+          "pageUriSEO": "film-pd-art-direction",
+          "pageJsonFileName": "430132_d5d25b4ed48a13a8d10fb6a1e9297c50_1692"
+        },
+        "ry8z6": {
+          "pageId": "ry8z6",
+          "title": "Dear Water,",
+          "pageUriSEO": "dear-water",
+          "pageJsonFileName": "430132_efd0e433f536f05ce4178286933b4b06_1692"
+        },
+        "vskgv": {
+          "pageId": "vskgv",
+          "title": "Fullscreen Page",
+          "pageUriSEO": "fullscreen-page",
+          "pageJsonFileName": "430132_2bde44f90827df13e7f68d9ab8eac846_1692"
+        },
+        "t6nmu": {
+          "pageId": "t6nmu",
+          "title": "Ads Named Desire",
+          "pageUriSEO": "ads-named-desire",
+          "pageJsonFileName": "430132_d1682cf4ccdcdb59f81c17586cf12e37_1692"
+        },
+        "r77v9": {
+          "pageId": "r77v9",
+          "title": "Breathe",
+          "pageUriSEO": "breathe",
+          "pageJsonFileName": "430132_2ada6a981b563a580504265a68df626c_1692"
+        },
+        "jih9d": {
+          "pageId": "jih9d",
+          "title": "01001001 00100000 01000100 01001111",
+          "pageUriSEO": "01001001-00100000-01000100-01001111",
+          "pageJsonFileName": "430132_5b43b7a9e6dd02aff2961717e5fa28bf_1692"
+        },
+        "k0zeo": {
+          "pageId": "k0zeo",
+          "title": "The Clock",
+          "pageUriSEO": "the-clock",
+          "pageJsonFileName": "430132_c75250185bda336d5dca8a253b46a228_1692"
+        },
+        "m6uvu": {
+          "pageId": "m6uvu",
+          "title": "Random Thoughts",
+          "pageUriSEO": "random-thoughts",
+          "pageJsonFileName": "430132_018b10bc7f57651552b920279e9ade17_1692"
+        },
+        "gbfcz": {
+          "pageId": "gbfcz",
+          "title": "Song of a Lonely Bird, a Re-Creation",
+          "pageUriSEO": "song-of-a-lonely-bird-a-re-creation",
+          "pageJsonFileName": "430132_746c38bf45a34ee31e02d3d15b9053cf_1692"
+        },
+        "nzcs1": {
+          "pageId": "nzcs1",
+          "title": "Mirage",
+          "pageUriSEO": "mirage",
+          "pageJsonFileName": "430132_04ce639d562489cb18b2369cfc91fc14_1692"
+        },
+        "bjebw": {
+          "pageId": "bjebw",
+          "title": "Artist Statement",
+          "pageUriSEO": "artist-statement",
+          "pageJsonFileName": "430132_2def4e53521490d8f73811e72bee92a8_1692"
+        },
+        "r59l2": {
+          "pageId": "r59l2",
+          "title": "On the Distinctions",
+          "pageUriSEO": "on-the-distinctions-between-ai-works-and-art-works",
+          "pageJsonFileName": "430132_55afb7d6e2026268c6accac0fe71c68e_1692"
+        },
+        "llwb9": {
+          "pageId": "llwb9",
+          "title": "Museum Guard Tutorial",
+          "pageUriSEO": "museum-guard-tutorial",
+          "pageJsonFileName": "430132_4a541e5b50e0873de674a1fb5cc54e6c_1692"
+        },
+        "z4634": {
+          "pageId": "z4634",
+          "title": "Aesthetics Under the Microscope",
+          "pageUriSEO": "aesthetics-under-the-microscope",
+          "pageJsonFileName": "430132_f620c0ead6d9d5db67bd4e017adfbeee_1692"
+        }
+      },
+      "disableStaticPagesUrlHierarchy": false,
+      "routes": {
+        "./peace-and-peace": {
+          "type": "Static",
+          "pageId": "pnmxa"
+        },
+        "./projects": {
+          "type": "Static",
+          "pageId": "k3lv9"
+        },
+        "./the-ninth-marriage": {
+          "type": "Static",
+          "pageId": "ww4gh"
+        },
+        "./oblivio": {
+          "type": "Static",
+          "pageId": "otvmv"
+        },
+        "./info": {
+          "type": "Static",
+          "pageId": "ms22a"
+        },
+        "./on-the-avant-garde-responses-and-how-an-artwork-can-stand-out": {
+          "type": "Static",
+          "pageId": "sa2la"
+        },
+        "./pointillism": {
+          "type": "Static",
+          "pageId": "ma2pf"
+        },
+        "./hydrogen-balloon": {
+          "type": "Static",
+          "pageId": "sbudu"
+        },
+        "./maslows-hierarchy-of-needs": {
+          "type": "Static",
+          "pageId": "ris5e"
+        },
+        "./texts": {
+          "type": "Static",
+          "pageId": "m1tpo"
+        },
+        "./aphasia-describe-the-city-you-live-in": {
+          "type": "Static",
+          "pageId": "dd72u"
+        },
+        "./song-of-a-lonely-bird": {
+          "type": "Static",
+          "pageId": "ribtt"
+        },
+        "./film-pd-art-direction": {
+          "type": "Static",
+          "pageId": "znrpg"
+        },
+        "./dear-water": {
+          "type": "Static",
+          "pageId": "ry8z6"
+        },
+        "./fullscreen-page": {
+          "type": "Static",
+          "pageId": "vskgv"
+        },
+        "./ads-named-desire": {
+          "type": "Static",
+          "pageId": "t6nmu"
+        },
+        "./breathe": {
+          "type": "Static",
+          "pageId": "r77v9"
+        },
+        "./01001001-00100000-01000100-01001111": {
+          "type": "Static",
+          "pageId": "jih9d"
+        },
+        "./the-clock": {
+          "type": "Static",
+          "pageId": "k0zeo"
+        },
+        "./random-thoughts": {
+          "type": "Static",
+          "pageId": "m6uvu"
+        },
+        "./song-of-a-lonely-bird-a-re-creation": {
+          "type": "Static",
+          "pageId": "gbfcz"
+        },
+        "./mirage": {
+          "type": "Static",
+          "pageId": "nzcs1"
+        },
+        "./artist-statement": {
+          "type": "Static",
+          "pageId": "bjebw"
+        },
+        "./on-the-distinctions-between-ai-works-and-art-works": {
+          "type": "Static",
+          "pageId": "r59l2"
+        },
+        "./museum-guard-tutorial": {
+          "type": "Static",
+          "pageId": "llwb9"
+        },
+        "./aesthetics-under-the-microscope": {
+          "type": "Static",
+          "pageId": "z4634"
+        },
+        "./": {
+          "type": "Static",
+          "pageId": "k3lv9"
+        }
+      },
+      "pageIdToPrefix": {},
+      "isWixSite": false,
+      "isBuilderComponentModel": false,
+      "partialRouteMatchingAllowed": true
+    },
+    "searchWixCodeSdk": {
+      "language": "en"
+    },
+    "seo": {
+      "context": {
+        "siteName": "Jiaqi Liu",
+        "siteUrl": "https://www.jiaqiliu.com",
+        "domain": "jiaqiliu.com",
+        "indexSite": true,
+        "defaultUrl": "https://www.jiaqiliu.com/dear-water",
+        "currLangIsOriginal": true,
+        "homePageTitle": "Projects",
+        "businesLocale": "en-us",
+        "currency": "USD",
+        "experiments": {
+          "specs.seo.EnableFaqSD": "false",
+          "specs.seo.enableLangCheck": "true",
+          "specs.seo.useChunkedSiteStructureForMembersArea": "true"
+        },
+        "platformAppsExperiments": {
+          "675bbcef-18d8-41f5-800e-131ec9e08762": {
+            "specs.wixCode.LoadWithImportAMDModule": "true",
+            "specs.wixCode.LoadNamespacesPerPage": "false",
+            "specs.wixcode.ViewerExperimentOwnerScopeTest": "true",
+            "specs.wixCode.resolveMissingPlatformNamespaces": "false",
+            "specs.wixcode.ViewerExperimentTest": "false"
+          },
+          "14409595-f076-4753-8303-9a86f9f71469": {
+            "vodMigrateToEntitlements": "A",
+            "specs.vod.iosHlsJsOverrideNative": "true",
+            "specs.vod.VodWidgetNewSettingsResponsive": "true",
+            "vodMigrateThumbnailsWDS": "A",
+            "vodMigrateThumbnailsToWDS": "A",
+            "specs.vod.OoiEditorFlow": "true"
+          },
+          "14271d6f-ba62-d045-549b-ab972ae1f70e": {
+            "specs.pro-gallery.displayPreset14": "true",
+            "specs.pro-gallery.removeUseOfCounterApi": "true",
+            "specs.pro-gallery.horizontalScrollAnimations": "true",
+            "specs.pro-gallery.useImageAvifFormat": "true",
+            "specs.pro-gallery.EnableAlbumsStorePremiumValidation": "true",
+            "specs.pro-gallery.removePgStoreTab": "true",
+            "specs.pro-gallery.backgroundDesignFullscreen": "true",
+            "specs.pro-gallery.useMotherSiteAppInstance": "true",
+            "specs.pro-gallery.addSEOVideoMetaTags": "false",
+            "specs.pro-gallery.enableMainLightroomSettingsButton": "true",
+            "specs.pro-gallery.displayPreset17": "false",
+            "specs.pro-gallery.slideTransition": "true",
+            "specs.proGallery.shouldShowNewPanels": "false",
+            "specs.pro-gallery.displayProGalleryPresets": "true",
+            "specs.pro-gallery.navigationArrowsDrawer": "true",
+            "specs.pro-gallery.horizontalTitlePlacementOptions": "true",
+            "specs.pro-gallery.artstoreShowDeprecationMessageInSettings": "false",
+            "useProGalleryNewServices": "A",
+            "specs.pro-gallery.navArrowsVericalPositionController": "true",
+            "specs.pro-gallery.enablePGRenderIndicator": "false",
+            "specs.pro-gallery.excludeFromWarmupData": "false",
+            "specs.pro-gallery.customNavigationArrows": "true",
+            "specs.pro-gallery.fixedGalleryRatio": "true",
+            "specs.pro-gallery.displayProGalleryNewPreset": "true",
+            "specs.pro-gallery.useReactionService": "true",
+            "specs.pro-gallery.textBoxWidthControllers": "true",
+            "specs.pro-gallery.allowOverlayGradient": "true",
+            "specs.pro-gallery.excludeFromLayoutFixer": "false",
+            "specs.pro-gallery.useIsInFirstFold": "false",
+            "specs.pro-gallery.dontRenderGalleryBelowFoldOnLoad": "false",
+            "specs.pro-gallery.enableLightroomSettingsButton": "true",
+            "specs.pro-gallery.displayPreset16": "true",
+            "specs.pro-gallery.displayProGallerySEOSettings": "false",
+            "specs.pro-gallery.imageEditing": "b",
+            "specs.pro-gallery.useWowImageRenderer": "false",
+            "specs.pro-gallery.useWarmupData": "true",
+            "specs.pro-gallery.enableFullResFeature": "true",
+            "specs.pro-gallery.slideAnimationDeck": "true",
+            "specs.pro-gallery.useReactPortalInArtStore": "true",
+            "specs.pro-gallery.blockOAP": "false",
+            "specs.pro-gallery.useServerBlueprints-viewer": "false",
+            "specs.pro-gallery.excludeFromThinLinesFix": "false",
+            "specs.pro-gallery.excludeFromHlsVideosOnIphone": "true",
+            "excludeFromHlsVideosNew": "A",
+            "specs.pro-gallery.removeRoleApplication": "true",
+            "specs.pro-gallery.tryCentralizedConduction": "false",
+            "specs.pro-gallery.organizeMediaMultiTypes": "true",
+            "specs.pro-gallery.useServerBlueprints-preview": "false",
+            "specs.pro-gallery.displayPreset15": "true",
+            "specs.pro-gallery.enableVideoPlaceholder": "true",
+            "specs.pro-gallery.organizeMediaAltText": "b",
+            "specs.pro-gallery.overlayDesign": "true",
+            "specs.pro-gallery.shouldUseVirtualization": "true",
+            "specs.pro-gallery.disableImagePreload": "true",
+            "specs.pro-gallery.excludeFromPrerenderPerformance": "false",
+            "specs.pro-gallery.appSettings": "true"
+          }
+        }
+      },
+      "userPatterns": [],
+      "metaTags": [
+        {
+          "name": "fb_admins_meta_tag",
+          "value": "",
+          "property": false
+        },
+        {
+          "name": "google-site-verification",
+          "value": "iPhUxM6zEjE5g3u8kEIwHDVML74w6xcrwoMP5YPBcqg",
+          "property": false
+        }
+      ],
+      "customHeadTags": "",
+      "isInSEO": false,
+      "hasBlogAmp": false,
+      "mainPageId": "k3lv9",
+      "listPageIds": []
+    },
+    "serviceRegistrar": {},
+    "sessionManager": {
+      "isRunningInDifferentSiteContext": false,
+      "expiryTimeoutOverride": 0,
+      "appsInstances": {},
+      "sessionModel": {}
+    },
+    "siteMembersWixCodeSdk": {
+      "isPreviewMode": false,
+      "isEditMode": false,
+      "smToken": "",
+      "smcollectionId": "3bb113b7-6417-4ba8-b002-c1e2d0e8379f"
+    },
+    "siteMembers": {
+      "collectionExposure": "Public",
+      "smcollectionId": "3bb113b7-6417-4ba8-b002-c1e2d0e8379f",
+      "smToken": "",
+      "protectedHomepage": false,
+      "isTemplate": false,
+      "loginSocialBarOnSite": false,
+      "routerPrefix": "",
+      "isCommunityInstalled": false,
+      "baseUrl": "https://www.jiaqiliu.com"
+    },
+    "siteScrollBlocker": {
+      "isBuilderComponentModel": false
+    },
+    "siteWixCodeSdk": {
+      "fontFaceServerUrl": "https://serverless.parastorage.com/_serverless/site-sdk-server/v1/style",
+      "siteDisplayName": "Jiaqi Liu",
+      "siteRevision": 1692,
+      "regionalSettings": "en-us",
+      "language": "en",
+      "currency": "USD",
+      "mainPageId": "k3lv9",
+      "pageIdToPrefix": {},
+      "routerPrefixes": {},
+      "timezone": "America/New_York",
+      "pageIdToTitle": {
+        "pnmxa": "Peace and Peace",
+        "k3lv9": "Projects",
+        "ww4gh": "The Ninth Marriage",
+        "otvmv": "Oblivio",
+        "ms22a": "Info",
+        "sa2la": "On the Avant-Garde",
+        "ma2pf": "Pointillism",
+        "sbudu": "Hydrogen Balloon",
+        "ris5e": "Maslow's Hierarchy of Needs",
+        "m1tpo": "Texts",
+        "dd72u": "ApHasiA: Describe the City You Live in",
+        "ribtt": "Song of a Lonely Bird",
+        "znrpg": "Film Production Design & Art Direction",
+        "ry8z6": "Dear Water,",
+        "vskgv": "Fullscreen Page",
+        "t6nmu": "Ads Named Desire",
+        "r77v9": "Breathe",
+        "jih9d": "01001001 00100000 01000100 01001111",
+        "k0zeo": "The Clock",
+        "m6uvu": "Random Thoughts",
+        "gbfcz": "Song of a Lonely Bird, a Re-Creation",
+        "nzcs1": "Mirage",
+        "bjebw": "Artist Statement",
+        "r59l2": "On the Distinctions",
+        "llwb9": "Museum Guard Tutorial",
+        "z4634": "Aesthetics Under the Microscope"
+      },
+      "urlMappings": null,
+      "viewMode": "Site"
+    },
+    "speculationRules": {
+      "currentPagePath": "/dear-water"
+    },
+    "ssrCache": {},
+    "tpaCommons": {
+      "widgetsClientSpecMapData": {
+        "141995eb-c700-8487-6366-a482f7432e2b": {
+          "widgetUrl": "https://so-feed.codev.wixapps.net/widget",
+          "mobileUrl": "https://so-feed.codev.wixapps.net/widget",
+          "tpaWidgetId": "shoutout_feed",
+          "appPage": {},
+          "applicationId": 31,
+          "appDefinitionName": "ShoutOut (Legacy)",
+          "appDefinitionId": "135c3d92-0fea-1f9d-2ba5-2a1dfb04297e",
+          "isWixTPA": true,
+          "allowScrolling": false
+        },
+        "2421f8bc-e686-4c32-8ab6-bc8e0d8b7455": {
+          "widgetUrl": "/",
+          "appPage": {},
+          "applicationId": 46,
+          "appDefinitionName": "Wix CMS",
+          "appDefinitionId": "e593b0bd-b783-45b8-97c2-873d42aacaf4",
+          "isWixTPA": true,
+          "allowScrolling": false
+        },
+        "8039fd6a-054b-4289-8bd3-36035c51ecad": {
+          "widgetUrl": "/",
+          "appPage": {},
+          "applicationId": 47,
+          "appDefinitionName": "Twipla Session Recordings",
+          "appDefinitionId": "dad178e5-571d-45bf-89a0-c1f97242199f",
+          "isWixTPA": false,
+          "allowScrolling": false
+        },
+        "55adbbae-6799-44b3-98e4-ad5b2667a85b": {
+          "widgetUrl": "/",
+          "appPage": {},
+          "applicationId": 47,
+          "appDefinitionName": "Twipla Session Recordings",
+          "appDefinitionId": "dad178e5-571d-45bf-89a0-c1f97242199f",
+          "isWixTPA": false,
+          "allowScrolling": false
+        },
+        "142bb34d-3439-576a-7118-683e690a1e0d": {
+          "widgetUrl": "https://progallery.wixapps.net/gallery.html",
+          "mobileUrl": "https://progallery.wixapps.net/gallery.html",
+          "tpaWidgetId": "pro-gallery",
+          "appPage": {},
+          "applicationId": 3388,
+          "appDefinitionName": "Wix Pro Gallery",
+          "appDefinitionId": "14271d6f-ba62-d045-549b-ab972ae1f70e",
+          "isWixTPA": true,
+          "allowScrolling": false
+        },
+        "144f04b9-aab4-fde7-179b-780c11da4f46": {
+          "widgetUrl": "https://progallery.wixapps.net/fullscreen",
+          "mobileUrl": "https://progallery.wixapps.net/fullscreen",
+          "appPage": {
+            "id": "fullscreen_page",
+            "name": "Fullscreen Page",
+            "defaultPage": "",
+            "hidden": true,
+            "multiInstanceEnabled": false,
+            "order": 1,
+            "indexable": true,
+            "fullPage": true,
+            "landingPageInMobile": false,
+            "hideFromMenu": true
+          },
+          "applicationId": 3388,
+          "appDefinitionName": "Wix Pro Gallery",
+          "appDefinitionId": "14271d6f-ba62-d045-549b-ab972ae1f70e",
+          "isWixTPA": true,
+          "allowScrolling": true
+        }
+      },
+      "appsClientSpecMapData": {
+        "135c3d92-0fea-1f9d-2ba5-2a1dfb04297e": {
+          "applicationId": 31,
+          "appDefinitionName": "ShoutOut (Legacy)",
+          "appFields": {
+            "premiumBundle": {
+              "parentAppSlug": "ee21fe60-48c5-45e9-95f4-6ca8f9b1c9d9",
+              "parentAppId": "ee21fe60-48c5-45e9-95f4-6ca8f9b1c9d9"
+            },
+            "permissionsEnforced": false,
+            "blocksPermissionsEnforced": false,
+            "isStandalone": true,
+            "semanticVersion": "^0.4061.0",
+            "hipaaCompliant": true
+          },
+          "isWixTPA": true
+        },
+        "e593b0bd-b783-45b8-97c2-873d42aacaf4": {
+          "applicationId": 46,
+          "appDefinitionName": "Wix CMS",
+          "appFields": {
+            "platform": {
+              "editorScriptUrl": "https://static.parastorage.com/services/wix-data-client-app/1.29.0/webworker/wixDataEditor.umd.min.js",
+              "editorScriptUrlTemplate": "<%= serviceUrl('wix-data-client-app', 'webworker/wixDataEditor.umd.min.js') %>"
+            },
+            "permissionsEnforced": false,
+            "blocksPermissionsEnforced": false,
+            "isStandalone": true,
+            "semanticVersion": "^2.121.0",
+            "hipaaCompliant": true
+          },
+          "isWixTPA": true
+        },
+        "dad178e5-571d-45bf-89a0-c1f97242199f": {
+          "applicationId": 47,
+          "appDefinitionName": "Twipla Session Recordings",
+          "appFields": {
+            "permissionsEnforced": true,
+            "blocksPermissionsEnforced": false,
+            "isStandalone": true,
+            "semanticVersion": "^2.0.0",
+            "installedVersion": "^2.0.0"
+          },
+          "isWixTPA": false
+        },
+        "14271d6f-ba62-d045-549b-ab972ae1f70e": {
+          "applicationId": 3388,
+          "appDefinitionName": "Wix Pro Gallery",
+          "appFields": {
+            "platform": {
+              "baseUrls": {
+                "siteAssets": "{urlTemplate: {siteAssets}?siteId=ce7fd828-85c4-4b73-a390-d293eae32cec&metaSiteId=5af77ffc-cae0-4550-8a1e-4a85ff049a48&siteRevision=25",
+                "blocks_widgetManifestsUrl": "/manifests/14271d6f-ba62-d045-549b-ab972ae1f70e/25/manifests.json",
+                "santaWrapperBaseUrl": "https://static.parastorage.com/services/pro-gallery-tpa/1.1531.0/"
+              },
+              "margins": {
+                "desktop": {
+                  "top": {},
+                  "right": {},
+                  "bottom": {},
+                  "left": {}
+                },
+                "tablet": {
+                  "top": {},
+                  "right": {},
+                  "bottom": {},
+                  "left": {}
+                },
+                "mobile": {
+                  "top": {},
+                  "right": {},
+                  "bottom": {},
+                  "left": {}
+                }
+              },
+              "height": {
+                "desktop": {},
+                "tablet": {},
+                "mobile": {}
+              },
+              "cloneAppDataUrl": "https://progallery.wixapps.net/_api/gallery/clone",
+              "editorScriptUrl": "https://static.parastorage.com/services/pro-gallery-tpa/1.1531.0/editorScript.bundle.min.js",
+              "docking": {
+                "desktop": {},
+                "tablet": {},
+                "mobile": {}
+              },
+              "viewerScriptUrl": "https://static.parastorage.com/services/pro-gallery-tpa/1.1531.0/viewerScript.bundle.min.js",
+              "errorReporting": {
+                "url": "https://8eb368c655b84e029ed79ad7a5c1718e@sentry.wixpress.com/3427"
+              },
+              "width": {
+                "desktop": {},
+                "tablet": {},
+                "mobile": {}
+              },
+              "shouldCloneDataPerComponent": true,
+              "viewer": {
+                "errorReporting": {
+                  "url": "https://8eb368c655b84e029ed79ad7a5c1718e@sentry.wixpress.com/3427"
+                }
+              },
+              "studio": {
+                "siteHeaderUrl": "a7dbf879980a8e90e03d649b6f48fac4_r3.json",
+                "wixCodeGridId": "71869e96-79b7-49b9-b6f9-e32bcf00ac52",
+                "wixCodeInstanceId": "4655355b-4814-4846-b82a-e057f0df94a3"
+              }
+            },
+            "permissionsEnforced": false,
+            "blocksPermissionsEnforced": false,
+            "isStandalone": true,
+            "semanticVersion": "^0.979.0",
+            "hipaaCompliant": true
+          },
+          "isWixTPA": true
+        }
+      },
+      "previewMode": false,
+      "siteRevision": 1692,
+      "viewMode": "site",
+      "editorOrSite": "site",
+      "userFileDomainUrl": "filesusr.com",
+      "metaSiteId": "875b1af8-5901-4e86-85cf-992ed48034ee",
+      "isPremiumDomain": true,
+      "routersConfig": {},
+      "routerByPrefix": {},
+      "pageIdToPrefix": {},
+      "externalBaseUrl": "https://www.jiaqiliu.com",
+      "tpaModalConfig": {
+        "wixTPAs": {
+          "13ee94c1-b635-8505-3391-97919052c16f": true,
+          "55cd9036-36bb-480b-8ddc-afda3cb2eb8d": true,
+          "35aec784-bbec-4e6e-abcb-d3d724af52cf": true,
+          "8ea9df15-9ff6-4acf-bbb8-8d3a69ae5841": true,
+          "14bca956-e09f-f4d6-14d7-466cb3f09103": true,
+          "141fbfae-511e-6817-c9f0-48993a7547d1": true,
+          "150ae7ee-c74a-eecd-d3d7-2112895b988a": true,
+          "a322993b-2c74-426f-bbb8-444db73d0d1b": true,
+          "f123e8f1-4350-4c9b-b269-04adfadda977": true,
+          "9bead16f-1c73-4cda-b6c4-28cff46988db": true,
+          "1480c568-5cbd-9392-5604-1148f5faffa0": true,
+          "13aa9735-aa50-4bdb-877c-0bb46804bd71": true,
+          "d70b68e2-8d77-4e0c-9c00-c292d6e0025e": true,
+          "14b89688-9b25-5214-d1cb-a3fb9683618b": true,
+          "135c3d92-0fea-1f9d-2ba5-2a1dfb04297e": true,
+          "146c0d71-352e-4464-9a03-2e868aabe7b9": true,
+          "139ef4fa-c108-8f9a-c7be-d5f492a2c939": true,
+          "307ba931-689c-4b55-bb1d-6a382bad9222": true,
+          "94bc563b-675f-41ad-a2a6-5494f211c47b": true,
+          "4b10fcce-732d-4be3-9d46-801d271acda9": true,
+          "ea2821fc-7d97-40a9-9f75-772f29178430": true,
+          "8725b255-2aa2-4a53-b76d-7d3c363aaeea": true,
+          "8d8ba777-9a97-4f63-88da-3d21f7914863": true,
+          "e4b5f1bc-c77a-4319-a60d-a46acb17f6fc": true,
+          "eec3496e-44a8-45ac-9581-868a67345be8": true,
+          "14e12b04-943e-fd32-456d-70b1820a2ff2": true,
+          "1973457f-c021-4da5-941f-58444ff761d4": true,
+          "2f70e2b4-ff36-472e-bdb9-ce393b13669e": true,
+          "e593b0bd-b783-45b8-97c2-873d42aacaf4": true,
+          "14271d6f-ba62-d045-549b-ab972ae1f70e": true
+        }
+      },
+      "appSectionParams": {},
+      "requestUrl": "https://www.jiaqiliu.com/dear-water",
+      "isMobileView": false,
+      "isMobileDevice": false,
+      "deviceType": "desktop",
+      "extras": {
+        "currency": "USD"
+      },
+      "tpaDebugParams": {
+        "debugApp": null,
+        "petri_ovr": null
+      },
+      "locale": "en",
+      "timeZone": "America/New_York",
+      "shouldRenderTPAsIframe": true,
+      "debug": false,
+      "regionalLanguage": "en",
+      "isBuilderComponentModel": false,
+      "fragmentInstanceToPageId": {}
+    },
+    "widgetWixCodeSdk": {
+      "isBuilderComponentModel": false
+    },
+    "windowWixCodeSdk": {
+      "locale": "en-us",
+      "isMobileFriendly": true,
+      "formFactor": "Desktop",
+      "pageIdToRouterAppDefinitionId": {}
+    },
+    "wixEmbedsApi": {
+      "isAdminPage": false
+    },
+    "platform": {
+      "sdksStaticPaths": {
+        "mainSdks": "https://static.parastorage.com/services/wix-thunderbolt/dist/mainSdks.0ea35b23.chunk.min.js",
+        "nonMainSdks": "https://static.parastorage.com/services/wix-thunderbolt/dist/nonMainSdks.572d87d3.chunk.min.js"
+      },
+      "landingPageId": "ry8z6",
+      "clientWorkerUrl": "https://static.parastorage.com/services/wix-thunderbolt/dist/clientWorker.76e052f2.bundle.min.js",
+      "bootstrapData": {
+        "isMobileView": false,
+        "isMobileAppBuilder": false,
+        "appsSpecData": {
+          "675bbcef-18d8-41f5-800e-131ec9e08762": {
+            "appDefinitionId": "675bbcef-18d8-41f5-800e-131ec9e08762",
+            "type": "siteextension",
+            "instanceId": "9c36542a-1016-4c2e-bd35-298ce122561c",
+            "isIdentityTokenAppSpec": false,
+            "isModuleFederated": false
+          },
+          "14271d6f-ba62-d045-549b-ab972ae1f70e": {
+            "appDefinitionId": "14271d6f-ba62-d045-549b-ab972ae1f70e",
+            "type": "public",
+            "instanceId": "86851598-216d-46ca-b2a5-d4748fbb7b29",
+            "appDefinitionName": "Wix Pro Gallery",
+            "isWixTPA": true,
+            "isIdentityTokenAppSpec": false,
+            "isModuleFederated": false
+          },
+          "dataBinding": {
+            "appDefinitionId": "dataBinding",
+            "type": "application",
+            "instanceId": "9c36542a-1016-4c2e-bd35-298ce122561c",
+            "appDefinitionName": "Data Binding",
+            "isWixTPA": true,
+            "isIdentityTokenAppSpec": false,
+            "isModuleFederated": false
+          }
+        },
+        "appsUrlData": {
+          "14271d6f-ba62-d045-549b-ab972ae1f70e": {
+            "appDefId": "14271d6f-ba62-d045-549b-ab972ae1f70e",
+            "appDefName": "Wix Pro Gallery",
+            "viewerScriptUrl": "https://static.parastorage.com/services/pro-gallery-tpa/1.1531.0/viewerScript.bundle.min.js",
+            "baseUrls": {
+              "siteAssets": "{urlTemplate: {siteAssets}?siteId=ce7fd828-85c4-4b73-a390-d293eae32cec&metaSiteId=5af77ffc-cae0-4550-8a1e-4a85ff049a48&siteRevision=25",
+              "blocks_widgetManifestsUrl": "/manifests/14271d6f-ba62-d045-549b-ab972ae1f70e/25/manifests.json",
+              "santaWrapperBaseUrl": "https://static.parastorage.com/services/pro-gallery-tpa/1.1531.0/"
+            },
+            "errorReportingUrl": "https://8eb368c655b84e029ed79ad7a5c1718e@sentry.wixpress.com/3427",
+            "widgets": {
+              "142bb34d-3439-576a-7118-683e690a1e0d": {
+                "controllerUrl": "https://static.parastorage.com/services/pro-gallery-tpa/1.1531.0/WixProGalleryController.bundle.min.js",
+                "componentUrl": "https://static.parastorage.com/services/pro-gallery-tpa/1.1531.0/WixProGalleryViewerWidget.bundle.min.js",
+                "noCssComponentUrl": "",
+                "errorReportingUrl": "https://8eb368c655b84e029ed79ad7a5c1718e@sentry.wixpress.com/3427",
+                "widgetId": "142bb34d-3439-576a-7118-683e690a1e0d"
+              },
+              "144f04b9-aab4-fde7-179b-780c11da4f46": {
+                "controllerUrl": "",
+                "componentUrl": "",
+                "noCssComponentUrl": "",
+                "errorReportingUrl": "https://8eb368c655b84e029ed79ad7a5c1718e@sentry.wixpress.com/3427",
+                "widgetId": "144f04b9-aab4-fde7-179b-780c11da4f46"
+              }
+            }
+          },
+          "dataBinding": {
+            "appDefId": "dataBinding",
+            "appDefName": "Data Binding",
+            "viewerScriptUrl": "https://static.parastorage.com/services/dbsm-viewer-app/1.9044.0/app.js",
+            "baseUrls": {},
+            "widgets": {}
+          },
+          "675bbcef-18d8-41f5-800e-131ec9e08762": {
+            "appDefId": "675bbcef-18d8-41f5-800e-131ec9e08762",
+            "viewerScriptUrl": "https://static.parastorage.com/services/wix-code-viewer-app/1.1479.751/app.js",
+            "baseUrls": {},
+            "widgets": {}
+          }
+        },
+        "builderComponentsImportMapSdkUrls": {},
+        "builderComponentsCompTypeSdkUrls": {},
+        "builderPublicPackagesUrls": {
+          "esm": {},
+          "umd": {}
+        },
+        "blocksBootstrapData": {
+          "blocksAppsData": {
+            "14271d6f-ba62-d045-549b-ab972ae1f70e": {
+              "siteHeaderUrl": "a7dbf879980a8e90e03d649b6f48fac4_r3.json",
+              "wixCodeGridId": "71869e96-79b7-49b9-b6f9-e32bcf00ac52",
+              "wixCodeInstanceId": "4655355b-4814-4846-b82a-e057f0df94a3"
+            }
+          },
+          "elevatedBlocksAppsOnReactNative": [],
+          "experiments": {
+            "specs.blocks-client.alwaysUseTokenInfoForDecode": "true"
+          },
+          "experimentsQueryParams": "init-platform-api-provider=true&get-app-def-id-from-package-name=false&disable-yarn-pnp-mode=false",
+          "widgetBundleUrls": {},
+          "isVeloBundlerParastorageUrlEnabled": true,
+          "parastorageTemplateUrl": "https://bundler-velo.parastorage.com/v_metaSiteId_/gridAppId_/filePath_/fileType_js/compression_gzip/depToken_3938/bundlerRuntimeExperiments_bundlerTrafficToAws-typescriptListExportedFunctions/additionalOptions_"
+        },
+        "window": {
+          "csrfToken": ""
+        },
+        "location": {
+          "externalBaseUrl": "https://www.jiaqiliu.com",
+          "isPremiumDomain": true,
+          "metaSiteId": "875b1af8-5901-4e86-85cf-992ed48034ee",
+          "userFileDomainUrl": "filesusr.com"
+        },
+        "bi": {
+          "ownerId": "43013204-000d-4f73-9cc1-4a517b553cb9",
+          "isMobileFriendly": true,
+          "isPreview": false,
+          "requestId": "1789416843.357868559631431"
+        },
+        "platformAPIData": {
+          "routersConfigMap": {}
+        },
+        "wixCodeBootstrapData": {
+          "wixCodeAppDefinitionId": "675bbcef-18d8-41f5-800e-131ec9e08762",
+          "wixCodeInstanceId": "9c36542a-1016-4c2e-bd35-298ce122561c",
+          "wixCloudBaseDomain": "wix-code.com",
+          "dbsmViewerApp": "https://static.parastorage.com/services/dbsm-viewer-app/1.9044.0",
+          "wixCodePlatformBaseUrl": "https://static.parastorage.com/services/wix-code-platform/1.1097.93",
+          "wixCodeModel": {
+            "appData": {
+              "codeAppId": "ed08b42d-c318-4c02-bde5-04e16d39064b"
+            },
+            "signedAppRenderInfo": "d00960af5098b3ffe627e546f7c89ed71b820f0a.eyJncmlkQXBwSWQiOiJlZDA4YjQyZC1jMzE4LTRjMDItYmRlNS0wNGUxNmQzOTA2NGIiLCJodG1sU2l0ZUlkIjoiNjdjNTA5YzQtMjgzZS00MmY2LTg4ODQtM2U5MmJlMTg3NDM1IiwiZGVtb0lkIjpudWxsLCJzaWduRGF0ZSI6MTc4OTQxNjg0MzQ0OX0="
+          },
+          "wixCodePageIds": {},
+          "elementorySupport": {
+            "baseUrl": "https://www.jiaqiliu.com/_api/wix-code-public-dispatcher-ng/siteview"
+          },
+          "codePackagesData": []
+        },
+        "autoFrontendModulesBaseUrl": "https://static.parastorage.com/services/auto-frontend-modules/1.6238.0",
+        "disabledPlatformApps": {},
+        "widgetsClientSpecMapData": {
+          "675bbcef-18d8-41f5-800e-131ec9e08762": {},
+          "14271d6f-ba62-d045-549b-ab972ae1f70e": {
+            "142bb34d-3439-576a-7118-683e690a1e0d": {
+              "widgetName": "pro-gallery",
+              "componentFields": {}
+            },
+            "144f04b9-aab4-fde7-179b-780c11da4f46": {
+              "widgetName": "fullscreen_page",
+              "componentFields": {}
+            }
+          },
+          "dataBinding": {}
+        },
+        "essentials": {
+          "appsConductedExperiments": {
+            "675bbcef-18d8-41f5-800e-131ec9e08762": {
+              "specs.wixCode.LoadWithImportAMDModule": "true",
+              "specs.wixCode.LoadNamespacesPerPage": "false",
+              "specs.wixcode.ViewerExperimentOwnerScopeTest": "true",
+              "specs.wixCode.resolveMissingPlatformNamespaces": "false",
+              "specs.wixcode.ViewerExperimentTest": "false"
+            },
+            "14409595-f076-4753-8303-9a86f9f71469": {
+              "vodMigrateToEntitlements": "A",
+              "specs.vod.iosHlsJsOverrideNative": "true",
+              "specs.vod.VodWidgetNewSettingsResponsive": "true",
+              "vodMigrateThumbnailsWDS": "A",
+              "vodMigrateThumbnailsToWDS": "A",
+              "specs.vod.OoiEditorFlow": "true"
+            },
+            "14271d6f-ba62-d045-549b-ab972ae1f70e": {
+              "specs.pro-gallery.displayPreset14": "true",
+              "specs.pro-gallery.removeUseOfCounterApi": "true",
+              "specs.pro-gallery.horizontalScrollAnimations": "true",
+              "specs.pro-gallery.useImageAvifFormat": "true",
+              "specs.pro-gallery.EnableAlbumsStorePremiumValidation": "true",
+              "specs.pro-gallery.removePgStoreTab": "true",
+              "specs.pro-gallery.backgroundDesignFullscreen": "true",
+              "specs.pro-gallery.useMotherSiteAppInstance": "true",
+              "specs.pro-gallery.addSEOVideoMetaTags": "false",
+              "specs.pro-gallery.enableMainLightroomSettingsButton": "true",
+              "specs.pro-gallery.displayPreset17": "false",
+              "specs.pro-gallery.slideTransition": "true",
+              "specs.proGallery.shouldShowNewPanels": "false",
+              "specs.pro-gallery.displayProGalleryPresets": "true",
+              "specs.pro-gallery.navigationArrowsDrawer": "true",
+              "specs.pro-gallery.horizontalTitlePlacementOptions": "true",
+              "specs.pro-gallery.artstoreShowDeprecationMessageInSettings": "false",
+              "useProGalleryNewServices": "A",
+              "specs.pro-gallery.navArrowsVericalPositionController": "true",
+              "specs.pro-gallery.enablePGRenderIndicator": "false",
+              "specs.pro-gallery.excludeFromWarmupData": "false",
+              "specs.pro-gallery.customNavigationArrows": "true",
+              "specs.pro-gallery.fixedGalleryRatio": "true",
+              "specs.pro-gallery.displayProGalleryNewPreset": "true",
+              "specs.pro-gallery.useReactionService": "true",
+              "specs.pro-gallery.textBoxWidthControllers": "true",
+              "specs.pro-gallery.allowOverlayGradient": "true",
+              "specs.pro-gallery.excludeFromLayoutFixer": "false",
+              "specs.pro-gallery.useIsInFirstFold": "false",
+              "specs.pro-gallery.dontRenderGalleryBelowFoldOnLoad": "false",
+              "specs.pro-gallery.enableLightroomSettingsButton": "true",
+              "specs.pro-gallery.displayPreset16": "true",
+              "specs.pro-gallery.displayProGallerySEOSettings": "false",
+              "specs.pro-gallery.imageEditing": "b",
+              "specs.pro-gallery.useWowImageRenderer": "false",
+              "specs.pro-gallery.useWarmupData": "true",
+              "specs.pro-gallery.enableFullResFeature": "true",
+              "specs.pro-gallery.slideAnimationDeck": "true",
+              "specs.pro-gallery.useReactPortalInArtStore": "true",
+              "specs.pro-gallery.blockOAP": "false",
+              "specs.pro-gallery.useServerBlueprints-viewer": "false",
+              "specs.pro-gallery.excludeFromThinLinesFix": "false",
+              "specs.pro-gallery.excludeFromHlsVideosOnIphone": "true",
+              "excludeFromHlsVideosNew": "A",
+              "specs.pro-gallery.removeRoleApplication": "true",
+              "specs.pro-gallery.tryCentralizedConduction": "false",
+              "specs.pro-gallery.organizeMediaMultiTypes": "true",
+              "specs.pro-gallery.useServerBlueprints-preview": "false",
+              "specs.pro-gallery.displayPreset15": "true",
+              "specs.pro-gallery.enableVideoPlaceholder": "true",
+              "specs.pro-gallery.organizeMediaAltText": "b",
+              "specs.pro-gallery.overlayDesign": "true",
+              "specs.pro-gallery.shouldUseVirtualization": "true",
+              "specs.pro-gallery.disableImagePreload": "true",
+              "specs.pro-gallery.excludeFromPrerenderPerformance": "false",
+              "specs.pro-gallery.appSettings": "true"
+            }
+          }
+        },
+        "forceEmptySdks": false,
+        "appDefIdToIsMigratedToGetPlatformApi": {
+          "675bbcef-18d8-41f5-800e-131ec9e08762": false,
+          "14271d6f-ba62-d045-549b-ab972ae1f70e": false,
+          "dataBinding": false
+        }
+      },
+      "appsScripts": {
+        "urls": {
+          "14271d6f-ba62-d045-549b-ab972ae1f70e": [
+            "https://static.parastorage.com/services/pro-gallery-tpa/1.1531.0/viewerScript.bundle.min.js",
+            "https://static.parastorage.com/services/pro-gallery-tpa/1.1531.0/WixProGalleryController.bundle.min.js"
+          ]
+        },
+        "scope": "page"
+      },
+      "debug": {
+        "disablePlatform": false,
+        "disableSnapshots": false,
+        "enableSnapshots": false
+      },
+      "isBuilderComponentModel": false
+    }
+  },
+  "siteFeatures": [
+    "accessibilityBrowserZoom",
+    "appMonitoring",
+    "assetsLoader",
+    "businessLogger",
+    "captcha",
+    "clickHandlerRegistrar",
+    "commonConfig",
+    "componentsRegistry",
+    "consentPolicy",
+    "cyclicTabbing",
+    "domSelectors",
+    "domStore",
+    "environmentWixCodeSdk",
+    "environment",
+    "externalServices",
+    "locationWixCodeSdk",
+    "mpaNavigation",
+    "navigationManager",
+    "navigationPhases",
+    "ooi",
+    "pages",
+    "panorama",
+    "renderer",
+    "reporter",
+    "router",
+    "scrollRestoration",
+    "seoWixCodeSdk",
+    "seo",
+    "sessionManager",
+    "siteMembersWixCodeSdk",
+    "siteMembers",
+    "siteScrollBlocker",
+    "siteWixCodeSdk",
+    "speculationRules",
+    "ssrCache",
+    "stores",
+    "structureApi",
+    "thunderboltInitializer",
+    "tpaCommons",
+    "translations",
+    "usedPlatformApis",
+    "warmupData",
+    "windowMessageRegistrar",
+    "windowWixCodeSdk",
+    "wixEmbedsApi",
+    "componentsLoader",
+    "componentsReact",
+    "platform"
+  ],
+  "experiments": {
+    "specs.thunderbolt.DisableSentry": true,
+    "specs.thunderbolt.cmsDprNamedQueryParam": true,
+    "specs.thunderbolt.viewport_hydration_extended_react_18": true,
+    "specs.thunderbolt.inMemoryPaypalAuthToken": true,
+    "specs.thunderbolt.roundBordersInResponsiveContainer": true,
+    "specs.thunderbolt.PanoramaErrorMonitor": true,
+    "specs.thunderbolt.userAsFactory": true,
+    "specs.thunderbolt.getMemberDetailsFromMembersNg": true,
+    "specs.thunderbolt.stopResolvingInnerSelectors_VAG": true,
+    "specs.thunderbolt.UseEEImpress": true,
+    "specs.thunderbolt.logVsmSiteMapDiff": true,
+    "specs.promote.ar.reportRestPurchaseEventsInsteadOfKafka": true,
+    "specs.thunderbolt.guardAnonymousRequireJsDefine": true,
+    "specs.thunderbolt.sendBiInlightbox": true,
+    "specs.thunderbolt.migrateSdkDataMappers": true,
+    "specs.thunderbolt.vsm_css": true,
+    "specs.thunderbolt.fixDisabledLinkButtonStyles": true,
+    "specs.thunderbolt.UseEcomFemBi": true,
+    "specs.thunderbolt.vsm_interactions_v1": true,
+    "specs.thunderbolt.browserZoomHandler": true,
+    "disableViewerModelInlineSeo": true,
+    "specs.thunderbolt.one_cell_grid_display_flex": true,
+    "specs.thunderbolt.siteMembersMultilingualLanguage": true,
+    "specs.thunderbolt.useClassnameInResponsiveAppWidget": true,
+    "specs.thunderbolt.shouldRunCodEmbedsCallbackOnce": true,
+    "specs.thunderbolt.componentCustomCss": true,
+    "specs.thunderbolt.globalVarsRefactor23": true,
+    "specs.thunderbolt.browserCacheReload": true,
+    "specs.thunderbolt.browserZoomMobileOnloadDetection": true,
+    "specs.thunderbolt.resolveSpxWithoutEditorCheck": true,
+    "specs.thunderbolt.useERCUndependentComp": true,
+    "shouldUseEditorElementsLoginSocialBarResponsiveStyling": true,
+    "specs.thunderbolt.shouldUseResponsiveImages": true,
+    "specs.thunderbolt.fedops_enableSampleRateForAppNames": true,
+    "specs.thunderbolt.WixFreeSiteBannerDesktop": true,
+    "specs.thunderbolt.dontTruncateScrollPosition": true,
+    "specs.thunderbolt.excludeInstanceFromQueryParams": true,
+    "specs.thunderbolt.vsmSiteMap": true,
+    "specs.thunderbolt.useLegacyLinkUtilsInPlatform": true,
+    "specs.thunderbolt.scopeRepeatedSelectors": true,
+    "specs.thunderbolt.fullPageNavigationSpecificSites": true,
+    "specs.thunderbolt.ComponentsRegistryFixAnonymousDefine": true,
+    "specs.thunderbolt.newTransitionEndHandlerLogic": true,
+    "specs.thunderbolt.postTransitionElementFocus": true,
+    "specs.thunderbolt.LoginSocialBarSplitStateProps": true,
+    "specs.thunderbolt.skipDecodeUri": true,
+    "specs.thunderbolt.logVsmPlatformDiff": true,
+    "specs.thunderbolt.uiTypeNativeMappers": true,
+    "specs.thunderbolt.SetNoCacheOnAppError": true,
+    "specs.thunderbolt.bundlerTrafficToAws": true,
+    "textMarqueePlayPauseA11y": true,
+    "specs.thunderbolt.HtmlComponentPropsMapper": true,
+    "paginationForcedColorsResponsiveNav": true,
+    "specs.thunderbolt.fixSafariTabHeight": true,
+    "specs.thunderbolt.UseOriginalBlocksAppInstance": true,
+    "specs.thunderbolt.showContentReflowBanner": true,
+    "specs.thunderbolt.removeDynamicModelTopologyFromSiteAssets": true,
+    "specs.thunderbolt.FreemiumBannerOdeditor": true,
+    "specs.thunderbolt.pageUrlRegexIgnoreSpace": true,
+    "specs.thunderbolt.UseLoginSocialBarCustomMenu": true,
+    "specs.thunderbolt.WRichTextPropsMapper": true,
+    "specs.thunderbolt.wixRealtimeGetAppTokenFromPlatformUtils": true,
+    "specs.thunderbolt.newLoginFlowOnProtectedCollection": true,
+    "specs.thunderbolt.deprecatewixperf": true,
+    "specs.thunderbolt.shouldSendCookiesForSiteMembersSettings": true,
+    "specs.thunderbolt.calculateHeadEmbedsInSSR": true,
+    "specs.thunderbolt.useNewRegisterLogin": true,
+    "specs.thunderbolt.useWowImageInFastGallery": true,
+    "specs.thunderbolt.shouldFixIosFlashBug": true,
+    "specs.thunderbolt.vsmFeaturesModule": true,
+    "specs.thunderbolt.builderBoxSizingBorderBox": true,
+    "omriTest2": true,
+    "specs.thunderbolt.headerUseMargins": true,
+    "specs.thunderbolt.popupCustom404": true,
+    "specs.thunderbolt.TextInputPrefixWidthFix": true,
+    "specs.thunderbolt.loadWebpackRuntimeInHead": true,
+    "specs.thunderbolt.returnToPreviousPageOnProtectedPageClose": true,
+    "specs.thunderbolt.lightboxFocusRestore": true,
+    "specs.thunderbolt.DatePickerPortal": true,
+    "specs.thunderbolt.dom_store": true,
+    "specs.thunderbolt.UseNewLoginSocialBarCustomMenuPositioning": true,
+    "specs.thunderbolt.siteButtonKeyboardBehavior": true,
+    "specs.thunderbolt.fixRemappedFullNameCompType": true,
+    "specs.os.EnableErrorHandlerInViewer": true,
+    "shouldUseMABuilderLoginSocialBarResponsiveStyling": true,
+    "specs.thunderbolt.ShouldUseNewIAMSocialFlow": true,
+    "specs.thunderbolt.lazy_load_iframe": true,
+    "specs.thunderbolt.namedRanges": true,
+    "specs.thunderbolt.useFragmentHrefForTopBottomAnchor": true,
+    "specs.thunderbolt.useSvgLoaderFeatureOnBuilderComps": true,
+    "specs.thunderbolt.useIAMEnabledConnections": true,
+    "specs.thunderbolt.StoresCartNullOnShippingInfo": true,
+    "specs.thunderbolt.logViewerModelDiff": true,
+    "specs.thunderbolt.vsmPlatform": true,
+    "specs.thunderbolt.securityExperiments": true,
+    "specs.thunderbolt.fixFirefoxLinkBarIntrinsicSizing": true,
+    "specs.thunderbolt.useElementoryRelativePath": true,
+    "specs.thunderbolt.customCssUseBaseUrl": true,
+    "sp.erc.MaskPanel": true,
+    "specs.thunderbolt.HamburgerMenuOverflowFix": true,
+    "specs.thunderbolt.preventGetMemberDetailsWaterfall": true,
+    "specs.thunderbolt.linkBarNativeMapper": true,
+    "specs.thunderbolt.outlineCss": true,
+    "specs.thunderbolt.wrichtextListInRtl": true,
+    "specs.thunderbolt.UseNestedLoginSocialBarMenuItems": true,
+    "specs.thunderbolt.addPlatformizationOptionSignUpFlow": true,
+    "specs.thunderbolt.scrollToRetries": true,
+    "specs.thunderbolt.addPlatformizationOptionLoginFlow": true,
+    "specs.thunderbolt.UseNewLoginBarDropdownMenuAlignment": true,
+    "specs.thunderbolt.splitSlotSelectors": true,
+    "specs.thunderbolt.pageBGTransitionHandler": true,
+    "specs.thunderbolt.updateRichTextSemanticClassNamesOnCorvid": true,
+    "specs.thunderbolt.EmitSeoBodyRenderingMetadata": true,
+    "specs.thunderbolt.shouldFetchLoginUrlByClientId": true,
+    "specs.thunderbolt.shouldLoadGoogleSdkEarly": true,
+    "specs.promote.ar.useFacebookSetupV1Service": true,
+    "specs.thunderbolt.loadNewerSentrySdk": true,
+    "specs.thunderbolt.motionTimeAnimationsCSS": true,
+    "specs.thunderbolt.shouldUseMemberPrivacySettingsService": true,
+    "specs.thunderbolt.DDMenuMigrateCssCarmiMapper": true,
+    "specs.membersArea.LoginBarRemake": true,
+    "specs.thunderbolt.buttonUdp": true,
+    "specs.thunderbolt.alwaysApplySessionTokenOnIAM": true,
+    "specs.thunderbolt.sendFedopsLoadStartedReplaced": true,
+    "specs.thunderbolt.SlideshowStopMediaInNonActiveSlides": true,
+    "specs.thunderbolt.removeDynamicModelTopology": true,
+    "specs.thunderbolt.hardenFetchAndXHR": true,
+    "specs.thunderbolt.useResponsiveImgClassicFixed": true,
+    "specs.thunderbolt.routerDynamicPageOverride": true,
+    "specs.thunderbolt.membersPrivacySettingsUseBaseUrl": true,
+    "specs.thunderbolt.DisableDocumentScrollWhenLightBoxOpen": true,
+    "specs.thunderbolt.biForBrowserZoom": true,
+    "specs.thunderbolt.paidPlansSdkUseV2Orders": true,
+    "specs.thunderbolt.shouldValidateRedirectUrl": true,
+    "specs.thunderbolt.StoresCartZeroOnShippingAndTax": true,
+    "specs.thunderbolt.cmsStandalone": true,
+    "specs.thunderbolt.enableSignUpPrivacyNoteType": true,
+    "specs.thunderbolt.vectorImageDecorativeClickElementTitle": true,
+    "specs.thunderbolt.dynamicPageLinkTarget": true,
+    "specs.thunderbolt.veloWixMembersAmbassadorV2": true,
+    "specs.thunderbolt.customElemCollapsedheight": true,
+    "specs.thunderbolt.EagerSpeculationRules": true,
+    "specs.thunderbolt.megaMenuMouseLeave": true,
+    "specs.thunderbolt.useUrlFromBrowserWindowInsteadOfViewerModel": true,
+    "specs.thunderbolt.fixMpaWorkerBi": true,
+    "specs.thunderbolt.contextProviders": true,
+    "specs.thunderbolt.WRichTextVerticalAlignTopSafariAndIOS": true,
+    "specs.thunderbolt.builderSvgCssVars": true,
+    "specs.thunderbolt.viewportOnBPChange": true,
+    "specs.thunderbolt.vsmViewerModel": true,
+    "specs.thunderbolt.resolveDocumentLink": true,
+    "specs.thunderbolt.allowWebpAvifTransforms": true,
+    "specs.thunderbolt.UseWixDataItemService": true,
+    "specs.thunderbolt.VerticalMenu_uiType_NativeMapper": true,
+    "wrichTextForcedColorsFocusRing": true,
+    "specs.thunderbolt.useImageAvifFormatInNativeProGallery": true,
+    "specs.thunderbolt.splitLinkUtils": true,
+    "specs.thunderbolt.recoverAnchorsOnClientRender": true,
+    "specs.thunderbolt.a11yContrast": true,
+    "specs.thunderbolt.useNewBuilderSdkApi": true,
+    "specs.thunderbolt.migrateStylableMenuUiTypeMapper": true,
+    "specs.thunderbolt.UseCloudDataUrlWithBaseExternalUrl": true,
+    "specs.thunderbolt.skipMasterPageComponentManifestCss": true,
+    "specs.thunderbolt.dontCleanLightboxState": true,
+    "specs.thunderbolt.removeSafariStickyFix": true,
+    "specs.promote.ar.reportEcomPlatformPurchaseEvents": true,
+    "specs.thunderbolt.UseNewLoginSocialBarMemberInitialsAvatar": true,
+    "specs.thunderbolt.useIAMPlatform": true,
+    "specs.thunderbolt.filterRobotsForConvertedDynamicPages": true,
+    "specs.thunderbolt.veloBundlerParastorageUrl": true,
+    "specs.thunderbolt.HoverBoxSelectorToCssNativeMapper": true,
+    "specs.thunderbolt.fiveGridLineStudioSkins": true,
+    "specs.thunderbolt.responsiveContainerRoleGroup": true,
+    "specs.thunderbolt.AddRegisterEventListenerToWixWindow": true,
+    "specs.thunderbolt.fetchSVGfromNetworkInCSR": true,
+    "specs.thunderbolt.runMappersWithSpecificDeps": true,
+    "specs.thunderbolt.UseNewLoginSocialBarElementStructure": true,
+    "specs.thunderbolt.LottieUseCanvasForIOSDevices": true,
+    "specs.ident.usePlatformizedSMAuth": true,
+    "reportBuilderComponentSsrFailures": true,
+    "specs.thunderbolt.svgResolver_2": true,
+    "specs.thunderbolt.shouldSearchForRouterPrefix": true,
+    "specs.thunderbolt.carouselGalleryImageFitting": true,
+    "specs.thunderbolt.fixSiteScrollBlockerRace": true,
+    "specs.thunderbolt.deduplicateSvgFetches": true,
+    "specs.thunderbolt.sectionA11yProps": true,
+    "specs.thunderbolt.scrollToAnchorSsr": true,
+    "specs.thunderbolt.pricingPlansUserOrdersV2": true,
+    "specs.thunderbolt.useSvgLoaderFeature": true,
+    "specs.thunderbolt.loginSocialBarEnableUrlChangeListeners": true,
+    "specs.thunderbolt.pageTransitionScrollSmoothly": true,
+    "specs.thunderbolt.buttonUdp_loggedIn": true,
+    "specs.thunderbolt.preventAnchorReloadBeforeHydration": true,
+    "specs.thunderbolt.logVsmFeaturesModuleDiff": true,
+    "specs.thunderbolt.InitPlatformApiProvider": true,
+    "specs.thunderbolt.fixFirefoxPopupScrollShift": true,
+    "specs.thunderbolt.shouldMapFullContactInfoToIdentityProfile": true,
+    "specs.thunderbolt.isClassNameToRootEnabledNext": true,
+    "specs.thunderbolt.isClassNameToRootEnabled": true,
+    "specs.thunderbolt.LoginBarEnableLoggingInStateInSSR": true,
+    "specs.thunderbolt.WixFreeSiteBannerMobile": true,
+    "specs.thunderbolt.render_dom_store_before_site": true,
+    "specs.thunderbolt.calculateCollapsibleTextLineHeightByFont": true,
+    "specs.thunderbolt.imageEncodingAVIF": true,
+    "displayWixAdsNewVersion": true,
+    "specs.thunderbolt.BundlerTypescriptListExportedFunctions": true,
+    "specs.thunderbolt.smModalsShouldWaitForAppDidMount": true,
+    "specs.thunderbolt.autoScrollingOnIphoneMPA": true,
+    "specs.thunderbolt.ooi_css_optimization": true,
+    "specs.thunderbolt.dynamicSlots": true,
+    "specs.thunderbolt.fixGapBelowTextboxonMobileSite": true,
+    "specs.thunderbolt.useBuilderComponentTypeInBi": true,
+    "specs.odeditor.socialPlayerChangeSource": true,
+    "specs.thunderbolt.ooiCssSelectorWithSuffix": true,
+    "specs.thunderbolt.stringifyHashPresetName_VAG": true,
+    "specs.thunderbolt.overrideFloatInDistance": true,
+    "specs.thunderbolt.editorElementsRegistryEnsureComponentLoaderFix": true,
+    "specs.thunderbolt.moveFedopsLoadStartToBody": true,
+    "specs.thunderbolt.pinnedTopAuto": true,
+    "specs.thunderbolt.EnableCustomCSSVarsForLoginSocialBar": true,
+    "specs.thunderbolt.deduplicateFAQPageStructuredData": true,
+    "specs.thunderbolt.shouldFetchLogoutUrlByClientId": true,
+    "specs.thunderbolt.routerFetchExtendedUrlLength": true,
+    "specs.thunderbolt.retainInternalQueryParams": true,
+    "specs.thunderbolt.convertBirthdateToISOString": true,
+    "specs.thunderbolt.textMaskFontFallbacks": true,
+    "specs.thunderbolt.dynamicPageServiceManager": true,
+    "specs.thunderbolt.getAppTokenForCustomElement": true,
+    "specs.thunderbolt.dontApplyDacOverridesOnBoBApps": true,
+    "accordionForcedColors": true,
+    "specs.thunderbolt.previewRegion": true,
+    "specs.thunderbolt.fixDocumentLinkInPremiumPreview": true,
+    "specs.thunderbolt.HeaderSectionAddVisibilityTransition": true,
+    "specs.promote.ar.reportScheduleEventsOnPurchaseIfNeeded": true,
+    "specs.thunderbolt.removeSingleTabCssMapper": true,
+    "specs.thunderbolt.newAuthorizedPagesFlow": true,
+    "specs.thunderbolt.viewerWithoutWixDynamicCustomElements": true,
+    "specs.thunderbolt.newControllersModel": true,
+    "specs.thunderbolt.textScaleAdjust": true,
+    "specs.thunderbolt.resolveManifestInTB": true,
+    "specs.thunderbolt.Panorama": true,
+    "specs.thunderbolt.fetchCurrentMemberFromMembersNg": true,
+    "specs.thunderbolt.designStates": true,
+    "specs.thunderbolt.logoutOnIAM": true,
+    "specs.thunderbolt.resolveElementPropsSlotRefs": true,
+    "slideshowSlideLtrDirection": true,
+    "specs.thunderbolt.increaseFocusRing": true,
+    "specs.thunderbolt.TextInputAutoFillFix": true,
+    "specs.thunderbolt.addIdAsClassName": true,
+    "specs.thunderbolt.suspenseInSlots": true,
+    "specs.thunderbolt.useNewTelemetryAPI": true,
+    "specs.thunderbolt.UseNewLoginBarColorWiringOnE3": true
+  },
+  "formFactor": "desktop",
+  "isMobileDevice": false,
+  "viewMode": "desktop",
+  "requestUrl": "https://www.jiaqiliu.com/dear-water",
+  "fleetConfig": {
+    "fleetName": "thunderbolt-renderer",
+    "type": "Rollout",
+    "code": 1
+  },
+  "accessTokensUrl": "https://www.jiaqiliu.com/_api/v1/access-tokens",
+  "interactionSampleRatio": 0.01,
+  "isPartialRouteMatching": false,
+  "siteAssetsTestModuleVersion": "1.334.0",
+  "useLocalPiler": false,
+  "componentsLibrariesTopology": [
+    {
+      "artifactId": "editor-elements",
+      "namespace": "wixui",
+      "url": "https://static.parastorage.com/services/editor-elements/1.15505.0"
+    },
+    {
+      "artifactId": "editor-elements",
+      "namespace": "dsgnsys",
+      "url": "https://static.parastorage.com/services/editor-elements/1.15505.0"
+    }
+  ],
+  "media": {
+    "staticMediaUrl": "https://static.wixstatic.com/media",
+    "mediaRootUrl": "https://static.wixstatic.com/",
+    "staticVideoUrl": "https://video.wixstatic.com/",
+    "userDomainMediaPrefixes": []
+  },
+  "deviceInfo": {
+    "deviceClass": "Desktop"
+  },
+  "site": {
+    "metaSiteId": "875b1af8-5901-4e86-85cf-992ed48034ee",
+    "userId": "43013204-000d-4f73-9cc1-4a517b553cb9",
+    "siteId": "67c509c4-283e-42f6-8884-3e92be187435",
+    "externalBaseUrl": "https://www.jiaqiliu.com",
+    "siteRevision": 1692,
+    "siteType": "UGC",
+    "dc": "virginia-pub",
+    "isResponsive": true,
+    "editorName": "Studio",
+    "sessionId": "64257297-1254-4817-b992-6ad9e5763da8",
+    "isSEO": false,
+    "appNameForBiEvents": "wix-studio"
+  },
+  "mode": {
+    "qa": false,
+    "enableTestApi": false,
+    "addAllServices": false,
+    "debug": false,
+    "ssrIndicator": false,
+    "ssrOnly": false,
+    "siteAssetsFallback": "enable",
+    "versionIndicator": false
+  },
+  "language": {
+    "userLanguage": "en",
+    "userLanguageResolutionMethod": "QueryParam",
+    "siteLanguage": "en",
+    "isMultilingualEnabled": false,
+    "directionByLanguage": "ltr"
+  },
+  "rollout": {
+    "siteAssetsVersionsRollout": false,
+    "isDACRollout": 0,
+    "isTBRollout": true
+  },
+  "commonConfig": {
+    "brand": "studio",
+    "host": "VIEWER",
+    "bsi": "",
+    "consentPolicy": {},
+    "consentPolicyHeader": {},
+    "siteRevision": "1692",
+    "renderingFlow": "NONE",
+    "language": "en",
+    "locale": "en-us"
+  },
+  "anywhereConfig": {},
+  "pilerExperiments": {
+    "specs.piler.useEditorReactComponents": true
+  },
+  "rendererType": null,
+  "siteAssets": {
+    "dataFixersParams": {
+      "experiments": {
+        "dm_migrateOldHoverBoxToNewFixer": true,
+        "dm_masterPageVariablesQueryFixer": true
+      },
+      "dfVersion": "1.5593.0",
+      "isHttps": true,
+      "isUrlMigrated": true,
+      "metaSiteId": "875b1af8-5901-4e86-85cf-992ed48034ee",
+      "quickActionsMenuEnabled": false,
+      "siteId": "67c509c4-283e-42f6-8884-3e92be187435",
+      "siteRevision": 1692,
+      "v": 3,
+      "cacheVersions": {
+        "dataFixer": 6
+      }
+    },
+    "modulesParams": {
+      "features": {
+        "moduleName": "thunderbolt-features",
+        "contentType": "application/json",
+        "resourceType": "features",
+        "languageResolutionMethod": "QueryParam",
+        "isMultilingualEnabled": false,
+        "externalBaseUrl": "https://www.jiaqiliu.com",
+        "useSandboxInHTMLComp": false,
+        "disableStaticPagesUrlHierarchy": false,
+        "aboveTheFoldSectionsNum": null,
+        "isTrackClicksAnalyticsEnabled": false,
+        "isSocialElementsBlocked": false,
+        "builderAppVersions": "",
+        "onlyInteractions": false
+      },
+      "platform": {
+        "moduleName": "thunderbolt-platform",
+        "contentType": "application/json",
+        "resourceType": "platform",
+        "externalBaseUrl": "https://www.jiaqiliu.com",
+        "staticHTMLComponentUrl": "https://www-jiaqiliu-com.filesusr.com/"
+      },
+      "css": {
+        "moduleName": "thunderbolt-css",
+        "contentType": "application/json",
+        "resourceType": "css",
+        "shouldRunVsm": true,
+        "shouldRunCssInBrowser": false,
+        "shouldGetCssResultObject": false,
+        "stylableMetadataURLs": [
+          "editor-elements-library.thunderbolt.282b0c6136d66f59f41ac008160e07e7db5789ee",
+          "editor-elements-design-systems.thunderbolt.caa67d89a29f43c8b401f3d521beafb3f4db04df"
+        ],
+        "builderAppVersions": "",
+        "ooiVersions": ""
+      },
+      "cssMappers": {
+        "moduleName": "thunderbolt-css-mappers",
+        "contentType": "application/json",
+        "resourceType": "cssMappers",
+        "shouldRunVsm": true,
+        "shouldRunCssInBrowser": false,
+        "shouldGetCssResultObject": false,
+        "stylableMetadataURLs": [
+          "editor-elements-library.thunderbolt.282b0c6136d66f59f41ac008160e07e7db5789ee",
+          "editor-elements-design-systems.thunderbolt.caa67d89a29f43c8b401f3d521beafb3f4db04df"
+        ],
+        "builderAppVersions": "",
+        "ooiVersions": ""
+      },
+      "siteMap": {
+        "moduleName": "thunderbolt-site-map",
+        "contentType": "application/json",
+        "resourceType": "siteMap",
+        "isDeployPreview": false
+      },
+      "mobileAppBuilder": {
+        "moduleName": "thunderbolt-mobile-app-builder",
+        "resourceType": "mobileAppBuilder",
+        "contentType": "application/json"
+      },
+      "builderComponentFeatures": {
+        "moduleName": "builder-component-features",
+        "resourceType": "builderComponentFeatures",
+        "contentType": "application/json"
+      },
+      "builderComponentCss": {
+        "moduleName": "builder-component-css",
+        "resourceType": "builderComponentCss",
+        "contentType": "application/json"
+      },
+      "builderComponentPlatform": {
+        "moduleName": "builder-component-platform",
+        "resourceType": "builderComponentPlatform",
+        "contentType": "application/json"
+      },
+      "componentManifestCss": {
+        "moduleName": "component-manifest-css",
+        "resourceType": "componentManifestCss",
+        "contentType": "application/json",
+        "builderAppVersions": ""
+      },
+      "pilerSiteAssets": {
+        "moduleName": "piler-siteassets",
+        "resourceType": "pilerSiteAssets",
+        "contentType": "application/json",
+        "buildFullApp": "true",
+        "keepWidgetBuild": "false",
+        "modulesToHashes": "{\"builder-component-features\":\"5f85a00e.bundle.min\",\"builder-component-css\":\"ec63ac10.bundle.min\",\"builder-component-platform\":\"3cd24959.bundle.min\",\"component-manifest-css\":\"6f139333.bundle.min\",\"thunderbolt-css-mappers\":\"6604301d.bundle.min\",\"thunderbolt-services-configs\":\"a01b0b37.bundle.min\",\"thunderbolt-features\":\"da9a5ee0.bundle.min\",\"thunderbolt-platform\":\"dafefb59.bundle.min\",\"thunderbolt-css\":\"8e1eb9c7.bundle.min\",\"thunderbolt-site-map\":\"771d04b3.bundle.min\",\"thunderbolt-mobile-app-builder\":\"8827f272.bundle.min\"}",
+        "nonBeckyModuleVersions": "{\"remote-widget-structure-builder\":\"1.251.0\",\"blocks-app-descriptor\":\"1.118.0\"}"
+      }
+    },
+    "clientTopology": {
+      "mediaRootUrl": "https://static.wixstatic.com",
+      "scriptsUrl": "static.parastorage.com",
+      "staticMediaUrl": "https://static.wixstatic.com/media",
+      "staticAudioUrl": "https://music.wixstatic.com/mp3",
+      "moduleRepoUrl": "https://static.parastorage.com/unpkg",
+      "fileRepoUrl": "https://static.parastorage.com/services",
+      "viewerAppsUrl": "https://viewer-apps.parastorage.com",
+      "viewerAssetsUrl": "https://viewer-assets.parastorage.com",
+      "siteAssetsUrl": "https://siteassets.parastorage.com",
+      "pageJsonServerUrls": [
+        "https://pages.parastorage.com",
+        "https://staticorigin.wixstatic.com",
+        "https://www.jiaqiliu.com",
+        "https://fallback.wix.com/wix-html-editor-pages-webapp/page"
+      ],
+      "pathOfTBModulesInFileRepoForFallback": "wix-thunderbolt/dist/"
+    },
+    "siteScopeParams": {
+      "rendererType": null,
+      "wixCodePageIds": [],
+      "hasTPAWorkerOnSite": false,
+      "formFactor": "desktop",
+      "viewMode": "desktop",
+      "freemiumBanner": false,
+      "coBrandingBanner": false,
+      "dayfulBanner": false,
+      "mobileActionsMenu": false,
+      "isWixSite": false,
+      "isResponsive": true,
+      "editorName": "Studio",
+      "urlFormatModel": {
+        "format": "slash",
+        "forbiddenPageUriSEOs": [
+          "_api",
+          "robots.txt",
+          "sitemap.xml",
+          "feed.xml",
+          "sites"
+        ],
+        "pageIdToResolvedUriSEO": {}
+      },
+      "pageJsonFileNames": {
+        "pnmxa": "430132_34f0cb4cde4ec39ac9915e79a7a5c14b_1692.json",
+        "k3lv9": "430132_0295271a78dee9ebfe77c36b8efc3ab6_1692.json",
+        "ww4gh": "430132_a3221c66ecd0018158117db8830e1564_1692.json",
+        "otvmv": "430132_6e8aa9f7194b0b764709ef2b2649b6b7_1692.json",
+        "ms22a": "430132_1991c9fea074320f3d142ec56a7a7d8d_1692.json",
+        "sa2la": "430132_d680b7414e02c6df7ac1f70d4f536889_1692.json",
+        "ma2pf": "430132_bacb418134625e3bbf72c6a85db4cc11_1692.json",
+        "sbudu": "430132_bd29722509407a8b3d425bfa748e846b_1692.json",
+        "ris5e": "430132_21ed7583783ae009862ad9a85ac7fee4_1692.json",
+        "m1tpo": "430132_6469ab0d6e7f639c22d9bf687de83f53_1692.json",
+        "dd72u": "430132_c2b0bd1fd89c0afacdc945a098a41253_1692.json",
+        "ribtt": "430132_53198f7eeb4edfbc443f98b6c3982cfc_1692.json",
+        "znrpg": "430132_d5d25b4ed48a13a8d10fb6a1e9297c50_1692.json",
+        "ry8z6": "430132_efd0e433f536f05ce4178286933b4b06_1692.json",
+        "vskgv": "430132_2bde44f90827df13e7f68d9ab8eac846_1692.json",
+        "t6nmu": "430132_d1682cf4ccdcdb59f81c17586cf12e37_1692.json",
+        "r77v9": "430132_2ada6a981b563a580504265a68df626c_1692.json",
+        "jih9d": "430132_5b43b7a9e6dd02aff2961717e5fa28bf_1692.json",
+        "k0zeo": "430132_c75250185bda336d5dca8a253b46a228_1692.json",
+        "m6uvu": "430132_018b10bc7f57651552b920279e9ade17_1692.json",
+        "gbfcz": "430132_746c38bf45a34ee31e02d3d15b9053cf_1692.json",
+        "nzcs1": "430132_04ce639d562489cb18b2369cfc91fc14_1692.json",
+        "bjebw": "430132_2def4e53521490d8f73811e72bee92a8_1692.json",
+        "r59l2": "430132_55afb7d6e2026268c6accac0fe71c68e_1692.json",
+        "llwb9": "430132_4a541e5b50e0873de674a1fb5cc54e6c_1692.json",
+        "z4634": "430132_f620c0ead6d9d5db67bd4e017adfbeee_1692.json",
+        "masterPage": "430132_fd514303c2bca82547f4dd7afcbc8491_1692.json"
+      },
+      "protectedPageIds": [],
+      "routersInfo": {
+        "configMap": {}
+      },
+      "isPremiumDomain": true,
+      "disableSiteAssetsCache": false,
+      "migratingToOoiWidgetIds": "",
+      "siteRevisionConfig": {},
+      "registryLibrariesTopology": [
+        {
+          "artifactId": "editor-elements",
+          "namespace": "wixui",
+          "url": "https://static.parastorage.com/services/editor-elements/1.15505.0"
+        },
+        {
+          "artifactId": "editor-elements",
+          "namespace": "dsgnsys",
+          "url": "https://static.parastorage.com/services/editor-elements/1.15505.0"
+        }
+      ],
+      "isInSeo": false,
+      "language": "en",
+      "originalLanguage": "en",
+      "appDefinitionIdToSiteRevision": {
+        "14271d6f-ba62-d045-549b-ab972ae1f70e": "25"
+      },
+      "isClientSdkOnSite": false,
+      "appDefinitionIdsWithCustomCss": [],
+      "isBuilderComponentModel": false,
+      "hasUserDomainMedia": false,
+      "userDomainMediaPrefixes": [],
+      "useViewerAssetsProxy": false
+    },
+    "beckyExperiments": {
+      "specs.thunderbolt.dynamicSlots": true,
+      "specs.thunderbolt.DatePickerPortal": true,
+      "specs.thunderbolt.shouldUseResponsiveImages": true,
+      "specs.thunderbolt.useResponsiveImgClassicFixed": true,
+      "specs.thunderbolt.DDMenuMigrateCssCarmiMapper": true,
+      "specs.thunderbolt.fiveGridLineStudioSkins": true,
+      "specs.thunderbolt.calculateCollapsibleTextLineHeightByFont": true,
+      "specs.thunderbolt.TextInputAutoFillFix": true,
+      "specs.thunderbolt.buttonUdp": true,
+      "specs.thunderbolt.one_cell_grid_display_flex": true,
+      "specs.thunderbolt.useSvgLoaderFeature": true,
+      "specs.thunderbolt.useClassnameInResponsiveAppWidget": true,
+      "specs.thunderbolt.isClassNameToRootEnabled": true,
+      "specs.thunderbolt.WixFreeSiteBannerDesktop": true,
+      "specs.thunderbolt.WixFreeSiteBannerMobile": true,
+      "specs.thunderbolt.removeSafariStickyFix": true,
+      "specs.thunderbolt.imageEncodingAVIF": true,
+      "specs.thunderbolt.updateRichTextSemanticClassNamesOnCorvid": true,
+      "specs.thunderbolt.LoginBarEnableLoggingInStateInSSR": true,
+      "specs.thunderbolt.DisableDocumentScrollWhenLightBoxOpen": true,
+      "specs.thunderbolt.allowWebpAvifTransforms": true,
+      "specs.thunderbolt.stopResolvingInnerSelectors_VAG": true,
+      "specs.thunderbolt.logVsmSiteMapDiff": true,
+      "specs.thunderbolt.migrateSdkDataMappers": true,
+      "specs.thunderbolt.vsm_css": true,
+      "specs.thunderbolt.vsm_interactions_v1": true,
+      "specs.thunderbolt.globalVarsRefactor23": true,
+      "specs.thunderbolt.resolveSpxWithoutEditorCheck": true,
+      "specs.thunderbolt.vsmSiteMap": true,
+      "specs.thunderbolt.scopeRepeatedSelectors": true,
+      "specs.thunderbolt.logVsmPlatformDiff": true,
+      "specs.thunderbolt.FreemiumBannerOdeditor": true,
+      "specs.thunderbolt.UseLoginSocialBarCustomMenu": true,
+      "specs.thunderbolt.useWowImageInFastGallery": true,
+      "specs.thunderbolt.vsmFeaturesModule": true,
+      "specs.thunderbolt.builderBoxSizingBorderBox": true,
+      "specs.thunderbolt.dom_store": true,
+      "specs.thunderbolt.fixRemappedFullNameCompType": true,
+      "specs.thunderbolt.namedRanges": true,
+      "specs.thunderbolt.useFragmentHrefForTopBottomAnchor": true,
+      "specs.thunderbolt.useSvgLoaderFeatureOnBuilderComps": true,
+      "specs.thunderbolt.vsmPlatform": true,
+      "specs.thunderbolt.fixFirefoxLinkBarIntrinsicSizing": true,
+      "specs.thunderbolt.UseNestedLoginSocialBarMenuItems": true,
+      "specs.thunderbolt.UseNewLoginBarDropdownMenuAlignment": true,
+      "specs.thunderbolt.splitSlotSelectors": true,
+      "specs.thunderbolt.motionTimeAnimationsCSS": true,
+      "specs.thunderbolt.dynamicPageLinkTarget": true,
+      "specs.thunderbolt.builderSvgCssVars": true,
+      "specs.thunderbolt.useImageAvifFormatInNativeProGallery": true,
+      "specs.thunderbolt.a11yContrast": true,
+      "specs.thunderbolt.UseNewLoginSocialBarMemberInitialsAvatar": true,
+      "specs.thunderbolt.responsiveContainerRoleGroup": true,
+      "specs.thunderbolt.UseNewLoginSocialBarElementStructure": true,
+      "specs.thunderbolt.svgResolver_2": true,
+      "specs.thunderbolt.sectionA11yProps": true,
+      "specs.thunderbolt.logVsmFeaturesModuleDiff": true,
+      "specs.thunderbolt.ooiCssSelectorWithSuffix": true,
+      "specs.thunderbolt.stringifyHashPresetName_VAG": true,
+      "specs.thunderbolt.pinnedTopAuto": true,
+      "specs.thunderbolt.EnableCustomCSSVarsForLoginSocialBar": true,
+      "specs.thunderbolt.dontApplyDacOverridesOnBoBApps": true,
+      "specs.thunderbolt.fixDocumentLinkInPremiumPreview": true,
+      "specs.thunderbolt.removeSingleTabCssMapper": true,
+      "specs.thunderbolt.resolveManifestInTB": true,
+      "specs.thunderbolt.designStates": true,
+      "specs.thunderbolt.increaseFocusRing": true,
+      "specs.thunderbolt.addIdAsClassName": true
+    },
+    "manifests": {
+      "node": {
+        "modulesToHashes": {
+          "builder-component-features": "5f85a00e.bundle.min",
+          "builder-component-css": "ec63ac10.bundle.min",
+          "builder-component-platform": "3cd24959.bundle.min",
+          "component-manifest-css": "6f139333.bundle.min",
+          "thunderbolt-css-mappers": "6604301d.bundle.min",
+          "thunderbolt-services-configs": "a01b0b37.bundle.min",
+          "thunderbolt-features": "da9a5ee0.bundle.min",
+          "thunderbolt-platform": "dafefb59.bundle.min",
+          "thunderbolt-css": "8e1eb9c7.bundle.min",
+          "thunderbolt-site-map": "771d04b3.bundle.min",
+          "thunderbolt-mobile-app-builder": "8827f272.bundle.min"
+        }
+      },
+      "web": {
+        "modulesToHashes": {
+          "thunderbolt-platform": "e2aa5949.bundle.min",
+          "thunderbolt-css": "834af776.bundle.min",
+          "thunderbolt-site-map": "06831806.bundle.min",
+          "thunderbolt-mobile-app-builder": "c0ab8e2f.bundle.min",
+          "builder-component-features": "c30360c2.bundle.min",
+          "builder-component-css": "de1ec2d6.bundle.min",
+          "builder-component-platform": "c0c0206a.bundle.min",
+          "component-manifest-css": "1c4131a0.bundle.min",
+          "thunderbolt-css-mappers": "9d41234c.bundle.min",
+          "thunderbolt-services-configs": "1e1dfef0.bundle.min",
+          "webpack-runtime": "e9817151.bundle.min",
+          "thunderbolt-features": "f8c4b0e4.bundle.min"
+        },
+        "webpackRuntimeBundle": "e9817151.bundle.min"
+      },
+      "webWorker": {
+        "modulesToHashes": {
+          "thunderbolt-features": "31a54600.bundle.min",
+          "thunderbolt-platform": "ca180b68.bundle.min",
+          "thunderbolt-css": "c3d4d291.bundle.min",
+          "thunderbolt-site-map": "bcbd2584.bundle.min",
+          "thunderbolt-mobile-app-builder": "8d2da638.bundle.min",
+          "builder-component-features": "52dc7f4e.bundle.min",
+          "builder-component-css": "e4ca8010.bundle.min",
+          "builder-component-platform": "97c2f12a.bundle.min",
+          "component-manifest-css": "3db46a79.bundle.min",
+          "thunderbolt-css-mappers": "eb971a1f.bundle.min",
+          "thunderbolt-services-configs": "23951fbd.bundle.min"
+        }
+      }
+    },
+    "siteAssetsVersions": {
+      "viewer-assets-generator": "1.0.0",
+      "santa-data-fixer": "1.5593.0",
+      "@wix/santa-main-r": "1.1643.0",
+      "santa-main-r": "1.1643.0",
+      "@wix/blocks-app-descriptor": "1.118.0",
+      "simple-all-pages": "1.0.0",
+      "blocks-builder-manifest-generator": "1.151.0",
+      "@wix/santa-data-fixer": "1.5593.0",
+      "remote-widget-structure-builder": "1.251.0",
+      "remote-widget-metadata": "1.2593.0",
+      "santa-site-metadata": "1.3466.0",
+      "piler-siteassets": "1.1048.0",
+      "stylable-santa-flatten": "2.0.222",
+      "@wix/piler-siteassets": "1.1048.0"
+    },
+    "staticHTMLComponentUrl": "https://www-jiaqiliu-com.filesusr.com/",
+    "remoteWidgetStructureBuilderVersion": "1.251.0",
+    "blocksBuilderManifestGeneratorVersion": "1.129.0"
+  },
+  "react18Compatible": true,
+  "react18HydrationBlackListWidgets": [],
+  "mpaBlacklistWidgets": [],
+  "excludeCompsForSSRList": [
+    ""
+  ],
+  "mpaNavigationCompatible": true,
+  "mpaIncompatibleWidgetsList": [],
+  "mpaExclusionReasons": [],
+  "siteCacheable": true,
+  "isolatedRenderer": false,
+  "siteOwnerId": "43013204-000d-4f73-9cc1-4a517b553cb9",
+  "hasInteractions": false,
+  "componentsExternalVersions": {}
+}

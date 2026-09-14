@@ -1,0 +1,16 @@
+{
+  "routes": 27,
+  "routes_http_verified": 27,
+  "images": 102,
+  "fonts": 45,
+  "documents": 1,
+  "cv_compatibility_copies": 1,
+  "external_embeds": 5,
+  "unresolved_local_references": 0,
+  "local_references_checked": 1515,
+  "reproducible_files": 179,
+  "validation_read_only": true,
+  "preview_url": "http://127.0.0.1:4175/",
+  "browser_qa": "Pending: one attempt failed with sandbox-exec: unbound variable: TIOCSTI",
+  "production_changes": false
+}

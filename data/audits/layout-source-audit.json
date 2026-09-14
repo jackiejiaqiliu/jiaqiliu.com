@@ -1,0 +1,274 @@
+[
+  {
+    "page": "hydrogen-balloon",
+    "gallery": "comp-m3jrhgti3",
+    "viewport": "desktop",
+    "columns": 2,
+    "gap": 10.0,
+    "images": 8
+  },
+  {
+    "page": "hydrogen-balloon",
+    "gallery": "comp-m3jrhgti3",
+    "viewport": "mobile",
+    "columns": 1,
+    "gap": 10.0,
+    "images": 8
+  },
+  {
+    "page": "texts",
+    "gallery": "comp-lmax6d3q1",
+    "viewport": "desktop",
+    "columns": 3,
+    "gap": 80.0,
+    "images": 3
+  },
+  {
+    "page": "texts",
+    "gallery": "comp-lmax6d3q1",
+    "viewport": "mobile",
+    "columns": 1,
+    "gap": 5.0,
+    "images": 3
+  },
+  {
+    "page": "dear-water",
+    "gallery": "comp-mf2yflib2",
+    "viewport": "desktop",
+    "columns": 1,
+    "gap": 10.0,
+    "images": 4
+  },
+  {
+    "page": "dear-water",
+    "gallery": "comp-mf2yflib2",
+    "viewport": "mobile",
+    "columns": 1,
+    "gap": 10.0,
+    "images": 4
+  },
+  {
+    "page": "index",
+    "gallery": "comp-l9xopdjj",
+    "viewport": "desktop",
+    "columns": 3,
+    "gap": 80.0,
+    "images": 8
+  },
+  {
+    "page": "index",
+    "gallery": "comp-l9xopdjj",
+    "viewport": "mobile",
+    "columns": 1,
+    "gap": 5.0,
+    "images": 8
+  },
+  {
+    "page": "the-ninth-marriage",
+    "gallery": "comp-m3jsjkt83",
+    "viewport": "desktop",
+    "columns": 2,
+    "gap": 10.0,
+    "images": 8
+  },
+  {
+    "page": "the-ninth-marriage",
+    "gallery": "comp-m3jsjkt83",
+    "viewport": "mobile",
+    "columns": 1,
+    "gap": 10.0,
+    "images": 8
+  },
+  {
+    "page": "film-pd-art-direction",
+    "gallery": "comp-la1g2du63",
+    "viewport": "desktop",
+    "columns": 3,
+    "gap": 80.0,
+    "images": 5
+  },
+  {
+    "page": "film-pd-art-direction",
+    "gallery": "comp-la1g2du63",
+    "viewport": "mobile",
+    "columns": 1,
+    "gap": 5.0,
+    "images": 5
+  },
+  {
+    "page": "random-thoughts",
+    "gallery": "comp-lflfqqwc3",
+    "viewport": "desktop",
+    "columns": 1,
+    "gap": 0,
+    "images": 4
+  },
+  {
+    "page": "random-thoughts",
+    "gallery": "comp-lflfqqwc3",
+    "viewport": "mobile",
+    "columns": 1,
+    "gap": 0,
+    "images": 4
+  },
+  {
+    "page": "museum-guard-tutorial",
+    "gallery": "comp-la4m6svn",
+    "viewport": "desktop",
+    "columns": 2,
+    "gap": 10.0,
+    "images": 8
+  },
+  {
+    "page": "museum-guard-tutorial",
+    "gallery": "comp-la4m6svn",
+    "viewport": "mobile",
+    "columns": 1,
+    "gap": 10.0,
+    "images": 8
+  },
+  {
+    "page": "oblivio",
+    "gallery": "comp-m3s4o0zq5",
+    "viewport": "desktop",
+    "columns": 2,
+    "gap": 10.0,
+    "images": 8
+  },
+  {
+    "page": "oblivio",
+    "gallery": "comp-m3s4o0zq5",
+    "viewport": "mobile",
+    "columns": 1,
+    "gap": 10.0,
+    "images": 8
+  },
+  {
+    "page": "maslows-hierarchy-of-needs",
+    "gallery": "comp-mow6lyoz",
+    "viewport": "desktop",
+    "columns": 1,
+    "gap": 10.0,
+    "images": 6
+  },
+  {
+    "page": "maslows-hierarchy-of-needs",
+    "gallery": "comp-mow6lyoz",
+    "viewport": "mobile",
+    "columns": 1,
+    "gap": 10.0,
+    "images": 6
+  },
+  {
+    "page": "aesthetics-under-the-microscope",
+    "gallery": "comp-lcce9doi3",
+    "viewport": "desktop",
+    "columns": 3,
+    "gap": 10.0,
+    "images": 9
+  },
+  {
+    "page": "aesthetics-under-the-microscope",
+    "gallery": "comp-lcce9doi3",
+    "viewport": "mobile",
+    "columns": 3,
+    "gap": 10.0,
+    "images": 9
+  },
+  {
+    "page": "ads-named-desire",
+    "gallery": "comp-la1f7i4r2",
+    "viewport": "desktop",
+    "columns": 4,
+    "gap": 10.0,
+    "images": 4
+  },
+  {
+    "page": "ads-named-desire",
+    "gallery": "comp-la1f7i4r2",
+    "viewport": "mobile",
+    "columns": 2,
+    "gap": 8.0,
+    "images": 4
+  },
+  {
+    "page": "the-clock",
+    "gallery": "comp-m3yzyifs",
+    "viewport": "desktop",
+    "columns": 1,
+    "gap": 10.0,
+    "images": 3
+  },
+  {
+    "page": "the-clock",
+    "gallery": "comp-m3yzyifs",
+    "viewport": "mobile",
+    "columns": 1,
+    "gap": 10.0,
+    "images": 3
+  },
+  {
+    "page": "aphasia-describe-the-city-you-live-in",
+    "gallery": "comp-lhpdfcs34",
+    "viewport": "desktop",
+    "columns": 2,
+    "gap": 10.0,
+    "images": 8
+  },
+  {
+    "page": "aphasia-describe-the-city-you-live-in",
+    "gallery": "comp-lhpdfcs34",
+    "viewport": "mobile",
+    "columns": 1,
+    "gap": 10.0,
+    "images": 8
+  },
+  {
+    "page": "song-of-a-lonely-bird",
+    "gallery": "comp-la0loa9w",
+    "viewport": "desktop",
+    "columns": 1,
+    "gap": 10.0,
+    "images": 7
+  },
+  {
+    "page": "song-of-a-lonely-bird",
+    "gallery": "comp-la0loa9w",
+    "viewport": "mobile",
+    "columns": 1,
+    "gap": 10.0,
+    "images": 7
+  },
+  {
+    "page": "mirage",
+    "gallery": "comp-lpkfqok82",
+    "viewport": "desktop",
+    "columns": 1,
+    "gap": 10.0,
+    "images": 3
+  },
+  {
+    "page": "mirage",
+    "gallery": "comp-lpkfqok82",
+    "viewport": "mobile",
+    "columns": 1,
+    "gap": 10.0,
+    "images": 3
+  },
+  {
+    "page": "breathe",
+    "gallery": "comp-mhthlie55",
+    "viewport": "desktop",
+    "columns": 1,
+    "gap": 10.0,
+    "images": 9
+  },
+  {
+    "page": "breathe",
+    "gallery": "comp-mhthlie55",
+    "viewport": "mobile",
+    "columns": 1,
+    "gap": 10.0,
+    "images": 9
+  }
+]
