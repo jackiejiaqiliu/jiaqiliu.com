@@ -1,0 +1,78 @@
+@font-face { font-family: "Avenir Light"; src: url("../fonts/avenir-light.woff2") format("woff2"); font-weight: 400; font-display: swap; }
+@font-face { font-family: "Avenir Heavy"; src: url("../fonts/avenir-heavy.woff2") format("woff2"); font-weight: 400; font-display: swap; }
+@font-face { font-family: "Helvetica Light"; src: url("../fonts/helvetica-light.woff2") format("woff2"); font-weight: 400; font-display: swap; }
+* { box-sizing: border-box; }
+body { margin: 0; color: #000; background: #fff; font-family: "Helvetica Light", sans-serif; -webkit-font-smoothing: antialiased; }
+a { color: inherit; text-decoration: none; }
+button { color: inherit; cursor: pointer; }
+button, p, h1 { margin: 0; }
+button { border: 0; padding: 0; background: none; }
+a:focus-visible, button:focus-visible, section:focus-visible { outline: 2px solid #222; outline-offset: 5px; }
+.site-header { position: sticky; top: 0; z-index: 2; height: 135px; display: flex; align-items: center; justify-content: space-between; padding: 0 60px; }
+.site-title { font: 400 clamp(14px, calc(12px + .625vw), 24px)/1.6 "Avenir Light", sans-serif; }
+.site-nav { display: flex; gap: 70px; font: 400 14px/45px "Avenir Light", sans-serif; }
+.site-nav a:hover { color: #605e5e; }
+.menu-open { display: none; width: 24px; height: 24px; }
+.menu-open svg { width: 100%; height: 100%; stroke: currentColor; stroke-width: 2; }
+.project-pagination { font-family: "Avenir Light", sans-serif; height: 46px; padding: 23px 60px 0; text-align: right; font-size: clamp(11px, calc(10.4px + .1875vw), 14px); line-height: 1.5; }
+.project-pagination a { text-decoration: underline; }
+/* Desktop keeps the approved independently scrolling text and image columns. */
+.project { display: grid; grid-template-columns: 31.3318% minmax(0, 1fr); height: max(800px, 57vh); }
+.project-copy { overflow-y: auto; scrollbar-width: none; padding: 20px 5% 0 60px; }
+.project-copy::-webkit-scrollbar { width: 0; }
+.project-title { font: 400 clamp(12px, calc(10px + .625vw), 22px)/normal "Avenir Heavy", sans-serif; margin-bottom: 5.5625px; }
+.project-details { font-size: clamp(11px, calc(10.4px + .1875vw), 14px); font-weight: bold; line-height: 1.5; margin-bottom: 32.9375px; }
+.project-description { font-size: clamp(10px, calc(9.2px + .25vw), 14px); line-height: 1.5; }
+.project-description p + p { margin-top: 1.5em; }
+.project-gallery { overflow-y: auto; padding: 0 5.20825%; }
+.project-image { display: block; width: 100%; }
+.project-image + .project-image { margin-top: 10px; }
+.project-image img { display: block; width: 100%; height: auto; aspect-ratio: 1450/816; object-fit: cover; }
+.site-footer { min-height: 150px; padding: 0 3.04944% 31.484375px; display: flex; flex-direction: column; align-items: flex-end; justify-content: flex-end; font: 400 clamp(10px, calc(9.6px + .125vw), 12px)/1.6 "Avenir Light", sans-serif; }
+.site-footer img { display: block; margin-bottom: 10.5px; }
+dialog { border: 0; background: #fff; color: #111; }
+.lightbox { position: fixed; inset: 0; width: 100vw; height: 100vh; max-width: none; max-height: none; margin: 0; padding: 40px; }
+.lightbox::backdrop { background: #fff; }
+.lightbox-image { display: block; width: 100%; height: 100%; object-fit: contain; }
+.lightbox button { position: absolute; background: #fff; padding: 12px; font: 26px Arial, sans-serif; }
+.lightbox-close { right: 14px; top: 10px; }
+.lightbox-previous { left: 8px; top: 48%; }
+.lightbox-next { right: 8px; top: 48%; }
+.mobile-menu { inset: 0 0 0 auto; margin: 0; width: 70vw; height: 100vh; max-width: 100%; max-height: none; padding: 100px 40px 30px; }
+.mobile-menu::backdrop { background: rgb(0 0 0 / 80%); }
+.menu-close { position: absolute; right: 40px; top: 35px; font: 30px/1 Arial, sans-serif; }
+.mobile-menu nav { display: flex; flex-direction: column; gap: 10px; }
+.mobile-menu a { padding: 12px 0; font: 700 16px/1.4 "Avenir Light", sans-serif; }
+@media (max-width: 1000px) {
+  .site-header { height: 96.25px; padding: 0 40px; }
+  .site-nav { display: none; }
+  .menu-open { display: block; }
+  .project-pagination { height: 33px; padding: 0 40px; font-size: clamp(10px, calc(8.5882px + .44118vw), 13px); }
+  .project { height: auto; min-height: 1892.125px; display: block; }
+  .project-copy { min-height: 493.878px; padding: 20px 40px 0; overflow: visible; }
+  .project-title { font-size: clamp(10px, calc(5.2941px + 1.47059vw), 20px); }
+  .project-details { font-size: clamp(10px, calc(8.5882px + .44118vw), 13px); }
+  .project-description { font-size: clamp(10px, calc(8.1176px + .58824vw), 14px); }
+  .project-gallery { min-height: 1398.226px; padding: 20px 40px 0; overflow: visible; }
+  .site-footer { min-height: 124px; padding: 0 3.64514%; justify-content: center; }
+  .site-footer img { margin-bottom: 3px; }
+}
+@media (max-width: 750px) {
+  .site-header { height: 75.5px; padding: 4.5px 20px 0; }
+  .site-title { font-size: clamp(16px, calc(13.0233px + .93023vw), 20px); }
+  .project-pagination { font-family: "Helvetica Light", sans-serif; height: 23px; padding: 0 20px; font-size: clamp(10px, calc(7.7674px + .69767vw), 13px); }
+  .project { min-height: 1453.43px; }
+  .project-copy { min-height: 820.43px; padding: 10px 20px 0; }
+  .project-title { font-size: 16px; }
+  .project-details { font-size: clamp(11px, calc(9.5116px + .46512vw), 13px); margin-bottom: 24px; }
+  .project-description { font-size: clamp(12px, calc(10.5116px + .46512vw), 14px); }
+  .project-gallery { min-height: 633px; padding: 0 20px 15px; }
+  .project-image img { aspect-ratio: 16/9; }
+  .site-footer { min-height: 105.5px; padding: 0 16px 21.484375px; justify-content: flex-end; font-size: clamp(10px, calc(8.5116px + .46512vw), 12px); }
+  .mobile-menu { width: 100%; padding-left: 20px; padding-right: 20px; }
+  .mobile-menu::backdrop { background: transparent; }
+  .menu-close { right: 30px; }
+  .mobile-menu nav { gap: 0; }
+  .mobile-menu a { padding: 15px 0; }
+}
+@media (max-width: 600px) { .lightbox { padding: 30px 12px; } }
