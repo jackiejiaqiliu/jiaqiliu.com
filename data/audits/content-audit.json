@@ -1,10 +1,5 @@
 [
   {
-    "page": "hydrogen-balloon",
-    "rich_text_blocks": 7,
-    "mismatches": []
-  },
-  {
     "page": "on-the-distinctions-between-ai-works-and-art-works",
     "rich_text_blocks": 6,
     "mismatches": []
@@ -30,18 +25,8 @@
     "mismatches": []
   },
   {
-    "page": "the-ninth-marriage",
-    "rich_text_blocks": 7,
-    "mismatches": []
-  },
-  {
     "page": "info",
     "rich_text_blocks": 4,
-    "mismatches": []
-  },
-  {
-    "page": "film-pd-art-direction",
-    "rich_text_blocks": 3,
     "mismatches": []
   },
   {
@@ -62,16 +47,6 @@
   {
     "page": "pointillism",
     "rich_text_blocks": 6,
-    "mismatches": []
-  },
-  {
-    "page": "museum-guard-tutorial",
-    "rich_text_blocks": 7,
-    "mismatches": []
-  },
-  {
-    "page": "oblivio",
-    "rich_text_blocks": 7,
     "mismatches": []
   },
   {
@@ -102,11 +77,6 @@
   {
     "page": "the-clock",
     "rich_text_blocks": 6,
-    "mismatches": []
-  },
-  {
-    "page": "aphasia-describe-the-city-you-live-in",
-    "rich_text_blocks": 7,
     "mismatches": []
   },
   {

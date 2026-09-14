@@ -1,8 +1,8 @@
 # Assets
 
-148 unique localized assets (322,095,018 bytes): **102 images, 45 WOFF2 files, and one CV PDF**. Every source file is checked by SHA-256 during build and validation. No bytes were recompressed, resized, or downloaded during cleanup. No byte-identical duplicates exist within the asset inventory.
+105 unique localized assets (191,646,941 bytes): **59 images, 45 WOFF2 files, and one CV PDF**. Every source file is checked by SHA-256 during build and validation. No retained bytes were recompressed, resized, or downloaded. No byte-identical duplicates exist within the asset inventory.
 
-The previous migration generated URL-hash filenames; those basenames are retained. Assets are now grouped by content type and, where one page clearly owns an image, project. Shared means multiple pages reference it; it does not imply identical creative content.
+All 59 retained images now use readable lowercase names, grouped under `assets/images/projects/<project>/` or `assets/images/shared/`. Project association comes from retained page usage and home-card destinations. Ambiguous views use `image-NN`, without guessing their content. The footer icon is `site-instagram-icon.png` and the favicon is `site-icon.png`. See [image-path-mapping.json](image-path-mapping.json) for the complete old → new mapping.
 
 See [asset-inventory.csv](asset-inventory.csv) for every filename, original/current path, MIME type, referring pages, likely association, font family, byte size, checksum, and source URL. `data/assets.json` is the authoritative build mapping. Paths in the inventory are site-root-relative and also map to source files under the project root.
 
@@ -10,25 +10,20 @@ See [asset-inventory.csv](asset-inventory.csv) for every filename, original/curr
 
 | Source directory | Images |
 | --- | ---: |
-| `assets/images/ads-named-desire/` | 4 |
-| `assets/images/aesthetics-under-the-microscope/` | 9 |
-| `assets/images/aphasia-describe-the-city-you-live-in/` | 7 |
-| `assets/images/breathe/` | 8 |
-| `assets/images/dear-water/` | 3 |
-| `assets/images/film-pd-art-direction/` | 3 |
-| `assets/images/hydrogen-balloon/` | 8 |
-| `assets/images/maslows-hierarchy-of-needs/` | 6 |
-| `assets/images/mirage/` | 3 |
-| `assets/images/museum-guard-tutorial/` | 8 |
-| `assets/images/oblivio/` | 8 |
-| `assets/images/random-thoughts/` | 4 |
-| `assets/images/shared/` | 12 |
-| `assets/images/song-of-a-lonely-bird/` | 7 |
-| `assets/images/texts/` | 2 |
-| `assets/images/the-clock/` | 3 |
-| `assets/images/the-ninth-marriage/` | 7 |
+| `assets/images/projects/ads-named-desire/` | 4 |
+| `assets/images/projects/aesthetics-under-the-microscope/` | 9 |
+| `assets/images/projects/breathe/` | 9 |
+| `assets/images/projects/dear-water/` | 4 |
+| `assets/images/projects/maslows-hierarchy-of-needs/` | 7 |
+| `assets/images/projects/mirage/` | 4 |
+| `assets/images/projects/peace-and-peace/` | 1 |
+| `assets/images/projects/random-thoughts/` | 4 |
+| `assets/images/projects/song-of-a-lonely-bird/` | 8 |
+| `assets/images/projects/song-of-a-lonely-bird-a-re-creation/` | 1 |
+| `assets/images/projects/the-clock/` | 4 |
+| `assets/images/shared/` | 4 |
 
-Formats: 77 JPG, 2 JPEG, 13 PNG, 9 GIF, and 1 WebP. Shared images include site icons and artwork used by index/gallery pages. Original image source quality is preserved byte-for-byte; using full originals also preserves the existing page-weight tradeoff.
+Formats: 9 GIF, 2 JPEG, 43 JPG, 4 PNG, 1 WEBP. Original image source quality is preserved byte-for-byte.
 
 ## Fonts
 
@@ -43,7 +38,6 @@ All 45 WOFF2 files are referenced by generated `@font-face` declarations. Filena
 | `din-next-w01-light` | `328d7eb6d22b62994beb.woff2`, `7001cafef9b9ce627a98.woff2`, `9252183be1d488af8243.woff2` |
 | `helvetica-w01-bold` | `4459fda0f363dd7c45f9.woff2`, `4fd1215436dc32f740ac.woff2`, `7fe933283ba25bf8cab7.woff2` |
 | `helvetica-w01-light` | `02558e81e565fbe1e699.woff2`, `7972bb30901c2b9a476a.woff2` |
-| `helvetica-w01-roman` | `00915920e370420b6f07.woff2`, `3bf4f8385bc1f59db145.woff2`, `dc8f7d0e95109dc65245.woff2` |
 | `poppins` | `2c9d6bb3baf447c70822.woff2`, `2fca2a872bd9a9a23e17.woff2`, `46ddeb66edf625fa4f1d.woff2`, `48dfb838aaeb6cf2a5e4.woff2`, `80bd3fa1b0177a6c46d4.woff2`, `a3df2fb40c6be271b315.woff2`, `b6165ef682446d7f62c2.woff2`, `f48c4f4ca5cb876c7554.woff2` |
 | `poppins-semibold` | `535c8061da3d2052ad68.woff2`, `af999a22a5c607ef8081.woff2`, `e620ca959615875c1586.woff2`, `f27324544bae49d76209.woff2` |
 | `proxima-n-w01-reg` | `3a94f23599ecc7df4bb0.woff2`, `99fba282244ecb8b5de6.woff2` |
@@ -64,10 +58,15 @@ Three Vimeo and two YouTube embeds are preserved. They need network access and a
 | `/01001001-00100000-01000100-01001111` | [https://player.vimeo.com/video/569937926](https://player.vimeo.com/video/569937926) |
 | `/the-clock` | [https://www.youtube.com/embed/vqhTacybLm0](https://www.youtube.com/embed/vqhTacybLm0) |
 
-External video links: `/oblivio` → [https://www.youtube.com/watch?v=ehUtYYprSTI](https://www.youtube.com/watch?v=ehUtYYprSTI).
+No additional external video links remain; the removed Oblivio page’s link is no longer included.
 
 Other external editorial/project/social links are preserved as navigation links. No active Wix CDN image/font/document references remain. Source capture URLs remain in the offline input/archive data for provenance.
 
 ## Removed obsolete reference
 
 The missing `media/emptystate.85a4add5.svg` appeared only in the inherited `.pro-gallery-empty .pro-gallery-empty-image` CSS rule on 18 generated pages. No generated page contained either empty-state class, and the local gallery code never creates them. The build removes that dead rule and explicitly rejects future captures containing empty-state UI so a new dependency cannot be silently hidden.
+
+
+## Removed content
+
+43 image files used only by the six removed pages were deleted, including `6f04c697ac832136cdb3.jpg` and `89b48a4a4a1285ba2a8f.png`. Neither was referenced by a retained page. See [removed-content.json](removed-content.json) for the deletion audit. Historical Git snapshots/backups intentionally preserve the prior files; active source and generated asset directories contain no hashed image duplicates.

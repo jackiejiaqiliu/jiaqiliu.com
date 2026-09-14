@@ -15,6 +15,10 @@ def main():
     assets = json.loads((ROOT / 'data/assets.json').read_text())
     routes = json.loads((ROOT / 'data/routes.json').read_text())
     embeds = json.loads((ROOT / 'data/audits/external-video-embeds.json').read_text())
+    images = [a for a in assets if a['content_type'].startswith('image/')]
+    image_count = len(images)
+    total_bytes = sum(a['bytes'] for a in assets)
+    gallery_count = len({r['gallery'] for r in json.loads((ROOT / 'data/audits/layout-source-audit.json').read_text())})
     dist = ROOT / 'dist'
     pages = {r['path']: BeautifulSoup((dist / r['file']).read_text(), 'lxml') for r in routes}
     usage = defaultdict(set)
@@ -37,7 +41,7 @@ def main():
         for asset in sorted(assets, key=lambda a: a['local']):
             writer.writerow([Path(asset['local']).name, asset['original_local'], asset['local'], asset['content_type'], '; '.join(sorted(usage[asset['local']])), asset['project'], '; '.join(asset['font_families']), asset['bytes'], asset['sha256'], asset['source']])
     lines = ['# Routes', '',
-             'All 27 routes are built and checked locally: 25 saved sitemap routes, `/fullscreen-page`, and the `/projects` home alias. Coverage is based on the saved public captures, not a new crawl. Visual acceptance remains pending.', '',
+             f'All {len(routes)} retained routes are built and checked locally: {sum(r["kind"] == "sitemap" for r in routes)} saved sitemap routes, `/fullscreen-page`, and the `/projects` home alias. Six obsolete routes were removed at the owner’s request. Coverage is based on saved public captures, not a new crawl. Visual acceptance remains pending.', '',
              'Generated files below are relative to `dist/`. Capture names identify matching files under `data/captures/desktop/`, `data/captures/mobile/`, and `data/captures/page-data/` (HTML, HTML, JSON respectively).', '',
              '| Public URL / local route | Generated file | Capture/data stem | Origin | Status and behavior |',
              '| --- | --- | --- | --- | --- |']
@@ -52,17 +56,17 @@ def main():
         if route['path'] == '/projects': notes.append('exact home alias')
         if route['path'] == '/maslows-hierarchy-of-needs': notes.append('source title says Song of a Lonely Bird; retained for fidelity')
         lines.append(f"| [{route['path']}](https://www.jiaqiliu.com{route['path']}) | `{route['file']}` | `{Path(route['capture']).stem}` | {route['kind']} | {'; '.join(notes)} |")
-    lines += ['', '## Responsive layouts', '', 'The 17 gallery configurations retain their captured desktop/mobile column counts, gaps, crop ratios, and caption padding. The generated `source-layout.css` preserves the existing 750/751px breakpoint. Original page CSS and source DOM preserve other intentional page differences.', '']
+    lines += ['', '## Responsive layouts', '', f'The {gallery_count} gallery configurations retain their captured desktop/mobile column counts, gaps, crop ratios, and caption padding. The generated `source-layout.css` preserves the existing 750/751px breakpoint. Original page CSS and source DOM preserve other intentional page differences.', '']
     (ROOT / 'docs/routes.md').write_text('\n'.join(lines))
 
     groups = Counter(str(Path(a['local']).parent).removeprefix('/assets/') for a in assets if a['content_type'].startswith('image/'))
     lines = ['# Assets', '',
-             '148 unique localized assets (322,095,018 bytes): **102 images, 45 WOFF2 files, and one CV PDF**. Every source file is checked by SHA-256 during build and validation. No bytes were recompressed, resized, or downloaded during cleanup. No byte-identical duplicates exist within the asset inventory.', '',
-             'The previous migration generated URL-hash filenames; those basenames are retained. Assets are now grouped by content type and, where one page clearly owns an image, project. Shared means multiple pages reference it; it does not imply identical creative content.', '',
+             f'{len(assets)} unique localized assets ({total_bytes:,} bytes): **{image_count} images, 45 WOFF2 files, and one CV PDF**. Every source file is checked by SHA-256 during build and validation. No retained bytes were recompressed, resized, or downloaded. No byte-identical duplicates exist within the asset inventory.', '',
+             'All 59 retained images now use readable lowercase names, grouped under `assets/images/projects/<project>/` or `assets/images/shared/`. Project association comes from retained page usage and home-card destinations. Ambiguous views use `image-NN`, without guessing their content. The footer icon is `site-instagram-icon.png` and the favicon is `site-icon.png`. See [image-path-mapping.json](image-path-mapping.json) for the complete old → new mapping.', '',
              'See [asset-inventory.csv](asset-inventory.csv) for every filename, original/current path, MIME type, referring pages, likely association, font family, byte size, checksum, and source URL. `data/assets.json` is the authoritative build mapping. Paths in the inventory are site-root-relative and also map to source files under the project root.', '',
              '## Images', '', '| Source directory | Images |', '| --- | ---: |']
     lines += [f'| `assets/{group}/` | {count} |' for group,count in sorted(groups.items())]
-    lines += ['', 'Formats: 77 JPG, 2 JPEG, 13 PNG, 9 GIF, and 1 WebP. Shared images include site icons and artwork used by index/gallery pages. Original image source quality is preserved byte-for-byte; using full originals also preserves the existing page-weight tradeoff.', '',
+    lines += ['', 'Formats: ' + ', '.join(f'{count} {ext.upper()}' for ext, count in sorted(Counter(Path(a["local"]).suffix.lstrip(".") for a in images).items())) + '. Original image source quality is preserved byte-for-byte.', '',
               '## Fonts', '',
               'All 45 WOFF2 files are referenced by generated `@font-face` declarations. Filenames alone do not prove duplicates or unused faces. The captured CSS includes family aliases and variants; static analysis cannot prove which faces are never selected at any viewport or interaction state. All are retained conservatively. No font download is needed at runtime.', '',
               '| CSS family | Retained files under `assets/fonts/` |', '| --- | --- |']
@@ -76,10 +80,11 @@ def main():
         for tag in soup.select('a[href]'):
             if urlparse(tag['href']).hostname in ('www.youtube.com','youtube.com','youtu.be','vimeo.com'):
                 video_links.append((route,tag['href']))
-    lines += ['', 'External video links: ' + '; '.join(f'`{page}` → [{url}]({url})' for page,url in video_links) + '.', '',
+    lines += ['', ('External video links: ' + '; '.join(f'`{page}` → [{url}]({url})' for page,url in video_links) + '.') if video_links else 'No additional external video links remain; the removed Oblivio page’s link is no longer included.', '',
               'Other external editorial/project/social links are preserved as navigation links. No active Wix CDN image/font/document references remain. Source capture URLs remain in the offline input/archive data for provenance.', '',
               '## Removed obsolete reference', '',
               'The missing `media/emptystate.85a4add5.svg` appeared only in the inherited `.pro-gallery-empty .pro-gallery-empty-image` CSS rule on 18 generated pages. No generated page contained either empty-state class, and the local gallery code never creates them. The build removes that dead rule and explicitly rejects future captures containing empty-state UI so a new dependency cannot be silently hidden.', '']
+    lines += ['', '## Removed content', '', '43 image files used only by the six removed pages were deleted, including `6f04c697ac832136cdb3.jpg` and `89b48a4a4a1285ba2a8f.png`. Neither was referenced by a retained page. See [removed-content.json](removed-content.json) for the deletion audit. Historical Git snapshots/backups intentionally preserve the prior files; active source and generated asset directories contain no hashed image duplicates.', '']
     (ROOT / 'docs/assets.md').write_text('\n'.join(lines))
     print('Updated docs/routes.md, docs/assets.md, docs/asset-inventory.csv')
 

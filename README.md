@@ -1,6 +1,6 @@
 # Jiaqi Liu — local website reconstruction
 
-A static, locally runnable reconstruction of the saved public jiaqiliu.com site. This continues the existing migration: 27 routes, original page content and responsive styling, localized images/fonts/CV, and shared local gallery/navigation behavior.
+A static, locally runnable reconstruction of the saved public jiaqiliu.com site. This continues the existing migration: 21 routes, original page content and responsive styling, localized images/fonts/CV, and shared local gallery/navigation behavior.
 
 The live Wix website, DNS, domain, and production hosting are untouched. Nothing has been deployed. Visual equivalence and interactive playback are still awaiting browser acceptance.
 
@@ -47,7 +47,7 @@ python3 scripts/validate.py --http
 python3 scripts/check_reproducibility.py
 ```
 
-The first command checks files without a running server. `--http` additionally compares all 27 served pages with the generated files at the canonical preview URL. Validation never changes `dist/`; reports print to stdout. The reproducibility check builds twice in temporary directories, compares every output file by SHA-256, verifies validation is read-only, and removes those temporary builds afterward.
+The first command checks files without a running server. `--http` additionally compares all 21 served pages with the generated files at the canonical preview URL. Validation never changes `dist/`; reports print to stdout. The reproducibility check builds twice in temporary directories, compares every output file by SHA-256, verifies validation is read-only, and removes those temporary builds afterward.
 
 Validation covers route completeness, non-empty local href/src/poster/data-full/CSS references, internal anchors, asset checksums, CV compatibility, exact external video embed references, developer/temporary path leaks, and the preserved text/image/gallery/link contract. It cannot establish pixel equivalence or third-party playback availability.
 
@@ -76,6 +76,18 @@ python3 scripts/inventory.py
 
 Read [routes](docs/routes.md), [assets](docs/assets.md), and [migration notes](docs/migration-notes.md) before changing page behavior. Captured component IDs and page-specific responsive rules are intentional preservation decisions.
 
+## UI and asset cleanup
+
+Six obsolete film pages and their 43 exclusive images were removed. Retained images use readable filenames; `docs/image-path-mapping.json` records every rename. The homepage caption style now matches the captured below-image Avenir rule. Desktop navigation keeps Projects/Info with a 40px gap; the mobile menu remains separate. The Instagram control has explicit 30px dimensions rather than relying on the removed Wix image runtime.
+
+Optional rendered-layout verification uses an already installed Playwright/Chrome:
+
+```sh
+node scripts/check_layout.cjs
+```
+
+Set `PLAYWRIGHT_MODULE` to your installed module path if it is not resolvable normally. This check does not install or download a browser.
+
 ## Recovery
 
-`work/backups/migration-before-cleanup.tar.gz` contains the complete pre-cleanup `outputs/` and `work/` content. Extract it into a **separate recovery directory**, not over this project. The original output is also retained under `work/baseline-site/`. No Git remote or publication configuration was created.
+`work/backups/migration-before-cleanup.tar.gz` contains the complete pre-cleanup `outputs/` and `work/` content. Extract it into a **separate recovery directory**, not over this project. The original output is also retained under `work/baseline-site/`. The pre-UI state is also committed locally as `1b2a258`. No Git remote or publication configuration was created.

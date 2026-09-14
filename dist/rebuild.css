@@ -27,90 +27,6 @@ dialog.local-lightbox{padding:30px 12px}
 @media(max-width:600px){.project-grid{gap:40px}
 }
 
-#pro-gallery-comp-m3jrhgti3{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:10px}
-
-#pro-gallery-comp-m3jrhgti3 .local-gallery-item:nth-child(1) img{aspect-ratio:720/405;object-fit:cover;height:auto}
-
-#pro-gallery-comp-m3jrhgti3 .local-gallery-item:nth-child(2) img{aspect-ratio:720/405;object-fit:cover;height:auto}
-
-#pro-gallery-comp-m3jrhgti3 .local-gallery-item:nth-child(3) img{aspect-ratio:720/405;object-fit:cover;height:auto}
-
-#pro-gallery-comp-m3jrhgti3 .local-gallery-item:nth-child(4) img{aspect-ratio:720/405;object-fit:cover;height:auto}
-
-#pro-gallery-comp-m3jrhgti3 .local-gallery-item:nth-child(5) img{aspect-ratio:720/405;object-fit:cover;height:auto}
-
-#pro-gallery-comp-m3jrhgti3 .local-gallery-item:nth-child(6) img{aspect-ratio:720/405;object-fit:cover;height:auto}
-
-#pro-gallery-comp-m3jrhgti3 .local-gallery-item:nth-child(7) img{aspect-ratio:720/405;object-fit:cover;height:auto}
-
-#pro-gallery-comp-m3jrhgti3 .local-gallery-item:nth-child(8) img{aspect-ratio:720/405;object-fit:cover;height:auto}
-
-@media(max-width:600px){#pro-gallery-comp-m3jrhgti3{grid-template-columns:repeat(2,minmax(0,1fr))}
-}
-
-#pro-gallery-comp-m3jsjkt83{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:10px}
-
-#pro-gallery-comp-m3jsjkt83 .local-gallery-item:nth-child(1) img{aspect-ratio:720/405;object-fit:cover;height:auto}
-
-#pro-gallery-comp-m3jsjkt83 .local-gallery-item:nth-child(2) img{aspect-ratio:720/405;object-fit:cover;height:auto}
-
-#pro-gallery-comp-m3jsjkt83 .local-gallery-item:nth-child(3) img{aspect-ratio:720/405;object-fit:cover;height:auto}
-
-#pro-gallery-comp-m3jsjkt83 .local-gallery-item:nth-child(4) img{aspect-ratio:720/405;object-fit:cover;height:auto}
-
-#pro-gallery-comp-m3jsjkt83 .local-gallery-item:nth-child(5) img{aspect-ratio:720/405;object-fit:cover;height:auto}
-
-#pro-gallery-comp-m3jsjkt83 .local-gallery-item:nth-child(6) img{aspect-ratio:720/405;object-fit:cover;height:auto}
-
-#pro-gallery-comp-m3jsjkt83 .local-gallery-item:nth-child(7) img{aspect-ratio:720/405;object-fit:cover;height:auto}
-
-#pro-gallery-comp-m3jsjkt83 .local-gallery-item:nth-child(8) img{aspect-ratio:720/405;object-fit:cover;height:auto}
-
-@media(max-width:600px){#pro-gallery-comp-m3jsjkt83{grid-template-columns:repeat(2,minmax(0,1fr))}
-}
-
-#pro-gallery-comp-la4m6svn{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:10px}
-
-#pro-gallery-comp-la4m6svn .local-gallery-item:nth-child(1) img{aspect-ratio:720/405;object-fit:cover;height:auto}
-
-#pro-gallery-comp-la4m6svn .local-gallery-item:nth-child(2) img{aspect-ratio:720/405;object-fit:cover;height:auto}
-
-#pro-gallery-comp-la4m6svn .local-gallery-item:nth-child(3) img{aspect-ratio:720/405;object-fit:cover;height:auto}
-
-#pro-gallery-comp-la4m6svn .local-gallery-item:nth-child(4) img{aspect-ratio:720/405;object-fit:cover;height:auto}
-
-#pro-gallery-comp-la4m6svn .local-gallery-item:nth-child(5) img{aspect-ratio:720/405;object-fit:cover;height:auto}
-
-#pro-gallery-comp-la4m6svn .local-gallery-item:nth-child(6) img{aspect-ratio:720/405;object-fit:cover;height:auto}
-
-#pro-gallery-comp-la4m6svn .local-gallery-item:nth-child(7) img{aspect-ratio:720/405;object-fit:cover;height:auto}
-
-#pro-gallery-comp-la4m6svn .local-gallery-item:nth-child(8) img{aspect-ratio:720/405;object-fit:cover;height:auto}
-
-@media(max-width:600px){#pro-gallery-comp-la4m6svn{grid-template-columns:repeat(2,minmax(0,1fr))}
-}
-
-#pro-gallery-comp-m3s4o0zq5{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:10px}
-
-#pro-gallery-comp-m3s4o0zq5 .local-gallery-item:nth-child(1) img{aspect-ratio:720/405;object-fit:cover;height:auto}
-
-#pro-gallery-comp-m3s4o0zq5 .local-gallery-item:nth-child(2) img{aspect-ratio:720/405;object-fit:cover;height:auto}
-
-#pro-gallery-comp-m3s4o0zq5 .local-gallery-item:nth-child(3) img{aspect-ratio:720/405;object-fit:cover;height:auto}
-
-#pro-gallery-comp-m3s4o0zq5 .local-gallery-item:nth-child(4) img{aspect-ratio:720/405;object-fit:cover;height:auto}
-
-#pro-gallery-comp-m3s4o0zq5 .local-gallery-item:nth-child(5) img{aspect-ratio:720/405;object-fit:cover;height:auto}
-
-#pro-gallery-comp-m3s4o0zq5 .local-gallery-item:nth-child(6) img{aspect-ratio:720/405;object-fit:cover;height:auto}
-
-#pro-gallery-comp-m3s4o0zq5 .local-gallery-item:nth-child(7) img{aspect-ratio:720/405;object-fit:cover;height:auto}
-
-#pro-gallery-comp-m3s4o0zq5 .local-gallery-item:nth-child(8) img{aspect-ratio:720/405;object-fit:cover;height:auto}
-
-@media(max-width:600px){#pro-gallery-comp-m3s4o0zq5{grid-template-columns:repeat(2,minmax(0,1fr))}
-}
-
 #pro-gallery-comp-lcce9doi3{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:10px}
 
 #pro-gallery-comp-lcce9doi3 .local-gallery-item:nth-child(1) img{aspect-ratio:477/476;object-fit:cover;height:auto}
@@ -147,24 +63,43 @@ dialog.local-lightbox{padding:30px 12px}
 @media(max-width:600px){#pro-gallery-comp-la1f7i4r2{grid-template-columns:repeat(2,minmax(0,1fr))}
 }
 
-#pro-gallery-comp-lhpdfcs34{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:10px}
 
-#pro-gallery-comp-lhpdfcs34 .local-gallery-item:nth-child(1) img{aspect-ratio:720/405;object-fit:cover;height:auto}
-
-#pro-gallery-comp-lhpdfcs34 .local-gallery-item:nth-child(2) img{aspect-ratio:720/405;object-fit:cover;height:auto}
-
-#pro-gallery-comp-lhpdfcs34 .local-gallery-item:nth-child(3) img{aspect-ratio:720/405;object-fit:cover;height:auto}
-
-#pro-gallery-comp-lhpdfcs34 .local-gallery-item:nth-child(4) img{aspect-ratio:720/405;object-fit:cover;height:auto}
-
-#pro-gallery-comp-lhpdfcs34 .local-gallery-item:nth-child(5) img{aspect-ratio:720/405;object-fit:cover;height:auto}
-
-#pro-gallery-comp-lhpdfcs34 .local-gallery-item:nth-child(6) img{aspect-ratio:720/405;object-fit:cover;height:auto}
-
-#pro-gallery-comp-lhpdfcs34 .local-gallery-item:nth-child(7) img{aspect-ratio:720/405;object-fit:cover;height:auto}
-
-#pro-gallery-comp-lhpdfcs34 .local-gallery-item:nth-child(8) img{aspect-ratio:720/405;object-fit:cover;height:auto}
-
-@media(max-width:600px){#pro-gallery-comp-lhpdfcs34{grid-template-columns:repeat(2,minmax(0,1fr))}
+/* The captured below-image title rule differs from the gallery hover title. */
+#pro-gallery-comp-l9xopdjj .local-gallery-item > span {
+  font-family: avenir-lt-w01_35-light1475496, sans-serif;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 17px;
+  letter-spacing: normal;
 }
 
+/* Keep the two desktop links visible; the separate mobile menu is unchanged. */
+#comp-kuvqzzfg_r_comp-kd5peeyu.local-desktop-nav {
+  display: block !important;
+}
+
+.local-desktop-nav nav > ul {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  gap: 40px;
+}
+.local-desktop-nav nav > ul > li {
+  flex: 0 0 auto;
+  width: auto;
+}
+
+/* Replace missing Wix image-runtime sizing at the actual oversized control. */
+.local-social-icon,
+.local-social-icon > wow-image,
+.local-social-icon img {
+  display: block;
+  width: 30px;
+  height: 30px;
+  max-width: 100%;
+  min-width: 0;
+  box-sizing: border-box;
+}
+.local-social-icon img {
+  object-fit: contain;
+}

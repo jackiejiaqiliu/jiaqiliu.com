@@ -7,6 +7,7 @@ from pathlib import Path
 import re
 from urllib.parse import unquote, urlparse
 from urllib.request import urlopen
+from urllib.error import HTTPError
 
 from bs4 import BeautifulSoup
 
@@ -27,7 +28,7 @@ def validate(dist, base_url=None):
     html_paths = sorted(dist.rglob('*.html'))
     expected_paths = {r['file'] for r in routes}
     if {str(p.relative_to(dist)) for p in html_paths} != expected_paths:
-        errors.append('Generated HTML files do not match the 27-route inventory')
+        errors.append(f'Generated HTML files do not match the {len(routes)}-route inventory')
     soups = {p: BeautifulSoup(p.read_text(), 'lxml') for p in html_paths}
 
     def check_reference(page, value, kind):
@@ -137,8 +138,43 @@ def validate(dist, base_url=None):
                 errors.append('CV compatibility copy missing or changed')
     if actual_embeds != expected_embeds:
         errors.append('External video embeds differ from the captured inventory')
+    removed = json.loads((ROOT / 'docs/removed-content.json').read_text())
+    for route in removed['routes']:
+        if (dist / route).exists():
+            errors.append(f'Removed route still exists: {route}')
+    for page, soup in soups.items():
+        if soup.select('[data-index="__more__"]'):
+            errors.append(f'{page.relative_to(dist)}: obsolete desktop More control')
+        menu = soup.select_one('wix-dropdown-menu')
+        if menu and [a.get_text(strip=True) for a in menu.select('a[href]')] != ['Projects', 'Info']:
+            errors.append(f'{page.relative_to(dist)}: desktop navigation differs')
+        for icon in soup.select('a[aria-label="Instagram"]'):
+            if 'local-social-icon' not in icon.get('class', []):
+                errors.append(f'{page.relative_to(dist)}: footer icon is not size-constrained')
+            if any('200px' in node.get('style', '') for node in icon.select('[style]')):
+                errors.append(f'{page.relative_to(dist)}: intrinsic footer width remains')
+        text = page.read_text()
+        if any('/' + route in text for route in removed['routes']):
+            errors.append(f'{page.relative_to(dist)}: removed route reference remains')
+        if re.search(r'/assets/images/[^"\s<>]*[0-9a-f]{20}\.', text):
+            errors.append(f'{page.relative_to(dist)}: hashed image reference remains')
+    for image in (dist / 'assets/images').rglob('*'):
+        if image.is_file() and re.fullmatch(r'[0-9a-f]{20}\.[a-z]+', image.name):
+            errors.append(f'Hashed image remains: {image}')
     statuses = {}
+    removed_statuses = {}
     if base_url:
+        for slug in removed["routes"]:
+            try:
+                with urlopen(base_url.rstrip("/") + "/" + slug, timeout=10) as response:
+                    removed_statuses[slug] = response.status
+                    errors.append(f"Removed route still served: {slug}")
+            except HTTPError as error:
+                removed_statuses[slug] = error.code
+                if error.code != 404:
+                    errors.append(f"Unexpected removed-route HTTP status: {slug}: {error.code}")
+            except Exception as error:
+                errors.append(f"Removed-route HTTP check failed: {slug}: {error}")
         for route in routes:
             try:
                 with urlopen(base_url.rstrip('/') + route['path'], timeout=10) as response:
@@ -151,7 +187,7 @@ def validate(dist, base_url=None):
     return {'routes_expected': len(routes), 'routes_present': len(html_paths),
             'local_references_checked': checked, 'assets_verified': len(assets),
             'external_video_embeds': sum(actual_embeds.values()),
-            'http_status': statuses, 'errors': errors}
+            'http_status': statuses, 'removed_http_status': removed_statuses, 'errors': errors}
 
 
 def main():

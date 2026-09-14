@@ -32,14 +32,6 @@
     "kind": "sitemap"
   },
   {
-    "path": "/aphasia-describe-the-city-you-live-in",
-    "title": "Jiaqi Liu | Film PD & Art Direction | ApHasiA: Describe the City You Live in",
-    "file": "aphasia-describe-the-city-you-live-in/index.html",
-    "capture": "data/captures/desktop/aphasia-describe-the-city-you-live-in.html",
-    "page_data": "data/captures/page-data/aphasia-describe-the-city-you-live-in.json",
-    "kind": "sitemap"
-  },
-  {
     "path": "/artist-statement",
     "title": "Jiaqi Liu | Artist Statement",
     "file": "artist-statement/index.html",
@@ -64,28 +56,12 @@
     "kind": "sitemap"
   },
   {
-    "path": "/film-pd-art-direction",
-    "title": "Jiaqi Liu | Film Production Design & Art Direction",
-    "file": "film-pd-art-direction/index.html",
-    "capture": "data/captures/desktop/film-pd-art-direction.html",
-    "page_data": "data/captures/page-data/film-pd-art-direction.json",
-    "kind": "sitemap"
-  },
-  {
     "path": "/fullscreen-page",
     "title": "Fullscreen Page | Jiaqi Liu",
     "file": "fullscreen-page/index.html",
     "capture": "data/captures/desktop/fullscreen-page.html",
     "page_data": "data/captures/page-data/fullscreen-page.json",
     "kind": "supplemental"
-  },
-  {
-    "path": "/hydrogen-balloon",
-    "title": "Jiaqi Liu | Film PD & Art Direction | Hydrogen Balloon",
-    "file": "hydrogen-balloon/index.html",
-    "capture": "data/captures/desktop/hydrogen-balloon.html",
-    "page_data": "data/captures/page-data/hydrogen-balloon.json",
-    "kind": "sitemap"
   },
   {
     "path": "/info",
@@ -109,22 +85,6 @@
     "file": "mirage/index.html",
     "capture": "data/captures/desktop/mirage.html",
     "page_data": "data/captures/page-data/mirage.json",
-    "kind": "sitemap"
-  },
-  {
-    "path": "/museum-guard-tutorial",
-    "title": "Jiaqi Liu | Film PD & Art Direction | Museum Guard Tutorial",
-    "file": "museum-guard-tutorial/index.html",
-    "capture": "data/captures/desktop/museum-guard-tutorial.html",
-    "page_data": "data/captures/page-data/museum-guard-tutorial.json",
-    "kind": "sitemap"
-  },
-  {
-    "path": "/oblivio",
-    "title": "Jiaqi Liu | Film PD & Art Direction | Oblivio",
-    "file": "oblivio/index.html",
-    "capture": "data/captures/desktop/oblivio.html",
-    "page_data": "data/captures/page-data/oblivio.json",
     "kind": "sitemap"
   },
   {
@@ -205,14 +165,6 @@
     "file": "the-clock/index.html",
     "capture": "data/captures/desktop/the-clock.html",
     "page_data": "data/captures/page-data/the-clock.json",
-    "kind": "sitemap"
-  },
-  {
-    "path": "/the-ninth-marriage",
-    "title": "Jiaqi Liu | Film PD & Art Direction | The Ninth Marriage",
-    "file": "the-ninth-marriage/index.html",
-    "capture": "data/captures/desktop/the-ninth-marriage.html",
-    "page_data": "data/captures/page-data/the-ninth-marriage.json",
     "kind": "sitemap"
   }
 ]

@@ -1,49 +1,55 @@
 # Migration notes
 
-## Architecture and preserved work
+## Current scope
 
-This remains a small Python-generated static website, not a framework rewrite. `scripts/build.py` reads the saved desktop HTML, saved Wix warmup/page data, router model, and verified local asset inventory. `scripts/layout.py` retains the prior gallery measurement logic using saved mobile/desktop captures. Authored files in `source/` are copied into the build. Generation is offline; unknown CDN assets fail explicitly rather than initiating downloads.
+The maintained site has **21 routes**, **59 images**, **45 WOFF2 files**, one CV PDF plus its compatibility copy, and five external video embeds. Production Wix, DNS, domain and hosting remain untouched. No deployment or remote repository was created.
 
-Original content, semantic links, page DOM/component IDs, inline responsive CSS, canonical URLs, Open Graph/Twitter metadata, and SVG casing are preserved. The original home-page JSON-LD is now retained as inert structured metadata; the previous generator removed it along with all scripts. Wix runtime scripts are not included. Captured rich text, images, gallery ordering, and navigation links are checked against a contract derived from the pre-cleanup output.
+The stable pre-UI state was committed locally as `1b2a258` before any content, style or asset changes. Older recovery archives remain under `work/`; historical assets in Git/backups are intentional recovery copies and are not build inputs.
 
-## Custom behavior and intentional substitutions
+## Preserved architecture
 
-- Linked index galleries are local anchors; artwork galleries use buttons with full-image URLs and a shared native dialog lightbox. Previous/next controls, arrow keys, Escape, and focus return are preserved.
-- The mobile menu keeps the captured Wix DOM, CSS open-state class, inert/ARIA state handling, Escape, and focus cycling. Obsolete `.local-menu` CSS from the discarded menu implementation was removed.
-- Gallery layout is generated separately for desktop and mobile at the existing 750/751px breakpoint. The 17 gallery configurations preserve individual columns, gaps, image ratios/cropping, and caption padding. Other page-specific responsive rules remain in original inline CSS.
-- Shared CSS changes are limited to the dead menu rules and caption declarations demonstrably superseded later in the cascade. Page-specific overrides retain their order. JavaScript was formatted and named for readability without changing behavior.
-- The `/fullscreen-page` captured utility route remains; gallery enlargement uses the existing local dialog, not Wix's gallery runtime. `/projects` remains a byte-identical home alias.
-- Three Vimeo and two YouTube embeds, the Oblivio YouTube link, and other editorial/social/project links remain external. Exact embed references are verified locally; external availability/playback is not asserted.
+This is the existing offline Python/BeautifulSoup generator, without a framework rewrite. `data/captures/` holds the retained source HTML/page data; `data/model.json` supplies the retained router model; `data/assets.json` resolves original asset URLs to verified local files. Source captures are now curated migration inputs: requested navigation removals and router pruning are applied there, not patched into `dist/`.
 
-## Assets and cleanup
+`scripts/layout.py` retains the existing desktop/mobile gallery measurement logic. The 11 retained gallery configurations preserve original columns, gaps, image ratios/cropping, and caption padding at the existing 750/751px breakpoint. Other page-specific responsive CSS remains intact. `source/` contains shared authored CSS/JS. Validation is read-only; staged builds must pass before replacing `dist/`.
 
-All 148 original localized asset byte streams are retained. URL-hash basenames are unchanged. Images are grouped by identifiable owning page or shared use; fonts and the PDF have their own directories. All mappings are programmatic. The original CV public path is generated as an intentional identical compatibility copy.
+The shared gallery, dialog lightbox, arrow keys/Escape/focus return, and separate mobile menu behavior are unchanged. `/projects` is a byte-identical home alias. `/fullscreen-page` remains a captured utility shell; gallery enlargement uses the local dialog rather than Wix runtime code.
 
-All 45 WOFF2 files appear in generated font-face declarations. Static analysis cannot safely establish unused face variants across all responsive states, so none were deleted. No images, videos, fonts, or documents were downloaded during this cleanup.
+## Requested UI corrections
 
-The missing empty-state SVG was only a background in `.pro-gallery-empty .pro-gallery-empty-image`, on 18 pages. Neither empty-state class occurs in generated markup; the replacement gallery code never adds them. The build removes that obsolete rule and raises an error if future source pages contain empty-state UI. This fixes the reference rather than exempting it from validation.
+- Desktop navigation contains only Projects and Info. The unused Wix More control and empty dropdown container are removed from source captures. A 40px flex gap increases link spacing; no new dropdown or hidden desktop menu was introduced.
+- Homepage captions now match the original **below-image** rule: `avenir-lt-w01_35-light1475496`, bold/700, 14px size, 17px line-height, normal letter spacing. The previous override mistakenly used the 22px Poppins **hover-title** style. This correction is scoped to `#pro-gallery-comp-l9xopdjj`; unrelated headings/grid captions are unchanged.
+- The Instagram asset has intrinsic 200px dimensions and previously depended on absent Wix image-runtime sizing inside a 30px social item. The obsolete `--wix-img-max-width:max(200px, 100%)` inline style is removed. The anchor, wrapper and image now have explicit 30px square sizing, max-width 100%, and border-box sizing. The image uses object-fit contain. No blanket global overflow hiding was added.
+- The separate mobile menu DOM was compared with the baseline and remains unchanged on every retained page that contains it.
 
-Captured HTML comments, Wix CSS source-map annotations, and stylesheet `data-url`/`data-href` provenance attributes and obsolete Wix publication/etag meta tags were removed from output. SEO/canonical/social metadata and functional external URLs remain. Original snapshots retain provenance and are not meant to be served.
+## Removed routes and assets
 
-## Reproducibility and recovery
+Removed from active source captures/page data, router/sitemap records, generated output, route documentation and links:
 
-`source/`, `assets/`, `data/`, and `scripts/` are sufficient to generate a complete `dist/`. The CV copy, home alias, measured gallery CSS, and authored CSS/JS are now explicit build steps. Validation is read-only. A fresh build must pass validation before replacing `dist/`; the previous build is retained under `work/previous-builds/`.
+- `aphasia-describe-the-city-you-live-in`
+- `film-pd-art-direction`
+- `hydrogen-balloon`
+- `museum-guard-tutorial`
+- `oblivio`
+- `the-ninth-marriage`
 
-A full pre-cleanup archive is in `work/backups/migration-before-cleanup.tar.gz`. A separate original output is kept in `work/baseline-site/`. This local archive supplies recovery without introducing Git or any remote. Historical audit JSON files under `data/audits/` describe the previous session and may include its old preview port; active tools use `data/preview.json` (127.0.0.1:4175).
+Retained experimentation pages now link back to Projects. Previous/Next links that targeted deleted pages were removed, including unused separators. No dead stubs are generated.
 
-The inherited preview still occupied port 4174, and the sandbox denied terminating that old process. The maintained preview therefore uses 4175 consistently. This avoids changing the old process or serving stale output as the new build.
+43 images used only by those pages were deleted. `6f04c697ac832136cdb3.jpg` was used by the film index and The Ninth Marriage; `89b48a4a4a1285ba2a8f.png` by the film index and ApHasiA. Neither had any retained-page reference. The complete deletion audit is in `removed-content.json`.
 
-## Verification and browser acceptance
+## Image renaming
 
-The offline checks cover 27 routes, all 148 asset checksums, the CV compatibility copy, local references and anchors, inherited style retention, original page content/gallery/navigation, five exact external video embeds, and absence of developer-machine or temporary paths. Two independent fresh builds must be byte-identical, and checksums before/after validation must match. These checks do not prove visual fidelity.
+All 59 retained image basenames were renamed programmatically. `image-path-mapping.json` records each old → new path. Images are grouped under `assets/images/projects/<project>/` and `assets/images/shared/`. The home card destination or retained-page association determines ownership. Ambiguous views use `<project>-image-NN.ext` rather than speculative descriptions; site icons have explicit names.
 
-Browser visual/interaction QA is pending. After all filesystem/build/HTTP checks passed, exactly one browser automation attempt was made against the local preview. It failed immediately with `sandbox-exec: unbound variable: TIOCSTI` (kernel exit 65), reproducing the previous environment issue. No retries or browser-environment debugging were performed.
+Extensions and original bytes are unchanged. Build and validation compare SHA-256 with the original inventory; no files were recompressed or downloaded. No hashed image files remain in the active source/generated asset pools. `data/assets.json` preserves original URL/filename provenance, while its `local` fields drive the readable build paths. Fonts and documents retain their existing filenames and directories.
 
-Remaining acceptance checklist:
+All 45 fonts are still referenced by font-face declarations and retained conservatively. The original CV URL is generated as an identical compatibility copy. Three Vimeo and two YouTube embeds remain unchanged. The extra Oblivio YouTube link disappears with its removed page; other retained editorial/social links remain external.
 
-- Compare all pages at representative desktop/mobile widths, including typography, spacing, crops, scroll length, and page-specific layouts.
-- Exercise linked gallery cards, lightbox open/close/previous/next/keyboard controls, menu focus/Escape, and CV download.
-- Verify Vimeo/YouTube playback and responsive sizing in a real browser.
-- Check the utility fullscreen route and verify there is no unexpected horizontal overflow or broken imagery.
+## Validation and limits
 
-The `maslows-hierarchy-of-needs` source title says “Song of a Lonely Bird”; it remains unchanged pending a content decision. Full-quality originals can be large; this pass deliberately preserves existing bytes. No live Wix, DNS, domain, hosting, or deployment changes were made.
+Checks cover all retained routes, removed-route absence, local image/font/CV references, asset byte identity/signatures, exact video embed URLs, navigation contents, renamed-image paths, and absence of developer/temporary paths. The regression contract was adjusted from the Git baseline for exactly the authorized navigation/text/path removals; retained project content and gallery geometry remain checked. Two fresh builds must be byte-identical, and validation must leave output unchanged.
+
+Static layout checks confirm the 30px footer constraint on every retained page with an icon and no matching fixed-width rule above 399px. The remaining inspected `100vw` rules belong to the responsive menu or border-box lightbox; translated rules belong to inherited animation/menu/gallery states. Static checks cannot establish actual browser scroll widths.
+
+The Codex browser tool had already failed with `sandbox-exec: unbound variable: TIOCSTI` and was not retried in this pass. One direct local Playwright/Chrome attempt also failed at launch (SIGABRT / target closed). No launch retries or environment debugging were performed. **Rendered horizontal overflow, pixel comparison, interactive menu/lightbox behavior, and external playback remain unverified.** `scripts/check_layout.cjs` is available to measure all retained routes at 375/768/1440px when a browser can run.
+
+Preview remains `http://127.0.0.1:4175/`; the old inherited server on 4174 could not be stopped under sandbox permissions. The Maslow page's captured title still says “Song of a Lonely Bird”; that unrelated source content is preserved.

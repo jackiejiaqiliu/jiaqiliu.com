@@ -1,10 +1,5 @@
 [
   {
-    "path": "/hydrogen-balloon",
-    "title": "Jiaqi Liu | Film PD & Art Direction | Hydrogen Balloon",
-    "file": "dist/hydrogen-balloon/index.html"
-  },
-  {
     "path": "/on-the-distinctions-between-ai-works-and-art-works",
     "title": "Jiaqi Liu | On the Distinctions Between AI Works and Art Works",
     "file": "dist/on-the-distinctions-between-ai-works-and-art-works/index.html"
@@ -30,19 +25,9 @@
     "file": "dist/artist-statement/index.html"
   },
   {
-    "path": "/the-ninth-marriage",
-    "title": "Jiaqi Liu | Film PD & Art Direction | The Ninth Marriage",
-    "file": "dist/the-ninth-marriage/index.html"
-  },
-  {
     "path": "/info",
     "title": "Jiaqi Liu | Info",
     "file": "dist/info/index.html"
-  },
-  {
-    "path": "/film-pd-art-direction",
-    "title": "Jiaqi Liu | Film Production Design & Art Direction",
-    "file": "dist/film-pd-art-direction/index.html"
   },
   {
     "path": "/fullscreen-page",
@@ -63,16 +48,6 @@
     "path": "/pointillism",
     "title": "Jiaqi Liu | Experimentation | Pointillism",
     "file": "dist/pointillism/index.html"
-  },
-  {
-    "path": "/museum-guard-tutorial",
-    "title": "Jiaqi Liu | Film PD & Art Direction | Museum Guard Tutorial",
-    "file": "dist/museum-guard-tutorial/index.html"
-  },
-  {
-    "path": "/oblivio",
-    "title": "Jiaqi Liu | Film PD & Art Direction | Oblivio",
-    "file": "dist/oblivio/index.html"
   },
   {
     "path": "/01001001-00100000-01000100-01001111",
@@ -103,11 +78,6 @@
     "path": "/the-clock",
     "title": "Jiaqi Liu | The Clock",
     "file": "dist/the-clock/index.html"
-  },
-  {
-    "path": "/aphasia-describe-the-city-you-live-in",
-    "title": "Jiaqi Liu | Film PD & Art Direction | ApHasiA: Describe the City You Live in",
-    "file": "dist/aphasia-describe-the-city-you-live-in/index.html"
   },
   {
     "path": "/peace-and-peace",

@@ -1,1 +1,1371 @@
-{"stateRefs":{"comp-lh03259m1_r_comp-kbgajy18":{"experiments":{"$type":"ref","refPath":["exports","environment","experiments"]}},"comp-lh03259m1_r_comp-kkmqi5lg":{"reportBi":{"$type":"ref","refPath":["exports","businessLogger","reportBi"]},"toggle":{"$type":"ref","refPath":["exports","menuContainer","comp-lh03258w_r_comp-kd5px9hr","toggle"],"shouldLoadPageFeature":true}},"comp-lh03259m1_r_comp-kuvz8byj":{"experiments":{"$type":"ref","refPath":["exports","environment","experiments"]}},"comp-lh03259m1_r_comp-kd5peeyu":{"currentUrl":{"$type":"ref","refPath":["exports","router","currentUrl"]}},"comp-lh03258z":{"experiments":{"$type":"ref","refPath":["exports","environment","experiments"]}},"comp-lh035uw6":{"experiments":{"$type":"ref","refPath":["exports","environment","experiments"]}},"comp-lh035uw96":{"experiments":{"$type":"ref","refPath":["exports","environment","experiments"]}},"comp-lh035uwb5":{"experiments":{"$type":"ref","refPath":["exports","environment","experiments"]}},"comp-lh034vgh":{"experiments":{"$type":"ref","refPath":["exports","environment","experiments"]}},"comp-lh034vgv":{"experiments":{"$type":"ref","refPath":["exports","environment","experiments"]}},"comp-lh03258r_r_comp-kuvrtotl":{"reportBi":{"$type":"ref","refPath":["exports","businessLogger","reportBi"]}},"comp-lh03258r_r_comp-kd5pdf7t":{"experiments":{"$type":"ref","refPath":["exports","environment","experiments"]}},"comp-lh03258w_r_comp-kd5px9hr":{"isOpen":{"$type":"ref","refPath":["exports","menuContainer","comp-lh03258w_r_comp-kd5px9hr","isOpen"],"shouldLoadPageFeature":true},"isVisible":{"$type":"ref","refPath":["exports","menuContainer","comp-lh03258w_r_comp-kd5px9hr","isVisible"],"shouldLoadPageFeature":true},"toggle":{"$type":"ref","refPath":["exports","menuContainer","comp-lh03258w_r_comp-kd5px9hr","toggle"],"shouldLoadPageFeature":true},"open":{"$type":"ref","refPath":["exports","menuContainer","comp-lh03258w_r_comp-kd5px9hr","open"],"shouldLoadPageFeature":true},"close":{"$type":"ref","refPath":["exports","menuContainer","comp-lh03258w_r_comp-kd5px9hr","close"],"shouldLoadPageFeature":true},"animate":{"$type":"ref","refPath":["exports","menuContainer","comp-lh03258w_r_comp-kd5px9hr","animate"],"shouldLoadPageFeature":true}},"comp-lh03258w_r_comp-kkmqi5tc":{"reportBi":{"$type":"ref","refPath":["exports","businessLogger","reportBi"]},"toggle":{"$type":"ref","refPath":["exports","menuContainer","comp-lh03258w_r_comp-kd5px9hr","toggle"],"shouldLoadPageFeature":true}},"comp-lh03258w_r_comp-kd5px9kk":{"reportBi":{"$type":"ref","refPath":["exports","businessLogger","reportBi"]},"currentUrl":{"$type":"ref","refPath":["exports","router","currentUrl"]}}},"structure":{"components":{"r59l2":{"componentType":"Page","components":["Containerr59l2"],"uiType":"ResponsivePageWithColorBG","pageId":"r59l2"},"Containerr59l2":{"componentType":"ResponsiveContainer","components":["comp-lh03259m1","PAGE_SECTIONSr59l2","comp-lh03258r","comp-lh03258w-pinned-layer"],"pageId":"r59l2"},"comp-lh03259m1":{"componentType":"RefComponent","components":["comp-lh03259m1_r_comp-kbgajy18"],"pageId":"r59l2"},"comp-lh03259m1_r_comp-kbgajy18":{"componentType":"HeaderSection","components":["comp-lh03259m1_r_comp-kbgajy18_relative"],"pageId":"r59l2"},"comp-lh03259m1_r_comp-kbgajy18_relative":{"componentType":"ResponsiveContainer","components":["comp-lh03259m1_r_comp-kkmqi5lg","comp-lh03259m1_r_comp-kuvz8byj","comp-lh03259m1_r_comp-kd5peeyu"],"pageId":"r59l2"},"comp-lh03259m1_r_comp-kkmqi5lg":{"componentType":"VectorImage","uiType":"VectorButton","pageId":"r59l2"},"comp-lh03259m1_r_comp-kuvz8byj":{"componentType":"WRichText","pageId":"r59l2"},"comp-lh03259m1_r_comp-kd5peeyu":{"componentType":"DropDownMenu","uiType":"TextOnlyMenuButtonSkin","pageId":"r59l2"},"PAGE_SECTIONSr59l2":{"componentType":"PageSections","components":["comp-lh03258z","comp-lh034vgh"],"pageId":"r59l2"},"comp-lh03258z":{"componentType":"Section","components":["comp-lh03258z_relative"],"pageId":"r59l2"},"comp-lh03258z_relative":{"componentType":"ResponsiveContainer","components":["comp-lh035uw1"],"pageId":"r59l2"},"comp-lh035uw1":{"componentType":"Container","components":["comp-lh035uw1_relative"],"uiType":"ResponsiveBox","pageId":"r59l2"},"comp-lh035uw1_relative":{"componentType":"ResponsiveContainer","components":["comp-lh035uw6","comp-lh035uw96","comp-lh035uwb5"],"pageId":"r59l2"},"comp-lh035uw6":{"componentType":"WRichText","pageId":"r59l2"},"comp-lh035uw96":{"componentType":"WRichText","pageId":"r59l2"},"comp-lh035uwb5":{"componentType":"WRichText","pageId":"r59l2"},"comp-lh034vgh":{"componentType":"Section","components":["comp-lh034vgh_relative"],"pageId":"r59l2"},"comp-lh034vgh_relative":{"componentType":"ResponsiveContainer","components":["comp-lh034vgv"],"pageId":"r59l2"},"comp-lh034vgv":{"componentType":"WRichText","pageId":"r59l2"},"comp-lh03258r":{"componentType":"RefComponent","components":["comp-lh03258r_r_comp-kbgakgyt"],"pageId":"r59l2"},"comp-lh03258r_r_comp-kbgakgyt":{"componentType":"FooterSection","components":["comp-lh03258r_r_comp-kbgakgyt_relative"],"pageId":"r59l2"},"comp-lh03258r_r_comp-kbgakgyt_relative":{"componentType":"ResponsiveContainer","components":["comp-lh03258r_r_comp-kv5tvg1y"],"pageId":"r59l2"},"comp-lh03258r_r_comp-kv5tvg1y":{"componentType":"Container","components":["comp-lh03258r_r_comp-kv5tvg1y_relative"],"uiType":"ResponsiveBox","pageId":"r59l2"},"comp-lh03258r_r_comp-kv5tvg1y_relative":{"componentType":"ResponsiveContainer","components":["comp-lh03258r_r_comp-kuvrtotl","comp-lh03258r_r_comp-kd5pdf7t"],"pageId":"r59l2"},"comp-lh03258r_r_comp-kuvrtotl":{"componentType":"LinkBar","uiType":"Responsive","pageId":"r59l2"},"comp-lh03258r_r_comp-kd5pdf7t":{"componentType":"WRichText","pageId":"r59l2"},"comp-lh03258w-pinned-layer":{"componentType":"PinnedLayer","components":["comp-lh03258w"],"pageId":"r59l2"},"comp-lh03258w":{"componentType":"RefComponent","components":["comp-lh03258w_r_comp-kd5px9hr"],"pageId":"r59l2"},"comp-lh03258w_r_comp-kd5px9hr":{"componentType":"MenuContainer","components":["comp-lh03258w_r_comp-kkmqi5tc","comp-lh03258w_r_comp-kd5px9kk"],"uiType":"Responsive","pageId":"r59l2"},"comp-lh03258w_r_comp-kkmqi5tc":{"componentType":"VectorImage","uiType":"VectorButton","pageId":"r59l2"},"comp-lh03258w_r_comp-kd5px9kk":{"componentType":"ExpandableMenu","pageId":"r59l2"}},"features":["landingPage","scrollRestoration","accessibilityBrowserZoom","wixEmbedsApi","animations","menuContainer","imagePlaceholder","componentsLoader","scrollToAnchor","windowScroll","svgLoader","seo","renderer","activePopup","menusCurrentPage","mpaNavigation","clickHandlerRegistrar","domSelectors","components","reporter","navigationManager","environmentService"],"siteFeaturesConfigs":{}},"props":{"landingPage":{"isLandingPage":false},"scrollRestoration":{"shouldRestoreScrollPosition":true},"accessibilityBrowserZoom":{"isBuilder":false,"isStudio":true},"animations":{"repeaterTemplateToParentMap":{},"isPreview":false},"menuContainer":{"menuContainerConfig":{"comp-lh03258w_r_comp-kd5px9hr":{"animations":{"inBehavior":{"name":"GlideIn","delay":0,"duration":0.5,"targetId":"","params":{"angle":90,"distance":300}},"outBehavior":{"name":"GlideOut","delay":0,"duration":0.5,"targetId":"","params":{"angle":90,"distance":300}}}}},"menuTogglesConfig":{"comp-lh03259m1_r_comp-kkmqi5lg":{"menuContainerId":"comp-lh03258w_r_comp-kd5px9hr"},"comp-lh03258w_r_comp-kkmqi5tc":{"menuContainerId":"comp-lh03258w_r_comp-kd5px9hr"}}},"imagePlaceholder":{"staticMediaUrl":"https://static.wixstatic.com/media","isSEOBot":false,"userDomainMediaBaseUrl":"","userDomainMediaPrefixes":[]},"scrollToAnchor":{"anchorDataIdToCompIdMap":{},"nicknameToCompIdMap":{"page1":"r59l2","section3":"comp-lh03259m1_r_comp-kbgajy18","vectorImage2":"comp-lh03259m1_r_comp-kkmqi5lg","text11":"comp-lh03259m1_r_comp-kuvz8byj","horizontalMenu1":"comp-lh03259m1_r_comp-kd5peeyu","section7":"comp-lh03258z","box26":"comp-lh035uw1","text28":"comp-lh035uw6","text27":"comp-lh035uw96","text26":"comp-lh035uwb5","section6":"comp-lh034vgh","text22":"comp-lh034vgv","section2":"comp-lh03258r_r_comp-kbgakgyt","box21":"comp-lh03258r_r_comp-kv5tvg1y","socialBar1":"comp-lh03258r_r_comp-kuvrtotl","text2":"comp-lh03258r_r_comp-kd5pdf7t","menuContainer1":"comp-lh03258w_r_comp-kd5px9hr","vectorImage1":"comp-lh03258w_r_comp-kkmqi5tc","expandableMenu1":"comp-lh03258w_r_comp-kd5px9kk"},"compsToUpdate":[],"isAnchorsLinksOnPageWithoutTopAndBottom":false,"isBuilderComponentModel":false,"anchorNameToCompIdMap":{"Top%20of%20Page":"SCROLL_TO_TOP","Bottom%20of%20Page":"SCROLL_TO_BOTTOM"},"isResponsive":true},"windowScroll":{"headerContainerComponentId":"comp-lh03259m1"},"svgLoader":{"compIdToSvgDataMap":{"comp-lh03259m1_r_comp-kkmqi5lg":{"svgId":"503ea4_3dbf8cc099ca45eb81ab414a37292323.svg","componentType":"VectorImage","transformationOptions":{"altText":"Open Site Navigation","strokeWidth":0,"properties":{"type":"VectorImageProperties","metaData":{"schemaVersion":"1.0","sig":"6c2-40"},"id":"comp-lh03259m1_r_comp-kkmqi5lg-propertyQuery","displayMode":"fit","flip":"none"},"layout":{"width":160,"height":90},"shadow":{},"overrideColors":{"color1":"color_15"},"isResponsive":true}},"comp-lh03258w_r_comp-kkmqi5tc":{"svgId":"1d3a0b_97d72ad4c8dc4903bfb02b2baa7763ae.svg","componentType":"VectorImage","transformationOptions":{"altText":"","strokeWidth":0,"properties":{"type":"VectorImageProperties","metaData":{"schemaVersion":"1.0","sig":"6c2-59","autoGenerated":false},"id":"comp-lh03258w_r_comp-kkmqi5tc-propertyQuery","displayMode":"stretch","flip":"none"},"layout":{"width":160,"height":90},"shadow":{},"overrideColors":{"color1":"color_15"},"isResponsive":true}}},"colorsMap":["#FFFFFF","#FFFFFF","#000000","#ED1C24","#0088CB","#FFCB05","#727272","#B0B0B0","#FFFFFF","#727272","#B0B0B0","#FFFFFF","#E3E3E3","#979797","#4F4F4F","#000000","#E8EAED","#959EE5","#384AD3","#25318D","#131946","#F2DECC","#C2B2A3","#91857A","#615952","#302C29","#D1DBC3","#ABB899","#7F9463","#556342","#2A3121","#C7D3D5","#9AA9AC","#677E82","#455457","#222A2B","#FFFFFF","#000000","#E3E3E3","#979797","#4F4F4F","#384AD3","#384AD3","#384AD3","#384AD3","#000000","#4F4F4F","#000000","#384AD3","#384AD3","#FFFFFF","#384AD3","#384AD3","#FFFFFF","#979797","#979797","#FFFFFF","#FFFFFF","#384AD3","#384AD3","#FFFFFF","#384AD3","#384AD3","#FFFFFF","#979797","#979797"],"mediaRootUrl":"https://static.wixstatic.com/","compIdToVectorArtPropsPaths":{}},"seo":{"pageId":"r59l2","description":"Jiaqi Liu is a Beijing-born, New York City-based artist.","indexPage":true,"ogImage":"","ogImageHeight":"","ogImageWidth":"","pageName":"On the Distinctions","title":"Jiaqi Liu | On the Distinctions Between AI Works and Art Works","advancedSeoData":"{\"tags\":[{\"type\":\"title\",\"children\":\"Jiaqi Liu | On the Distinctions Between AI Works and Art Works\"},{\"type\":\"meta\",\"props\":{\"name\":\"description\",\"content\":\"Jiaqi Liu is a Beijing-born, New York City-based artist.\"},\"children\":\"\",\"custom\":false,\"disabled\":false}]}","currentPageUrl":"","translationsData":{"default":"{\"tags\":[{\"type\":\"title\",\"children\":\"Jiaqi Liu | On the Distinctions Between AI Works and Art Works\"},{\"type\":\"meta\",\"props\":{\"name\":\"description\",\"content\":\"Jiaqi Liu is a Beijing-born, New York City-based artist.\"},\"children\":\"\",\"custom\":false,\"disabled\":false}]}"},"tpaPageId":"","managingAppDefId":""},"activePopup":{},"menusCurrentPage":{},"domSelectors":{"allComponentIds":["r59l2","Containerr59l2","comp-lh03259m1","comp-lh03259m1_r_comp-kbgajy18","comp-lh03259m1_r_comp-kbgajy18_relative","comp-lh03259m1_r_comp-kkmqi5lg","comp-lh03259m1_r_comp-kuvz8byj","comp-lh03259m1_r_comp-kd5peeyu","PAGE_SECTIONSr59l2","comp-lh03258z","comp-lh03258z_relative","comp-lh035uw1","comp-lh035uw1_relative","comp-lh035uw6","comp-lh035uw96","comp-lh035uwb5","comp-lh034vgh","comp-lh034vgh_relative","comp-lh034vgv","comp-lh03258r","comp-lh03258r_r_comp-kbgakgyt","comp-lh03258r_r_comp-kbgakgyt_relative","comp-lh03258r_r_comp-kv5tvg1y","comp-lh03258r_r_comp-kv5tvg1y_relative","comp-lh03258r_r_comp-kuvrtotl","comp-lh03258r_r_comp-kd5pdf7t","comp-lh03258w-pinned-layer","comp-lh03258w","comp-lh03258w_r_comp-kd5px9hr","comp-lh03258w_r_comp-kkmqi5tc","comp-lh03258w_r_comp-kd5px9kk"]},"components":{"componentsUnderFoldMap":{"r59l2":{"componentType":"mobile.core.components.Page","compId":"r59l2"},"comp-lh03259m1":{"componentType":"wysiwyg.viewer.components.RefComponent","compId":"comp-lh03259m1"},"comp-lh03258z":{"componentType":"responsive.components.Section","compId":"comp-lh03258z"},"comp-lh035uw1":{"componentType":"mobile.core.components.Container","compId":"comp-lh035uw1"},"comp-lh035uw6":{"componentType":"wysiwyg.viewer.components.WRichText","compId":"comp-lh035uw6"},"comp-lh035uw96":{"componentType":"wysiwyg.viewer.components.WRichText","compId":"comp-lh035uw96"},"comp-lh035uwb5":{"componentType":"wysiwyg.viewer.components.WRichText","compId":"comp-lh035uwb5"},"comp-lh03258r":{"componentType":"wysiwyg.viewer.components.RefComponent","compId":"comp-lh03258r"},"comp-lh03258r_r_comp-kbgakgyt":{"componentType":"responsive.components.FooterSection","compId":"comp-lh03258r_r_comp-kbgakgyt"},"comp-lh03258r_r_comp-kv5tvg1y":{"componentType":"mobile.core.components.Container","compId":"comp-lh03258r_r_comp-kv5tvg1y"},"comp-lh03258r_r_comp-kuvrtotl":{"componentType":"wysiwyg.viewer.components.LinkBar","compId":"comp-lh03258r_r_comp-kuvrtotl"},"comp-lh03258r_r_comp-kd5pdf7t":{"componentType":"wysiwyg.viewer.components.WRichText","compId":"comp-lh03258r_r_comp-kd5pdf7t"},"comp-lh03258w":{"componentType":"wysiwyg.viewer.components.RefComponent","compId":"comp-lh03258w"},"comp-lh03258w_r_comp-kd5px9hr":{"componentType":"wysiwyg.viewer.components.MenuContainer","compId":"comp-lh03258w_r_comp-kd5px9hr"},"comp-lh03258w_r_comp-kkmqi5tc":{"componentType":"wysiwyg.viewer.components.VectorImage","compId":"comp-lh03258w_r_comp-kkmqi5tc"},"comp-lh03258w_r_comp-kd5px9kk":{"componentType":"wysiwyg.viewer.components.ExpandableMenu","compId":"comp-lh03258w_r_comp-kd5px9kk"}}},"__componentsConfig__":{},"render":{"compProps":{"r59l2":{"className":"theme-vars"},"Containerr59l2":{"containerLayoutClassName":"r59l2-container","overlowWrapperClassName":"r59l2-overflow-wrapper","hasScrollOverflow":false,"hasOverflow":false,"shouldOmitWrapperLayers":false,"deviceType":"Desktop","role":"group"},"comp-lh03259m1":{"skin":"ResponsiveContainerRefSkin","tagName":"header","containerRootClassName":"comp-lh03259m1-container","className":""},"comp-lh03259m1_r_comp-kbgajy18":{"skin":"RectangleArea","containerProps":{"containerLayoutClassName":"comp-lh03259m1_r_comp-kbgajy18-container","overlowWrapperClassName":"comp-lh03259m1_r_comp-kbgajy18-overflow-wrapper","hasScrollOverflow":false,"hasOverflow":false,"shouldOmitWrapperLayers":true,"deviceType":"Desktop","role":"group"},"tagName":null,"containerRootClassName":"comp-lh03259m1_r_comp-kbgajy18-container","className":"","background":{"containerId":"comp-lh03259m1_r_comp-kbgajy18","hasBgFullscreenScrollEffect":false,"shouldRenderUnderlay":true,"shouldPadMedia":false,"hasCanvasAnimation":false},"fillLayers":{"containerId":"comp-lh03259m1_r_comp-kbgajy18","hasBgFullscreenScrollEffect":false,"shouldRenderUnderlay":true,"shouldPadMedia":false,"hasCanvasAnimation":false},"dividers":{"hasTopDivider":false,"hasBottomDivider":false},"isBuilder":false,"a11y":{},"animate":"none"},"comp-lh03259m1_r_comp-kbgajy18_relative":{"containerLayoutClassName":"comp-lh03259m1_r_comp-kbgajy18-container","overlowWrapperClassName":"comp-lh03259m1_r_comp-kbgajy18-overflow-wrapper","hasScrollOverflow":false,"hasOverflow":false,"shouldOmitWrapperLayers":true,"deviceType":"Desktop","role":"group"},"comp-lh03259m1_r_comp-kkmqi5lg":{"withShadow":false,"link":{},"fullNameCompType":"wysiwyg.viewer.components.VectorImage","language":"en","mainPageId":"k3lv9","compId":"comp-lh03259m1_r_comp-kkmqi5lg","trackClicksAnalytics":false,"experiments":{"specs.thunderbolt.DatePickerPortal":true,"specs.thunderbolt.DisableDocumentScrollWhenLightBoxOpen":true,"specs.thunderbolt.EnableCustomCSSVarsForLoginSocialBar":true,"specs.thunderbolt.FreemiumBannerOdeditor":true,"specs.thunderbolt.LoginBarEnableLoggingInStateInSSR":true,"specs.thunderbolt.TextInputAutoFillFix":true,"specs.thunderbolt.UseLoginSocialBarCustomMenu":true,"specs.thunderbolt.UseNestedLoginSocialBarMenuItems":true,"specs.thunderbolt.UseNewLoginBarDropdownMenuAlignment":true,"specs.thunderbolt.UseNewLoginSocialBarElementStructure":true,"specs.thunderbolt.UseNewLoginSocialBarMemberInitialsAvatar":true,"specs.thunderbolt.WixFreeSiteBannerDesktop":true,"specs.thunderbolt.WixFreeSiteBannerMobile":true,"specs.thunderbolt.a11yContrast":true,"specs.thunderbolt.addIdAsClassName":true,"specs.thunderbolt.allowWebpAvifTransforms":true,"specs.thunderbolt.builderBoxSizingBorderBox":true,"specs.thunderbolt.buttonUdp":true,"specs.thunderbolt.calculateCollapsibleTextLineHeightByFont":true,"specs.thunderbolt.dom_store":true,"specs.thunderbolt.dontApplyDacOverridesOnBoBApps":true,"specs.thunderbolt.dynamicPageLinkTarget":true,"specs.thunderbolt.dynamicSlots":true,"specs.thunderbolt.fiveGridLineStudioSkins":true,"specs.thunderbolt.fixDocumentLinkInPremiumPreview":true,"specs.thunderbolt.fixFirefoxLinkBarIntrinsicSizing":true,"specs.thunderbolt.fixRemappedFullNameCompType":true,"specs.thunderbolt.imageEncodingAVIF":true,"specs.thunderbolt.isClassNameToRootEnabled":true,"specs.thunderbolt.logVsmFeaturesModuleDiff":true,"specs.thunderbolt.motionTimeAnimationsCSS":true,"specs.thunderbolt.resolveManifestInTB":true,"specs.thunderbolt.responsiveContainerRoleGroup":true,"specs.thunderbolt.sectionA11yProps":true,"specs.thunderbolt.shouldUseResponsiveImages":true,"specs.thunderbolt.splitSlotSelectors":true,"specs.thunderbolt.stopResolvingInnerSelectors_VAG":true,"specs.thunderbolt.svgResolver_2":true,"specs.thunderbolt.updateRichTextSemanticClassNamesOnCorvid":true,"specs.thunderbolt.useClassnameInResponsiveAppWidget":true,"specs.thunderbolt.useFragmentHrefForTopBottomAnchor":true,"specs.thunderbolt.useImageAvifFormatInNativeProGallery":true,"specs.thunderbolt.useResponsiveImgClassicFixed":true,"specs.thunderbolt.useSvgLoaderFeature":true,"specs.thunderbolt.useSvgLoaderFeatureOnBuilderComps":true,"specs.thunderbolt.useWowImageInFastGallery":true,"specs.thunderbolt.vsmFeaturesModule":true,"specs.thunderbolt.vsm_interactions_v1":true},"isClassNameToRootEnabled":true},"comp-lh03259m1_r_comp-kuvz8byj":{"html":"<p class=\"font_8 wixui-rich-text__text\"><a href=\"https://www.jiaqiliu.com\" target=\"_self\" class=\"wixui-rich-text__text\">Jiaqi Liu</a></p>","skin":"WRichTextThemeSkin","isQaMode":false,"fullNameCompType":"wysiwyg.viewer.components.WRichText"},"comp-lh03259m1_r_comp-kd5peeyu":{"skin":"TextOnlyMenuButtonSkin","items":[{"label":"Projects","link":{"href":"https://www.jiaqiliu.com","target":"_self","type":"PageLink","id":"dataItem-kuvr0o16"},"id":"dataItem-kuvr0nzs"},{"label":"Info","link":{"href":"https://www.jiaqiliu.com/info","target":"_self","type":"PageLink","id":"dataItem-m1u2tdlt"},"id":"dataItem-m1u2tdjp"}],"alignButtons":"right","sameWidthButtons":false,"moreButtonLabel":"More...","moreItemHeight":15,"stretchButtonsToMenuWidth":true,"rtl":false,"marginAllChildren":true,"skinExports":{"menuBorderY":0,"menuBtnBorder":0,"ribbonEls":0,"labelPad":0,"ribbonExtra":0},"isTouchDevice":false,"renderSEOSubItems":true,"isQaMode":false,"fullNameCompType":"wysiwyg.viewer.components.menus.DropDownMenu","translations":{"subMenuIndication":"Use tab to navigate through the menu items.","ariaLabel":"Site","dropdownButtonAriaLabel":"More <%= itemName %> pages"}},"comp-lh03258z":{"skin":"RectangleArea","containerProps":{"containerLayoutClassName":"comp-lh03258z-container","overlowWrapperClassName":"comp-lh03258z-overflow-wrapper","hasScrollOverflow":false,"hasOverflow":false,"shouldOmitWrapperLayers":true,"deviceType":"Desktop","role":"group"},"tagName":null,"containerRootClassName":"comp-lh03258z-container","className":"","background":{"containerId":"comp-lh03258z","hasBgFullscreenScrollEffect":false,"shouldRenderUnderlay":true,"shouldPadMedia":false,"hasCanvasAnimation":false},"fillLayers":{"containerId":"comp-lh03258z","hasBgFullscreenScrollEffect":false,"shouldRenderUnderlay":true,"shouldPadMedia":false,"hasCanvasAnimation":false,"useWixMediaCanvas":false},"dividers":{"hasTopDivider":false,"hasBottomDivider":false},"isBuilder":false,"a11y":{},"translations":{}},"comp-lh03258z_relative":{"containerLayoutClassName":"comp-lh03258z-container","overlowWrapperClassName":"comp-lh03258z-overflow-wrapper","hasScrollOverflow":false,"hasOverflow":false,"shouldOmitWrapperLayers":true,"deviceType":"Desktop","role":"group"},"comp-lh035uw1":{"containerProps":{"containerLayoutClassName":"comp-lh035uw1-container","overlowWrapperClassName":"comp-lh035uw1-overflow-wrapper","hasScrollOverflow":false,"hasOverflow":false,"shouldOmitWrapperLayers":true,"deviceType":"Desktop","role":"group"},"containerRootClassName":"comp-lh035uw1-container","role":"","isRepeaterItem":false,"translations":{"ariaLabel":"content changes on hover"}},"comp-lh035uw1_relative":{"containerLayoutClassName":"comp-lh035uw1-container","overlowWrapperClassName":"comp-lh035uw1-overflow-wrapper","hasScrollOverflow":false,"hasOverflow":false,"shouldOmitWrapperLayers":true,"deviceType":"Desktop","role":"group"},"comp-lh035uw6":{"html":"<h2 class=\"font_2 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">On the Distinctions between AI Works and Art Works</span></h2>","skin":"WRichTextNewSkin","isQaMode":false,"fullNameCompType":"wysiwyg.viewer.components.WRichText"},"comp-lh035uw96":{"html":"<p class=\"font_8 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Essay, 2023</span></p>","skin":"WRichTextNewSkin","isQaMode":false,"fullNameCompType":"wysiwyg.viewer.components.WRichText"},"comp-lh035uwb5":{"html":"<p class=\"font_8 wixui-rich-text__text\"><span style=\"font-style:italic;\" class=\"wixui-rich-text__text\">Note: This essay was originally written for an audience who has undergone considerate education and training in mathematics, statistics and computer science. To accommodate a broader audience with diverse backgrounds and to preserve the flow of the original writing, mathematical terms and concepts are complemented with external sources (through embedded hyperlinks) for explanations. These external sources are intentionally not academic by nature and were not part of the references of the original essay.</span></p>\n\n<p class=\"font_8 wixui-rich-text__text\"><span class=\"wixGuard wixui-rich-text__text\">​</span></p>\n\n<p class=\"font_8 wixui-rich-text__text\"><span class=\"wixGuard wixui-rich-text__text\">​</span></p>\n\n<p class=\"font_8 wixui-rich-text__text\">The recent groundbreaking advancements in artificial intelligence and machine learning have brought forth works in image, video, and literature that would seem comparable to the works of human artists. It is the purpose of this essay to draw the seemingly blurred lines between artworks and AI works, and in doing so, attempt a better understanding of the inexplicable nature of art and art making.</p>\n\n<p class=\"font_8 wixui-rich-text__text\"><span class=\"wixGuard wixui-rich-text__text\">​</span></p>\n\n<p class=\"font_8 wixui-rich-text__text\">Art is an expression by the creator that reflects, challenges, records, invokes, and envisions. Every artwork spans temporally &mdash; it builds on top of and/or challenges the past, records the instantaneous thinking and emotions of the creator in the present (the present when it is created), and invokes the thinking and emotions of the audience in their present (at the present when it is engaged), and envisions a possibility of the future &mdash; a future that includes the existence of the artwork.</p>\n\n<p class=\"font_8 wixui-rich-text__text\"><span class=\"wixGuard wixui-rich-text__text\">​</span></p>\n\n<p class=\"font_8 wixui-rich-text__text\">It seems apt to follow (an attempt of) a definition with an example, and we shall seek one on the ceiling of the Sistine Chapel. Undoubtedly, Michelangelo drew enormous insights from the past. The contents of the fresco are various events in history (history according to the Catholic church, but history nonetheless). The skills and style of the work were broadly based on the movement later known as the Renaissance rooted in Florence, where he grew up, dated back decades, challenging the aesthetics of the Middle Ages that spanned centuries before that. The artist&rsquo;s own past, in which he worked mostly as a marble sculptor, was of equal significance as it brought technical difficulties to large-scale painting but also laid a unique foundation for his depictions of muscles, motions, and momentums [1]. The impact of the work in the future is beyond obvious as well: not only did it strengthen Michelangelo&rsquo;s own ties with the court, and in particular the papacy for decades to come, it marks one of the few pinnacles of arguably the most colorful era in Western art history with lasting influence on future generations of artists, art lovers, and art history students who have to write tedious essays on it.</p>\n\n<p class=\"font_8 wixui-rich-text__text\"><span class=\"wixGuard wixui-rich-text__text\">​</span></p>\n\n<p class=\"font_8 wixui-rich-text__text\">But it is the present, or rather the presents, that are of the utmost importance. It was a long &ldquo;present&rdquo; for Michelangelo that lasted five years. It was in this present that he created, from nothing to everything, from zero to one, from false to true. There are nine scenes that compose the work on the ceiling and Michelangelo didn&rsquo;t paint every inch, with help and support from a group of compatriots and apprentices [1]. But every inch was his art, and his art lies in every inch. It might seem tempting to ask the question: is it still the same great work of art if some minor change were to take place &mdash; indeed, nothing drastic like putting a beard, or a leather jacket on Adam, but perhaps a slightly different hue of grey for the rock on the background or a minute change of hairstyle for one of the wingless angels in the corner? To generalize: is art still art with an ever slight perturbation? What is the <span style=\"text-decoration:underline;\" class=\"wixui-rich-text__text\"><a href=\"https://en.wikipedia.org/wiki/Condition_number\" target=\"_blank\" rel=\"noreferrer noopener\" class=\"wixui-rich-text__text\">condition number</a></span> of art? The answer is no, and infinity. And the proof is a simple one. Every possibility of an alternation corresponds to a decision made, either explicitly or implicitly, by the creator. Any deviation from the set of such decisions is a deviation from the creator&rsquo;s intention. A deviation of any scale is enough to break the fragile <span style=\"text-decoration:underline;\" class=\"wixui-rich-text__text\"><a href=\"https://en.wikipedia.org/wiki/Injective_function#:~:text=In%20mathematics%2C%20an%20injective%20function,implies%20x1%20%3D%20x2.\" target=\"_blank\" rel=\"noreferrer noopener\" class=\"wixui-rich-text__text\">injection</a></span> from intention to expression.</p>\n\n<p class=\"font_8 wixui-rich-text__text\"><span class=\"wixGuard wixui-rich-text__text\">​</span></p>\n\n<p class=\"font_8 wixui-rich-text__text\">It is in the creators&rsquo; present where we make the first distinction between art works and AI works. Artificial intelligence is a promise in the <span style=\"text-decoration:underline;\" class=\"wixui-rich-text__text\"><a href=\"https://en.wikipedia.org/wiki/Asymptote\" target=\"_blank\" rel=\"noreferrer noopener\" class=\"wixui-rich-text__text\">asymptotes</a></span>. Taking away true infinity (which is never there to begin with), the promise collapses to an approximation. It is worth emphasizing that infinity is not required in the past or future parts of the work. Indeed, modern AI&rsquo;s ability to take in the past is beyond human imagination, and its legacy in the future requires little effort in reservation. It is the present that the AI lacks. The wonderful minds behind DALL-E 2 described the method they used as a &ldquo;generative stack&rdquo; that is composed of a prior probability of CLIP image embeddings conditioned on text captions, and a decoder that produces images conditioned on the CLIP image embeddings [2]. The CLIP embedding space allows for what is known as &ldquo;zero-shot&rdquo; learning where the AI is working with disjoint training and testing data, with auxiliary information linking the two. While this framework has demonstrated great performance in image generation based on textual prompts, it is based on the &ldquo;common sense&rdquo; the machine creates through trial and error &mdash; by minimizing some form of a <span style=\"text-decoration:underline;\" class=\"wixui-rich-text__text\"><a href=\"https://en.wikipedia.org/wiki/Loss_function\" target=\"_blank\" rel=\"noreferrer noopener\" class=\"wixui-rich-text__text\">loss function</a></span> that (hopefully) converges to zero in the asymptotes. There isn&rsquo;t a moment where the loss is exactly at zero &mdash; the moment we call the creator&rsquo;s present, where all decisions are made and the creation takes place. It is rumored that Michelangelo, when asked how he created the marble sculpture of David, said he could see the sculpture in the rock and just proceeded to chisel away everything else. If this rumor was true, the &ldquo;present&rdquo; of Michelangelo&rsquo;s David was the moment he &ldquo;saw&rdquo; it. In contrast, AI cannot &ldquo;see&rdquo; the end product, but instead, start with chiseling and &ldquo;look as it goes&rdquo;. In other words, an artist seems to be standing on the integer line where she can go from zero to one with one step, but the machine, any machine, is on the <span style=\"text-decoration:underline;\" class=\"wixui-rich-text__text\"><a href=\"https://mathworld.wolfram.com/RealLine.html\" target=\"_blank\" rel=\"noreferrer noopener\" class=\"wixui-rich-text__text\">real line</a></span> &mdash; the finer the grid, the more computational power required, and the closer, it seems, it can get to one. But the solution is not in approaching continuity, as &rdquo;one&rdquo; here is not a real number, not an integer even, but rather a <span style=\"text-decoration:underline;\" class=\"wixui-rich-text__text\"><a href=\"https://en.wikipedia.org/wiki/Boolean_data_type\" target=\"_blank\" rel=\"noreferrer noopener\" class=\"wixui-rich-text__text\">boolean</a></span>. Therefore any effort on the real line is a deception of progress &mdash; in the receding of the loss, the present never arrives. The lack of the creator&rsquo;s present brings doubt, hesitation, and confusion to the audience&rsquo;s presents. When engaging a piece of art, the thinking and emotions invoked in the audience are a composition of the direct experience of the work and exploration of the creator. The latter can be viewed under a <span style=\"text-decoration:underline;\" class=\"wixui-rich-text__text\"><a href=\"https://en.wikipedia.org/wiki/Bayesian_statistics\" target=\"_blank\" rel=\"noreferrer noopener\" class=\"wixui-rich-text__text\">Bayesian framework</a></span>. The true intention of the creator can be seen as an unknown <span style=\"text-decoration:underline;\" class=\"wixui-rich-text__text\"><a href=\"https://en.wikipedia.org/wiki/Random_variable\" target=\"_blank\" rel=\"noreferrer noopener\" class=\"wixui-rich-text__text\">random variable</a></span> onto which a <span style=\"text-decoration:underline;\" class=\"wixui-rich-text__text\"><a href=\"https://en.wikipedia.org/wiki/Prior_probability#:~:text=A%20prior%20probability%20distribution%20of,evidence%20is%20taken%20into%20account.\" target=\"_blank\" rel=\"noreferrer noopener\" class=\"wixui-rich-text__text\">prior distribution</a></span> can be cast based on the knowledge and information of the creator. A <span style=\"text-decoration:underline;\" class=\"wixui-rich-text__text\"><a href=\"https://en.wikipedia.org/wiki/Likelihood_function\" target=\"_blank\" rel=\"noreferrer noopener\" class=\"wixui-rich-text__text\">likelihood function</a></span> can be imposed to link intentions with expressions of existing works from the same creator. Consequently, a <span style=\"text-decoration:underline;\" class=\"wixui-rich-text__text\"><a href=\"https://en.wikipedia.org/wiki/Posterior_probability\" target=\"_blank\" rel=\"noreferrer noopener\" class=\"wixui-rich-text__text\">posterior</a></span> can be achieved to speculate on the creator&rsquo;s intention behind the current work, conditioning on the expression &mdash; the work itself. Perhaps the most vital component in this framework is its assumption: that the intention is indeed a random variable following an albeit unknown but existent <span style=\"text-decoration:underline;\" class=\"wixui-rich-text__text\"><a href=\"https://en.wikipedia.org/wiki/Probability_distribution\" target=\"_blank\" rel=\"noreferrer noopener\" class=\"wixui-rich-text__text\">distribution</a></span>. This is not the case with an AI creator &mdash; it has no intention. And such knowledge is available to the audience. Whether it was the elaborate fresco on the ceiling of the Sistine Chapel, or the compression-friendly color blocks by Piet Mondrian, the expressions are certain. The audience takes such certainty as given and works from it to achieve their own analysis and judgment of the posterior. This cannot be done on an AI created work, where not every brushstroke was intentional &mdash; indeed, not any brushstroke was intentional. The audience&rsquo;s presents are lacking too.</p>\n\n<p class=\"font_8 wixui-rich-text__text\"><span class=\"wixGuard wixui-rich-text__text\">​</span></p>\n\n<p class=\"font_8 wixui-rich-text__text\">A medium is a necessary condition for the existence of art, not unlike a body for life, a receiver for radio. As art in essence is the giving of an expression, its medium ties to the receiving senses (of the audience)&mdash; what we see, hear, smell, taste, and touch. Literature, paintings, photography, music, culinary experience, etc. all fall into these categories. It is important to emphasize again that art has a direction &mdash; from intention to expression, from the creator to the audience, from the creator&rsquo;s present to the audience&rsquo;s presents (the moments they engage with the art, which are, trivially, after the creator&rsquo;s present). However, the medium, and the various skills, and methods associated are without directions. In direction, we make the second distinction between art works and AI works.</p>\n\n<p class=\"font_8 wixui-rich-text__text\"><span class=\"wixGuard wixui-rich-text__text\">​</span></p>\n\n<p class=\"font_8 wixui-rich-text__text\">In Shan Shui Lun (Discourse on Landscape Painting), Wang Wei, a brilliant poet and painter in the Chinese Tang Dynasty, gives a succinct yet comprehensive guide to the methodology of landscape painting. In roughly only five hundred words, Wang Wei lays the framework that includes perspective &mdash; &ldquo;丈山尺树... 远水无波，高与云齐&rdquo;&nbsp;(&ldquo;mountains are of ten feet, trees of a foot... distant waters have no waves and rise to blend with the clouds,&rdquo;)&nbsp;focus &mdash; &ldquo;定宾主之朝揖... 多则乱，少则慢...&rdquo; (&ldquo;determine the hierarchy of &lsquo;guests&rsquo; and &lsquo;host&rsquo;... if too many, they are confused, if too few, they are lackadaisical&hellip;&rdquo;)&nbsp;and even goes on to explain the &ldquo;shortcuts&rdquo; to depict various scenarios: &ldquo;有风无雨... 有雨无风... 早景则... 晚景则... 春景则...&rdquo; (&ldquo;when there is rain... when there is wind without rain... where there is rain without wind... if it is a morning scene... if it is an evening scene... if it is a spring scene&hellip;&rdquo;)&nbsp;But in front of all these techniques in order and in importance are the words: &ldquo;凡画山水，意在笔先&rdquo; (&ldquo;When one paints landscapes, concept precedes brushwork&rdquo;)&nbsp;[4]. &ldquo;Concept&rdquo; here is the translation of 意 (yi), which also has the meaning of intention, mindfulness, and meaning. Indeed, intention before expression, and that direction generalizes beyond ancient Chinese landscapes. Without this sentence, all the techniques given are measurements of correlation. A scene of the morning is likely correlated with hope and liveliness, and a drawing of &ldquo;千山欲晓&rdquo; (&ldquo;a thousand mountains about to be dawn-brightened&rdquo;)&nbsp;is likely to be correlated with those motifs in one&rsquo;s mind. However, no information on causation is given &mdash; no direction. The essence of the morning scene might be best captured on the mountain tops and the &ldquo;朦胧残月&rdquo; (&ldquo;pale and dim remaining moon&rdquo;), but it shall be the painter&rsquo;s decision to pick the morning scene. It is a common thinking among the ancient Chinese scholars that the object (often landscapes or buildings) are themselves constant and without emotions but reflects the different emotions and insights of different viewers at different times. The same comparison can be made between the medium and the creator&rsquo;s intention. The former is a vehicle of the latter. The vehicle has no direction, the driver does. It is interesting to note that many of the techniques Wang Wei detailed are born from our shrewd observation of nature. It is necessary to know where to look in order to know where to paint. It would not be surprising that an AI can develop a similar set of skills. Fed with enough landscape paintings, an AI shall quickly learn for itself the various &ldquo;shortcuts&rdquo;. It might even be able to learn the high correlations between portrayals of objects and emotions. Indeed, &ldquo;Hierarchical Text-Conditional Image Generation with CLIP Latents&rdquo; in its entirety is a teacher&rsquo;s note on how to best teach an AI student to write &ldquo;A Discourse on ____ Paintings&rdquo;. DALL-E 2&rsquo;s or any other incoming AI&rsquo;s discourse will be a bit lengthier than 500 words, but they always start at the second sentence &mdash; after &ldquo;When one paints ___, concept precedes brushwork&rdquo;.</p>\n\n<p class=\"font_8 wixui-rich-text__text\"><span class=\"wixGuard wixui-rich-text__text\">​</span></p>\n\n<p class=\"font_8 wixui-rich-text__text\">We have so far discussed the &ldquo;what&rdquo; and the &ldquo;how&rdquo; of art making, and we shall proceed to discuss the &ldquo;why&rdquo;. The benchmark against which any artwork is evaluated, both by its creator and its audience, is the absence of art. This is not to ignore the constraints artists usually face in the forms of commission, employment, or livelihood. For example, it would hardly be possible for Michelangelo to turn down the offer from Pope Julius II to paint the fresco. In fact, Michelangelo did try to refuse &mdash; claiming that &ldquo;(painting) non era mia arte&rdquo; [3]. However, most artists are skilled craftsmen in the mediums of their choices (or in Michelangelo&rsquo;s case here, can learn to become one), and it is their skills and the quality of their crafts that are demanded, and correspondingly evaluated by the commissioners. The artistic value, a totally subjective measure, is not and cannot be demanded or evaluated. With this possible ambiguity out of the way, we can safely assert that any art is born from the freedom of not doing art. It is in this freedom of choosing the alternative we find the third distinction between artworks and AI works.</p>\n\n<p class=\"font_8 wixui-rich-text__text\"><span class=\"wixGuard wixui-rich-text__text\">​</span></p>\n\n<p class=\"font_8 wixui-rich-text__text\">Much like many artists living by commissions, an AI works under constraints. In the case of DALL-E 2, the constraints are explicit in the textual prompt given. The prior and decoder trained on the seen classes can be understood as the AI&rsquo;s process of understanding and analyzing the prompt, and the generative model is its response. If we are to assume, by contradiction, that there exists a result from such generative model that is of artistic value, it follows that the artistic value is acquired after certain decrease in the loss function. At the precise <span style=\"text-decoration:underline;\" class=\"wixui-rich-text__text\"><a href=\"https://www.simplilearn.com/tutorials/machine-learning-tutorial/what-is-epoch-in-machine-learning#:~:text=An%20epoch%20is%20when%20all,dataset%20takes%20around%20an%20algorithm.\" target=\"_blank\" rel=\"noreferrer noopener\" class=\"wixui-rich-text__text\">epoch</a></span> where such artistic value would be &ldquo;learned&rdquo;, the AI is not given the alternative choice, the trivially true scenario &mdash; that of forgoing the artistic value altogether. The lack of such a choice is evident in the structure of the loss function. The contradiction is thereby reached. A popular analogy for artists working with constraints is that of &ldquo;to dance with shackles on&rdquo;, the implicit alternative is &ldquo;to sit still (do nothing) with shackles on&quot;. If we see the loss function as a form of punishment that an ML model strives to minimize, what AI does is, comparatively, &ldquo;doing prison chores with shackles on&rdquo;, where &ldquo;sitting still&rdquo; is never an option.</p>\n\n<p class=\"font_8 wixui-rich-text__text\"><span class=\"wixGuard wixui-rich-text__text\">​</span></p>\n\n<p class=\"font_8 wixui-rich-text__text\">The purpose of this essay is not to bash the marvelous progress made in the field of AI, but rather to attempt a better understanding of what composes art &mdash; what exactly takes place in the &ldquo;creator&rsquo;s present&rdquo;. To this end, the advancements in machine learning technologies are of considerate help, in that it decomposes all the components that are &ldquo;orthogonal&rdquo; to art making. Indeed, AI has shown that art is not a limiting approximation, not achieved by solely honing one&rsquo;s skills on the subject matter, and certainly not done because of punishment minimization. We shall look at the moment where the boolean value is switched from zero to one with reverence and awe, the same way a dot looks at a line, a circle at a sphere, an index of a for loop at a variable initialized outside. Plato accredits humans&rsquo; ability to do &ldquo;zero-shot&rdquo; learning to our souls&rsquo; experience with the &ldquo;perfect forms in heaven&rdquo; which is constant, long before our bodies exist [1]. Plato simply points outside the for loop that is this physical world with all the marvelous AIs in it. It is out there the seed of art is conceived.</p>\n\n<p class=\"font_8 wixui-rich-text__text\"><br class=\"wixui-rich-text__text\">\n&nbsp;</p>\n\n<p class=\"font_8 wixui-rich-text__text\">References</p>\n\n<p class=\"font_8 wixui-rich-text__text\">1. Reeve, C. D. C., 1997, Plato, Cratylus: translated with introduction and notes, Indianapolis and Cambridge: Hackett; reprinted in J.M. Cooper. (ed.) Plato, Complete Works, Indianapolis and Cambridge: Hackett.</p>\n\n<p class=\"font_8 wixui-rich-text__text\">2. Ramesh, A., Dhariwal, P., Nichol, A., Chu, C., &amp; Chen, M. (2022). Hierarchical Text- Conditional Image Generation with CLIP Latents. arXiv preprint arXiv:2204.06125. Retrieved from <a data-auto-recognition=\"true\" href=\"https://arxiv.org/abs/2204.06125\" target=\"_blank\" class=\"wixui-rich-text__text\">https://arxiv.org/abs/2204.06125</a></p>\n\n<p class=\"font_8 wixui-rich-text__text\">3. Wallace, William E.. Michelangelo : The Artist, the Man and His Times, Cambridge University Press, 2011.</p>\n\n<p class=\"font_8 wixui-rich-text__text\">4. Wang Wei. Shan Shui Lun (Discourse on Landscape Painting). Translation will be provided as excerpt from the book: Early Chinese Texts on Painting (Cambridge: Harvard University Press, 1985), 173&ndash;76.)</p>","skin":"WRichTextThemeSkin","isQaMode":false,"fullNameCompType":"wysiwyg.viewer.components.WRichText"},"comp-lh034vgh":{"skin":"RectangleArea","containerProps":{"containerLayoutClassName":"comp-lh034vgh-container","overlowWrapperClassName":"comp-lh034vgh-overflow-wrapper","hasScrollOverflow":false,"hasOverflow":false,"shouldOmitWrapperLayers":true,"deviceType":"Desktop","role":"group"},"tagName":null,"containerRootClassName":"comp-lh034vgh-container","className":"","background":{"containerId":"comp-lh034vgh","hasBgFullscreenScrollEffect":false,"shouldRenderUnderlay":true,"shouldPadMedia":false,"hasCanvasAnimation":false},"fillLayers":{"containerId":"comp-lh034vgh","hasBgFullscreenScrollEffect":false,"shouldRenderUnderlay":true,"shouldPadMedia":false,"hasCanvasAnimation":false,"useWixMediaCanvas":false},"dividers":{"hasTopDivider":false,"hasBottomDivider":false},"isBuilder":false,"a11y":{},"translations":{}},"comp-lh034vgh_relative":{"containerLayoutClassName":"comp-lh034vgh-container","overlowWrapperClassName":"comp-lh034vgh-overflow-wrapper","hasScrollOverflow":false,"hasOverflow":false,"shouldOmitWrapperLayers":true,"deviceType":"Desktop","role":"group"},"comp-lh034vgv":{"html":"<p class=\"font_8 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\"><span style=\"text-decoration:underline;\" class=\"wixui-rich-text__text\"><a href=\"https://www.jiaqiliu.com/on-the-avant-garde-responses-and-how-an-artwork-can-stand-out\" target=\"_self\" class=\"wixui-rich-text__text\">Previous</a></span>&nbsp; |&nbsp; <span style=\"text-decoration:underline;\" class=\"wixui-rich-text__text\"><a href=\"https://www.jiaqiliu.com/peace-and-peace\" target=\"_self\" class=\"wixui-rich-text__text\">Next</a></span></span></p>","skin":"WRichTextThemeSkin","isQaMode":false,"fullNameCompType":"wysiwyg.viewer.components.WRichText"},"comp-lh03258r":{"skin":"ResponsiveContainerRefSkin","tagName":"footer","containerRootClassName":"comp-lh03258r-container","className":""},"comp-lh03258r_r_comp-kbgakgyt":{"skin":"RectangleArea","containerProps":{"containerLayoutClassName":"comp-lh03258r_r_comp-kbgakgyt-container","overlowWrapperClassName":"comp-lh03258r_r_comp-kbgakgyt-overflow-wrapper","hasScrollOverflow":false,"hasOverflow":false,"shouldOmitWrapperLayers":true,"deviceType":"Desktop","role":"group"},"tagName":null,"containerRootClassName":"comp-lh03258r_r_comp-kbgakgyt-container","className":"","background":{"containerId":"comp-lh03258r_r_comp-kbgakgyt","hasBgFullscreenScrollEffect":false,"shouldRenderUnderlay":true,"shouldPadMedia":false,"hasCanvasAnimation":false},"fillLayers":{"containerId":"comp-lh03258r_r_comp-kbgakgyt","hasBgFullscreenScrollEffect":false,"shouldRenderUnderlay":true,"shouldPadMedia":false,"hasCanvasAnimation":false},"dividers":{"hasTopDivider":false,"hasBottomDivider":false},"isBuilder":false,"a11y":{}},"comp-lh03258r_r_comp-kbgakgyt_relative":{"containerLayoutClassName":"comp-lh03258r_r_comp-kbgakgyt-container","overlowWrapperClassName":"comp-lh03258r_r_comp-kbgakgyt-overflow-wrapper","hasScrollOverflow":false,"hasOverflow":false,"shouldOmitWrapperLayers":true,"deviceType":"Desktop","role":"group"},"comp-lh03258r_r_comp-kv5tvg1y":{"containerProps":{"containerLayoutClassName":"comp-lh03258r_r_comp-kv5tvg1y-container","overlowWrapperClassName":"comp-lh03258r_r_comp-kv5tvg1y-overflow-wrapper","hasScrollOverflow":false,"hasOverflow":false,"shouldOmitWrapperLayers":true,"deviceType":"Desktop","role":"group"},"containerRootClassName":"comp-lh03258r_r_comp-kv5tvg1y-container","role":"","isRepeaterItem":false,"translations":{"ariaLabel":"content changes on hover"}},"comp-lh03258r_r_comp-kv5tvg1y_relative":{"containerLayoutClassName":"comp-lh03258r_r_comp-kv5tvg1y-container","overlowWrapperClassName":"comp-lh03258r_r_comp-kv5tvg1y-overflow-wrapper","hasScrollOverflow":false,"hasOverflow":false,"shouldOmitWrapperLayers":true,"deviceType":"Desktop","role":"group"},"comp-lh03258r_r_comp-kuvrtotl":{"images":[{"alt":"Instagram","width":200,"height":200,"uri":"01c3aff52f2a4dffa526d7a9843d46ea.png","title":"Instagram","containerId":"dataItem-kuvrtou32-comp-lh03258r_r_comp-kuvrtotl","hasBgScrollEffect":"","bgEffectName":"","displayMode":"fill","link":{"href":"https://www.instagram.com/jiaqiliu__/","target":"_blank","rel":"noreferrer noopener","type":"ExternalLink","id":"dataItem-kuvrtou33"},"encoding":"AVIF","allowWebpAvifTransforms":true}],"compId":"comp-lh03258r_r_comp-kuvrtotl","fullNameCompType":"wysiwyg.viewer.components.LinkBar","language":"en","trackClicksAnalytics":false,"iconSize":30,"shouldRenderPlaceholders":false,"translations":{"ariaLabel":"Social Bar"}},"comp-lh03258r_r_comp-kd5pdf7t":{"html":"<p class=\"font_8 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">&copy; 2026 by Jiaqi Liu. All rights reserved.</span></p>","skin":"WRichTextThemeSkin","isQaMode":false,"fullNameCompType":"wysiwyg.viewer.components.WRichText"},"comp-lh03258w-pinned-layer":{"rootClassName":"root"},"comp-lh03258w":{"skin":"ResponsiveContainerRefSkin","containerRootClassName":"comp-lh03258w-container","className":""},"comp-lh03258w_r_comp-kd5px9hr":{"isOpen":false,"isVisible":false,"classNames":[],"containerProps":{"containerLayoutClassName":"comp-lh03258w_r_comp-kd5px9hr-container","overlowWrapperClassName":"comp-lh03258w_r_comp-kd5px9hr-overflow-wrapper","hasScrollOverflow":true,"hasOverflow":true,"shouldOmitWrapperLayers":false,"deviceType":"Desktop","role":"group"},"isMobileView":false,"compId":"comp-lh03258w_r_comp-kd5px9hr","translations":{"containerAriaLabel":"Site navigation"}},"comp-lh03258w_r_comp-kkmqi5tc":{"withShadow":false,"link":{},"fullNameCompType":"wysiwyg.viewer.components.VectorImage","language":"en","mainPageId":"k3lv9","compId":"comp-lh03258w_r_comp-kkmqi5tc","trackClicksAnalytics":false,"experiments":{"specs.thunderbolt.DatePickerPortal":true,"specs.thunderbolt.DisableDocumentScrollWhenLightBoxOpen":true,"specs.thunderbolt.EnableCustomCSSVarsForLoginSocialBar":true,"specs.thunderbolt.FreemiumBannerOdeditor":true,"specs.thunderbolt.LoginBarEnableLoggingInStateInSSR":true,"specs.thunderbolt.TextInputAutoFillFix":true,"specs.thunderbolt.UseLoginSocialBarCustomMenu":true,"specs.thunderbolt.UseNestedLoginSocialBarMenuItems":true,"specs.thunderbolt.UseNewLoginBarDropdownMenuAlignment":true,"specs.thunderbolt.UseNewLoginSocialBarElementStructure":true,"specs.thunderbolt.UseNewLoginSocialBarMemberInitialsAvatar":true,"specs.thunderbolt.WixFreeSiteBannerDesktop":true,"specs.thunderbolt.WixFreeSiteBannerMobile":true,"specs.thunderbolt.a11yContrast":true,"specs.thunderbolt.addIdAsClassName":true,"specs.thunderbolt.allowWebpAvifTransforms":true,"specs.thunderbolt.builderBoxSizingBorderBox":true,"specs.thunderbolt.buttonUdp":true,"specs.thunderbolt.calculateCollapsibleTextLineHeightByFont":true,"specs.thunderbolt.dom_store":true,"specs.thunderbolt.dontApplyDacOverridesOnBoBApps":true,"specs.thunderbolt.dynamicPageLinkTarget":true,"specs.thunderbolt.dynamicSlots":true,"specs.thunderbolt.fiveGridLineStudioSkins":true,"specs.thunderbolt.fixDocumentLinkInPremiumPreview":true,"specs.thunderbolt.fixFirefoxLinkBarIntrinsicSizing":true,"specs.thunderbolt.fixRemappedFullNameCompType":true,"specs.thunderbolt.imageEncodingAVIF":true,"specs.thunderbolt.isClassNameToRootEnabled":true,"specs.thunderbolt.logVsmFeaturesModuleDiff":true,"specs.thunderbolt.motionTimeAnimationsCSS":true,"specs.thunderbolt.resolveManifestInTB":true,"specs.thunderbolt.responsiveContainerRoleGroup":true,"specs.thunderbolt.sectionA11yProps":true,"specs.thunderbolt.shouldUseResponsiveImages":true,"specs.thunderbolt.splitSlotSelectors":true,"specs.thunderbolt.stopResolvingInnerSelectors_VAG":true,"specs.thunderbolt.svgResolver_2":true,"specs.thunderbolt.updateRichTextSemanticClassNamesOnCorvid":true,"specs.thunderbolt.useClassnameInResponsiveAppWidget":true,"specs.thunderbolt.useFragmentHrefForTopBottomAnchor":true,"specs.thunderbolt.useImageAvifFormatInNativeProGallery":true,"specs.thunderbolt.useResponsiveImgClassicFixed":true,"specs.thunderbolt.useSvgLoaderFeature":true,"specs.thunderbolt.useSvgLoaderFeatureOnBuilderComps":true,"specs.thunderbolt.useWowImageInFastGallery":true,"specs.thunderbolt.vsmFeaturesModule":true,"specs.thunderbolt.vsm_interactions_v1":true},"isClassNameToRootEnabled":true},"comp-lh03258w_r_comp-kd5px9kk":{"fullNameCompType":"wysiwyg.viewer.components.ExpandableMenu","language":"en","compId":"comp-lh03258w_r_comp-kd5px9kk","mainPageId":"k3lv9","trackClicksAnalytics":false,"skin":"ResponsiveExpandableMenuSkin","items":[{"label":"Projects","link":{"href":"https://www.jiaqiliu.com","target":"_self","type":"PageLink","id":"dataItem-kuvr0o16"},"id":"dataItem-kuvr0nzs"},{"label":"Info","link":{"href":"https://www.jiaqiliu.com/info","target":"_self","type":"PageLink","id":"dataItem-m1u2tdlt"},"id":"dataItem-m1u2tdjp"}],"currentPrimaryPageHref":"","applyTextSelectedColorExperiment":false,"translations":{"ariaLabel":"Site"}}}}},"nicknameToCompIdMaps":{}}
+{
+  "stateRefs": {
+    "comp-lh03259m1_r_comp-kbgajy18": {
+      "experiments": {
+        "$type": "ref",
+        "refPath": [
+          "exports",
+          "environment",
+          "experiments"
+        ]
+      }
+    },
+    "comp-lh03259m1_r_comp-kkmqi5lg": {
+      "reportBi": {
+        "$type": "ref",
+        "refPath": [
+          "exports",
+          "businessLogger",
+          "reportBi"
+        ]
+      },
+      "toggle": {
+        "$type": "ref",
+        "refPath": [
+          "exports",
+          "menuContainer",
+          "comp-lh03258w_r_comp-kd5px9hr",
+          "toggle"
+        ],
+        "shouldLoadPageFeature": true
+      }
+    },
+    "comp-lh03259m1_r_comp-kuvz8byj": {
+      "experiments": {
+        "$type": "ref",
+        "refPath": [
+          "exports",
+          "environment",
+          "experiments"
+        ]
+      }
+    },
+    "comp-lh03259m1_r_comp-kd5peeyu": {
+      "currentUrl": {
+        "$type": "ref",
+        "refPath": [
+          "exports",
+          "router",
+          "currentUrl"
+        ]
+      }
+    },
+    "comp-lh03258z": {
+      "experiments": {
+        "$type": "ref",
+        "refPath": [
+          "exports",
+          "environment",
+          "experiments"
+        ]
+      }
+    },
+    "comp-lh035uw6": {
+      "experiments": {
+        "$type": "ref",
+        "refPath": [
+          "exports",
+          "environment",
+          "experiments"
+        ]
+      }
+    },
+    "comp-lh035uw96": {
+      "experiments": {
+        "$type": "ref",
+        "refPath": [
+          "exports",
+          "environment",
+          "experiments"
+        ]
+      }
+    },
+    "comp-lh035uwb5": {
+      "experiments": {
+        "$type": "ref",
+        "refPath": [
+          "exports",
+          "environment",
+          "experiments"
+        ]
+      }
+    },
+    "comp-lh034vgh": {
+      "experiments": {
+        "$type": "ref",
+        "refPath": [
+          "exports",
+          "environment",
+          "experiments"
+        ]
+      }
+    },
+    "comp-lh034vgv": {
+      "experiments": {
+        "$type": "ref",
+        "refPath": [
+          "exports",
+          "environment",
+          "experiments"
+        ]
+      }
+    },
+    "comp-lh03258r_r_comp-kuvrtotl": {
+      "reportBi": {
+        "$type": "ref",
+        "refPath": [
+          "exports",
+          "businessLogger",
+          "reportBi"
+        ]
+      }
+    },
+    "comp-lh03258r_r_comp-kd5pdf7t": {
+      "experiments": {
+        "$type": "ref",
+        "refPath": [
+          "exports",
+          "environment",
+          "experiments"
+        ]
+      }
+    },
+    "comp-lh03258w_r_comp-kd5px9hr": {
+      "isOpen": {
+        "$type": "ref",
+        "refPath": [
+          "exports",
+          "menuContainer",
+          "comp-lh03258w_r_comp-kd5px9hr",
+          "isOpen"
+        ],
+        "shouldLoadPageFeature": true
+      },
+      "isVisible": {
+        "$type": "ref",
+        "refPath": [
+          "exports",
+          "menuContainer",
+          "comp-lh03258w_r_comp-kd5px9hr",
+          "isVisible"
+        ],
+        "shouldLoadPageFeature": true
+      },
+      "toggle": {
+        "$type": "ref",
+        "refPath": [
+          "exports",
+          "menuContainer",
+          "comp-lh03258w_r_comp-kd5px9hr",
+          "toggle"
+        ],
+        "shouldLoadPageFeature": true
+      },
+      "open": {
+        "$type": "ref",
+        "refPath": [
+          "exports",
+          "menuContainer",
+          "comp-lh03258w_r_comp-kd5px9hr",
+          "open"
+        ],
+        "shouldLoadPageFeature": true
+      },
+      "close": {
+        "$type": "ref",
+        "refPath": [
+          "exports",
+          "menuContainer",
+          "comp-lh03258w_r_comp-kd5px9hr",
+          "close"
+        ],
+        "shouldLoadPageFeature": true
+      },
+      "animate": {
+        "$type": "ref",
+        "refPath": [
+          "exports",
+          "menuContainer",
+          "comp-lh03258w_r_comp-kd5px9hr",
+          "animate"
+        ],
+        "shouldLoadPageFeature": true
+      }
+    },
+    "comp-lh03258w_r_comp-kkmqi5tc": {
+      "reportBi": {
+        "$type": "ref",
+        "refPath": [
+          "exports",
+          "businessLogger",
+          "reportBi"
+        ]
+      },
+      "toggle": {
+        "$type": "ref",
+        "refPath": [
+          "exports",
+          "menuContainer",
+          "comp-lh03258w_r_comp-kd5px9hr",
+          "toggle"
+        ],
+        "shouldLoadPageFeature": true
+      }
+    },
+    "comp-lh03258w_r_comp-kd5px9kk": {
+      "reportBi": {
+        "$type": "ref",
+        "refPath": [
+          "exports",
+          "businessLogger",
+          "reportBi"
+        ]
+      },
+      "currentUrl": {
+        "$type": "ref",
+        "refPath": [
+          "exports",
+          "router",
+          "currentUrl"
+        ]
+      }
+    }
+  },
+  "structure": {
+    "components": {
+      "r59l2": {
+        "componentType": "Page",
+        "components": [
+          "Containerr59l2"
+        ],
+        "uiType": "ResponsivePageWithColorBG",
+        "pageId": "r59l2"
+      },
+      "Containerr59l2": {
+        "componentType": "ResponsiveContainer",
+        "components": [
+          "comp-lh03259m1",
+          "PAGE_SECTIONSr59l2",
+          "comp-lh03258r",
+          "comp-lh03258w-pinned-layer"
+        ],
+        "pageId": "r59l2"
+      },
+      "comp-lh03259m1": {
+        "componentType": "RefComponent",
+        "components": [
+          "comp-lh03259m1_r_comp-kbgajy18"
+        ],
+        "pageId": "r59l2"
+      },
+      "comp-lh03259m1_r_comp-kbgajy18": {
+        "componentType": "HeaderSection",
+        "components": [
+          "comp-lh03259m1_r_comp-kbgajy18_relative"
+        ],
+        "pageId": "r59l2"
+      },
+      "comp-lh03259m1_r_comp-kbgajy18_relative": {
+        "componentType": "ResponsiveContainer",
+        "components": [
+          "comp-lh03259m1_r_comp-kkmqi5lg",
+          "comp-lh03259m1_r_comp-kuvz8byj",
+          "comp-lh03259m1_r_comp-kd5peeyu"
+        ],
+        "pageId": "r59l2"
+      },
+      "comp-lh03259m1_r_comp-kkmqi5lg": {
+        "componentType": "VectorImage",
+        "uiType": "VectorButton",
+        "pageId": "r59l2"
+      },
+      "comp-lh03259m1_r_comp-kuvz8byj": {
+        "componentType": "WRichText",
+        "pageId": "r59l2"
+      },
+      "comp-lh03259m1_r_comp-kd5peeyu": {
+        "componentType": "DropDownMenu",
+        "uiType": "TextOnlyMenuButtonSkin",
+        "pageId": "r59l2"
+      },
+      "PAGE_SECTIONSr59l2": {
+        "componentType": "PageSections",
+        "components": [
+          "comp-lh03258z",
+          "comp-lh034vgh"
+        ],
+        "pageId": "r59l2"
+      },
+      "comp-lh03258z": {
+        "componentType": "Section",
+        "components": [
+          "comp-lh03258z_relative"
+        ],
+        "pageId": "r59l2"
+      },
+      "comp-lh03258z_relative": {
+        "componentType": "ResponsiveContainer",
+        "components": [
+          "comp-lh035uw1"
+        ],
+        "pageId": "r59l2"
+      },
+      "comp-lh035uw1": {
+        "componentType": "Container",
+        "components": [
+          "comp-lh035uw1_relative"
+        ],
+        "uiType": "ResponsiveBox",
+        "pageId": "r59l2"
+      },
+      "comp-lh035uw1_relative": {
+        "componentType": "ResponsiveContainer",
+        "components": [
+          "comp-lh035uw6",
+          "comp-lh035uw96",
+          "comp-lh035uwb5"
+        ],
+        "pageId": "r59l2"
+      },
+      "comp-lh035uw6": {
+        "componentType": "WRichText",
+        "pageId": "r59l2"
+      },
+      "comp-lh035uw96": {
+        "componentType": "WRichText",
+        "pageId": "r59l2"
+      },
+      "comp-lh035uwb5": {
+        "componentType": "WRichText",
+        "pageId": "r59l2"
+      },
+      "comp-lh034vgh": {
+        "componentType": "Section",
+        "components": [
+          "comp-lh034vgh_relative"
+        ],
+        "pageId": "r59l2"
+      },
+      "comp-lh034vgh_relative": {
+        "componentType": "ResponsiveContainer",
+        "components": [
+          "comp-lh034vgv"
+        ],
+        "pageId": "r59l2"
+      },
+      "comp-lh034vgv": {
+        "componentType": "WRichText",
+        "pageId": "r59l2"
+      },
+      "comp-lh03258r": {
+        "componentType": "RefComponent",
+        "components": [
+          "comp-lh03258r_r_comp-kbgakgyt"
+        ],
+        "pageId": "r59l2"
+      },
+      "comp-lh03258r_r_comp-kbgakgyt": {
+        "componentType": "FooterSection",
+        "components": [
+          "comp-lh03258r_r_comp-kbgakgyt_relative"
+        ],
+        "pageId": "r59l2"
+      },
+      "comp-lh03258r_r_comp-kbgakgyt_relative": {
+        "componentType": "ResponsiveContainer",
+        "components": [
+          "comp-lh03258r_r_comp-kv5tvg1y"
+        ],
+        "pageId": "r59l2"
+      },
+      "comp-lh03258r_r_comp-kv5tvg1y": {
+        "componentType": "Container",
+        "components": [
+          "comp-lh03258r_r_comp-kv5tvg1y_relative"
+        ],
+        "uiType": "ResponsiveBox",
+        "pageId": "r59l2"
+      },
+      "comp-lh03258r_r_comp-kv5tvg1y_relative": {
+        "componentType": "ResponsiveContainer",
+        "components": [
+          "comp-lh03258r_r_comp-kuvrtotl",
+          "comp-lh03258r_r_comp-kd5pdf7t"
+        ],
+        "pageId": "r59l2"
+      },
+      "comp-lh03258r_r_comp-kuvrtotl": {
+        "componentType": "LinkBar",
+        "uiType": "Responsive",
+        "pageId": "r59l2"
+      },
+      "comp-lh03258r_r_comp-kd5pdf7t": {
+        "componentType": "WRichText",
+        "pageId": "r59l2"
+      },
+      "comp-lh03258w-pinned-layer": {
+        "componentType": "PinnedLayer",
+        "components": [
+          "comp-lh03258w"
+        ],
+        "pageId": "r59l2"
+      },
+      "comp-lh03258w": {
+        "componentType": "RefComponent",
+        "components": [
+          "comp-lh03258w_r_comp-kd5px9hr"
+        ],
+        "pageId": "r59l2"
+      },
+      "comp-lh03258w_r_comp-kd5px9hr": {
+        "componentType": "MenuContainer",
+        "components": [
+          "comp-lh03258w_r_comp-kkmqi5tc",
+          "comp-lh03258w_r_comp-kd5px9kk"
+        ],
+        "uiType": "Responsive",
+        "pageId": "r59l2"
+      },
+      "comp-lh03258w_r_comp-kkmqi5tc": {
+        "componentType": "VectorImage",
+        "uiType": "VectorButton",
+        "pageId": "r59l2"
+      },
+      "comp-lh03258w_r_comp-kd5px9kk": {
+        "componentType": "ExpandableMenu",
+        "pageId": "r59l2"
+      }
+    },
+    "features": [
+      "landingPage",
+      "scrollRestoration",
+      "accessibilityBrowserZoom",
+      "wixEmbedsApi",
+      "animations",
+      "menuContainer",
+      "imagePlaceholder",
+      "componentsLoader",
+      "scrollToAnchor",
+      "windowScroll",
+      "svgLoader",
+      "seo",
+      "renderer",
+      "activePopup",
+      "menusCurrentPage",
+      "mpaNavigation",
+      "clickHandlerRegistrar",
+      "domSelectors",
+      "components",
+      "reporter",
+      "navigationManager",
+      "environmentService"
+    ],
+    "siteFeaturesConfigs": {}
+  },
+  "props": {
+    "landingPage": {
+      "isLandingPage": false
+    },
+    "scrollRestoration": {
+      "shouldRestoreScrollPosition": true
+    },
+    "accessibilityBrowserZoom": {
+      "isBuilder": false,
+      "isStudio": true
+    },
+    "animations": {
+      "repeaterTemplateToParentMap": {},
+      "isPreview": false
+    },
+    "menuContainer": {
+      "menuContainerConfig": {
+        "comp-lh03258w_r_comp-kd5px9hr": {
+          "animations": {
+            "inBehavior": {
+              "name": "GlideIn",
+              "delay": 0,
+              "duration": 0.5,
+              "targetId": "",
+              "params": {
+                "angle": 90,
+                "distance": 300
+              }
+            },
+            "outBehavior": {
+              "name": "GlideOut",
+              "delay": 0,
+              "duration": 0.5,
+              "targetId": "",
+              "params": {
+                "angle": 90,
+                "distance": 300
+              }
+            }
+          }
+        }
+      },
+      "menuTogglesConfig": {
+        "comp-lh03259m1_r_comp-kkmqi5lg": {
+          "menuContainerId": "comp-lh03258w_r_comp-kd5px9hr"
+        },
+        "comp-lh03258w_r_comp-kkmqi5tc": {
+          "menuContainerId": "comp-lh03258w_r_comp-kd5px9hr"
+        }
+      }
+    },
+    "imagePlaceholder": {
+      "staticMediaUrl": "https://static.wixstatic.com/media",
+      "isSEOBot": false,
+      "userDomainMediaBaseUrl": "",
+      "userDomainMediaPrefixes": []
+    },
+    "scrollToAnchor": {
+      "anchorDataIdToCompIdMap": {},
+      "nicknameToCompIdMap": {
+        "page1": "r59l2",
+        "section3": "comp-lh03259m1_r_comp-kbgajy18",
+        "vectorImage2": "comp-lh03259m1_r_comp-kkmqi5lg",
+        "text11": "comp-lh03259m1_r_comp-kuvz8byj",
+        "horizontalMenu1": "comp-lh03259m1_r_comp-kd5peeyu",
+        "section7": "comp-lh03258z",
+        "box26": "comp-lh035uw1",
+        "text28": "comp-lh035uw6",
+        "text27": "comp-lh035uw96",
+        "text26": "comp-lh035uwb5",
+        "section6": "comp-lh034vgh",
+        "text22": "comp-lh034vgv",
+        "section2": "comp-lh03258r_r_comp-kbgakgyt",
+        "box21": "comp-lh03258r_r_comp-kv5tvg1y",
+        "socialBar1": "comp-lh03258r_r_comp-kuvrtotl",
+        "text2": "comp-lh03258r_r_comp-kd5pdf7t",
+        "menuContainer1": "comp-lh03258w_r_comp-kd5px9hr",
+        "vectorImage1": "comp-lh03258w_r_comp-kkmqi5tc",
+        "expandableMenu1": "comp-lh03258w_r_comp-kd5px9kk"
+      },
+      "compsToUpdate": [],
+      "isAnchorsLinksOnPageWithoutTopAndBottom": false,
+      "isBuilderComponentModel": false,
+      "anchorNameToCompIdMap": {
+        "Top%20of%20Page": "SCROLL_TO_TOP",
+        "Bottom%20of%20Page": "SCROLL_TO_BOTTOM"
+      },
+      "isResponsive": true
+    },
+    "windowScroll": {
+      "headerContainerComponentId": "comp-lh03259m1"
+    },
+    "svgLoader": {
+      "compIdToSvgDataMap": {
+        "comp-lh03259m1_r_comp-kkmqi5lg": {
+          "svgId": "503ea4_3dbf8cc099ca45eb81ab414a37292323.svg",
+          "componentType": "VectorImage",
+          "transformationOptions": {
+            "altText": "Open Site Navigation",
+            "strokeWidth": 0,
+            "properties": {
+              "type": "VectorImageProperties",
+              "metaData": {
+                "schemaVersion": "1.0",
+                "sig": "6c2-40"
+              },
+              "id": "comp-lh03259m1_r_comp-kkmqi5lg-propertyQuery",
+              "displayMode": "fit",
+              "flip": "none"
+            },
+            "layout": {
+              "width": 160,
+              "height": 90
+            },
+            "shadow": {},
+            "overrideColors": {
+              "color1": "color_15"
+            },
+            "isResponsive": true
+          }
+        },
+        "comp-lh03258w_r_comp-kkmqi5tc": {
+          "svgId": "1d3a0b_97d72ad4c8dc4903bfb02b2baa7763ae.svg",
+          "componentType": "VectorImage",
+          "transformationOptions": {
+            "altText": "",
+            "strokeWidth": 0,
+            "properties": {
+              "type": "VectorImageProperties",
+              "metaData": {
+                "schemaVersion": "1.0",
+                "sig": "6c2-59",
+                "autoGenerated": false
+              },
+              "id": "comp-lh03258w_r_comp-kkmqi5tc-propertyQuery",
+              "displayMode": "stretch",
+              "flip": "none"
+            },
+            "layout": {
+              "width": 160,
+              "height": 90
+            },
+            "shadow": {},
+            "overrideColors": {
+              "color1": "color_15"
+            },
+            "isResponsive": true
+          }
+        }
+      },
+      "colorsMap": [
+        "#FFFFFF",
+        "#FFFFFF",
+        "#000000",
+        "#ED1C24",
+        "#0088CB",
+        "#FFCB05",
+        "#727272",
+        "#B0B0B0",
+        "#FFFFFF",
+        "#727272",
+        "#B0B0B0",
+        "#FFFFFF",
+        "#E3E3E3",
+        "#979797",
+        "#4F4F4F",
+        "#000000",
+        "#E8EAED",
+        "#959EE5",
+        "#384AD3",
+        "#25318D",
+        "#131946",
+        "#F2DECC",
+        "#C2B2A3",
+        "#91857A",
+        "#615952",
+        "#302C29",
+        "#D1DBC3",
+        "#ABB899",
+        "#7F9463",
+        "#556342",
+        "#2A3121",
+        "#C7D3D5",
+        "#9AA9AC",
+        "#677E82",
+        "#455457",
+        "#222A2B",
+        "#FFFFFF",
+        "#000000",
+        "#E3E3E3",
+        "#979797",
+        "#4F4F4F",
+        "#384AD3",
+        "#384AD3",
+        "#384AD3",
+        "#384AD3",
+        "#000000",
+        "#4F4F4F",
+        "#000000",
+        "#384AD3",
+        "#384AD3",
+        "#FFFFFF",
+        "#384AD3",
+        "#384AD3",
+        "#FFFFFF",
+        "#979797",
+        "#979797",
+        "#FFFFFF",
+        "#FFFFFF",
+        "#384AD3",
+        "#384AD3",
+        "#FFFFFF",
+        "#384AD3",
+        "#384AD3",
+        "#FFFFFF",
+        "#979797",
+        "#979797"
+      ],
+      "mediaRootUrl": "https://static.wixstatic.com/",
+      "compIdToVectorArtPropsPaths": {}
+    },
+    "seo": {
+      "pageId": "r59l2",
+      "description": "Jiaqi Liu is a Beijing-born, New York City-based artist.",
+      "indexPage": true,
+      "ogImage": "",
+      "ogImageHeight": "",
+      "ogImageWidth": "",
+      "pageName": "On the Distinctions",
+      "title": "Jiaqi Liu | On the Distinctions Between AI Works and Art Works",
+      "advancedSeoData": "{\"tags\":[{\"type\":\"title\",\"children\":\"Jiaqi Liu | On the Distinctions Between AI Works and Art Works\"},{\"type\":\"meta\",\"props\":{\"name\":\"description\",\"content\":\"Jiaqi Liu is a Beijing-born, New York City-based artist.\"},\"children\":\"\",\"custom\":false,\"disabled\":false}]}",
+      "currentPageUrl": "",
+      "translationsData": {
+        "default": "{\"tags\":[{\"type\":\"title\",\"children\":\"Jiaqi Liu | On the Distinctions Between AI Works and Art Works\"},{\"type\":\"meta\",\"props\":{\"name\":\"description\",\"content\":\"Jiaqi Liu is a Beijing-born, New York City-based artist.\"},\"children\":\"\",\"custom\":false,\"disabled\":false}]}"
+      },
+      "tpaPageId": "",
+      "managingAppDefId": ""
+    },
+    "activePopup": {},
+    "menusCurrentPage": {},
+    "domSelectors": {
+      "allComponentIds": [
+        "r59l2",
+        "Containerr59l2",
+        "comp-lh03259m1",
+        "comp-lh03259m1_r_comp-kbgajy18",
+        "comp-lh03259m1_r_comp-kbgajy18_relative",
+        "comp-lh03259m1_r_comp-kkmqi5lg",
+        "comp-lh03259m1_r_comp-kuvz8byj",
+        "comp-lh03259m1_r_comp-kd5peeyu",
+        "PAGE_SECTIONSr59l2",
+        "comp-lh03258z",
+        "comp-lh03258z_relative",
+        "comp-lh035uw1",
+        "comp-lh035uw1_relative",
+        "comp-lh035uw6",
+        "comp-lh035uw96",
+        "comp-lh035uwb5",
+        "comp-lh034vgh",
+        "comp-lh034vgh_relative",
+        "comp-lh034vgv",
+        "comp-lh03258r",
+        "comp-lh03258r_r_comp-kbgakgyt",
+        "comp-lh03258r_r_comp-kbgakgyt_relative",
+        "comp-lh03258r_r_comp-kv5tvg1y",
+        "comp-lh03258r_r_comp-kv5tvg1y_relative",
+        "comp-lh03258r_r_comp-kuvrtotl",
+        "comp-lh03258r_r_comp-kd5pdf7t",
+        "comp-lh03258w-pinned-layer",
+        "comp-lh03258w",
+        "comp-lh03258w_r_comp-kd5px9hr",
+        "comp-lh03258w_r_comp-kkmqi5tc",
+        "comp-lh03258w_r_comp-kd5px9kk"
+      ]
+    },
+    "components": {
+      "componentsUnderFoldMap": {
+        "r59l2": {
+          "componentType": "mobile.core.components.Page",
+          "compId": "r59l2"
+        },
+        "comp-lh03259m1": {
+          "componentType": "wysiwyg.viewer.components.RefComponent",
+          "compId": "comp-lh03259m1"
+        },
+        "comp-lh03258z": {
+          "componentType": "responsive.components.Section",
+          "compId": "comp-lh03258z"
+        },
+        "comp-lh035uw1": {
+          "componentType": "mobile.core.components.Container",
+          "compId": "comp-lh035uw1"
+        },
+        "comp-lh035uw6": {
+          "componentType": "wysiwyg.viewer.components.WRichText",
+          "compId": "comp-lh035uw6"
+        },
+        "comp-lh035uw96": {
+          "componentType": "wysiwyg.viewer.components.WRichText",
+          "compId": "comp-lh035uw96"
+        },
+        "comp-lh035uwb5": {
+          "componentType": "wysiwyg.viewer.components.WRichText",
+          "compId": "comp-lh035uwb5"
+        },
+        "comp-lh03258r": {
+          "componentType": "wysiwyg.viewer.components.RefComponent",
+          "compId": "comp-lh03258r"
+        },
+        "comp-lh03258r_r_comp-kbgakgyt": {
+          "componentType": "responsive.components.FooterSection",
+          "compId": "comp-lh03258r_r_comp-kbgakgyt"
+        },
+        "comp-lh03258r_r_comp-kv5tvg1y": {
+          "componentType": "mobile.core.components.Container",
+          "compId": "comp-lh03258r_r_comp-kv5tvg1y"
+        },
+        "comp-lh03258r_r_comp-kuvrtotl": {
+          "componentType": "wysiwyg.viewer.components.LinkBar",
+          "compId": "comp-lh03258r_r_comp-kuvrtotl"
+        },
+        "comp-lh03258r_r_comp-kd5pdf7t": {
+          "componentType": "wysiwyg.viewer.components.WRichText",
+          "compId": "comp-lh03258r_r_comp-kd5pdf7t"
+        },
+        "comp-lh03258w": {
+          "componentType": "wysiwyg.viewer.components.RefComponent",
+          "compId": "comp-lh03258w"
+        },
+        "comp-lh03258w_r_comp-kd5px9hr": {
+          "componentType": "wysiwyg.viewer.components.MenuContainer",
+          "compId": "comp-lh03258w_r_comp-kd5px9hr"
+        },
+        "comp-lh03258w_r_comp-kkmqi5tc": {
+          "componentType": "wysiwyg.viewer.components.VectorImage",
+          "compId": "comp-lh03258w_r_comp-kkmqi5tc"
+        },
+        "comp-lh03258w_r_comp-kd5px9kk": {
+          "componentType": "wysiwyg.viewer.components.ExpandableMenu",
+          "compId": "comp-lh03258w_r_comp-kd5px9kk"
+        }
+      }
+    },
+    "__componentsConfig__": {},
+    "render": {
+      "compProps": {
+        "r59l2": {
+          "className": "theme-vars"
+        },
+        "Containerr59l2": {
+          "containerLayoutClassName": "r59l2-container",
+          "overlowWrapperClassName": "r59l2-overflow-wrapper",
+          "hasScrollOverflow": false,
+          "hasOverflow": false,
+          "shouldOmitWrapperLayers": false,
+          "deviceType": "Desktop",
+          "role": "group"
+        },
+        "comp-lh03259m1": {
+          "skin": "ResponsiveContainerRefSkin",
+          "tagName": "header",
+          "containerRootClassName": "comp-lh03259m1-container",
+          "className": ""
+        },
+        "comp-lh03259m1_r_comp-kbgajy18": {
+          "skin": "RectangleArea",
+          "containerProps": {
+            "containerLayoutClassName": "comp-lh03259m1_r_comp-kbgajy18-container",
+            "overlowWrapperClassName": "comp-lh03259m1_r_comp-kbgajy18-overflow-wrapper",
+            "hasScrollOverflow": false,
+            "hasOverflow": false,
+            "shouldOmitWrapperLayers": true,
+            "deviceType": "Desktop",
+            "role": "group"
+          },
+          "tagName": null,
+          "containerRootClassName": "comp-lh03259m1_r_comp-kbgajy18-container",
+          "className": "",
+          "background": {
+            "containerId": "comp-lh03259m1_r_comp-kbgajy18",
+            "hasBgFullscreenScrollEffect": false,
+            "shouldRenderUnderlay": true,
+            "shouldPadMedia": false,
+            "hasCanvasAnimation": false
+          },
+          "fillLayers": {
+            "containerId": "comp-lh03259m1_r_comp-kbgajy18",
+            "hasBgFullscreenScrollEffect": false,
+            "shouldRenderUnderlay": true,
+            "shouldPadMedia": false,
+            "hasCanvasAnimation": false
+          },
+          "dividers": {
+            "hasTopDivider": false,
+            "hasBottomDivider": false
+          },
+          "isBuilder": false,
+          "a11y": {},
+          "animate": "none"
+        },
+        "comp-lh03259m1_r_comp-kbgajy18_relative": {
+          "containerLayoutClassName": "comp-lh03259m1_r_comp-kbgajy18-container",
+          "overlowWrapperClassName": "comp-lh03259m1_r_comp-kbgajy18-overflow-wrapper",
+          "hasScrollOverflow": false,
+          "hasOverflow": false,
+          "shouldOmitWrapperLayers": true,
+          "deviceType": "Desktop",
+          "role": "group"
+        },
+        "comp-lh03259m1_r_comp-kkmqi5lg": {
+          "withShadow": false,
+          "link": {},
+          "fullNameCompType": "wysiwyg.viewer.components.VectorImage",
+          "language": "en",
+          "mainPageId": "k3lv9",
+          "compId": "comp-lh03259m1_r_comp-kkmqi5lg",
+          "trackClicksAnalytics": false,
+          "experiments": {
+            "specs.thunderbolt.DatePickerPortal": true,
+            "specs.thunderbolt.DisableDocumentScrollWhenLightBoxOpen": true,
+            "specs.thunderbolt.EnableCustomCSSVarsForLoginSocialBar": true,
+            "specs.thunderbolt.FreemiumBannerOdeditor": true,
+            "specs.thunderbolt.LoginBarEnableLoggingInStateInSSR": true,
+            "specs.thunderbolt.TextInputAutoFillFix": true,
+            "specs.thunderbolt.UseLoginSocialBarCustomMenu": true,
+            "specs.thunderbolt.UseNestedLoginSocialBarMenuItems": true,
+            "specs.thunderbolt.UseNewLoginBarDropdownMenuAlignment": true,
+            "specs.thunderbolt.UseNewLoginSocialBarElementStructure": true,
+            "specs.thunderbolt.UseNewLoginSocialBarMemberInitialsAvatar": true,
+            "specs.thunderbolt.WixFreeSiteBannerDesktop": true,
+            "specs.thunderbolt.WixFreeSiteBannerMobile": true,
+            "specs.thunderbolt.a11yContrast": true,
+            "specs.thunderbolt.addIdAsClassName": true,
+            "specs.thunderbolt.allowWebpAvifTransforms": true,
+            "specs.thunderbolt.builderBoxSizingBorderBox": true,
+            "specs.thunderbolt.buttonUdp": true,
+            "specs.thunderbolt.calculateCollapsibleTextLineHeightByFont": true,
+            "specs.thunderbolt.dom_store": true,
+            "specs.thunderbolt.dontApplyDacOverridesOnBoBApps": true,
+            "specs.thunderbolt.dynamicPageLinkTarget": true,
+            "specs.thunderbolt.dynamicSlots": true,
+            "specs.thunderbolt.fiveGridLineStudioSkins": true,
+            "specs.thunderbolt.fixDocumentLinkInPremiumPreview": true,
+            "specs.thunderbolt.fixFirefoxLinkBarIntrinsicSizing": true,
+            "specs.thunderbolt.fixRemappedFullNameCompType": true,
+            "specs.thunderbolt.imageEncodingAVIF": true,
+            "specs.thunderbolt.isClassNameToRootEnabled": true,
+            "specs.thunderbolt.logVsmFeaturesModuleDiff": true,
+            "specs.thunderbolt.motionTimeAnimationsCSS": true,
+            "specs.thunderbolt.resolveManifestInTB": true,
+            "specs.thunderbolt.responsiveContainerRoleGroup": true,
+            "specs.thunderbolt.sectionA11yProps": true,
+            "specs.thunderbolt.shouldUseResponsiveImages": true,
+            "specs.thunderbolt.splitSlotSelectors": true,
+            "specs.thunderbolt.stopResolvingInnerSelectors_VAG": true,
+            "specs.thunderbolt.svgResolver_2": true,
+            "specs.thunderbolt.updateRichTextSemanticClassNamesOnCorvid": true,
+            "specs.thunderbolt.useClassnameInResponsiveAppWidget": true,
+            "specs.thunderbolt.useFragmentHrefForTopBottomAnchor": true,
+            "specs.thunderbolt.useImageAvifFormatInNativeProGallery": true,
+            "specs.thunderbolt.useResponsiveImgClassicFixed": true,
+            "specs.thunderbolt.useSvgLoaderFeature": true,
+            "specs.thunderbolt.useSvgLoaderFeatureOnBuilderComps": true,
+            "specs.thunderbolt.useWowImageInFastGallery": true,
+            "specs.thunderbolt.vsmFeaturesModule": true,
+            "specs.thunderbolt.vsm_interactions_v1": true
+          },
+          "isClassNameToRootEnabled": true
+        },
+        "comp-lh03259m1_r_comp-kuvz8byj": {
+          "html": "<p class=\"font_8 wixui-rich-text__text\"><a href=\"https://www.jiaqiliu.com\" target=\"_self\" class=\"wixui-rich-text__text\">Jiaqi Liu</a></p>",
+          "skin": "WRichTextThemeSkin",
+          "isQaMode": false,
+          "fullNameCompType": "wysiwyg.viewer.components.WRichText"
+        },
+        "comp-lh03259m1_r_comp-kd5peeyu": {
+          "skin": "TextOnlyMenuButtonSkin",
+          "items": [
+            {
+              "label": "Projects",
+              "link": {
+                "href": "https://www.jiaqiliu.com",
+                "target": "_self",
+                "type": "PageLink",
+                "id": "dataItem-kuvr0o16"
+              },
+              "id": "dataItem-kuvr0nzs"
+            },
+            {
+              "label": "Info",
+              "link": {
+                "href": "https://www.jiaqiliu.com/info",
+                "target": "_self",
+                "type": "PageLink",
+                "id": "dataItem-m1u2tdlt"
+              },
+              "id": "dataItem-m1u2tdjp"
+            }
+          ],
+          "alignButtons": "right",
+          "sameWidthButtons": false,
+          "moreButtonLabel": "More...",
+          "moreItemHeight": 15,
+          "stretchButtonsToMenuWidth": true,
+          "rtl": false,
+          "marginAllChildren": true,
+          "skinExports": {
+            "menuBorderY": 0,
+            "menuBtnBorder": 0,
+            "ribbonEls": 0,
+            "labelPad": 0,
+            "ribbonExtra": 0
+          },
+          "isTouchDevice": false,
+          "renderSEOSubItems": true,
+          "isQaMode": false,
+          "fullNameCompType": "wysiwyg.viewer.components.menus.DropDownMenu",
+          "translations": {
+            "subMenuIndication": "Use tab to navigate through the menu items.",
+            "ariaLabel": "Site",
+            "dropdownButtonAriaLabel": "More <%= itemName %> pages"
+          }
+        },
+        "comp-lh03258z": {
+          "skin": "RectangleArea",
+          "containerProps": {
+            "containerLayoutClassName": "comp-lh03258z-container",
+            "overlowWrapperClassName": "comp-lh03258z-overflow-wrapper",
+            "hasScrollOverflow": false,
+            "hasOverflow": false,
+            "shouldOmitWrapperLayers": true,
+            "deviceType": "Desktop",
+            "role": "group"
+          },
+          "tagName": null,
+          "containerRootClassName": "comp-lh03258z-container",
+          "className": "",
+          "background": {
+            "containerId": "comp-lh03258z",
+            "hasBgFullscreenScrollEffect": false,
+            "shouldRenderUnderlay": true,
+            "shouldPadMedia": false,
+            "hasCanvasAnimation": false
+          },
+          "fillLayers": {
+            "containerId": "comp-lh03258z",
+            "hasBgFullscreenScrollEffect": false,
+            "shouldRenderUnderlay": true,
+            "shouldPadMedia": false,
+            "hasCanvasAnimation": false,
+            "useWixMediaCanvas": false
+          },
+          "dividers": {
+            "hasTopDivider": false,
+            "hasBottomDivider": false
+          },
+          "isBuilder": false,
+          "a11y": {},
+          "translations": {}
+        },
+        "comp-lh03258z_relative": {
+          "containerLayoutClassName": "comp-lh03258z-container",
+          "overlowWrapperClassName": "comp-lh03258z-overflow-wrapper",
+          "hasScrollOverflow": false,
+          "hasOverflow": false,
+          "shouldOmitWrapperLayers": true,
+          "deviceType": "Desktop",
+          "role": "group"
+        },
+        "comp-lh035uw1": {
+          "containerProps": {
+            "containerLayoutClassName": "comp-lh035uw1-container",
+            "overlowWrapperClassName": "comp-lh035uw1-overflow-wrapper",
+            "hasScrollOverflow": false,
+            "hasOverflow": false,
+            "shouldOmitWrapperLayers": true,
+            "deviceType": "Desktop",
+            "role": "group"
+          },
+          "containerRootClassName": "comp-lh035uw1-container",
+          "role": "",
+          "isRepeaterItem": false,
+          "translations": {
+            "ariaLabel": "content changes on hover"
+          }
+        },
+        "comp-lh035uw1_relative": {
+          "containerLayoutClassName": "comp-lh035uw1-container",
+          "overlowWrapperClassName": "comp-lh035uw1-overflow-wrapper",
+          "hasScrollOverflow": false,
+          "hasOverflow": false,
+          "shouldOmitWrapperLayers": true,
+          "deviceType": "Desktop",
+          "role": "group"
+        },
+        "comp-lh035uw6": {
+          "html": "<h2 class=\"font_2 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">On the Distinctions between AI Works and Art Works</span></h2>",
+          "skin": "WRichTextNewSkin",
+          "isQaMode": false,
+          "fullNameCompType": "wysiwyg.viewer.components.WRichText"
+        },
+        "comp-lh035uw96": {
+          "html": "<p class=\"font_8 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Essay, 2023</span></p>",
+          "skin": "WRichTextNewSkin",
+          "isQaMode": false,
+          "fullNameCompType": "wysiwyg.viewer.components.WRichText"
+        },
+        "comp-lh035uwb5": {
+          "html": "<p class=\"font_8 wixui-rich-text__text\"><span style=\"font-style:italic;\" class=\"wixui-rich-text__text\">Note: This essay was originally written for an audience who has undergone considerate education and training in mathematics, statistics and computer science. To accommodate a broader audience with diverse backgrounds and to preserve the flow of the original writing, mathematical terms and concepts are complemented with external sources (through embedded hyperlinks) for explanations. These external sources are intentionally not academic by nature and were not part of the references of the original essay.</span></p>\n\n<p class=\"font_8 wixui-rich-text__text\"><span class=\"wixGuard wixui-rich-text__text\">\u200b</span></p>\n\n<p class=\"font_8 wixui-rich-text__text\"><span class=\"wixGuard wixui-rich-text__text\">\u200b</span></p>\n\n<p class=\"font_8 wixui-rich-text__text\">The recent groundbreaking advancements in artificial intelligence and machine learning have brought forth works in image, video, and literature that would seem comparable to the works of human artists. It is the purpose of this essay to draw the seemingly blurred lines between artworks and AI works, and in doing so, attempt a better understanding of the inexplicable nature of art and art making.</p>\n\n<p class=\"font_8 wixui-rich-text__text\"><span class=\"wixGuard wixui-rich-text__text\">\u200b</span></p>\n\n<p class=\"font_8 wixui-rich-text__text\">Art is an expression by the creator that reflects, challenges, records, invokes, and envisions. Every artwork spans temporally &mdash; it builds on top of and/or challenges the past, records the instantaneous thinking and emotions of the creator in the present (the present when it is created), and invokes the thinking and emotions of the audience in their present (at the present when it is engaged), and envisions a possibility of the future &mdash; a future that includes the existence of the artwork.</p>\n\n<p class=\"font_8 wixui-rich-text__text\"><span class=\"wixGuard wixui-rich-text__text\">\u200b</span></p>\n\n<p class=\"font_8 wixui-rich-text__text\">It seems apt to follow (an attempt of) a definition with an example, and we shall seek one on the ceiling of the Sistine Chapel. Undoubtedly, Michelangelo drew enormous insights from the past. The contents of the fresco are various events in history (history according to the Catholic church, but history nonetheless). The skills and style of the work were broadly based on the movement later known as the Renaissance rooted in Florence, where he grew up, dated back decades, challenging the aesthetics of the Middle Ages that spanned centuries before that. The artist&rsquo;s own past, in which he worked mostly as a marble sculptor, was of equal significance as it brought technical difficulties to large-scale painting but also laid a unique foundation for his depictions of muscles, motions, and momentums [1]. The impact of the work in the future is beyond obvious as well: not only did it strengthen Michelangelo&rsquo;s own ties with the court, and in particular the papacy for decades to come, it marks one of the few pinnacles of arguably the most colorful era in Western art history with lasting influence on future generations of artists, art lovers, and art history students who have to write tedious essays on it.</p>\n\n<p class=\"font_8 wixui-rich-text__text\"><span class=\"wixGuard wixui-rich-text__text\">\u200b</span></p>\n\n<p class=\"font_8 wixui-rich-text__text\">But it is the present, or rather the presents, that are of the utmost importance. It was a long &ldquo;present&rdquo; for Michelangelo that lasted five years. It was in this present that he created, from nothing to everything, from zero to one, from false to true. There are nine scenes that compose the work on the ceiling and Michelangelo didn&rsquo;t paint every inch, with help and support from a group of compatriots and apprentices [1]. But every inch was his art, and his art lies in every inch. It might seem tempting to ask the question: is it still the same great work of art if some minor change were to take place &mdash; indeed, nothing drastic like putting a beard, or a leather jacket on Adam, but perhaps a slightly different hue of grey for the rock on the background or a minute change of hairstyle for one of the wingless angels in the corner? To generalize: is art still art with an ever slight perturbation? What is the <span style=\"text-decoration:underline;\" class=\"wixui-rich-text__text\"><a href=\"https://en.wikipedia.org/wiki/Condition_number\" target=\"_blank\" rel=\"noreferrer noopener\" class=\"wixui-rich-text__text\">condition number</a></span> of art? The answer is no, and infinity. And the proof is a simple one. Every possibility of an alternation corresponds to a decision made, either explicitly or implicitly, by the creator. Any deviation from the set of such decisions is a deviation from the creator&rsquo;s intention. A deviation of any scale is enough to break the fragile <span style=\"text-decoration:underline;\" class=\"wixui-rich-text__text\"><a href=\"https://en.wikipedia.org/wiki/Injective_function#:~:text=In%20mathematics%2C%20an%20injective%20function,implies%20x1%20%3D%20x2.\" target=\"_blank\" rel=\"noreferrer noopener\" class=\"wixui-rich-text__text\">injection</a></span> from intention to expression.</p>\n\n<p class=\"font_8 wixui-rich-text__text\"><span class=\"wixGuard wixui-rich-text__text\">\u200b</span></p>\n\n<p class=\"font_8 wixui-rich-text__text\">It is in the creators&rsquo; present where we make the first distinction between art works and AI works. Artificial intelligence is a promise in the <span style=\"text-decoration:underline;\" class=\"wixui-rich-text__text\"><a href=\"https://en.wikipedia.org/wiki/Asymptote\" target=\"_blank\" rel=\"noreferrer noopener\" class=\"wixui-rich-text__text\">asymptotes</a></span>. Taking away true infinity (which is never there to begin with), the promise collapses to an approximation. It is worth emphasizing that infinity is not required in the past or future parts of the work. Indeed, modern AI&rsquo;s ability to take in the past is beyond human imagination, and its legacy in the future requires little effort in reservation. It is the present that the AI lacks. The wonderful minds behind DALL-E 2 described the method they used as a &ldquo;generative stack&rdquo; that is composed of a prior probability of CLIP image embeddings conditioned on text captions, and a decoder that produces images conditioned on the CLIP image embeddings [2]. The CLIP embedding space allows for what is known as &ldquo;zero-shot&rdquo; learning where the AI is working with disjoint training and testing data, with auxiliary information linking the two. While this framework has demonstrated great performance in image generation based on textual prompts, it is based on the &ldquo;common sense&rdquo; the machine creates through trial and error &mdash; by minimizing some form of a <span style=\"text-decoration:underline;\" class=\"wixui-rich-text__text\"><a href=\"https://en.wikipedia.org/wiki/Loss_function\" target=\"_blank\" rel=\"noreferrer noopener\" class=\"wixui-rich-text__text\">loss function</a></span> that (hopefully) converges to zero in the asymptotes. There isn&rsquo;t a moment where the loss is exactly at zero &mdash; the moment we call the creator&rsquo;s present, where all decisions are made and the creation takes place. It is rumored that Michelangelo, when asked how he created the marble sculpture of David, said he could see the sculpture in the rock and just proceeded to chisel away everything else. If this rumor was true, the &ldquo;present&rdquo; of Michelangelo&rsquo;s David was the moment he &ldquo;saw&rdquo; it. In contrast, AI cannot &ldquo;see&rdquo; the end product, but instead, start with chiseling and &ldquo;look as it goes&rdquo;. In other words, an artist seems to be standing on the integer line where she can go from zero to one with one step, but the machine, any machine, is on the <span style=\"text-decoration:underline;\" class=\"wixui-rich-text__text\"><a href=\"https://mathworld.wolfram.com/RealLine.html\" target=\"_blank\" rel=\"noreferrer noopener\" class=\"wixui-rich-text__text\">real line</a></span> &mdash; the finer the grid, the more computational power required, and the closer, it seems, it can get to one. But the solution is not in approaching continuity, as &rdquo;one&rdquo; here is not a real number, not an integer even, but rather a <span style=\"text-decoration:underline;\" class=\"wixui-rich-text__text\"><a href=\"https://en.wikipedia.org/wiki/Boolean_data_type\" target=\"_blank\" rel=\"noreferrer noopener\" class=\"wixui-rich-text__text\">boolean</a></span>. Therefore any effort on the real line is a deception of progress &mdash; in the receding of the loss, the present never arrives. The lack of the creator&rsquo;s present brings doubt, hesitation, and confusion to the audience&rsquo;s presents. When engaging a piece of art, the thinking and emotions invoked in the audience are a composition of the direct experience of the work and exploration of the creator. The latter can be viewed under a <span style=\"text-decoration:underline;\" class=\"wixui-rich-text__text\"><a href=\"https://en.wikipedia.org/wiki/Bayesian_statistics\" target=\"_blank\" rel=\"noreferrer noopener\" class=\"wixui-rich-text__text\">Bayesian framework</a></span>. The true intention of the creator can be seen as an unknown <span style=\"text-decoration:underline;\" class=\"wixui-rich-text__text\"><a href=\"https://en.wikipedia.org/wiki/Random_variable\" target=\"_blank\" rel=\"noreferrer noopener\" class=\"wixui-rich-text__text\">random variable</a></span> onto which a <span style=\"text-decoration:underline;\" class=\"wixui-rich-text__text\"><a href=\"https://en.wikipedia.org/wiki/Prior_probability#:~:text=A%20prior%20probability%20distribution%20of,evidence%20is%20taken%20into%20account.\" target=\"_blank\" rel=\"noreferrer noopener\" class=\"wixui-rich-text__text\">prior distribution</a></span> can be cast based on the knowledge and information of the creator. A <span style=\"text-decoration:underline;\" class=\"wixui-rich-text__text\"><a href=\"https://en.wikipedia.org/wiki/Likelihood_function\" target=\"_blank\" rel=\"noreferrer noopener\" class=\"wixui-rich-text__text\">likelihood function</a></span> can be imposed to link intentions with expressions of existing works from the same creator. Consequently, a <span style=\"text-decoration:underline;\" class=\"wixui-rich-text__text\"><a href=\"https://en.wikipedia.org/wiki/Posterior_probability\" target=\"_blank\" rel=\"noreferrer noopener\" class=\"wixui-rich-text__text\">posterior</a></span> can be achieved to speculate on the creator&rsquo;s intention behind the current work, conditioning on the expression &mdash; the work itself. Perhaps the most vital component in this framework is its assumption: that the intention is indeed a random variable following an albeit unknown but existent <span style=\"text-decoration:underline;\" class=\"wixui-rich-text__text\"><a href=\"https://en.wikipedia.org/wiki/Probability_distribution\" target=\"_blank\" rel=\"noreferrer noopener\" class=\"wixui-rich-text__text\">distribution</a></span>. This is not the case with an AI creator &mdash; it has no intention. And such knowledge is available to the audience. Whether it was the elaborate fresco on the ceiling of the Sistine Chapel, or the compression-friendly color blocks by Piet Mondrian, the expressions are certain. The audience takes such certainty as given and works from it to achieve their own analysis and judgment of the posterior. This cannot be done on an AI created work, where not every brushstroke was intentional &mdash; indeed, not any brushstroke was intentional. The audience&rsquo;s presents are lacking too.</p>\n\n<p class=\"font_8 wixui-rich-text__text\"><span class=\"wixGuard wixui-rich-text__text\">\u200b</span></p>\n\n<p class=\"font_8 wixui-rich-text__text\">A medium is a necessary condition for the existence of art, not unlike a body for life, a receiver for radio. As art in essence is the giving of an expression, its medium ties to the receiving senses (of the audience)&mdash; what we see, hear, smell, taste, and touch. Literature, paintings, photography, music, culinary experience, etc. all fall into these categories. It is important to emphasize again that art has a direction &mdash; from intention to expression, from the creator to the audience, from the creator&rsquo;s present to the audience&rsquo;s presents (the moments they engage with the art, which are, trivially, after the creator&rsquo;s present). However, the medium, and the various skills, and methods associated are without directions. In direction, we make the second distinction between art works and AI works.</p>\n\n<p class=\"font_8 wixui-rich-text__text\"><span class=\"wixGuard wixui-rich-text__text\">\u200b</span></p>\n\n<p class=\"font_8 wixui-rich-text__text\">In Shan Shui Lun (Discourse on Landscape Painting), Wang Wei, a brilliant poet and painter in the Chinese Tang Dynasty, gives a succinct yet comprehensive guide to the methodology of landscape painting. In roughly only five hundred words, Wang Wei lays the framework that includes perspective &mdash; &ldquo;\u4e08\u5c71\u5c3a\u6811... \u8fdc\u6c34\u65e0\u6ce2\uff0c\u9ad8\u4e0e\u4e91\u9f50&rdquo;&nbsp;(&ldquo;mountains are of ten feet, trees of a foot... distant waters have no waves and rise to blend with the clouds,&rdquo;)&nbsp;focus &mdash; &ldquo;\u5b9a\u5bbe\u4e3b\u4e4b\u671d\u63d6... \u591a\u5219\u4e71\uff0c\u5c11\u5219\u6162...&rdquo; (&ldquo;determine the hierarchy of &lsquo;guests&rsquo; and &lsquo;host&rsquo;... if too many, they are confused, if too few, they are lackadaisical&hellip;&rdquo;)&nbsp;and even goes on to explain the &ldquo;shortcuts&rdquo; to depict various scenarios: &ldquo;\u6709\u98ce\u65e0\u96e8... \u6709\u96e8\u65e0\u98ce... \u65e9\u666f\u5219... \u665a\u666f\u5219... \u6625\u666f\u5219...&rdquo; (&ldquo;when there is rain... when there is wind without rain... where there is rain without wind... if it is a morning scene... if it is an evening scene... if it is a spring scene&hellip;&rdquo;)&nbsp;But in front of all these techniques in order and in importance are the words: &ldquo;\u51e1\u753b\u5c71\u6c34\uff0c\u610f\u5728\u7b14\u5148&rdquo; (&ldquo;When one paints landscapes, concept precedes brushwork&rdquo;)&nbsp;[4]. &ldquo;Concept&rdquo; here is the translation of \u610f (yi), which also has the meaning of intention, mindfulness, and meaning. Indeed, intention before expression, and that direction generalizes beyond ancient Chinese landscapes. Without this sentence, all the techniques given are measurements of correlation. A scene of the morning is likely correlated with hope and liveliness, and a drawing of &ldquo;\u5343\u5c71\u6b32\u6653&rdquo; (&ldquo;a thousand mountains about to be dawn-brightened&rdquo;)&nbsp;is likely to be correlated with those motifs in one&rsquo;s mind. However, no information on causation is given &mdash; no direction. The essence of the morning scene might be best captured on the mountain tops and the &ldquo;\u6726\u80e7\u6b8b\u6708&rdquo; (&ldquo;pale and dim remaining moon&rdquo;), but it shall be the painter&rsquo;s decision to pick the morning scene. It is a common thinking among the ancient Chinese scholars that the object (often landscapes or buildings) are themselves constant and without emotions but reflects the different emotions and insights of different viewers at different times. The same comparison can be made between the medium and the creator&rsquo;s intention. The former is a vehicle of the latter. The vehicle has no direction, the driver does. It is interesting to note that many of the techniques Wang Wei detailed are born from our shrewd observation of nature. It is necessary to know where to look in order to know where to paint. It would not be surprising that an AI can develop a similar set of skills. Fed with enough landscape paintings, an AI shall quickly learn for itself the various &ldquo;shortcuts&rdquo;. It might even be able to learn the high correlations between portrayals of objects and emotions. Indeed, &ldquo;Hierarchical Text-Conditional Image Generation with CLIP Latents&rdquo; in its entirety is a teacher&rsquo;s note on how to best teach an AI student to write &ldquo;A Discourse on ____ Paintings&rdquo;. DALL-E 2&rsquo;s or any other incoming AI&rsquo;s discourse will be a bit lengthier than 500 words, but they always start at the second sentence &mdash; after &ldquo;When one paints ___, concept precedes brushwork&rdquo;.</p>\n\n<p class=\"font_8 wixui-rich-text__text\"><span class=\"wixGuard wixui-rich-text__text\">\u200b</span></p>\n\n<p class=\"font_8 wixui-rich-text__text\">We have so far discussed the &ldquo;what&rdquo; and the &ldquo;how&rdquo; of art making, and we shall proceed to discuss the &ldquo;why&rdquo;. The benchmark against which any artwork is evaluated, both by its creator and its audience, is the absence of art. This is not to ignore the constraints artists usually face in the forms of commission, employment, or livelihood. For example, it would hardly be possible for Michelangelo to turn down the offer from Pope Julius II to paint the fresco. In fact, Michelangelo did try to refuse &mdash; claiming that &ldquo;(painting) non era mia arte&rdquo; [3]. However, most artists are skilled craftsmen in the mediums of their choices (or in Michelangelo&rsquo;s case here, can learn to become one), and it is their skills and the quality of their crafts that are demanded, and correspondingly evaluated by the commissioners. The artistic value, a totally subjective measure, is not and cannot be demanded or evaluated. With this possible ambiguity out of the way, we can safely assert that any art is born from the freedom of not doing art. It is in this freedom of choosing the alternative we find the third distinction between artworks and AI works.</p>\n\n<p class=\"font_8 wixui-rich-text__text\"><span class=\"wixGuard wixui-rich-text__text\">\u200b</span></p>\n\n<p class=\"font_8 wixui-rich-text__text\">Much like many artists living by commissions, an AI works under constraints. In the case of DALL-E 2, the constraints are explicit in the textual prompt given. The prior and decoder trained on the seen classes can be understood as the AI&rsquo;s process of understanding and analyzing the prompt, and the generative model is its response. If we are to assume, by contradiction, that there exists a result from such generative model that is of artistic value, it follows that the artistic value is acquired after certain decrease in the loss function. At the precise <span style=\"text-decoration:underline;\" class=\"wixui-rich-text__text\"><a href=\"https://www.simplilearn.com/tutorials/machine-learning-tutorial/what-is-epoch-in-machine-learning#:~:text=An%20epoch%20is%20when%20all,dataset%20takes%20around%20an%20algorithm.\" target=\"_blank\" rel=\"noreferrer noopener\" class=\"wixui-rich-text__text\">epoch</a></span> where such artistic value would be &ldquo;learned&rdquo;, the AI is not given the alternative choice, the trivially true scenario &mdash; that of forgoing the artistic value altogether. The lack of such a choice is evident in the structure of the loss function. The contradiction is thereby reached. A popular analogy for artists working with constraints is that of &ldquo;to dance with shackles on&rdquo;, the implicit alternative is &ldquo;to sit still (do nothing) with shackles on&quot;. If we see the loss function as a form of punishment that an ML model strives to minimize, what AI does is, comparatively, &ldquo;doing prison chores with shackles on&rdquo;, where &ldquo;sitting still&rdquo; is never an option.</p>\n\n<p class=\"font_8 wixui-rich-text__text\"><span class=\"wixGuard wixui-rich-text__text\">\u200b</span></p>\n\n<p class=\"font_8 wixui-rich-text__text\">The purpose of this essay is not to bash the marvelous progress made in the field of AI, but rather to attempt a better understanding of what composes art &mdash; what exactly takes place in the &ldquo;creator&rsquo;s present&rdquo;. To this end, the advancements in machine learning technologies are of considerate help, in that it decomposes all the components that are &ldquo;orthogonal&rdquo; to art making. Indeed, AI has shown that art is not a limiting approximation, not achieved by solely honing one&rsquo;s skills on the subject matter, and certainly not done because of punishment minimization. We shall look at the moment where the boolean value is switched from zero to one with reverence and awe, the same way a dot looks at a line, a circle at a sphere, an index of a for loop at a variable initialized outside. Plato accredits humans&rsquo; ability to do &ldquo;zero-shot&rdquo; learning to our souls&rsquo; experience with the &ldquo;perfect forms in heaven&rdquo; which is constant, long before our bodies exist [1]. Plato simply points outside the for loop that is this physical world with all the marvelous AIs in it. It is out there the seed of art is conceived.</p>\n\n<p class=\"font_8 wixui-rich-text__text\"><br class=\"wixui-rich-text__text\">\n&nbsp;</p>\n\n<p class=\"font_8 wixui-rich-text__text\">References</p>\n\n<p class=\"font_8 wixui-rich-text__text\">1. Reeve, C. D. C., 1997, Plato, Cratylus: translated with introduction and notes, Indianapolis and Cambridge: Hackett; reprinted in J.M. Cooper. (ed.) Plato, Complete Works, Indianapolis and Cambridge: Hackett.</p>\n\n<p class=\"font_8 wixui-rich-text__text\">2. Ramesh, A., Dhariwal, P., Nichol, A., Chu, C., &amp; Chen, M. (2022). Hierarchical Text- Conditional Image Generation with CLIP Latents. arXiv preprint arXiv:2204.06125. Retrieved from <a data-auto-recognition=\"true\" href=\"https://arxiv.org/abs/2204.06125\" target=\"_blank\" class=\"wixui-rich-text__text\">https://arxiv.org/abs/2204.06125</a></p>\n\n<p class=\"font_8 wixui-rich-text__text\">3. Wallace, William E.. Michelangelo : The Artist, the Man and His Times, Cambridge University Press, 2011.</p>\n\n<p class=\"font_8 wixui-rich-text__text\">4. Wang Wei. Shan Shui Lun (Discourse on Landscape Painting). Translation will be provided as excerpt from the book: Early Chinese Texts on Painting (Cambridge: Harvard University Press, 1985), 173&ndash;76.)</p>",
+          "skin": "WRichTextThemeSkin",
+          "isQaMode": false,
+          "fullNameCompType": "wysiwyg.viewer.components.WRichText"
+        },
+        "comp-lh034vgh": {
+          "skin": "RectangleArea",
+          "containerProps": {
+            "containerLayoutClassName": "comp-lh034vgh-container",
+            "overlowWrapperClassName": "comp-lh034vgh-overflow-wrapper",
+            "hasScrollOverflow": false,
+            "hasOverflow": false,
+            "shouldOmitWrapperLayers": true,
+            "deviceType": "Desktop",
+            "role": "group"
+          },
+          "tagName": null,
+          "containerRootClassName": "comp-lh034vgh-container",
+          "className": "",
+          "background": {
+            "containerId": "comp-lh034vgh",
+            "hasBgFullscreenScrollEffect": false,
+            "shouldRenderUnderlay": true,
+            "shouldPadMedia": false,
+            "hasCanvasAnimation": false
+          },
+          "fillLayers": {
+            "containerId": "comp-lh034vgh",
+            "hasBgFullscreenScrollEffect": false,
+            "shouldRenderUnderlay": true,
+            "shouldPadMedia": false,
+            "hasCanvasAnimation": false,
+            "useWixMediaCanvas": false
+          },
+          "dividers": {
+            "hasTopDivider": false,
+            "hasBottomDivider": false
+          },
+          "isBuilder": false,
+          "a11y": {},
+          "translations": {}
+        },
+        "comp-lh034vgh_relative": {
+          "containerLayoutClassName": "comp-lh034vgh-container",
+          "overlowWrapperClassName": "comp-lh034vgh-overflow-wrapper",
+          "hasScrollOverflow": false,
+          "hasOverflow": false,
+          "shouldOmitWrapperLayers": true,
+          "deviceType": "Desktop",
+          "role": "group"
+        },
+        "comp-lh034vgv": {
+          "html": "<p class=\"font_8 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\"><span style=\"text-decoration:underline;\" class=\"wixui-rich-text__text\"><a href=\"https://www.jiaqiliu.com/on-the-avant-garde-responses-and-how-an-artwork-can-stand-out\" target=\"_self\" class=\"wixui-rich-text__text\">Previous</a></span>&nbsp; |&nbsp; <span style=\"text-decoration:underline;\" class=\"wixui-rich-text__text\"><a href=\"https://www.jiaqiliu.com/peace-and-peace\" target=\"_self\" class=\"wixui-rich-text__text\">Next</a></span></span></p>",
+          "skin": "WRichTextThemeSkin",
+          "isQaMode": false,
+          "fullNameCompType": "wysiwyg.viewer.components.WRichText"
+        },
+        "comp-lh03258r": {
+          "skin": "ResponsiveContainerRefSkin",
+          "tagName": "footer",
+          "containerRootClassName": "comp-lh03258r-container",
+          "className": ""
+        },
+        "comp-lh03258r_r_comp-kbgakgyt": {
+          "skin": "RectangleArea",
+          "containerProps": {
+            "containerLayoutClassName": "comp-lh03258r_r_comp-kbgakgyt-container",
+            "overlowWrapperClassName": "comp-lh03258r_r_comp-kbgakgyt-overflow-wrapper",
+            "hasScrollOverflow": false,
+            "hasOverflow": false,
+            "shouldOmitWrapperLayers": true,
+            "deviceType": "Desktop",
+            "role": "group"
+          },
+          "tagName": null,
+          "containerRootClassName": "comp-lh03258r_r_comp-kbgakgyt-container",
+          "className": "",
+          "background": {
+            "containerId": "comp-lh03258r_r_comp-kbgakgyt",
+            "hasBgFullscreenScrollEffect": false,
+            "shouldRenderUnderlay": true,
+            "shouldPadMedia": false,
+            "hasCanvasAnimation": false
+          },
+          "fillLayers": {
+            "containerId": "comp-lh03258r_r_comp-kbgakgyt",
+            "hasBgFullscreenScrollEffect": false,
+            "shouldRenderUnderlay": true,
+            "shouldPadMedia": false,
+            "hasCanvasAnimation": false
+          },
+          "dividers": {
+            "hasTopDivider": false,
+            "hasBottomDivider": false
+          },
+          "isBuilder": false,
+          "a11y": {}
+        },
+        "comp-lh03258r_r_comp-kbgakgyt_relative": {
+          "containerLayoutClassName": "comp-lh03258r_r_comp-kbgakgyt-container",
+          "overlowWrapperClassName": "comp-lh03258r_r_comp-kbgakgyt-overflow-wrapper",
+          "hasScrollOverflow": false,
+          "hasOverflow": false,
+          "shouldOmitWrapperLayers": true,
+          "deviceType": "Desktop",
+          "role": "group"
+        },
+        "comp-lh03258r_r_comp-kv5tvg1y": {
+          "containerProps": {
+            "containerLayoutClassName": "comp-lh03258r_r_comp-kv5tvg1y-container",
+            "overlowWrapperClassName": "comp-lh03258r_r_comp-kv5tvg1y-overflow-wrapper",
+            "hasScrollOverflow": false,
+            "hasOverflow": false,
+            "shouldOmitWrapperLayers": true,
+            "deviceType": "Desktop",
+            "role": "group"
+          },
+          "containerRootClassName": "comp-lh03258r_r_comp-kv5tvg1y-container",
+          "role": "",
+          "isRepeaterItem": false,
+          "translations": {
+            "ariaLabel": "content changes on hover"
+          }
+        },
+        "comp-lh03258r_r_comp-kv5tvg1y_relative": {
+          "containerLayoutClassName": "comp-lh03258r_r_comp-kv5tvg1y-container",
+          "overlowWrapperClassName": "comp-lh03258r_r_comp-kv5tvg1y-overflow-wrapper",
+          "hasScrollOverflow": false,
+          "hasOverflow": false,
+          "shouldOmitWrapperLayers": true,
+          "deviceType": "Desktop",
+          "role": "group"
+        },
+        "comp-lh03258r_r_comp-kuvrtotl": {
+          "images": [
+            {
+              "alt": "Instagram",
+              "width": 200,
+              "height": 200,
+              "uri": "01c3aff52f2a4dffa526d7a9843d46ea.png",
+              "title": "Instagram",
+              "containerId": "dataItem-kuvrtou32-comp-lh03258r_r_comp-kuvrtotl",
+              "hasBgScrollEffect": "",
+              "bgEffectName": "",
+              "displayMode": "fill",
+              "link": {
+                "href": "https://www.instagram.com/jiaqiliu__/",
+                "target": "_blank",
+                "rel": "noreferrer noopener",
+                "type": "ExternalLink",
+                "id": "dataItem-kuvrtou33"
+              },
+              "encoding": "AVIF",
+              "allowWebpAvifTransforms": true
+            }
+          ],
+          "compId": "comp-lh03258r_r_comp-kuvrtotl",
+          "fullNameCompType": "wysiwyg.viewer.components.LinkBar",
+          "language": "en",
+          "trackClicksAnalytics": false,
+          "iconSize": 30,
+          "shouldRenderPlaceholders": false,
+          "translations": {
+            "ariaLabel": "Social Bar"
+          }
+        },
+        "comp-lh03258r_r_comp-kd5pdf7t": {
+          "html": "<p class=\"font_8 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">&copy; 2026 by Jiaqi Liu. All rights reserved.</span></p>",
+          "skin": "WRichTextThemeSkin",
+          "isQaMode": false,
+          "fullNameCompType": "wysiwyg.viewer.components.WRichText"
+        },
+        "comp-lh03258w-pinned-layer": {
+          "rootClassName": "root"
+        },
+        "comp-lh03258w": {
+          "skin": "ResponsiveContainerRefSkin",
+          "containerRootClassName": "comp-lh03258w-container",
+          "className": ""
+        },
+        "comp-lh03258w_r_comp-kd5px9hr": {
+          "isOpen": false,
+          "isVisible": false,
+          "classNames": [],
+          "containerProps": {
+            "containerLayoutClassName": "comp-lh03258w_r_comp-kd5px9hr-container",
+            "overlowWrapperClassName": "comp-lh03258w_r_comp-kd5px9hr-overflow-wrapper",
+            "hasScrollOverflow": true,
+            "hasOverflow": true,
+            "shouldOmitWrapperLayers": false,
+            "deviceType": "Desktop",
+            "role": "group"
+          },
+          "isMobileView": false,
+          "compId": "comp-lh03258w_r_comp-kd5px9hr",
+          "translations": {
+            "containerAriaLabel": "Site navigation"
+          }
+        },
+        "comp-lh03258w_r_comp-kkmqi5tc": {
+          "withShadow": false,
+          "link": {},
+          "fullNameCompType": "wysiwyg.viewer.components.VectorImage",
+          "language": "en",
+          "mainPageId": "k3lv9",
+          "compId": "comp-lh03258w_r_comp-kkmqi5tc",
+          "trackClicksAnalytics": false,
+          "experiments": {
+            "specs.thunderbolt.DatePickerPortal": true,
+            "specs.thunderbolt.DisableDocumentScrollWhenLightBoxOpen": true,
+            "specs.thunderbolt.EnableCustomCSSVarsForLoginSocialBar": true,
+            "specs.thunderbolt.FreemiumBannerOdeditor": true,
+            "specs.thunderbolt.LoginBarEnableLoggingInStateInSSR": true,
+            "specs.thunderbolt.TextInputAutoFillFix": true,
+            "specs.thunderbolt.UseLoginSocialBarCustomMenu": true,
+            "specs.thunderbolt.UseNestedLoginSocialBarMenuItems": true,
+            "specs.thunderbolt.UseNewLoginBarDropdownMenuAlignment": true,
+            "specs.thunderbolt.UseNewLoginSocialBarElementStructure": true,
+            "specs.thunderbolt.UseNewLoginSocialBarMemberInitialsAvatar": true,
+            "specs.thunderbolt.WixFreeSiteBannerDesktop": true,
+            "specs.thunderbolt.WixFreeSiteBannerMobile": true,
+            "specs.thunderbolt.a11yContrast": true,
+            "specs.thunderbolt.addIdAsClassName": true,
+            "specs.thunderbolt.allowWebpAvifTransforms": true,
+            "specs.thunderbolt.builderBoxSizingBorderBox": true,
+            "specs.thunderbolt.buttonUdp": true,
+            "specs.thunderbolt.calculateCollapsibleTextLineHeightByFont": true,
+            "specs.thunderbolt.dom_store": true,
+            "specs.thunderbolt.dontApplyDacOverridesOnBoBApps": true,
+            "specs.thunderbolt.dynamicPageLinkTarget": true,
+            "specs.thunderbolt.dynamicSlots": true,
+            "specs.thunderbolt.fiveGridLineStudioSkins": true,
+            "specs.thunderbolt.fixDocumentLinkInPremiumPreview": true,
+            "specs.thunderbolt.fixFirefoxLinkBarIntrinsicSizing": true,
+            "specs.thunderbolt.fixRemappedFullNameCompType": true,
+            "specs.thunderbolt.imageEncodingAVIF": true,
+            "specs.thunderbolt.isClassNameToRootEnabled": true,
+            "specs.thunderbolt.logVsmFeaturesModuleDiff": true,
+            "specs.thunderbolt.motionTimeAnimationsCSS": true,
+            "specs.thunderbolt.resolveManifestInTB": true,
+            "specs.thunderbolt.responsiveContainerRoleGroup": true,
+            "specs.thunderbolt.sectionA11yProps": true,
+            "specs.thunderbolt.shouldUseResponsiveImages": true,
+            "specs.thunderbolt.splitSlotSelectors": true,
+            "specs.thunderbolt.stopResolvingInnerSelectors_VAG": true,
+            "specs.thunderbolt.svgResolver_2": true,
+            "specs.thunderbolt.updateRichTextSemanticClassNamesOnCorvid": true,
+            "specs.thunderbolt.useClassnameInResponsiveAppWidget": true,
+            "specs.thunderbolt.useFragmentHrefForTopBottomAnchor": true,
+            "specs.thunderbolt.useImageAvifFormatInNativeProGallery": true,
+            "specs.thunderbolt.useResponsiveImgClassicFixed": true,
+            "specs.thunderbolt.useSvgLoaderFeature": true,
+            "specs.thunderbolt.useSvgLoaderFeatureOnBuilderComps": true,
+            "specs.thunderbolt.useWowImageInFastGallery": true,
+            "specs.thunderbolt.vsmFeaturesModule": true,
+            "specs.thunderbolt.vsm_interactions_v1": true
+          },
+          "isClassNameToRootEnabled": true
+        },
+        "comp-lh03258w_r_comp-kd5px9kk": {
+          "fullNameCompType": "wysiwyg.viewer.components.ExpandableMenu",
+          "language": "en",
+          "compId": "comp-lh03258w_r_comp-kd5px9kk",
+          "mainPageId": "k3lv9",
+          "trackClicksAnalytics": false,
+          "skin": "ResponsiveExpandableMenuSkin",
+          "items": [
+            {
+              "label": "Projects",
+              "link": {
+                "href": "https://www.jiaqiliu.com",
+                "target": "_self",
+                "type": "PageLink",
+                "id": "dataItem-kuvr0o16"
+              },
+              "id": "dataItem-kuvr0nzs"
+            },
+            {
+              "label": "Info",
+              "link": {
+                "href": "https://www.jiaqiliu.com/info",
+                "target": "_self",
+                "type": "PageLink",
+                "id": "dataItem-m1u2tdlt"
+              },
+              "id": "dataItem-m1u2tdjp"
+            }
+          ],
+          "currentPrimaryPageHref": "",
+          "applyTextSelectedColorExperiment": false,
+          "translations": {
+            "ariaLabel": "Site"
+          }
+        }
+      }
+    }
+  },
+  "nicknameToCompIdMaps": {}
+}

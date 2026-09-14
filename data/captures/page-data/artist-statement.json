@@ -1,1 +1,1188 @@
-{"stateRefs":{"comp-m1u1rqu48_r_comp-kbgajy18":{"experiments":{"$type":"ref","refPath":["exports","environment","experiments"]}},"comp-m1u1rqu48_r_comp-kkmqi5lg":{"reportBi":{"$type":"ref","refPath":["exports","businessLogger","reportBi"]},"toggle":{"$type":"ref","refPath":["exports","menuContainer","comp-m1u1rqu812_r_comp-kd5px9hr","toggle"],"shouldLoadPageFeature":true}},"comp-m1u1rqu48_r_comp-kuvz8byj":{"experiments":{"$type":"ref","refPath":["exports","environment","experiments"]}},"comp-m1u1rqu48_r_comp-kd5peeyu":{"currentUrl":{"$type":"ref","refPath":["exports","router","currentUrl"]}},"comp-m1u1rqu57":{"experiments":{"$type":"ref","refPath":["exports","environment","experiments"]}},"comp-m1u1rqu64":{"experiments":{"$type":"ref","refPath":["exports","environment","experiments"]}},"comp-m1u1rqu75":{"experiments":{"$type":"ref","refPath":["exports","environment","experiments"]}},"comp-m1u1rqu83_r_comp-kuvrtotl":{"reportBi":{"$type":"ref","refPath":["exports","businessLogger","reportBi"]}},"comp-m1u1rqu83_r_comp-kd5pdf7t":{"experiments":{"$type":"ref","refPath":["exports","environment","experiments"]}},"comp-m1u1rqu812_r_comp-kd5px9hr":{"isOpen":{"$type":"ref","refPath":["exports","menuContainer","comp-m1u1rqu812_r_comp-kd5px9hr","isOpen"],"shouldLoadPageFeature":true},"isVisible":{"$type":"ref","refPath":["exports","menuContainer","comp-m1u1rqu812_r_comp-kd5px9hr","isVisible"],"shouldLoadPageFeature":true},"toggle":{"$type":"ref","refPath":["exports","menuContainer","comp-m1u1rqu812_r_comp-kd5px9hr","toggle"],"shouldLoadPageFeature":true},"open":{"$type":"ref","refPath":["exports","menuContainer","comp-m1u1rqu812_r_comp-kd5px9hr","open"],"shouldLoadPageFeature":true},"close":{"$type":"ref","refPath":["exports","menuContainer","comp-m1u1rqu812_r_comp-kd5px9hr","close"],"shouldLoadPageFeature":true},"animate":{"$type":"ref","refPath":["exports","menuContainer","comp-m1u1rqu812_r_comp-kd5px9hr","animate"],"shouldLoadPageFeature":true}},"comp-m1u1rqu812_r_comp-kkmqi5tc":{"reportBi":{"$type":"ref","refPath":["exports","businessLogger","reportBi"]},"toggle":{"$type":"ref","refPath":["exports","menuContainer","comp-m1u1rqu812_r_comp-kd5px9hr","toggle"],"shouldLoadPageFeature":true}},"comp-m1u1rqu812_r_comp-kd5px9kk":{"reportBi":{"$type":"ref","refPath":["exports","businessLogger","reportBi"]},"currentUrl":{"$type":"ref","refPath":["exports","router","currentUrl"]}}},"structure":{"components":{"bjebw":{"componentType":"Page","components":["Containerbjebw"],"uiType":"ResponsivePageWithColorBG","pageId":"bjebw"},"Containerbjebw":{"componentType":"ResponsiveContainer","components":["comp-m1u1rqu48","PAGE_SECTIONSbjebw","comp-m1u1rqu83","comp-m1u1rqu812-pinned-layer"],"pageId":"bjebw"},"comp-m1u1rqu48":{"componentType":"RefComponent","components":["comp-m1u1rqu48_r_comp-kbgajy18"],"pageId":"bjebw"},"comp-m1u1rqu48_r_comp-kbgajy18":{"componentType":"HeaderSection","components":["comp-m1u1rqu48_r_comp-kbgajy18_relative"],"pageId":"bjebw"},"comp-m1u1rqu48_r_comp-kbgajy18_relative":{"componentType":"ResponsiveContainer","components":["comp-m1u1rqu48_r_comp-kkmqi5lg","comp-m1u1rqu48_r_comp-kuvz8byj","comp-m1u1rqu48_r_comp-kd5peeyu"],"pageId":"bjebw"},"comp-m1u1rqu48_r_comp-kkmqi5lg":{"componentType":"VectorImage","uiType":"VectorButton","pageId":"bjebw"},"comp-m1u1rqu48_r_comp-kuvz8byj":{"componentType":"WRichText","pageId":"bjebw"},"comp-m1u1rqu48_r_comp-kd5peeyu":{"componentType":"DropDownMenu","uiType":"TextOnlyMenuButtonSkin","pageId":"bjebw"},"PAGE_SECTIONSbjebw":{"componentType":"PageSections","components":["comp-m1u1rqu57"],"pageId":"bjebw"},"comp-m1u1rqu57":{"componentType":"Section","components":["comp-m1u1rqu57_relative"],"pageId":"bjebw"},"comp-m1u1rqu57_relative":{"componentType":"ResponsiveContainer","components":["comp-m1u1rqu64","comp-m1u1rqu75"],"pageId":"bjebw"},"comp-m1u1rqu64":{"componentType":"WRichText","pageId":"bjebw"},"comp-m1u1rqu75":{"componentType":"WRichText","pageId":"bjebw"},"comp-m1u1rqu83":{"componentType":"RefComponent","components":["comp-m1u1rqu83_r_comp-kbgakgyt"],"pageId":"bjebw"},"comp-m1u1rqu83_r_comp-kbgakgyt":{"componentType":"FooterSection","components":["comp-m1u1rqu83_r_comp-kbgakgyt_relative"],"pageId":"bjebw"},"comp-m1u1rqu83_r_comp-kbgakgyt_relative":{"componentType":"ResponsiveContainer","components":["comp-m1u1rqu83_r_comp-kv5tvg1y"],"pageId":"bjebw"},"comp-m1u1rqu83_r_comp-kv5tvg1y":{"componentType":"Container","components":["comp-m1u1rqu83_r_comp-kv5tvg1y_relative"],"uiType":"ResponsiveBox","pageId":"bjebw"},"comp-m1u1rqu83_r_comp-kv5tvg1y_relative":{"componentType":"ResponsiveContainer","components":["comp-m1u1rqu83_r_comp-kuvrtotl","comp-m1u1rqu83_r_comp-kd5pdf7t"],"pageId":"bjebw"},"comp-m1u1rqu83_r_comp-kuvrtotl":{"componentType":"LinkBar","uiType":"Responsive","pageId":"bjebw"},"comp-m1u1rqu83_r_comp-kd5pdf7t":{"componentType":"WRichText","pageId":"bjebw"},"comp-m1u1rqu812-pinned-layer":{"componentType":"PinnedLayer","components":["comp-m1u1rqu812"],"pageId":"bjebw"},"comp-m1u1rqu812":{"componentType":"RefComponent","components":["comp-m1u1rqu812_r_comp-kd5px9hr"],"pageId":"bjebw"},"comp-m1u1rqu812_r_comp-kd5px9hr":{"componentType":"MenuContainer","components":["comp-m1u1rqu812_r_comp-kkmqi5tc","comp-m1u1rqu812_r_comp-kd5px9kk"],"uiType":"Responsive","pageId":"bjebw"},"comp-m1u1rqu812_r_comp-kkmqi5tc":{"componentType":"VectorImage","uiType":"VectorButton","pageId":"bjebw"},"comp-m1u1rqu812_r_comp-kd5px9kk":{"componentType":"ExpandableMenu","pageId":"bjebw"}},"features":["landingPage","scrollRestoration","accessibilityBrowserZoom","wixEmbedsApi","animations","menuContainer","imagePlaceholder","componentsLoader","scrollToAnchor","windowScroll","svgLoader","seo","renderer","activePopup","menusCurrentPage","mpaNavigation","clickHandlerRegistrar","domSelectors","components","reporter","navigationManager","environmentService"],"siteFeaturesConfigs":{}},"props":{"landingPage":{"isLandingPage":false},"scrollRestoration":{"shouldRestoreScrollPosition":true},"accessibilityBrowserZoom":{"isBuilder":false,"isStudio":true},"animations":{"repeaterTemplateToParentMap":{},"isPreview":false},"menuContainer":{"menuContainerConfig":{"comp-m1u1rqu812_r_comp-kd5px9hr":{"animations":{"inBehavior":{"name":"GlideIn","delay":0,"duration":0.5,"targetId":"","params":{"angle":90,"distance":300}},"outBehavior":{"name":"GlideOut","delay":0,"duration":0.5,"targetId":"","params":{"angle":90,"distance":300}}}}},"menuTogglesConfig":{"comp-m1u1rqu48_r_comp-kkmqi5lg":{"menuContainerId":"comp-m1u1rqu812_r_comp-kd5px9hr"},"comp-m1u1rqu812_r_comp-kkmqi5tc":{"menuContainerId":"comp-m1u1rqu812_r_comp-kd5px9hr"}}},"imagePlaceholder":{"staticMediaUrl":"https://static.wixstatic.com/media","isSEOBot":false,"userDomainMediaBaseUrl":"","userDomainMediaPrefixes":[]},"scrollToAnchor":{"anchorDataIdToCompIdMap":{},"nicknameToCompIdMap":{"page1":"bjebw","section3":"comp-m1u1rqu48_r_comp-kbgajy18","vectorImage2":"comp-m1u1rqu48_r_comp-kkmqi5lg","text11":"comp-m1u1rqu48_r_comp-kuvz8byj","horizontalMenu1":"comp-m1u1rqu48_r_comp-kd5peeyu","section7":"comp-m1u1rqu57","text13":"comp-m1u1rqu64","text14":"comp-m1u1rqu75","section2":"comp-m1u1rqu83_r_comp-kbgakgyt","box21":"comp-m1u1rqu83_r_comp-kv5tvg1y","socialBar1":"comp-m1u1rqu83_r_comp-kuvrtotl","text2":"comp-m1u1rqu83_r_comp-kd5pdf7t","menuContainer1":"comp-m1u1rqu812_r_comp-kd5px9hr","vectorImage1":"comp-m1u1rqu812_r_comp-kkmqi5tc","expandableMenu1":"comp-m1u1rqu812_r_comp-kd5px9kk"},"compsToUpdate":[],"isAnchorsLinksOnPageWithoutTopAndBottom":false,"isBuilderComponentModel":false,"anchorNameToCompIdMap":{"Top%20of%20Page":"SCROLL_TO_TOP","Bottom%20of%20Page":"SCROLL_TO_BOTTOM"},"isResponsive":true},"windowScroll":{"headerContainerComponentId":"comp-m1u1rqu48"},"svgLoader":{"compIdToSvgDataMap":{"comp-m1u1rqu48_r_comp-kkmqi5lg":{"svgId":"503ea4_3dbf8cc099ca45eb81ab414a37292323.svg","componentType":"VectorImage","transformationOptions":{"altText":"Open Site Navigation","strokeWidth":0,"properties":{"type":"VectorImageProperties","metaData":{"schemaVersion":"1.0","sig":"6c2-40"},"id":"comp-m1u1rqu48_r_comp-kkmqi5lg-propertyQuery","displayMode":"fit","flip":"none"},"layout":{"width":160,"height":90},"shadow":{},"overrideColors":{"color1":"color_15"},"isResponsive":true}},"comp-m1u1rqu812_r_comp-kkmqi5tc":{"svgId":"1d3a0b_97d72ad4c8dc4903bfb02b2baa7763ae.svg","componentType":"VectorImage","transformationOptions":{"altText":"","strokeWidth":0,"properties":{"type":"VectorImageProperties","metaData":{"schemaVersion":"1.0","sig":"6c2-59","autoGenerated":false},"id":"comp-m1u1rqu812_r_comp-kkmqi5tc-propertyQuery","displayMode":"stretch","flip":"none"},"layout":{"width":160,"height":90},"shadow":{},"overrideColors":{"color1":"color_15"},"isResponsive":true}}},"colorsMap":["#FFFFFF","#FFFFFF","#000000","#ED1C24","#0088CB","#FFCB05","#727272","#B0B0B0","#FFFFFF","#727272","#B0B0B0","#FFFFFF","#E3E3E3","#979797","#4F4F4F","#000000","#E8EAED","#959EE5","#384AD3","#25318D","#131946","#F2DECC","#C2B2A3","#91857A","#615952","#302C29","#D1DBC3","#ABB899","#7F9463","#556342","#2A3121","#C7D3D5","#9AA9AC","#677E82","#455457","#222A2B","#FFFFFF","#000000","#E3E3E3","#979797","#4F4F4F","#384AD3","#384AD3","#384AD3","#384AD3","#000000","#4F4F4F","#000000","#384AD3","#384AD3","#FFFFFF","#384AD3","#384AD3","#FFFFFF","#979797","#979797","#FFFFFF","#FFFFFF","#384AD3","#384AD3","#FFFFFF","#384AD3","#384AD3","#FFFFFF","#979797","#979797"],"mediaRootUrl":"https://static.wixstatic.com/","compIdToVectorArtPropsPaths":{}},"seo":{"pageId":"bjebw","description":"Jiaqi Liu is a concept-driven project-based artist.","indexPage":true,"ogImage":"","ogImageHeight":"","ogImageWidth":"","pageName":"Artist Statement","title":"Jiaqi Liu | Artist Statement","advancedSeoData":"{\"tags\":[{\"type\":\"title\",\"children\":\"Jiaqi Liu | Artist Statement\"},{\"type\":\"meta\",\"props\":{\"name\":\"description\",\"content\":\"Jiaqi Liu is a concept-driven project-based artist.\"}}]}","currentPageUrl":"","translationsData":{"default":"{\"tags\":[{\"type\":\"title\",\"children\":\"Jiaqi Liu | Artist Statement\"},{\"type\":\"meta\",\"props\":{\"name\":\"description\",\"content\":\"Jiaqi Liu is a concept-driven project-based artist.\"}}]}"},"tpaPageId":"","managingAppDefId":""},"activePopup":{},"menusCurrentPage":{},"domSelectors":{"allComponentIds":["bjebw","Containerbjebw","comp-m1u1rqu48","comp-m1u1rqu48_r_comp-kbgajy18","comp-m1u1rqu48_r_comp-kbgajy18_relative","comp-m1u1rqu48_r_comp-kkmqi5lg","comp-m1u1rqu48_r_comp-kuvz8byj","comp-m1u1rqu48_r_comp-kd5peeyu","PAGE_SECTIONSbjebw","comp-m1u1rqu57","comp-m1u1rqu57_relative","comp-m1u1rqu64","comp-m1u1rqu75","comp-m1u1rqu83","comp-m1u1rqu83_r_comp-kbgakgyt","comp-m1u1rqu83_r_comp-kbgakgyt_relative","comp-m1u1rqu83_r_comp-kv5tvg1y","comp-m1u1rqu83_r_comp-kv5tvg1y_relative","comp-m1u1rqu83_r_comp-kuvrtotl","comp-m1u1rqu83_r_comp-kd5pdf7t","comp-m1u1rqu812-pinned-layer","comp-m1u1rqu812","comp-m1u1rqu812_r_comp-kd5px9hr","comp-m1u1rqu812_r_comp-kkmqi5tc","comp-m1u1rqu812_r_comp-kd5px9kk"]},"components":{"componentsUnderFoldMap":{"bjebw":{"componentType":"mobile.core.components.Page","compId":"bjebw"},"comp-m1u1rqu48":{"componentType":"wysiwyg.viewer.components.RefComponent","compId":"comp-m1u1rqu48"},"comp-m1u1rqu83":{"componentType":"wysiwyg.viewer.components.RefComponent","compId":"comp-m1u1rqu83"},"comp-m1u1rqu83_r_comp-kbgakgyt":{"componentType":"responsive.components.FooterSection","compId":"comp-m1u1rqu83_r_comp-kbgakgyt"},"comp-m1u1rqu83_r_comp-kv5tvg1y":{"componentType":"mobile.core.components.Container","compId":"comp-m1u1rqu83_r_comp-kv5tvg1y"},"comp-m1u1rqu83_r_comp-kuvrtotl":{"componentType":"wysiwyg.viewer.components.LinkBar","compId":"comp-m1u1rqu83_r_comp-kuvrtotl"},"comp-m1u1rqu83_r_comp-kd5pdf7t":{"componentType":"wysiwyg.viewer.components.WRichText","compId":"comp-m1u1rqu83_r_comp-kd5pdf7t"},"comp-m1u1rqu812":{"componentType":"wysiwyg.viewer.components.RefComponent","compId":"comp-m1u1rqu812"},"comp-m1u1rqu812_r_comp-kd5px9hr":{"componentType":"wysiwyg.viewer.components.MenuContainer","compId":"comp-m1u1rqu812_r_comp-kd5px9hr"},"comp-m1u1rqu812_r_comp-kkmqi5tc":{"componentType":"wysiwyg.viewer.components.VectorImage","compId":"comp-m1u1rqu812_r_comp-kkmqi5tc"},"comp-m1u1rqu812_r_comp-kd5px9kk":{"componentType":"wysiwyg.viewer.components.ExpandableMenu","compId":"comp-m1u1rqu812_r_comp-kd5px9kk"}}},"__componentsConfig__":{},"render":{"compProps":{"bjebw":{"className":"theme-vars"},"Containerbjebw":{"containerLayoutClassName":"bjebw-container","overlowWrapperClassName":"bjebw-overflow-wrapper","hasScrollOverflow":false,"hasOverflow":false,"shouldOmitWrapperLayers":false,"deviceType":"Desktop","role":"group"},"comp-m1u1rqu48":{"skin":"ResponsiveContainerRefSkin","tagName":"header","containerRootClassName":"comp-m1u1rqu48-container","className":""},"comp-m1u1rqu48_r_comp-kbgajy18":{"skin":"RectangleArea","containerProps":{"containerLayoutClassName":"comp-m1u1rqu48_r_comp-kbgajy18-container","overlowWrapperClassName":"comp-m1u1rqu48_r_comp-kbgajy18-overflow-wrapper","hasScrollOverflow":false,"hasOverflow":false,"shouldOmitWrapperLayers":true,"deviceType":"Desktop","role":"group"},"tagName":null,"containerRootClassName":"comp-m1u1rqu48_r_comp-kbgajy18-container","className":"","background":{"containerId":"comp-m1u1rqu48_r_comp-kbgajy18","hasBgFullscreenScrollEffect":false,"shouldRenderUnderlay":true,"shouldPadMedia":false,"hasCanvasAnimation":false},"fillLayers":{"containerId":"comp-m1u1rqu48_r_comp-kbgajy18","hasBgFullscreenScrollEffect":false,"shouldRenderUnderlay":true,"shouldPadMedia":false,"hasCanvasAnimation":false},"dividers":{"hasTopDivider":false,"hasBottomDivider":false},"isBuilder":false,"a11y":{},"animate":"none"},"comp-m1u1rqu48_r_comp-kbgajy18_relative":{"containerLayoutClassName":"comp-m1u1rqu48_r_comp-kbgajy18-container","overlowWrapperClassName":"comp-m1u1rqu48_r_comp-kbgajy18-overflow-wrapper","hasScrollOverflow":false,"hasOverflow":false,"shouldOmitWrapperLayers":true,"deviceType":"Desktop","role":"group"},"comp-m1u1rqu48_r_comp-kkmqi5lg":{"withShadow":false,"link":{},"fullNameCompType":"wysiwyg.viewer.components.VectorImage","language":"en","mainPageId":"k3lv9","compId":"comp-m1u1rqu48_r_comp-kkmqi5lg","trackClicksAnalytics":false,"experiments":{"specs.thunderbolt.DatePickerPortal":true,"specs.thunderbolt.DisableDocumentScrollWhenLightBoxOpen":true,"specs.thunderbolt.EnableCustomCSSVarsForLoginSocialBar":true,"specs.thunderbolt.FreemiumBannerOdeditor":true,"specs.thunderbolt.LoginBarEnableLoggingInStateInSSR":true,"specs.thunderbolt.TextInputAutoFillFix":true,"specs.thunderbolt.UseLoginSocialBarCustomMenu":true,"specs.thunderbolt.UseNestedLoginSocialBarMenuItems":true,"specs.thunderbolt.UseNewLoginBarDropdownMenuAlignment":true,"specs.thunderbolt.UseNewLoginSocialBarElementStructure":true,"specs.thunderbolt.UseNewLoginSocialBarMemberInitialsAvatar":true,"specs.thunderbolt.WixFreeSiteBannerDesktop":true,"specs.thunderbolt.WixFreeSiteBannerMobile":true,"specs.thunderbolt.a11yContrast":true,"specs.thunderbolt.addIdAsClassName":true,"specs.thunderbolt.allowWebpAvifTransforms":true,"specs.thunderbolt.builderBoxSizingBorderBox":true,"specs.thunderbolt.buttonUdp":true,"specs.thunderbolt.calculateCollapsibleTextLineHeightByFont":true,"specs.thunderbolt.dom_store":true,"specs.thunderbolt.dontApplyDacOverridesOnBoBApps":true,"specs.thunderbolt.dynamicPageLinkTarget":true,"specs.thunderbolt.dynamicSlots":true,"specs.thunderbolt.fiveGridLineStudioSkins":true,"specs.thunderbolt.fixDocumentLinkInPremiumPreview":true,"specs.thunderbolt.fixFirefoxLinkBarIntrinsicSizing":true,"specs.thunderbolt.fixRemappedFullNameCompType":true,"specs.thunderbolt.imageEncodingAVIF":true,"specs.thunderbolt.interactionsUseReactionEffectId":true,"specs.thunderbolt.isClassNameToRootEnabled":true,"specs.thunderbolt.logVsmFeaturesModuleDiff":true,"specs.thunderbolt.motionTimeAnimationsCSS":true,"specs.thunderbolt.resolveManifestInTB":true,"specs.thunderbolt.responsiveContainerRoleGroup":true,"specs.thunderbolt.sectionA11yProps":true,"specs.thunderbolt.shouldUseResponsiveImages":true,"specs.thunderbolt.splitSlotSelectors":true,"specs.thunderbolt.stopResolvingInnerSelectors_VAG":true,"specs.thunderbolt.svgResolver_2":true,"specs.thunderbolt.updateRichTextSemanticClassNamesOnCorvid":true,"specs.thunderbolt.useClassnameInResponsiveAppWidget":true,"specs.thunderbolt.useFragmentHrefForTopBottomAnchor":true,"specs.thunderbolt.useImageAvifFormatInNativeProGallery":true,"specs.thunderbolt.useResponsiveImgClassicFixed":true,"specs.thunderbolt.useSvgLoaderFeature":true,"specs.thunderbolt.useSvgLoaderFeatureOnBuilderComps":true,"specs.thunderbolt.useWowImageInFastGallery":true,"specs.thunderbolt.vsmFeaturesModule":true},"isClassNameToRootEnabled":true},"comp-m1u1rqu48_r_comp-kuvz8byj":{"html":"<p class=\"font_8 wixui-rich-text__text\"><a href=\"https://www.jiaqiliu.com\" target=\"_self\" class=\"wixui-rich-text__text\">Jiaqi Liu</a></p>","skin":"WRichTextThemeSkin","isQaMode":false,"fullNameCompType":"wysiwyg.viewer.components.WRichText"},"comp-m1u1rqu48_r_comp-kd5peeyu":{"skin":"TextOnlyMenuButtonSkin","items":[{"label":"Projects","link":{"href":"https://www.jiaqiliu.com","target":"_self","type":"PageLink","id":"dataItem-kuvr0o16"},"id":"dataItem-kuvr0nzs"},{"label":"Info","link":{"href":"https://www.jiaqiliu.com/info","target":"_self","type":"PageLink","id":"dataItem-m1u2tdlt"},"id":"dataItem-m1u2tdjp"}],"alignButtons":"right","sameWidthButtons":false,"moreButtonLabel":"More...","moreItemHeight":15,"stretchButtonsToMenuWidth":true,"rtl":false,"marginAllChildren":true,"skinExports":{"menuBorderY":0,"menuBtnBorder":0,"ribbonEls":0,"labelPad":0,"ribbonExtra":0},"isTouchDevice":false,"renderSEOSubItems":true,"isQaMode":false,"fullNameCompType":"wysiwyg.viewer.components.menus.DropDownMenu","translations":{"subMenuIndication":"Use tab to navigate through the menu items.","ariaLabel":"Site","dropdownButtonAriaLabel":"More <%= itemName %> pages"}},"comp-m1u1rqu57":{"skin":"RectangleArea","containerProps":{"containerLayoutClassName":"comp-m1u1rqu57-container","overlowWrapperClassName":"comp-m1u1rqu57-overflow-wrapper","hasScrollOverflow":false,"hasOverflow":false,"shouldOmitWrapperLayers":true,"deviceType":"Desktop","role":"group"},"tagName":null,"containerRootClassName":"comp-m1u1rqu57-container","className":"","background":{"containerId":"comp-m1u1rqu57","hasBgFullscreenScrollEffect":false,"shouldRenderUnderlay":true,"shouldPadMedia":false,"hasCanvasAnimation":false},"fillLayers":{"containerId":"comp-m1u1rqu57","hasBgFullscreenScrollEffect":false,"shouldRenderUnderlay":true,"shouldPadMedia":false,"hasCanvasAnimation":false,"useWixMediaCanvas":false},"dividers":{"hasTopDivider":false,"hasBottomDivider":false},"isBuilder":false,"a11y":{},"translations":{}},"comp-m1u1rqu57_relative":{"containerLayoutClassName":"comp-m1u1rqu57-container","overlowWrapperClassName":"comp-m1u1rqu57-overflow-wrapper","hasScrollOverflow":false,"hasOverflow":false,"shouldOmitWrapperLayers":true,"deviceType":"Desktop","role":"group"},"comp-m1u1rqu64":{"html":"<h2 class=\"font_2 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\"><span style=\"font-weight:bold;\" class=\"wixui-rich-text__text\">Artist Statement</span></span></h2>","skin":"WRichTextThemeSkin","isQaMode":false,"fullNameCompType":"wysiwyg.viewer.components.WRichText"},"comp-m1u1rqu75":{"html":"<p class=\"font_8 wixui-rich-text__text\"><span style=\"font-weight:normal;\" class=\"wixui-rich-text__text\"><span style=\"font-family:helvetica-w01-light,sans-serif;\" class=\"wixui-rich-text__text\">My studio practice is project-based, concept-driven, and participatory. Interdisciplinary and non-media speciﬁc in nature, I mainly work with technology, imaging, performance, and writing as my tools for expression. Drawing diverse schools of eastern philosophy from my own cultural heritage, and hosting them in modern conversations with science and technology, I examine pattern, perception, and the tensions of communication in contemporary life. My art constructs precise conditions in which natural and cultural forces unfold, often among and around the public &mdash; valuing clarity of intent while leaving space for contingency, discovery, and reflection.</span></span></p>","skin":"WRichTextThemeSkin","isQaMode":false,"fullNameCompType":"wysiwyg.viewer.components.WRichText"},"comp-m1u1rqu83":{"skin":"ResponsiveContainerRefSkin","tagName":"footer","containerRootClassName":"comp-m1u1rqu83-container","className":""},"comp-m1u1rqu83_r_comp-kbgakgyt":{"skin":"RectangleArea","containerProps":{"containerLayoutClassName":"comp-m1u1rqu83_r_comp-kbgakgyt-container","overlowWrapperClassName":"comp-m1u1rqu83_r_comp-kbgakgyt-overflow-wrapper","hasScrollOverflow":false,"hasOverflow":false,"shouldOmitWrapperLayers":true,"deviceType":"Desktop","role":"group"},"tagName":null,"containerRootClassName":"comp-m1u1rqu83_r_comp-kbgakgyt-container","className":"","background":{"containerId":"comp-m1u1rqu83_r_comp-kbgakgyt","hasBgFullscreenScrollEffect":false,"shouldRenderUnderlay":true,"shouldPadMedia":false,"hasCanvasAnimation":false},"fillLayers":{"containerId":"comp-m1u1rqu83_r_comp-kbgakgyt","hasBgFullscreenScrollEffect":false,"shouldRenderUnderlay":true,"shouldPadMedia":false,"hasCanvasAnimation":false},"dividers":{"hasTopDivider":false,"hasBottomDivider":false},"isBuilder":false,"a11y":{}},"comp-m1u1rqu83_r_comp-kbgakgyt_relative":{"containerLayoutClassName":"comp-m1u1rqu83_r_comp-kbgakgyt-container","overlowWrapperClassName":"comp-m1u1rqu83_r_comp-kbgakgyt-overflow-wrapper","hasScrollOverflow":false,"hasOverflow":false,"shouldOmitWrapperLayers":true,"deviceType":"Desktop","role":"group"},"comp-m1u1rqu83_r_comp-kv5tvg1y":{"containerProps":{"containerLayoutClassName":"comp-m1u1rqu83_r_comp-kv5tvg1y-container","overlowWrapperClassName":"comp-m1u1rqu83_r_comp-kv5tvg1y-overflow-wrapper","hasScrollOverflow":false,"hasOverflow":false,"shouldOmitWrapperLayers":true,"deviceType":"Desktop","role":"group"},"containerRootClassName":"comp-m1u1rqu83_r_comp-kv5tvg1y-container","role":"","isRepeaterItem":false,"translations":{"ariaLabel":"content changes on hover"}},"comp-m1u1rqu83_r_comp-kv5tvg1y_relative":{"containerLayoutClassName":"comp-m1u1rqu83_r_comp-kv5tvg1y-container","overlowWrapperClassName":"comp-m1u1rqu83_r_comp-kv5tvg1y-overflow-wrapper","hasScrollOverflow":false,"hasOverflow":false,"shouldOmitWrapperLayers":true,"deviceType":"Desktop","role":"group"},"comp-m1u1rqu83_r_comp-kuvrtotl":{"images":[{"alt":"Instagram","width":200,"height":200,"uri":"01c3aff52f2a4dffa526d7a9843d46ea.png","title":"Instagram","containerId":"dataItem-kuvrtou32-comp-m1u1rqu83_r_comp-kuvrtotl","hasBgScrollEffect":"","bgEffectName":"","displayMode":"fill","link":{"href":"https://www.instagram.com/jiaqiliu__/","target":"_blank","rel":"noreferrer noopener","type":"ExternalLink","id":"dataItem-kuvrtou33"},"encoding":"AVIF","allowWebpAvifTransforms":true}],"compId":"comp-m1u1rqu83_r_comp-kuvrtotl","fullNameCompType":"wysiwyg.viewer.components.LinkBar","language":"en","trackClicksAnalytics":false,"iconSize":30,"shouldRenderPlaceholders":false,"translations":{"ariaLabel":"Social Bar"}},"comp-m1u1rqu83_r_comp-kd5pdf7t":{"html":"<p class=\"font_8 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">&copy; 2026 by Jiaqi Liu. All rights reserved.</span></p>","skin":"WRichTextThemeSkin","isQaMode":false,"fullNameCompType":"wysiwyg.viewer.components.WRichText"},"comp-m1u1rqu812-pinned-layer":{"rootClassName":"root"},"comp-m1u1rqu812":{"skin":"ResponsiveContainerRefSkin","containerRootClassName":"comp-m1u1rqu812-container","className":""},"comp-m1u1rqu812_r_comp-kd5px9hr":{"isOpen":false,"isVisible":false,"classNames":[],"containerProps":{"containerLayoutClassName":"comp-m1u1rqu812_r_comp-kd5px9hr-container","overlowWrapperClassName":"comp-m1u1rqu812_r_comp-kd5px9hr-overflow-wrapper","hasScrollOverflow":true,"hasOverflow":true,"shouldOmitWrapperLayers":false,"deviceType":"Desktop","role":"group"},"isMobileView":false,"compId":"comp-m1u1rqu812_r_comp-kd5px9hr","translations":{"containerAriaLabel":"Site navigation"}},"comp-m1u1rqu812_r_comp-kkmqi5tc":{"withShadow":false,"link":{},"fullNameCompType":"wysiwyg.viewer.components.VectorImage","language":"en","mainPageId":"k3lv9","compId":"comp-m1u1rqu812_r_comp-kkmqi5tc","trackClicksAnalytics":false,"experiments":{"specs.thunderbolt.DatePickerPortal":true,"specs.thunderbolt.DisableDocumentScrollWhenLightBoxOpen":true,"specs.thunderbolt.EnableCustomCSSVarsForLoginSocialBar":true,"specs.thunderbolt.FreemiumBannerOdeditor":true,"specs.thunderbolt.LoginBarEnableLoggingInStateInSSR":true,"specs.thunderbolt.TextInputAutoFillFix":true,"specs.thunderbolt.UseLoginSocialBarCustomMenu":true,"specs.thunderbolt.UseNestedLoginSocialBarMenuItems":true,"specs.thunderbolt.UseNewLoginBarDropdownMenuAlignment":true,"specs.thunderbolt.UseNewLoginSocialBarElementStructure":true,"specs.thunderbolt.UseNewLoginSocialBarMemberInitialsAvatar":true,"specs.thunderbolt.WixFreeSiteBannerDesktop":true,"specs.thunderbolt.WixFreeSiteBannerMobile":true,"specs.thunderbolt.a11yContrast":true,"specs.thunderbolt.addIdAsClassName":true,"specs.thunderbolt.allowWebpAvifTransforms":true,"specs.thunderbolt.builderBoxSizingBorderBox":true,"specs.thunderbolt.buttonUdp":true,"specs.thunderbolt.calculateCollapsibleTextLineHeightByFont":true,"specs.thunderbolt.dom_store":true,"specs.thunderbolt.dontApplyDacOverridesOnBoBApps":true,"specs.thunderbolt.dynamicPageLinkTarget":true,"specs.thunderbolt.dynamicSlots":true,"specs.thunderbolt.fiveGridLineStudioSkins":true,"specs.thunderbolt.fixDocumentLinkInPremiumPreview":true,"specs.thunderbolt.fixFirefoxLinkBarIntrinsicSizing":true,"specs.thunderbolt.fixRemappedFullNameCompType":true,"specs.thunderbolt.imageEncodingAVIF":true,"specs.thunderbolt.interactionsUseReactionEffectId":true,"specs.thunderbolt.isClassNameToRootEnabled":true,"specs.thunderbolt.logVsmFeaturesModuleDiff":true,"specs.thunderbolt.motionTimeAnimationsCSS":true,"specs.thunderbolt.resolveManifestInTB":true,"specs.thunderbolt.responsiveContainerRoleGroup":true,"specs.thunderbolt.sectionA11yProps":true,"specs.thunderbolt.shouldUseResponsiveImages":true,"specs.thunderbolt.splitSlotSelectors":true,"specs.thunderbolt.stopResolvingInnerSelectors_VAG":true,"specs.thunderbolt.svgResolver_2":true,"specs.thunderbolt.updateRichTextSemanticClassNamesOnCorvid":true,"specs.thunderbolt.useClassnameInResponsiveAppWidget":true,"specs.thunderbolt.useFragmentHrefForTopBottomAnchor":true,"specs.thunderbolt.useImageAvifFormatInNativeProGallery":true,"specs.thunderbolt.useResponsiveImgClassicFixed":true,"specs.thunderbolt.useSvgLoaderFeature":true,"specs.thunderbolt.useSvgLoaderFeatureOnBuilderComps":true,"specs.thunderbolt.useWowImageInFastGallery":true,"specs.thunderbolt.vsmFeaturesModule":true},"isClassNameToRootEnabled":true},"comp-m1u1rqu812_r_comp-kd5px9kk":{"fullNameCompType":"wysiwyg.viewer.components.ExpandableMenu","language":"en","compId":"comp-m1u1rqu812_r_comp-kd5px9kk","mainPageId":"k3lv9","trackClicksAnalytics":false,"skin":"ResponsiveExpandableMenuSkin","items":[{"label":"Projects","link":{"href":"https://www.jiaqiliu.com","target":"_self","type":"PageLink","id":"dataItem-kuvr0o16"},"id":"dataItem-kuvr0nzs"},{"label":"Info","link":{"href":"https://www.jiaqiliu.com/info","target":"_self","type":"PageLink","id":"dataItem-m1u2tdlt"},"id":"dataItem-m1u2tdjp"}],"currentPrimaryPageHref":"","applyTextSelectedColorExperiment":false,"translations":{"ariaLabel":"Site"}}}}},"nicknameToCompIdMaps":{}}
+{
+  "stateRefs": {
+    "comp-m1u1rqu48_r_comp-kbgajy18": {
+      "experiments": {
+        "$type": "ref",
+        "refPath": [
+          "exports",
+          "environment",
+          "experiments"
+        ]
+      }
+    },
+    "comp-m1u1rqu48_r_comp-kkmqi5lg": {
+      "reportBi": {
+        "$type": "ref",
+        "refPath": [
+          "exports",
+          "businessLogger",
+          "reportBi"
+        ]
+      },
+      "toggle": {
+        "$type": "ref",
+        "refPath": [
+          "exports",
+          "menuContainer",
+          "comp-m1u1rqu812_r_comp-kd5px9hr",
+          "toggle"
+        ],
+        "shouldLoadPageFeature": true
+      }
+    },
+    "comp-m1u1rqu48_r_comp-kuvz8byj": {
+      "experiments": {
+        "$type": "ref",
+        "refPath": [
+          "exports",
+          "environment",
+          "experiments"
+        ]
+      }
+    },
+    "comp-m1u1rqu48_r_comp-kd5peeyu": {
+      "currentUrl": {
+        "$type": "ref",
+        "refPath": [
+          "exports",
+          "router",
+          "currentUrl"
+        ]
+      }
+    },
+    "comp-m1u1rqu57": {
+      "experiments": {
+        "$type": "ref",
+        "refPath": [
+          "exports",
+          "environment",
+          "experiments"
+        ]
+      }
+    },
+    "comp-m1u1rqu64": {
+      "experiments": {
+        "$type": "ref",
+        "refPath": [
+          "exports",
+          "environment",
+          "experiments"
+        ]
+      }
+    },
+    "comp-m1u1rqu75": {
+      "experiments": {
+        "$type": "ref",
+        "refPath": [
+          "exports",
+          "environment",
+          "experiments"
+        ]
+      }
+    },
+    "comp-m1u1rqu83_r_comp-kuvrtotl": {
+      "reportBi": {
+        "$type": "ref",
+        "refPath": [
+          "exports",
+          "businessLogger",
+          "reportBi"
+        ]
+      }
+    },
+    "comp-m1u1rqu83_r_comp-kd5pdf7t": {
+      "experiments": {
+        "$type": "ref",
+        "refPath": [
+          "exports",
+          "environment",
+          "experiments"
+        ]
+      }
+    },
+    "comp-m1u1rqu812_r_comp-kd5px9hr": {
+      "isOpen": {
+        "$type": "ref",
+        "refPath": [
+          "exports",
+          "menuContainer",
+          "comp-m1u1rqu812_r_comp-kd5px9hr",
+          "isOpen"
+        ],
+        "shouldLoadPageFeature": true
+      },
+      "isVisible": {
+        "$type": "ref",
+        "refPath": [
+          "exports",
+          "menuContainer",
+          "comp-m1u1rqu812_r_comp-kd5px9hr",
+          "isVisible"
+        ],
+        "shouldLoadPageFeature": true
+      },
+      "toggle": {
+        "$type": "ref",
+        "refPath": [
+          "exports",
+          "menuContainer",
+          "comp-m1u1rqu812_r_comp-kd5px9hr",
+          "toggle"
+        ],
+        "shouldLoadPageFeature": true
+      },
+      "open": {
+        "$type": "ref",
+        "refPath": [
+          "exports",
+          "menuContainer",
+          "comp-m1u1rqu812_r_comp-kd5px9hr",
+          "open"
+        ],
+        "shouldLoadPageFeature": true
+      },
+      "close": {
+        "$type": "ref",
+        "refPath": [
+          "exports",
+          "menuContainer",
+          "comp-m1u1rqu812_r_comp-kd5px9hr",
+          "close"
+        ],
+        "shouldLoadPageFeature": true
+      },
+      "animate": {
+        "$type": "ref",
+        "refPath": [
+          "exports",
+          "menuContainer",
+          "comp-m1u1rqu812_r_comp-kd5px9hr",
+          "animate"
+        ],
+        "shouldLoadPageFeature": true
+      }
+    },
+    "comp-m1u1rqu812_r_comp-kkmqi5tc": {
+      "reportBi": {
+        "$type": "ref",
+        "refPath": [
+          "exports",
+          "businessLogger",
+          "reportBi"
+        ]
+      },
+      "toggle": {
+        "$type": "ref",
+        "refPath": [
+          "exports",
+          "menuContainer",
+          "comp-m1u1rqu812_r_comp-kd5px9hr",
+          "toggle"
+        ],
+        "shouldLoadPageFeature": true
+      }
+    },
+    "comp-m1u1rqu812_r_comp-kd5px9kk": {
+      "reportBi": {
+        "$type": "ref",
+        "refPath": [
+          "exports",
+          "businessLogger",
+          "reportBi"
+        ]
+      },
+      "currentUrl": {
+        "$type": "ref",
+        "refPath": [
+          "exports",
+          "router",
+          "currentUrl"
+        ]
+      }
+    }
+  },
+  "structure": {
+    "components": {
+      "bjebw": {
+        "componentType": "Page",
+        "components": [
+          "Containerbjebw"
+        ],
+        "uiType": "ResponsivePageWithColorBG",
+        "pageId": "bjebw"
+      },
+      "Containerbjebw": {
+        "componentType": "ResponsiveContainer",
+        "components": [
+          "comp-m1u1rqu48",
+          "PAGE_SECTIONSbjebw",
+          "comp-m1u1rqu83",
+          "comp-m1u1rqu812-pinned-layer"
+        ],
+        "pageId": "bjebw"
+      },
+      "comp-m1u1rqu48": {
+        "componentType": "RefComponent",
+        "components": [
+          "comp-m1u1rqu48_r_comp-kbgajy18"
+        ],
+        "pageId": "bjebw"
+      },
+      "comp-m1u1rqu48_r_comp-kbgajy18": {
+        "componentType": "HeaderSection",
+        "components": [
+          "comp-m1u1rqu48_r_comp-kbgajy18_relative"
+        ],
+        "pageId": "bjebw"
+      },
+      "comp-m1u1rqu48_r_comp-kbgajy18_relative": {
+        "componentType": "ResponsiveContainer",
+        "components": [
+          "comp-m1u1rqu48_r_comp-kkmqi5lg",
+          "comp-m1u1rqu48_r_comp-kuvz8byj",
+          "comp-m1u1rqu48_r_comp-kd5peeyu"
+        ],
+        "pageId": "bjebw"
+      },
+      "comp-m1u1rqu48_r_comp-kkmqi5lg": {
+        "componentType": "VectorImage",
+        "uiType": "VectorButton",
+        "pageId": "bjebw"
+      },
+      "comp-m1u1rqu48_r_comp-kuvz8byj": {
+        "componentType": "WRichText",
+        "pageId": "bjebw"
+      },
+      "comp-m1u1rqu48_r_comp-kd5peeyu": {
+        "componentType": "DropDownMenu",
+        "uiType": "TextOnlyMenuButtonSkin",
+        "pageId": "bjebw"
+      },
+      "PAGE_SECTIONSbjebw": {
+        "componentType": "PageSections",
+        "components": [
+          "comp-m1u1rqu57"
+        ],
+        "pageId": "bjebw"
+      },
+      "comp-m1u1rqu57": {
+        "componentType": "Section",
+        "components": [
+          "comp-m1u1rqu57_relative"
+        ],
+        "pageId": "bjebw"
+      },
+      "comp-m1u1rqu57_relative": {
+        "componentType": "ResponsiveContainer",
+        "components": [
+          "comp-m1u1rqu64",
+          "comp-m1u1rqu75"
+        ],
+        "pageId": "bjebw"
+      },
+      "comp-m1u1rqu64": {
+        "componentType": "WRichText",
+        "pageId": "bjebw"
+      },
+      "comp-m1u1rqu75": {
+        "componentType": "WRichText",
+        "pageId": "bjebw"
+      },
+      "comp-m1u1rqu83": {
+        "componentType": "RefComponent",
+        "components": [
+          "comp-m1u1rqu83_r_comp-kbgakgyt"
+        ],
+        "pageId": "bjebw"
+      },
+      "comp-m1u1rqu83_r_comp-kbgakgyt": {
+        "componentType": "FooterSection",
+        "components": [
+          "comp-m1u1rqu83_r_comp-kbgakgyt_relative"
+        ],
+        "pageId": "bjebw"
+      },
+      "comp-m1u1rqu83_r_comp-kbgakgyt_relative": {
+        "componentType": "ResponsiveContainer",
+        "components": [
+          "comp-m1u1rqu83_r_comp-kv5tvg1y"
+        ],
+        "pageId": "bjebw"
+      },
+      "comp-m1u1rqu83_r_comp-kv5tvg1y": {
+        "componentType": "Container",
+        "components": [
+          "comp-m1u1rqu83_r_comp-kv5tvg1y_relative"
+        ],
+        "uiType": "ResponsiveBox",
+        "pageId": "bjebw"
+      },
+      "comp-m1u1rqu83_r_comp-kv5tvg1y_relative": {
+        "componentType": "ResponsiveContainer",
+        "components": [
+          "comp-m1u1rqu83_r_comp-kuvrtotl",
+          "comp-m1u1rqu83_r_comp-kd5pdf7t"
+        ],
+        "pageId": "bjebw"
+      },
+      "comp-m1u1rqu83_r_comp-kuvrtotl": {
+        "componentType": "LinkBar",
+        "uiType": "Responsive",
+        "pageId": "bjebw"
+      },
+      "comp-m1u1rqu83_r_comp-kd5pdf7t": {
+        "componentType": "WRichText",
+        "pageId": "bjebw"
+      },
+      "comp-m1u1rqu812-pinned-layer": {
+        "componentType": "PinnedLayer",
+        "components": [
+          "comp-m1u1rqu812"
+        ],
+        "pageId": "bjebw"
+      },
+      "comp-m1u1rqu812": {
+        "componentType": "RefComponent",
+        "components": [
+          "comp-m1u1rqu812_r_comp-kd5px9hr"
+        ],
+        "pageId": "bjebw"
+      },
+      "comp-m1u1rqu812_r_comp-kd5px9hr": {
+        "componentType": "MenuContainer",
+        "components": [
+          "comp-m1u1rqu812_r_comp-kkmqi5tc",
+          "comp-m1u1rqu812_r_comp-kd5px9kk"
+        ],
+        "uiType": "Responsive",
+        "pageId": "bjebw"
+      },
+      "comp-m1u1rqu812_r_comp-kkmqi5tc": {
+        "componentType": "VectorImage",
+        "uiType": "VectorButton",
+        "pageId": "bjebw"
+      },
+      "comp-m1u1rqu812_r_comp-kd5px9kk": {
+        "componentType": "ExpandableMenu",
+        "pageId": "bjebw"
+      }
+    },
+    "features": [
+      "landingPage",
+      "scrollRestoration",
+      "accessibilityBrowserZoom",
+      "wixEmbedsApi",
+      "animations",
+      "menuContainer",
+      "imagePlaceholder",
+      "componentsLoader",
+      "scrollToAnchor",
+      "windowScroll",
+      "svgLoader",
+      "seo",
+      "renderer",
+      "activePopup",
+      "menusCurrentPage",
+      "mpaNavigation",
+      "clickHandlerRegistrar",
+      "domSelectors",
+      "components",
+      "reporter",
+      "navigationManager",
+      "environmentService"
+    ],
+    "siteFeaturesConfigs": {}
+  },
+  "props": {
+    "landingPage": {
+      "isLandingPage": false
+    },
+    "scrollRestoration": {
+      "shouldRestoreScrollPosition": true
+    },
+    "accessibilityBrowserZoom": {
+      "isBuilder": false,
+      "isStudio": true
+    },
+    "animations": {
+      "repeaterTemplateToParentMap": {},
+      "isPreview": false
+    },
+    "menuContainer": {
+      "menuContainerConfig": {
+        "comp-m1u1rqu812_r_comp-kd5px9hr": {
+          "animations": {
+            "inBehavior": {
+              "name": "GlideIn",
+              "delay": 0,
+              "duration": 0.5,
+              "targetId": "",
+              "params": {
+                "angle": 90,
+                "distance": 300
+              }
+            },
+            "outBehavior": {
+              "name": "GlideOut",
+              "delay": 0,
+              "duration": 0.5,
+              "targetId": "",
+              "params": {
+                "angle": 90,
+                "distance": 300
+              }
+            }
+          }
+        }
+      },
+      "menuTogglesConfig": {
+        "comp-m1u1rqu48_r_comp-kkmqi5lg": {
+          "menuContainerId": "comp-m1u1rqu812_r_comp-kd5px9hr"
+        },
+        "comp-m1u1rqu812_r_comp-kkmqi5tc": {
+          "menuContainerId": "comp-m1u1rqu812_r_comp-kd5px9hr"
+        }
+      }
+    },
+    "imagePlaceholder": {
+      "staticMediaUrl": "https://static.wixstatic.com/media",
+      "isSEOBot": false,
+      "userDomainMediaBaseUrl": "",
+      "userDomainMediaPrefixes": []
+    },
+    "scrollToAnchor": {
+      "anchorDataIdToCompIdMap": {},
+      "nicknameToCompIdMap": {
+        "page1": "bjebw",
+        "section3": "comp-m1u1rqu48_r_comp-kbgajy18",
+        "vectorImage2": "comp-m1u1rqu48_r_comp-kkmqi5lg",
+        "text11": "comp-m1u1rqu48_r_comp-kuvz8byj",
+        "horizontalMenu1": "comp-m1u1rqu48_r_comp-kd5peeyu",
+        "section7": "comp-m1u1rqu57",
+        "text13": "comp-m1u1rqu64",
+        "text14": "comp-m1u1rqu75",
+        "section2": "comp-m1u1rqu83_r_comp-kbgakgyt",
+        "box21": "comp-m1u1rqu83_r_comp-kv5tvg1y",
+        "socialBar1": "comp-m1u1rqu83_r_comp-kuvrtotl",
+        "text2": "comp-m1u1rqu83_r_comp-kd5pdf7t",
+        "menuContainer1": "comp-m1u1rqu812_r_comp-kd5px9hr",
+        "vectorImage1": "comp-m1u1rqu812_r_comp-kkmqi5tc",
+        "expandableMenu1": "comp-m1u1rqu812_r_comp-kd5px9kk"
+      },
+      "compsToUpdate": [],
+      "isAnchorsLinksOnPageWithoutTopAndBottom": false,
+      "isBuilderComponentModel": false,
+      "anchorNameToCompIdMap": {
+        "Top%20of%20Page": "SCROLL_TO_TOP",
+        "Bottom%20of%20Page": "SCROLL_TO_BOTTOM"
+      },
+      "isResponsive": true
+    },
+    "windowScroll": {
+      "headerContainerComponentId": "comp-m1u1rqu48"
+    },
+    "svgLoader": {
+      "compIdToSvgDataMap": {
+        "comp-m1u1rqu48_r_comp-kkmqi5lg": {
+          "svgId": "503ea4_3dbf8cc099ca45eb81ab414a37292323.svg",
+          "componentType": "VectorImage",
+          "transformationOptions": {
+            "altText": "Open Site Navigation",
+            "strokeWidth": 0,
+            "properties": {
+              "type": "VectorImageProperties",
+              "metaData": {
+                "schemaVersion": "1.0",
+                "sig": "6c2-40"
+              },
+              "id": "comp-m1u1rqu48_r_comp-kkmqi5lg-propertyQuery",
+              "displayMode": "fit",
+              "flip": "none"
+            },
+            "layout": {
+              "width": 160,
+              "height": 90
+            },
+            "shadow": {},
+            "overrideColors": {
+              "color1": "color_15"
+            },
+            "isResponsive": true
+          }
+        },
+        "comp-m1u1rqu812_r_comp-kkmqi5tc": {
+          "svgId": "1d3a0b_97d72ad4c8dc4903bfb02b2baa7763ae.svg",
+          "componentType": "VectorImage",
+          "transformationOptions": {
+            "altText": "",
+            "strokeWidth": 0,
+            "properties": {
+              "type": "VectorImageProperties",
+              "metaData": {
+                "schemaVersion": "1.0",
+                "sig": "6c2-59",
+                "autoGenerated": false
+              },
+              "id": "comp-m1u1rqu812_r_comp-kkmqi5tc-propertyQuery",
+              "displayMode": "stretch",
+              "flip": "none"
+            },
+            "layout": {
+              "width": 160,
+              "height": 90
+            },
+            "shadow": {},
+            "overrideColors": {
+              "color1": "color_15"
+            },
+            "isResponsive": true
+          }
+        }
+      },
+      "colorsMap": [
+        "#FFFFFF",
+        "#FFFFFF",
+        "#000000",
+        "#ED1C24",
+        "#0088CB",
+        "#FFCB05",
+        "#727272",
+        "#B0B0B0",
+        "#FFFFFF",
+        "#727272",
+        "#B0B0B0",
+        "#FFFFFF",
+        "#E3E3E3",
+        "#979797",
+        "#4F4F4F",
+        "#000000",
+        "#E8EAED",
+        "#959EE5",
+        "#384AD3",
+        "#25318D",
+        "#131946",
+        "#F2DECC",
+        "#C2B2A3",
+        "#91857A",
+        "#615952",
+        "#302C29",
+        "#D1DBC3",
+        "#ABB899",
+        "#7F9463",
+        "#556342",
+        "#2A3121",
+        "#C7D3D5",
+        "#9AA9AC",
+        "#677E82",
+        "#455457",
+        "#222A2B",
+        "#FFFFFF",
+        "#000000",
+        "#E3E3E3",
+        "#979797",
+        "#4F4F4F",
+        "#384AD3",
+        "#384AD3",
+        "#384AD3",
+        "#384AD3",
+        "#000000",
+        "#4F4F4F",
+        "#000000",
+        "#384AD3",
+        "#384AD3",
+        "#FFFFFF",
+        "#384AD3",
+        "#384AD3",
+        "#FFFFFF",
+        "#979797",
+        "#979797",
+        "#FFFFFF",
+        "#FFFFFF",
+        "#384AD3",
+        "#384AD3",
+        "#FFFFFF",
+        "#384AD3",
+        "#384AD3",
+        "#FFFFFF",
+        "#979797",
+        "#979797"
+      ],
+      "mediaRootUrl": "https://static.wixstatic.com/",
+      "compIdToVectorArtPropsPaths": {}
+    },
+    "seo": {
+      "pageId": "bjebw",
+      "description": "Jiaqi Liu is a concept-driven project-based artist.",
+      "indexPage": true,
+      "ogImage": "",
+      "ogImageHeight": "",
+      "ogImageWidth": "",
+      "pageName": "Artist Statement",
+      "title": "Jiaqi Liu | Artist Statement",
+      "advancedSeoData": "{\"tags\":[{\"type\":\"title\",\"children\":\"Jiaqi Liu | Artist Statement\"},{\"type\":\"meta\",\"props\":{\"name\":\"description\",\"content\":\"Jiaqi Liu is a concept-driven project-based artist.\"}}]}",
+      "currentPageUrl": "",
+      "translationsData": {
+        "default": "{\"tags\":[{\"type\":\"title\",\"children\":\"Jiaqi Liu | Artist Statement\"},{\"type\":\"meta\",\"props\":{\"name\":\"description\",\"content\":\"Jiaqi Liu is a concept-driven project-based artist.\"}}]}"
+      },
+      "tpaPageId": "",
+      "managingAppDefId": ""
+    },
+    "activePopup": {},
+    "menusCurrentPage": {},
+    "domSelectors": {
+      "allComponentIds": [
+        "bjebw",
+        "Containerbjebw",
+        "comp-m1u1rqu48",
+        "comp-m1u1rqu48_r_comp-kbgajy18",
+        "comp-m1u1rqu48_r_comp-kbgajy18_relative",
+        "comp-m1u1rqu48_r_comp-kkmqi5lg",
+        "comp-m1u1rqu48_r_comp-kuvz8byj",
+        "comp-m1u1rqu48_r_comp-kd5peeyu",
+        "PAGE_SECTIONSbjebw",
+        "comp-m1u1rqu57",
+        "comp-m1u1rqu57_relative",
+        "comp-m1u1rqu64",
+        "comp-m1u1rqu75",
+        "comp-m1u1rqu83",
+        "comp-m1u1rqu83_r_comp-kbgakgyt",
+        "comp-m1u1rqu83_r_comp-kbgakgyt_relative",
+        "comp-m1u1rqu83_r_comp-kv5tvg1y",
+        "comp-m1u1rqu83_r_comp-kv5tvg1y_relative",
+        "comp-m1u1rqu83_r_comp-kuvrtotl",
+        "comp-m1u1rqu83_r_comp-kd5pdf7t",
+        "comp-m1u1rqu812-pinned-layer",
+        "comp-m1u1rqu812",
+        "comp-m1u1rqu812_r_comp-kd5px9hr",
+        "comp-m1u1rqu812_r_comp-kkmqi5tc",
+        "comp-m1u1rqu812_r_comp-kd5px9kk"
+      ]
+    },
+    "components": {
+      "componentsUnderFoldMap": {
+        "bjebw": {
+          "componentType": "mobile.core.components.Page",
+          "compId": "bjebw"
+        },
+        "comp-m1u1rqu48": {
+          "componentType": "wysiwyg.viewer.components.RefComponent",
+          "compId": "comp-m1u1rqu48"
+        },
+        "comp-m1u1rqu83": {
+          "componentType": "wysiwyg.viewer.components.RefComponent",
+          "compId": "comp-m1u1rqu83"
+        },
+        "comp-m1u1rqu83_r_comp-kbgakgyt": {
+          "componentType": "responsive.components.FooterSection",
+          "compId": "comp-m1u1rqu83_r_comp-kbgakgyt"
+        },
+        "comp-m1u1rqu83_r_comp-kv5tvg1y": {
+          "componentType": "mobile.core.components.Container",
+          "compId": "comp-m1u1rqu83_r_comp-kv5tvg1y"
+        },
+        "comp-m1u1rqu83_r_comp-kuvrtotl": {
+          "componentType": "wysiwyg.viewer.components.LinkBar",
+          "compId": "comp-m1u1rqu83_r_comp-kuvrtotl"
+        },
+        "comp-m1u1rqu83_r_comp-kd5pdf7t": {
+          "componentType": "wysiwyg.viewer.components.WRichText",
+          "compId": "comp-m1u1rqu83_r_comp-kd5pdf7t"
+        },
+        "comp-m1u1rqu812": {
+          "componentType": "wysiwyg.viewer.components.RefComponent",
+          "compId": "comp-m1u1rqu812"
+        },
+        "comp-m1u1rqu812_r_comp-kd5px9hr": {
+          "componentType": "wysiwyg.viewer.components.MenuContainer",
+          "compId": "comp-m1u1rqu812_r_comp-kd5px9hr"
+        },
+        "comp-m1u1rqu812_r_comp-kkmqi5tc": {
+          "componentType": "wysiwyg.viewer.components.VectorImage",
+          "compId": "comp-m1u1rqu812_r_comp-kkmqi5tc"
+        },
+        "comp-m1u1rqu812_r_comp-kd5px9kk": {
+          "componentType": "wysiwyg.viewer.components.ExpandableMenu",
+          "compId": "comp-m1u1rqu812_r_comp-kd5px9kk"
+        }
+      }
+    },
+    "__componentsConfig__": {},
+    "render": {
+      "compProps": {
+        "bjebw": {
+          "className": "theme-vars"
+        },
+        "Containerbjebw": {
+          "containerLayoutClassName": "bjebw-container",
+          "overlowWrapperClassName": "bjebw-overflow-wrapper",
+          "hasScrollOverflow": false,
+          "hasOverflow": false,
+          "shouldOmitWrapperLayers": false,
+          "deviceType": "Desktop",
+          "role": "group"
+        },
+        "comp-m1u1rqu48": {
+          "skin": "ResponsiveContainerRefSkin",
+          "tagName": "header",
+          "containerRootClassName": "comp-m1u1rqu48-container",
+          "className": ""
+        },
+        "comp-m1u1rqu48_r_comp-kbgajy18": {
+          "skin": "RectangleArea",
+          "containerProps": {
+            "containerLayoutClassName": "comp-m1u1rqu48_r_comp-kbgajy18-container",
+            "overlowWrapperClassName": "comp-m1u1rqu48_r_comp-kbgajy18-overflow-wrapper",
+            "hasScrollOverflow": false,
+            "hasOverflow": false,
+            "shouldOmitWrapperLayers": true,
+            "deviceType": "Desktop",
+            "role": "group"
+          },
+          "tagName": null,
+          "containerRootClassName": "comp-m1u1rqu48_r_comp-kbgajy18-container",
+          "className": "",
+          "background": {
+            "containerId": "comp-m1u1rqu48_r_comp-kbgajy18",
+            "hasBgFullscreenScrollEffect": false,
+            "shouldRenderUnderlay": true,
+            "shouldPadMedia": false,
+            "hasCanvasAnimation": false
+          },
+          "fillLayers": {
+            "containerId": "comp-m1u1rqu48_r_comp-kbgajy18",
+            "hasBgFullscreenScrollEffect": false,
+            "shouldRenderUnderlay": true,
+            "shouldPadMedia": false,
+            "hasCanvasAnimation": false
+          },
+          "dividers": {
+            "hasTopDivider": false,
+            "hasBottomDivider": false
+          },
+          "isBuilder": false,
+          "a11y": {},
+          "animate": "none"
+        },
+        "comp-m1u1rqu48_r_comp-kbgajy18_relative": {
+          "containerLayoutClassName": "comp-m1u1rqu48_r_comp-kbgajy18-container",
+          "overlowWrapperClassName": "comp-m1u1rqu48_r_comp-kbgajy18-overflow-wrapper",
+          "hasScrollOverflow": false,
+          "hasOverflow": false,
+          "shouldOmitWrapperLayers": true,
+          "deviceType": "Desktop",
+          "role": "group"
+        },
+        "comp-m1u1rqu48_r_comp-kkmqi5lg": {
+          "withShadow": false,
+          "link": {},
+          "fullNameCompType": "wysiwyg.viewer.components.VectorImage",
+          "language": "en",
+          "mainPageId": "k3lv9",
+          "compId": "comp-m1u1rqu48_r_comp-kkmqi5lg",
+          "trackClicksAnalytics": false,
+          "experiments": {
+            "specs.thunderbolt.DatePickerPortal": true,
+            "specs.thunderbolt.DisableDocumentScrollWhenLightBoxOpen": true,
+            "specs.thunderbolt.EnableCustomCSSVarsForLoginSocialBar": true,
+            "specs.thunderbolt.FreemiumBannerOdeditor": true,
+            "specs.thunderbolt.LoginBarEnableLoggingInStateInSSR": true,
+            "specs.thunderbolt.TextInputAutoFillFix": true,
+            "specs.thunderbolt.UseLoginSocialBarCustomMenu": true,
+            "specs.thunderbolt.UseNestedLoginSocialBarMenuItems": true,
+            "specs.thunderbolt.UseNewLoginBarDropdownMenuAlignment": true,
+            "specs.thunderbolt.UseNewLoginSocialBarElementStructure": true,
+            "specs.thunderbolt.UseNewLoginSocialBarMemberInitialsAvatar": true,
+            "specs.thunderbolt.WixFreeSiteBannerDesktop": true,
+            "specs.thunderbolt.WixFreeSiteBannerMobile": true,
+            "specs.thunderbolt.a11yContrast": true,
+            "specs.thunderbolt.addIdAsClassName": true,
+            "specs.thunderbolt.allowWebpAvifTransforms": true,
+            "specs.thunderbolt.builderBoxSizingBorderBox": true,
+            "specs.thunderbolt.buttonUdp": true,
+            "specs.thunderbolt.calculateCollapsibleTextLineHeightByFont": true,
+            "specs.thunderbolt.dom_store": true,
+            "specs.thunderbolt.dontApplyDacOverridesOnBoBApps": true,
+            "specs.thunderbolt.dynamicPageLinkTarget": true,
+            "specs.thunderbolt.dynamicSlots": true,
+            "specs.thunderbolt.fiveGridLineStudioSkins": true,
+            "specs.thunderbolt.fixDocumentLinkInPremiumPreview": true,
+            "specs.thunderbolt.fixFirefoxLinkBarIntrinsicSizing": true,
+            "specs.thunderbolt.fixRemappedFullNameCompType": true,
+            "specs.thunderbolt.imageEncodingAVIF": true,
+            "specs.thunderbolt.interactionsUseReactionEffectId": true,
+            "specs.thunderbolt.isClassNameToRootEnabled": true,
+            "specs.thunderbolt.logVsmFeaturesModuleDiff": true,
+            "specs.thunderbolt.motionTimeAnimationsCSS": true,
+            "specs.thunderbolt.resolveManifestInTB": true,
+            "specs.thunderbolt.responsiveContainerRoleGroup": true,
+            "specs.thunderbolt.sectionA11yProps": true,
+            "specs.thunderbolt.shouldUseResponsiveImages": true,
+            "specs.thunderbolt.splitSlotSelectors": true,
+            "specs.thunderbolt.stopResolvingInnerSelectors_VAG": true,
+            "specs.thunderbolt.svgResolver_2": true,
+            "specs.thunderbolt.updateRichTextSemanticClassNamesOnCorvid": true,
+            "specs.thunderbolt.useClassnameInResponsiveAppWidget": true,
+            "specs.thunderbolt.useFragmentHrefForTopBottomAnchor": true,
+            "specs.thunderbolt.useImageAvifFormatInNativeProGallery": true,
+            "specs.thunderbolt.useResponsiveImgClassicFixed": true,
+            "specs.thunderbolt.useSvgLoaderFeature": true,
+            "specs.thunderbolt.useSvgLoaderFeatureOnBuilderComps": true,
+            "specs.thunderbolt.useWowImageInFastGallery": true,
+            "specs.thunderbolt.vsmFeaturesModule": true
+          },
+          "isClassNameToRootEnabled": true
+        },
+        "comp-m1u1rqu48_r_comp-kuvz8byj": {
+          "html": "<p class=\"font_8 wixui-rich-text__text\"><a href=\"https://www.jiaqiliu.com\" target=\"_self\" class=\"wixui-rich-text__text\">Jiaqi Liu</a></p>",
+          "skin": "WRichTextThemeSkin",
+          "isQaMode": false,
+          "fullNameCompType": "wysiwyg.viewer.components.WRichText"
+        },
+        "comp-m1u1rqu48_r_comp-kd5peeyu": {
+          "skin": "TextOnlyMenuButtonSkin",
+          "items": [
+            {
+              "label": "Projects",
+              "link": {
+                "href": "https://www.jiaqiliu.com",
+                "target": "_self",
+                "type": "PageLink",
+                "id": "dataItem-kuvr0o16"
+              },
+              "id": "dataItem-kuvr0nzs"
+            },
+            {
+              "label": "Info",
+              "link": {
+                "href": "https://www.jiaqiliu.com/info",
+                "target": "_self",
+                "type": "PageLink",
+                "id": "dataItem-m1u2tdlt"
+              },
+              "id": "dataItem-m1u2tdjp"
+            }
+          ],
+          "alignButtons": "right",
+          "sameWidthButtons": false,
+          "moreButtonLabel": "More...",
+          "moreItemHeight": 15,
+          "stretchButtonsToMenuWidth": true,
+          "rtl": false,
+          "marginAllChildren": true,
+          "skinExports": {
+            "menuBorderY": 0,
+            "menuBtnBorder": 0,
+            "ribbonEls": 0,
+            "labelPad": 0,
+            "ribbonExtra": 0
+          },
+          "isTouchDevice": false,
+          "renderSEOSubItems": true,
+          "isQaMode": false,
+          "fullNameCompType": "wysiwyg.viewer.components.menus.DropDownMenu",
+          "translations": {
+            "subMenuIndication": "Use tab to navigate through the menu items.",
+            "ariaLabel": "Site",
+            "dropdownButtonAriaLabel": "More <%= itemName %> pages"
+          }
+        },
+        "comp-m1u1rqu57": {
+          "skin": "RectangleArea",
+          "containerProps": {
+            "containerLayoutClassName": "comp-m1u1rqu57-container",
+            "overlowWrapperClassName": "comp-m1u1rqu57-overflow-wrapper",
+            "hasScrollOverflow": false,
+            "hasOverflow": false,
+            "shouldOmitWrapperLayers": true,
+            "deviceType": "Desktop",
+            "role": "group"
+          },
+          "tagName": null,
+          "containerRootClassName": "comp-m1u1rqu57-container",
+          "className": "",
+          "background": {
+            "containerId": "comp-m1u1rqu57",
+            "hasBgFullscreenScrollEffect": false,
+            "shouldRenderUnderlay": true,
+            "shouldPadMedia": false,
+            "hasCanvasAnimation": false
+          },
+          "fillLayers": {
+            "containerId": "comp-m1u1rqu57",
+            "hasBgFullscreenScrollEffect": false,
+            "shouldRenderUnderlay": true,
+            "shouldPadMedia": false,
+            "hasCanvasAnimation": false,
+            "useWixMediaCanvas": false
+          },
+          "dividers": {
+            "hasTopDivider": false,
+            "hasBottomDivider": false
+          },
+          "isBuilder": false,
+          "a11y": {},
+          "translations": {}
+        },
+        "comp-m1u1rqu57_relative": {
+          "containerLayoutClassName": "comp-m1u1rqu57-container",
+          "overlowWrapperClassName": "comp-m1u1rqu57-overflow-wrapper",
+          "hasScrollOverflow": false,
+          "hasOverflow": false,
+          "shouldOmitWrapperLayers": true,
+          "deviceType": "Desktop",
+          "role": "group"
+        },
+        "comp-m1u1rqu64": {
+          "html": "<h2 class=\"font_2 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\"><span style=\"font-weight:bold;\" class=\"wixui-rich-text__text\">Artist Statement</span></span></h2>",
+          "skin": "WRichTextThemeSkin",
+          "isQaMode": false,
+          "fullNameCompType": "wysiwyg.viewer.components.WRichText"
+        },
+        "comp-m1u1rqu75": {
+          "html": "<p class=\"font_8 wixui-rich-text__text\"><span style=\"font-weight:normal;\" class=\"wixui-rich-text__text\"><span style=\"font-family:helvetica-w01-light,sans-serif;\" class=\"wixui-rich-text__text\">My studio practice is project-based, concept-driven, and participatory. Interdisciplinary and non-media speci\ufb01c in nature, I mainly work with technology, imaging, performance, and writing as my tools for expression. Drawing diverse schools of eastern philosophy from my own cultural heritage, and hosting them in modern conversations with science and technology, I examine pattern, perception, and the tensions of communication in contemporary life. My art constructs precise conditions in which natural and cultural forces unfold, often among and around the public &mdash; valuing clarity of intent while leaving space for contingency, discovery, and reflection.</span></span></p>",
+          "skin": "WRichTextThemeSkin",
+          "isQaMode": false,
+          "fullNameCompType": "wysiwyg.viewer.components.WRichText"
+        },
+        "comp-m1u1rqu83": {
+          "skin": "ResponsiveContainerRefSkin",
+          "tagName": "footer",
+          "containerRootClassName": "comp-m1u1rqu83-container",
+          "className": ""
+        },
+        "comp-m1u1rqu83_r_comp-kbgakgyt": {
+          "skin": "RectangleArea",
+          "containerProps": {
+            "containerLayoutClassName": "comp-m1u1rqu83_r_comp-kbgakgyt-container",
+            "overlowWrapperClassName": "comp-m1u1rqu83_r_comp-kbgakgyt-overflow-wrapper",
+            "hasScrollOverflow": false,
+            "hasOverflow": false,
+            "shouldOmitWrapperLayers": true,
+            "deviceType": "Desktop",
+            "role": "group"
+          },
+          "tagName": null,
+          "containerRootClassName": "comp-m1u1rqu83_r_comp-kbgakgyt-container",
+          "className": "",
+          "background": {
+            "containerId": "comp-m1u1rqu83_r_comp-kbgakgyt",
+            "hasBgFullscreenScrollEffect": false,
+            "shouldRenderUnderlay": true,
+            "shouldPadMedia": false,
+            "hasCanvasAnimation": false
+          },
+          "fillLayers": {
+            "containerId": "comp-m1u1rqu83_r_comp-kbgakgyt",
+            "hasBgFullscreenScrollEffect": false,
+            "shouldRenderUnderlay": true,
+            "shouldPadMedia": false,
+            "hasCanvasAnimation": false
+          },
+          "dividers": {
+            "hasTopDivider": false,
+            "hasBottomDivider": false
+          },
+          "isBuilder": false,
+          "a11y": {}
+        },
+        "comp-m1u1rqu83_r_comp-kbgakgyt_relative": {
+          "containerLayoutClassName": "comp-m1u1rqu83_r_comp-kbgakgyt-container",
+          "overlowWrapperClassName": "comp-m1u1rqu83_r_comp-kbgakgyt-overflow-wrapper",
+          "hasScrollOverflow": false,
+          "hasOverflow": false,
+          "shouldOmitWrapperLayers": true,
+          "deviceType": "Desktop",
+          "role": "group"
+        },
+        "comp-m1u1rqu83_r_comp-kv5tvg1y": {
+          "containerProps": {
+            "containerLayoutClassName": "comp-m1u1rqu83_r_comp-kv5tvg1y-container",
+            "overlowWrapperClassName": "comp-m1u1rqu83_r_comp-kv5tvg1y-overflow-wrapper",
+            "hasScrollOverflow": false,
+            "hasOverflow": false,
+            "shouldOmitWrapperLayers": true,
+            "deviceType": "Desktop",
+            "role": "group"
+          },
+          "containerRootClassName": "comp-m1u1rqu83_r_comp-kv5tvg1y-container",
+          "role": "",
+          "isRepeaterItem": false,
+          "translations": {
+            "ariaLabel": "content changes on hover"
+          }
+        },
+        "comp-m1u1rqu83_r_comp-kv5tvg1y_relative": {
+          "containerLayoutClassName": "comp-m1u1rqu83_r_comp-kv5tvg1y-container",
+          "overlowWrapperClassName": "comp-m1u1rqu83_r_comp-kv5tvg1y-overflow-wrapper",
+          "hasScrollOverflow": false,
+          "hasOverflow": false,
+          "shouldOmitWrapperLayers": true,
+          "deviceType": "Desktop",
+          "role": "group"
+        },
+        "comp-m1u1rqu83_r_comp-kuvrtotl": {
+          "images": [
+            {
+              "alt": "Instagram",
+              "width": 200,
+              "height": 200,
+              "uri": "01c3aff52f2a4dffa526d7a9843d46ea.png",
+              "title": "Instagram",
+              "containerId": "dataItem-kuvrtou32-comp-m1u1rqu83_r_comp-kuvrtotl",
+              "hasBgScrollEffect": "",
+              "bgEffectName": "",
+              "displayMode": "fill",
+              "link": {
+                "href": "https://www.instagram.com/jiaqiliu__/",
+                "target": "_blank",
+                "rel": "noreferrer noopener",
+                "type": "ExternalLink",
+                "id": "dataItem-kuvrtou33"
+              },
+              "encoding": "AVIF",
+              "allowWebpAvifTransforms": true
+            }
+          ],
+          "compId": "comp-m1u1rqu83_r_comp-kuvrtotl",
+          "fullNameCompType": "wysiwyg.viewer.components.LinkBar",
+          "language": "en",
+          "trackClicksAnalytics": false,
+          "iconSize": 30,
+          "shouldRenderPlaceholders": false,
+          "translations": {
+            "ariaLabel": "Social Bar"
+          }
+        },
+        "comp-m1u1rqu83_r_comp-kd5pdf7t": {
+          "html": "<p class=\"font_8 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">&copy; 2026 by Jiaqi Liu. All rights reserved.</span></p>",
+          "skin": "WRichTextThemeSkin",
+          "isQaMode": false,
+          "fullNameCompType": "wysiwyg.viewer.components.WRichText"
+        },
+        "comp-m1u1rqu812-pinned-layer": {
+          "rootClassName": "root"
+        },
+        "comp-m1u1rqu812": {
+          "skin": "ResponsiveContainerRefSkin",
+          "containerRootClassName": "comp-m1u1rqu812-container",
+          "className": ""
+        },
+        "comp-m1u1rqu812_r_comp-kd5px9hr": {
+          "isOpen": false,
+          "isVisible": false,
+          "classNames": [],
+          "containerProps": {
+            "containerLayoutClassName": "comp-m1u1rqu812_r_comp-kd5px9hr-container",
+            "overlowWrapperClassName": "comp-m1u1rqu812_r_comp-kd5px9hr-overflow-wrapper",
+            "hasScrollOverflow": true,
+            "hasOverflow": true,
+            "shouldOmitWrapperLayers": false,
+            "deviceType": "Desktop",
+            "role": "group"
+          },
+          "isMobileView": false,
+          "compId": "comp-m1u1rqu812_r_comp-kd5px9hr",
+          "translations": {
+            "containerAriaLabel": "Site navigation"
+          }
+        },
+        "comp-m1u1rqu812_r_comp-kkmqi5tc": {
+          "withShadow": false,
+          "link": {},
+          "fullNameCompType": "wysiwyg.viewer.components.VectorImage",
+          "language": "en",
+          "mainPageId": "k3lv9",
+          "compId": "comp-m1u1rqu812_r_comp-kkmqi5tc",
+          "trackClicksAnalytics": false,
+          "experiments": {
+            "specs.thunderbolt.DatePickerPortal": true,
+            "specs.thunderbolt.DisableDocumentScrollWhenLightBoxOpen": true,
+            "specs.thunderbolt.EnableCustomCSSVarsForLoginSocialBar": true,
+            "specs.thunderbolt.FreemiumBannerOdeditor": true,
+            "specs.thunderbolt.LoginBarEnableLoggingInStateInSSR": true,
+            "specs.thunderbolt.TextInputAutoFillFix": true,
+            "specs.thunderbolt.UseLoginSocialBarCustomMenu": true,
+            "specs.thunderbolt.UseNestedLoginSocialBarMenuItems": true,
+            "specs.thunderbolt.UseNewLoginBarDropdownMenuAlignment": true,
+            "specs.thunderbolt.UseNewLoginSocialBarElementStructure": true,
+            "specs.thunderbolt.UseNewLoginSocialBarMemberInitialsAvatar": true,
+            "specs.thunderbolt.WixFreeSiteBannerDesktop": true,
+            "specs.thunderbolt.WixFreeSiteBannerMobile": true,
+            "specs.thunderbolt.a11yContrast": true,
+            "specs.thunderbolt.addIdAsClassName": true,
+            "specs.thunderbolt.allowWebpAvifTransforms": true,
+            "specs.thunderbolt.builderBoxSizingBorderBox": true,
+            "specs.thunderbolt.buttonUdp": true,
+            "specs.thunderbolt.calculateCollapsibleTextLineHeightByFont": true,
+            "specs.thunderbolt.dom_store": true,
+            "specs.thunderbolt.dontApplyDacOverridesOnBoBApps": true,
+            "specs.thunderbolt.dynamicPageLinkTarget": true,
+            "specs.thunderbolt.dynamicSlots": true,
+            "specs.thunderbolt.fiveGridLineStudioSkins": true,
+            "specs.thunderbolt.fixDocumentLinkInPremiumPreview": true,
+            "specs.thunderbolt.fixFirefoxLinkBarIntrinsicSizing": true,
+            "specs.thunderbolt.fixRemappedFullNameCompType": true,
+            "specs.thunderbolt.imageEncodingAVIF": true,
+            "specs.thunderbolt.interactionsUseReactionEffectId": true,
+            "specs.thunderbolt.isClassNameToRootEnabled": true,
+            "specs.thunderbolt.logVsmFeaturesModuleDiff": true,
+            "specs.thunderbolt.motionTimeAnimationsCSS": true,
+            "specs.thunderbolt.resolveManifestInTB": true,
+            "specs.thunderbolt.responsiveContainerRoleGroup": true,
+            "specs.thunderbolt.sectionA11yProps": true,
+            "specs.thunderbolt.shouldUseResponsiveImages": true,
+            "specs.thunderbolt.splitSlotSelectors": true,
+            "specs.thunderbolt.stopResolvingInnerSelectors_VAG": true,
+            "specs.thunderbolt.svgResolver_2": true,
+            "specs.thunderbolt.updateRichTextSemanticClassNamesOnCorvid": true,
+            "specs.thunderbolt.useClassnameInResponsiveAppWidget": true,
+            "specs.thunderbolt.useFragmentHrefForTopBottomAnchor": true,
+            "specs.thunderbolt.useImageAvifFormatInNativeProGallery": true,
+            "specs.thunderbolt.useResponsiveImgClassicFixed": true,
+            "specs.thunderbolt.useSvgLoaderFeature": true,
+            "specs.thunderbolt.useSvgLoaderFeatureOnBuilderComps": true,
+            "specs.thunderbolt.useWowImageInFastGallery": true,
+            "specs.thunderbolt.vsmFeaturesModule": true
+          },
+          "isClassNameToRootEnabled": true
+        },
+        "comp-m1u1rqu812_r_comp-kd5px9kk": {
+          "fullNameCompType": "wysiwyg.viewer.components.ExpandableMenu",
+          "language": "en",
+          "compId": "comp-m1u1rqu812_r_comp-kd5px9kk",
+          "mainPageId": "k3lv9",
+          "trackClicksAnalytics": false,
+          "skin": "ResponsiveExpandableMenuSkin",
+          "items": [
+            {
+              "label": "Projects",
+              "link": {
+                "href": "https://www.jiaqiliu.com",
+                "target": "_self",
+                "type": "PageLink",
+                "id": "dataItem-kuvr0o16"
+              },
+              "id": "dataItem-kuvr0nzs"
+            },
+            {
+              "label": "Info",
+              "link": {
+                "href": "https://www.jiaqiliu.com/info",
+                "target": "_self",
+                "type": "PageLink",
+                "id": "dataItem-m1u2tdlt"
+              },
+              "id": "dataItem-m1u2tdjp"
+            }
+          ],
+          "currentPrimaryPageHref": "",
+          "applyTextSelectedColorExperiment": false,
+          "translations": {
+            "ariaLabel": "Site"
+          }
+        }
+      }
+    }
+  },
+  "nicknameToCompIdMaps": {}
+}

@@ -161,18 +161,6 @@
           "pageUriSEO": "projects",
           "pageJsonFileName": "430132_0295271a78dee9ebfe77c36b8efc3ab6_1692"
         },
-        "ww4gh": {
-          "pageId": "ww4gh",
-          "title": "The Ninth Marriage",
-          "pageUriSEO": "the-ninth-marriage",
-          "pageJsonFileName": "430132_a3221c66ecd0018158117db8830e1564_1692"
-        },
-        "otvmv": {
-          "pageId": "otvmv",
-          "title": "Oblivio",
-          "pageUriSEO": "oblivio",
-          "pageJsonFileName": "430132_6e8aa9f7194b0b764709ef2b2649b6b7_1692"
-        },
         "ms22a": {
           "pageId": "ms22a",
           "title": "Info",
@@ -191,12 +179,6 @@
           "pageUriSEO": "pointillism",
           "pageJsonFileName": "430132_bacb418134625e3bbf72c6a85db4cc11_1692"
         },
-        "sbudu": {
-          "pageId": "sbudu",
-          "title": "Hydrogen Balloon",
-          "pageUriSEO": "hydrogen-balloon",
-          "pageJsonFileName": "430132_bd29722509407a8b3d425bfa748e846b_1692"
-        },
         "ris5e": {
           "pageId": "ris5e",
           "title": "Maslow's Hierarchy of Needs",
@@ -209,23 +191,11 @@
           "pageUriSEO": "texts",
           "pageJsonFileName": "430132_6469ab0d6e7f639c22d9bf687de83f53_1692"
         },
-        "dd72u": {
-          "pageId": "dd72u",
-          "title": "ApHasiA: Describe the City You Live in",
-          "pageUriSEO": "aphasia-describe-the-city-you-live-in",
-          "pageJsonFileName": "430132_c2b0bd1fd89c0afacdc945a098a41253_1692"
-        },
         "ribtt": {
           "pageId": "ribtt",
           "title": "Song of a Lonely Bird",
           "pageUriSEO": "song-of-a-lonely-bird",
           "pageJsonFileName": "430132_53198f7eeb4edfbc443f98b6c3982cfc_1692"
-        },
-        "znrpg": {
-          "pageId": "znrpg",
-          "title": "Film Production Design & Art Direction",
-          "pageUriSEO": "film-pd-art-direction",
-          "pageJsonFileName": "430132_d5d25b4ed48a13a8d10fb6a1e9297c50_1692"
         },
         "ry8z6": {
           "pageId": "ry8z6",
@@ -293,12 +263,6 @@
           "pageUriSEO": "on-the-distinctions-between-ai-works-and-art-works",
           "pageJsonFileName": "430132_55afb7d6e2026268c6accac0fe71c68e_1692"
         },
-        "llwb9": {
-          "pageId": "llwb9",
-          "title": "Museum Guard Tutorial",
-          "pageUriSEO": "museum-guard-tutorial",
-          "pageJsonFileName": "430132_4a541e5b50e0873de674a1fb5cc54e6c_1692"
-        },
         "z4634": {
           "pageId": "z4634",
           "title": "Aesthetics Under the Microscope",
@@ -316,14 +280,6 @@
           "type": "Static",
           "pageId": "k3lv9"
         },
-        "./the-ninth-marriage": {
-          "type": "Static",
-          "pageId": "ww4gh"
-        },
-        "./oblivio": {
-          "type": "Static",
-          "pageId": "otvmv"
-        },
         "./info": {
           "type": "Static",
           "pageId": "ms22a"
@@ -336,10 +292,6 @@
           "type": "Static",
           "pageId": "ma2pf"
         },
-        "./hydrogen-balloon": {
-          "type": "Static",
-          "pageId": "sbudu"
-        },
         "./maslows-hierarchy-of-needs": {
           "type": "Static",
           "pageId": "ris5e"
@@ -348,17 +300,9 @@
           "type": "Static",
           "pageId": "m1tpo"
         },
-        "./aphasia-describe-the-city-you-live-in": {
-          "type": "Static",
-          "pageId": "dd72u"
-        },
         "./song-of-a-lonely-bird": {
           "type": "Static",
           "pageId": "ribtt"
-        },
-        "./film-pd-art-direction": {
-          "type": "Static",
-          "pageId": "znrpg"
         },
         "./dear-water": {
           "type": "Static",
@@ -403,10 +347,6 @@
         "./on-the-distinctions-between-ai-works-and-art-works": {
           "type": "Static",
           "pageId": "r59l2"
-        },
-        "./museum-guard-tutorial": {
-          "type": "Static",
-          "pageId": "llwb9"
         },
         "./aesthetics-under-the-microscope": {
           "type": "Static",
@@ -577,17 +517,12 @@
       "pageIdToTitle": {
         "pnmxa": "Peace and Peace",
         "k3lv9": "Projects",
-        "ww4gh": "The Ninth Marriage",
-        "otvmv": "Oblivio",
         "ms22a": "Info",
         "sa2la": "On the Avant-Garde",
         "ma2pf": "Pointillism",
-        "sbudu": "Hydrogen Balloon",
         "ris5e": "Maslow's Hierarchy of Needs",
         "m1tpo": "Texts",
-        "dd72u": "ApHasiA: Describe the City You Live in",
         "ribtt": "Song of a Lonely Bird",
-        "znrpg": "Film Production Design & Art Direction",
         "ry8z6": "Dear Water,",
         "vskgv": "Fullscreen Page",
         "t6nmu": "Ads Named Desire",
@@ -599,7 +534,6 @@
         "nzcs1": "Mirage",
         "bjebw": "Artist Statement",
         "r59l2": "On the Distinctions",
-        "llwb9": "Museum Guard Tutorial",
         "z4634": "Aesthetics Under the Microscope"
       },
       "urlMappings": null,
@@ -1678,17 +1612,12 @@
       "pageJsonFileNames": {
         "pnmxa": "430132_34f0cb4cde4ec39ac9915e79a7a5c14b_1692.json",
         "k3lv9": "430132_0295271a78dee9ebfe77c36b8efc3ab6_1692.json",
-        "ww4gh": "430132_a3221c66ecd0018158117db8830e1564_1692.json",
-        "otvmv": "430132_6e8aa9f7194b0b764709ef2b2649b6b7_1692.json",
         "ms22a": "430132_1991c9fea074320f3d142ec56a7a7d8d_1692.json",
         "sa2la": "430132_d680b7414e02c6df7ac1f70d4f536889_1692.json",
         "ma2pf": "430132_bacb418134625e3bbf72c6a85db4cc11_1692.json",
-        "sbudu": "430132_bd29722509407a8b3d425bfa748e846b_1692.json",
         "ris5e": "430132_21ed7583783ae009862ad9a85ac7fee4_1692.json",
         "m1tpo": "430132_6469ab0d6e7f639c22d9bf687de83f53_1692.json",
-        "dd72u": "430132_c2b0bd1fd89c0afacdc945a098a41253_1692.json",
         "ribtt": "430132_53198f7eeb4edfbc443f98b6c3982cfc_1692.json",
-        "znrpg": "430132_d5d25b4ed48a13a8d10fb6a1e9297c50_1692.json",
         "ry8z6": "430132_efd0e433f536f05ce4178286933b4b06_1692.json",
         "vskgv": "430132_2bde44f90827df13e7f68d9ab8eac846_1692.json",
         "t6nmu": "430132_d1682cf4ccdcdb59f81c17586cf12e37_1692.json",
@@ -1700,7 +1629,6 @@
         "nzcs1": "430132_04ce639d562489cb18b2369cfc91fc14_1692.json",
         "bjebw": "430132_2def4e53521490d8f73811e72bee92a8_1692.json",
         "r59l2": "430132_55afb7d6e2026268c6accac0fe71c68e_1692.json",
-        "llwb9": "430132_4a541e5b50e0873de674a1fb5cc54e6c_1692.json",
         "z4634": "430132_f620c0ead6d9d5db67bd4e017adfbeee_1692.json",
         "masterPage": "430132_fd514303c2bca82547f4dd7afcbc8491_1692.json"
       },

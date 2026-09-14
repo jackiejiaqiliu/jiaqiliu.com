@@ -1,21 +1,5 @@
 [
   {
-    "page": "hydrogen-balloon",
-    "gallery": "comp-m3jrhgti3",
-    "viewport": "desktop",
-    "columns": 2,
-    "gap": 10.0,
-    "images": 8
-  },
-  {
-    "page": "hydrogen-balloon",
-    "gallery": "comp-m3jrhgti3",
-    "viewport": "mobile",
-    "columns": 1,
-    "gap": 10.0,
-    "images": 8
-  },
-  {
     "page": "texts",
     "gallery": "comp-lmax6d3q1",
     "viewport": "desktop",
@@ -64,38 +48,6 @@
     "images": 8
   },
   {
-    "page": "the-ninth-marriage",
-    "gallery": "comp-m3jsjkt83",
-    "viewport": "desktop",
-    "columns": 2,
-    "gap": 10.0,
-    "images": 8
-  },
-  {
-    "page": "the-ninth-marriage",
-    "gallery": "comp-m3jsjkt83",
-    "viewport": "mobile",
-    "columns": 1,
-    "gap": 10.0,
-    "images": 8
-  },
-  {
-    "page": "film-pd-art-direction",
-    "gallery": "comp-la1g2du63",
-    "viewport": "desktop",
-    "columns": 3,
-    "gap": 80.0,
-    "images": 5
-  },
-  {
-    "page": "film-pd-art-direction",
-    "gallery": "comp-la1g2du63",
-    "viewport": "mobile",
-    "columns": 1,
-    "gap": 5.0,
-    "images": 5
-  },
-  {
     "page": "random-thoughts",
     "gallery": "comp-lflfqqwc3",
     "viewport": "desktop",
@@ -110,38 +62,6 @@
     "columns": 1,
     "gap": 0,
     "images": 4
-  },
-  {
-    "page": "museum-guard-tutorial",
-    "gallery": "comp-la4m6svn",
-    "viewport": "desktop",
-    "columns": 2,
-    "gap": 10.0,
-    "images": 8
-  },
-  {
-    "page": "museum-guard-tutorial",
-    "gallery": "comp-la4m6svn",
-    "viewport": "mobile",
-    "columns": 1,
-    "gap": 10.0,
-    "images": 8
-  },
-  {
-    "page": "oblivio",
-    "gallery": "comp-m3s4o0zq5",
-    "viewport": "desktop",
-    "columns": 2,
-    "gap": 10.0,
-    "images": 8
-  },
-  {
-    "page": "oblivio",
-    "gallery": "comp-m3s4o0zq5",
-    "viewport": "mobile",
-    "columns": 1,
-    "gap": 10.0,
-    "images": 8
   },
   {
     "page": "maslows-hierarchy-of-needs",
@@ -206,22 +126,6 @@
     "columns": 1,
     "gap": 10.0,
     "images": 3
-  },
-  {
-    "page": "aphasia-describe-the-city-you-live-in",
-    "gallery": "comp-lhpdfcs34",
-    "viewport": "desktop",
-    "columns": 2,
-    "gap": 10.0,
-    "images": 8
-  },
-  {
-    "page": "aphasia-describe-the-city-you-live-in",
-    "gallery": "comp-lhpdfcs34",
-    "viewport": "mobile",
-    "columns": 1,
-    "gap": 10.0,
-    "images": 8
   },
   {
     "page": "song-of-a-lonely-bird",
