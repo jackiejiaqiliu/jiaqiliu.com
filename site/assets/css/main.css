@@ -99,3 +99,107 @@ dialog { border: 0; background: #fff; color: #111; }
   .page-breathe .project-image:nth-child(8) img { aspect-ratio: 320/240; }
   .page-breathe .project-image:nth-child(5) img { aspect-ratio: 320/243; }
 }
+
+/* Additional media projects share the approved shell; measurements stay scoped. */
+.media-project .project { height: var(--project-height); }
+.media-project .project-description a { text-decoration: underline; }
+.media-project .image-gallery { display: grid; grid-template-columns: minmax(0, 1fr); gap: 10px; }
+.media-project .project-image + .project-image { margin-top: 0; }
+.media-project .project-video { aspect-ratio: 1 / 0.555821245; }
+.media-project .project-video iframe { display: block; width: 100%; height: 100%; min-height: 200px; border: 0; }
+.media-project .project-video + .image-gallery { margin-top: 3.156192%; }
+.page-maslows-hierarchy-of-needs { --project-height: max(800px, 57vh); --tablet-copy-height: 361.055718px; --tablet-media-height: 3400.944282px; --mobile-copy-height: 652.305px; --mobile-media-height: 1271px; }
+.page-song-of-a-lonely-bird { --project-height: max(800px, 57vh); --tablet-copy-height: 361.055718px; --tablet-media-height: 3400.944282px; --mobile-copy-height: 562.852px; --mobile-media-height: 1717px; }
+.page-random-thoughts { --project-height: max(800px, 57vh); --tablet-copy-height: 449.807774px; --tablet-media-height: 1800.192226px; --mobile-copy-height: 626.682503px; --mobile-media-height: 911.801497px; }
+.page-ads-named-desire { --project-height: max(800px, 57vh); --tablet-copy-height: 481.43px; --tablet-media-height: 351.555px; --mobile-copy-height: 671.969763px; --mobile-media-height: 565.655237px; }
+.page-aesthetics-under-the-microscope { --project-height: max(759px, 100vh); --tablet-copy-height: 345.5px; --tablet-media-height: 545.125px; --mobile-copy-height: 440.094px; --mobile-media-height: 326px; }
+.page-dear-water { --project-height: max(800px, 57vh); --tablet-copy-height: 380.055px; --tablet-media-height: 904.609px; --mobile-copy-height: 560.359px; --mobile-media-height: 1265.08px; }
+.page-the-clock { --project-height: max(800px, 57vh); --tablet-copy-height: 375.055px; --tablet-media-height: 1600.74px; --mobile-copy-height: 513.672px; --mobile-media-height: 818.07px; }
+.page-song-of-a-lonely-bird-a-re-creation { --project-height: max(391px, 54.305556vh); --tablet-copy-height: 148.25px; --tablet-media-height: 678.742px; --mobile-copy-height: 179.742px; --mobile-media-height: 360.25px; }
+.page-binary-vows { --project-height: max(391px, 54.305556vh); --tablet-copy-height: 152px; --tablet-media-height: 664px; --mobile-copy-height: 170.742px; --mobile-media-height: 369.258px; }
+.page-pointillism { --project-height: max(596.055px, 82.236084vh); --tablet-copy-height: 384.5px; --tablet-media-height: 497.5px; --mobile-copy-height: 486.008px; --mobile-media-height: 195.945px; }
+.page-maslows-hierarchy-of-needs .image-gallery { grid-template-columns: repeat(1, minmax(0, 1fr)); gap: 10.0px; }
+.page-maslows-hierarchy-of-needs .project-image img { aspect-ratio: 1450.0/816.0; }
+.page-song-of-a-lonely-bird .image-gallery { grid-template-columns: repeat(1, minmax(0, 1fr)); gap: 10.0px; }
+.page-song-of-a-lonely-bird .project-image img { aspect-ratio: 1450.0/967.0; }
+.page-random-thoughts .image-gallery { grid-template-columns: repeat(1, minmax(0, 1fr)); gap: 0px; }
+.page-random-thoughts .project-image:nth-child(1) img { aspect-ratio: 1450.0/968.0; }
+.page-random-thoughts .project-image:nth-child(2) img,
+.page-random-thoughts .project-image:nth-child(3) img,
+.page-random-thoughts .project-image:nth-child(4) img { aspect-ratio: 1450.0/651.0; }
+.page-ads-named-desire .image-gallery { grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 10.0px; }
+.page-ads-named-desire .project-image:nth-child(1) img { aspect-ratio: 355.0/540.952380952381; }
+.page-ads-named-desire .project-image:nth-child(2) img { aspect-ratio: 355.0/548.2625482625483; }
+.page-ads-named-desire .project-image:nth-child(3) img,
+.page-ads-named-desire .project-image:nth-child(4) img { aspect-ratio: 355.0/545.1055662188098; }
+.page-aesthetics-under-the-microscope .image-gallery { grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 10.0px; }
+.page-aesthetics-under-the-microscope .project-image:nth-child(1) img,
+.page-aesthetics-under-the-microscope .project-image:nth-child(2) img,
+.page-aesthetics-under-the-microscope .project-image:nth-child(4) img,
+.page-aesthetics-under-the-microscope .project-image:nth-child(5) img,
+.page-aesthetics-under-the-microscope .project-image:nth-child(7) img,
+.page-aesthetics-under-the-microscope .project-image:nth-child(8) img { aspect-ratio: 477.0/476.0; }
+.page-aesthetics-under-the-microscope .project-image:nth-child(3) img,
+.page-aesthetics-under-the-microscope .project-image:nth-child(6) img,
+.page-aesthetics-under-the-microscope .project-image:nth-child(9) img { aspect-ratio: 476.0/476.0; }
+.page-dear-water .image-gallery { grid-template-columns: repeat(1, minmax(0, 1fr)); gap: 10.0px; }
+.page-dear-water .project-image img { aspect-ratio: 1450.0/1088.0; }
+.page-the-clock .image-gallery { grid-template-columns: repeat(1, minmax(0, 1fr)); gap: 10.0px; }
+.page-the-clock .project-image:nth-child(1) img,
+.page-the-clock .project-image:nth-child(2) img { aspect-ratio: 1450.0/816.0; }
+.page-the-clock .project-image:nth-child(3) img { aspect-ratio: 1450.0/815.0; }
+
+.page-ads-named-desire .project-gallery { padding: 0 60px 0 5%; }
+.page-aesthetics-under-the-microscope .project-gallery,
+.page-random-thoughts .project-gallery { padding: 20px 60px 0 5%; }
+.page-song-of-a-lonely-bird-a-re-creation .project-gallery,
+.page-binary-vows .project-gallery,
+.page-pointillism .project-gallery { padding: 20px 60px 0 5%; overflow: visible; }
+.page-song-of-a-lonely-bird-a-re-creation .project-video { aspect-ratio: 1 / 0.565096576; }
+.page-binary-vows .project-video { aspect-ratio: 1 / 0.573797910; }
+.page-pointillism .project-video { aspect-ratio: 1 / 0.618195804; }
+@media (max-width: 1000px) {
+  .media-project .project { height: auto; min-height: calc(var(--tablet-copy-height) + var(--tablet-media-height)); }
+  .media-project .project-copy { min-height: var(--tablet-copy-height); }
+  .media-project .project-gallery { min-height: var(--tablet-media-height); padding: 20px 40px 0; }
+  .media-project .project-video { aspect-ratio: 1 / 0.560901316; }
+  .page-ads-named-desire .project-gallery,
+  .page-aesthetics-under-the-microscope .project-gallery { padding-top: 0; }
+  .page-random-thoughts .project-gallery { padding-top: 6px; }
+  .page-song-of-a-lonely-bird-a-re-creation .project-video,
+  .page-binary-vows .project-video { aspect-ratio: 1 / 0.575164297; }
+  .page-pointillism .project-video { aspect-ratio: 1 / 0.615856290; }
+}
+@media (max-width: 750px) {
+  .media-project .project { min-height: calc(var(--mobile-copy-height) + var(--mobile-media-height)); }
+  .media-project .project-copy { min-height: var(--mobile-copy-height); }
+  .media-project .project-gallery { min-height: var(--mobile-media-height); padding: 0 20px 15px; }
+  .page-song-of-a-lonely-bird-a-re-creation .project-gallery,
+  .page-binary-vows .project-gallery { padding-top: 10px; }
+  .page-song-of-a-lonely-bird-a-re-creation .project-video,
+  .page-binary-vows .project-video { aspect-ratio: 1 / 0.568261984; }
+  .page-pointillism .project-video { aspect-ratio: 1 / 0.596359377; }
+  .page-maslows-hierarchy-of-needs .image-gallery { grid-template-columns: repeat(1, minmax(0, 1fr)); gap: 10.0px; }
+  .page-maslows-hierarchy-of-needs .project-image:nth-child(n) img { aspect-ratio: 320.0/180.0; }
+  .page-song-of-a-lonely-bird .image-gallery { grid-template-columns: repeat(1, minmax(0, 1fr)); gap: 10.0px; }
+  .page-song-of-a-lonely-bird .project-image:nth-child(n) img { aspect-ratio: 320.0/213.0; }
+  .page-random-thoughts .image-gallery { grid-template-columns: repeat(1, minmax(0, 1fr)); gap: 0px; }
+  .page-random-thoughts .project-image:nth-child(1) img { aspect-ratio: 320.0/214.0; }
+  .page-random-thoughts .project-image:nth-child(2) img,
+.page-random-thoughts .project-image:nth-child(3) img,
+.page-random-thoughts .project-image:nth-child(4) img { aspect-ratio: 320.0/144.0; }
+  .page-ads-named-desire .image-gallery { grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 8.0px; }
+  .page-ads-named-desire .project-image:nth-child(1) img { aspect-ratio: 156.0/237.71428571428572; }
+  .page-ads-named-desire .project-image:nth-child(2) img { aspect-ratio: 156.0/240.9266409266409; }
+  .page-ads-named-desire .project-image:nth-child(3) img,
+.page-ads-named-desire .project-image:nth-child(4) img { aspect-ratio: 156.0/239.5393474088292; }
+  .page-aesthetics-under-the-microscope .image-gallery { grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 10.0px; }
+  .page-aesthetics-under-the-microscope .project-image:nth-child(n) img { aspect-ratio: 100.0/100.0; }
+  .page-dear-water .image-gallery { grid-template-columns: repeat(1, minmax(0, 1fr)); gap: 10.0px; }
+  .page-dear-water .project-image:nth-child(n) img { aspect-ratio: 320.0/240.0; }
+  .page-the-clock .image-gallery { grid-template-columns: repeat(1, minmax(0, 1fr)); gap: 10.0px; }
+  .page-the-clock .project-image:nth-child(n) img { aspect-ratio: 320.0/180.0; }
+}
+
+.page-dear-water .project-gallery,
+.page-the-clock .project-gallery { padding: 0 5.208605%; }
