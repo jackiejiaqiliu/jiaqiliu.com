@@ -3,7 +3,7 @@
 const menu = document.querySelector('.mobile-menu');
 const menuTrigger = document.querySelector('.menu-open');
 const lightbox = document.querySelector('.lightbox');
-const viewerImage = lightbox.querySelector('img');
+const viewerImage = lightbox?.querySelector('img');
 const gallery = [...document.querySelectorAll('.project-image')];
 let imageIndex = 0;
 
@@ -40,10 +40,10 @@ gallery.forEach((button, index) => {
     openModal(lightbox, button);
   });
 });
-lightbox.querySelector('.lightbox-close').addEventListener('click', () => lightbox.close());
-lightbox.querySelector('.lightbox-previous').addEventListener('click', () => showImage(imageIndex - 1));
-lightbox.querySelector('.lightbox-next').addEventListener('click', () => showImage(imageIndex + 1));
-lightbox.addEventListener('keydown', event => {
+lightbox?.querySelector('.lightbox-close').addEventListener('click', () => lightbox.close());
+lightbox?.querySelector('.lightbox-previous').addEventListener('click', () => showImage(imageIndex - 1));
+lightbox?.querySelector('.lightbox-next').addEventListener('click', () => showImage(imageIndex + 1));
+lightbox?.addEventListener('keydown', event => {
   if (event.key === 'ArrowLeft' || event.key === 'ArrowRight') {
     event.preventDefault();
     showImage(imageIndex + (event.key === 'ArrowLeft' ? -1 : 1));

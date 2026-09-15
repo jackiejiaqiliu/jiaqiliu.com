@@ -203,3 +203,56 @@ dialog { border: 0; background: #fff; color: #111; }
 
 .page-dear-water .project-gallery,
 .page-the-clock .project-gallery { padding: 0 5.208605%; }
+
+/* Content routes use the shared shell without project-gallery dimensions. */
+@font-face { font-family: "Poppins Semibold"; src: url("../fonts/poppins-semibold.woff2") format("woff2"); font-weight: 400; font-display: swap; }
+@font-face { font-family: "Helvetica Prose"; src: url("../fonts/helvetica-light.woff2") format("woff2"); font-weight: 400; font-display: swap; }
+@font-face { font-family: "Helvetica Prose"; src: url("../fonts/helvetica-light-extended.woff2") format("woff2"); font-weight: 400; font-display: swap; unicode-range: U+0100-012B, U+012E-0137, U+0139-0149, U+014C-0151, U+0154-015F, U+0162-0177, U+0179-017C, U+0218-021B, U+0237, U+02C7, U+02C9, U+02D8-02DB, U+02DD, U+0394, U+03A9, U+03BC, U+03C0, U+2044, U+2113, U+2126, U+212E, U+2202, U+2206, U+220F, U+2211-2212, U+2215, U+2219-221A, U+221E, U+222B, U+2248, U+2260, U+2264-2265, U+25CA, U+E002, U+E004, U+E006, U+E008-E009, U+E00D, U+E00F, U+E011, U+E013, U+E015, U+E017, U+E01A, U+FB01-FB02; }
+.index-heading { min-height: 100px; padding: 30px 60px 0; }
+.card-index { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 80px; align-content: start; min-height: 500px; margin: 0 60px; }
+.index-card { display: block; min-width: 0; }
+.index-card img { display: block; width: 100%; height: auto; aspect-ratio: 4/3; object-fit: cover; }
+.card-title { display: block; padding: 21px 0; }
+.page-home .card-title { font: 700 14px/17px "Avenir Light", sans-serif; }
+.page-texts .card-title { font: 400 22px/1.4 "Poppins Semibold", sans-serif; }
+.page-texts .project-title, .page-writing .project-title { line-height: 1.4; }
+.prose { font: 400 clamp(10px, calc(9.2px + .25vw), 14px)/1.5 "Helvetica Prose", sans-serif; }
+.prose p { margin: 0; }
+.prose a { text-decoration: underline; }
+.profile-page { display: grid; min-height: 483px; }
+.profile-page article { display: grid; grid-template-columns: minmax(0, 1fr); }
+.profile-page .project-title, .profile-page .prose { grid-area: 1 / 1; align-self: start; margin-left: 60px; }
+.profile-page .project-title { width: 40%; margin-top: 30px; }
+.profile-page .prose { width: 60%; margin-top: 90px; }
+.page-statement .profile-page { min-height: 626px; }
+.page-statement .project-title { margin-top: 90px; }
+.page-statement .prose { margin-top: 150px; }
+.writing-content { min-height: 626px; padding-top: 20px; }
+.writing-article { width: 60%; margin-left: 60px; }
+.writing-article .project-details p { margin: 0; }
+@media (max-width: 1000px) {
+  .index-heading { padding: 20px 40px 0; }
+  .card-index { margin: 0 40px; }
+  .prose { font-size: clamp(10px, calc(8.1176px + .58824vw), 14px); }
+  .profile-page, .page-statement .profile-page { min-height: 850px; }
+  .profile-page .project-title, .profile-page .prose { width: auto; margin-left: 40px; margin-right: 40px; }
+  .profile-page .project-title { margin-top: 20px; margin-bottom: 505.453125px; }
+  .profile-page .prose { margin-top: 80px; }
+  .writing-content { min-height: 850px; }
+  .writing-article { width: auto; margin: 0 40px; }
+}
+@media (max-width: 750px) {
+  .index-heading { min-height: 80px; padding: 30px 20px 0; }
+  .card-index { grid-template-columns: minmax(0, 1fr); gap: 5px; min-height: 750px; margin: 0 20px; }
+  .prose { font-size: clamp(12px, calc(10.5116px + .46512vw), 14px); overflow-wrap: break-word; }
+  .profile-page, .page-statement .profile-page { min-height: 200px; }
+  .page-info .profile-page { height: 92.208615vh; }
+  .page-statement .profile-page { height: 76.476815vh; }
+  .profile-page .project-title { margin: 30px 84.391px 610.00025px 20px; }
+  .profile-page .prose { margin: 80px 20px 0; }
+  .page-info .prose { margin-top: 91.1484375px; }
+  .writing-content { min-height: 431px; padding-top: 10px; }
+  .writing-article { margin: 0 20px; }
+  .writing-article .project-details { margin-bottom: 32.9375px; }
+  .page-essay .project-details { font-size: clamp(10px, calc(7.7674px + .69767vw), 13px); }
+}
