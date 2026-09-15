@@ -1,8 +1,2 @@
 .DS_Store
-__pycache__/
-*.py[cod]
-.venv/
-dist/
-.site-build-*/
-work/
-outputs/
+Thumbs.db
