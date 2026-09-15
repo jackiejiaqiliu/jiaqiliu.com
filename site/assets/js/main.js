@@ -24,7 +24,7 @@ menuTrigger.addEventListener('click', () => {
 });
 menu.querySelector('.menu-close').addEventListener('click', () => menu.close());
 menu.addEventListener('close', () => menuTrigger.setAttribute('aria-expanded', 'false'));
-window.matchMedia('(min-width: 1001px)').addEventListener('change', event => {
+window.matchMedia('(min-width: 601px)').addEventListener('change', event => {
   if (event.matches && menu.open) menu.close();
 });
 
@@ -50,3 +50,43 @@ lightbox?.addEventListener('keydown', event => {
   }
 });
 // Escape uses each dialog's native cancel/close behavior, including focus return.
+
+// Only the description sticks; both columns use the document scrollport.
+const projectDetail = document.querySelector('.project-page .project');
+if (projectDetail) {
+  const columns = [...projectDetail.querySelectorAll('.project-copy, .project-gallery')];
+  const header = document.querySelector('.site-header');
+  const pagination = document.querySelector('.project-page > .project-pagination');
+  const desktop = window.matchMedia('(min-width: 1001px)');
+  let pendingLayout = false;
+
+  function updateStickyColumn() {
+    pendingLayout = false;
+    const copy = projectDetail.querySelector('.project-copy');
+    const media = projectDetail.querySelector('.project-gallery');
+    const navigationBottom = header.getBoundingClientRect().height +
+      (pagination ? pagination.getBoundingClientRect().height : 0) +
+      (desktop.matches ? parseFloat(getComputedStyle(projectDetail).marginTop) || 0 : 0);
+    // One top anchor from the start. The grid container's bottom is the only
+    // release boundary; tall descriptions reveal their remaining text as they
+    // leave with the section, without an initial slide into a second anchor.
+    projectDetail.style.setProperty('--project-sticky-top', `${navigationBottom}px`);
+    copy.classList.toggle('sticky-project-column', desktop.matches);
+    media.classList.remove('sticky-project-column');
+  }
+
+  function scheduleStickyColumn() {
+    if (pendingLayout) return;
+    pendingLayout = true;
+    requestAnimationFrame(updateStickyColumn);
+  }
+
+  const columnResize = new ResizeObserver(scheduleStickyColumn);
+  columns.forEach(column => columnResize.observe(column));
+  columnResize.observe(header);
+  if (pagination) columnResize.observe(pagination);
+  window.addEventListener('resize', scheduleStickyColumn, {passive: true});
+  projectDetail.addEventListener('load', scheduleStickyColumn, true);
+  document.fonts.ready.then(scheduleStickyColumn);
+  updateStickyColumn();
+}
