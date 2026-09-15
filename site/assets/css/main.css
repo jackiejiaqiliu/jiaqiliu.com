@@ -390,7 +390,7 @@ body > .site-footer { margin-top: auto; }
   html:not([data-keyboard-navigation]) :focus { outline: none; }
   :focus:not(:focus-visible) { outline: none; }
   .lightbox .lightbox-previous,
-  .lightbox .lightbox-next { background: transparent; }
+  .lightbox .lightbox-next { background: transparent; text-shadow: 1px 0 1px rgb(255 255 255 / 85%); }
 }
 
 /* Mobile controls use the header's dimensions and inset as one geometry. */
