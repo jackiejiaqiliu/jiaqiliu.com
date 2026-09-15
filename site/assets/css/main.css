@@ -261,4 +261,6 @@ dialog { border: 0; background: #fff; color: #111; }
 @media (max-width: 600px) {
   .site-nav { display: none; }
   .menu-open { display: block; }
+  .page-home .card-title { font-family: "Avenir Light", sans-serif; font-weight: 400; }
+  .mobile-menu a { font-weight: 400; }
 }
