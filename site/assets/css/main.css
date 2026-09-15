@@ -390,7 +390,7 @@ body > .site-footer { margin-top: auto; }
   html:not([data-keyboard-navigation]) :focus { outline: none; }
   :focus:not(:focus-visible) { outline: none; }
   .lightbox .lightbox-previous,
-  .lightbox .lightbox-next { background: transparent; color: #808080; }
+  .lightbox .lightbox-next { background: transparent; color: #000; }
   .lightbox .lightbox-close {
     width: var(--mobile-control-size);
     height: var(--mobile-control-size);
