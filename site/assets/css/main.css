@@ -386,9 +386,9 @@ body > .site-footer { margin-top: auto; }
 
 /* Phone touch feedback stays clear; keyboard focus remains visible. */
 @media (max-width: 600px) {
-  a, button { -webkit-tap-highlight-color: transparent; }
-  a:focus:not(:focus-visible),
-  button:focus:not(:focus-visible) { outline: none; }
+  * { -webkit-tap-highlight-color: transparent; }
+  html:not([data-keyboard-navigation]) :focus { outline: none; }
+  :focus:not(:focus-visible) { outline: none; }
   .lightbox .lightbox-previous,
   .lightbox .lightbox-next { background: transparent; }
 }

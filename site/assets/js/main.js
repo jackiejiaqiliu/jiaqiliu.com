@@ -1,5 +1,15 @@
 'use strict';
 
+// Phone pointer/touch focus stays unboxed; keyboard navigation retains outlines.
+document.addEventListener('pointerdown', () => {
+  document.documentElement.removeAttribute('data-keyboard-navigation');
+}, {capture: true, passive: true});
+document.addEventListener('keydown', event => {
+  if (event.key === 'Tab' || event.key.startsWith('Arrow')) {
+    document.documentElement.setAttribute('data-keyboard-navigation', '');
+  }
+}, true);
+
 const menu = document.querySelector('.mobile-menu');
 const menuTrigger = document.querySelector('.menu-open');
 const lightbox = document.querySelector('.lightbox');
